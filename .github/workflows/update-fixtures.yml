@@ -1,0 +1,34 @@
+name: Update fixtures
+
+on:
+  schedule:
+    - cron: '0 6,18 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Poetry
+        run: |
+          pipx install poetry
+      - name: Install deps
+        run: |
+          poetry install --no-root
+      - name: Run pipeline (fetch + build)
+        env:
+          GMS_BASE_URL: ${{ secrets.GMS_BASE_URL }}
+          GMS_API_KEY: ${{ secrets.GMS_API_KEY }}
+          CLUBZAP_JWT: ${{ secrets.CLUBZAP_JWT }}
+        run: |
+          poetry run python -m backend all
+      - name: Commit data files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): update fixtures/results"
+          file_pattern: public/data/*.json
+
