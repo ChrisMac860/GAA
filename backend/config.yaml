@@ -35,10 +35,16 @@ scraper:
     - "https://ulster.gaa.ie/fixtures-results/"
     - "https://connachtgaa.ie/fixtures-results/"
     - "https://munster.gaa.ie/fixtures-results/"
-    # Add Leinster if needed: https://leinstergaa.ie/fixtures-results/
+    - "https://leinstergaa.ie/fixtures-results/"
 
 # Allow widening the fixtures window for scrapers (provinces) if needed
 scraper_days_forward: 42
 results_days_back: 60
 results_fallback_days: 365
 preserve_on_empty: false
+
+# Optional headless rendering fallback (Playwright)
+headless:
+  enable: false
+  wait_selector: "li.fixture-result, .tribe-events, #fixtures, .data_data"
+  timeout_ms: 15000

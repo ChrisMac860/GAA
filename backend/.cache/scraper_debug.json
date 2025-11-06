@@ -1,23 +1,61 @@
-[
-  {
-    "url": "https://ulster.gaa.ie/fixtures-results/",
-    "rows_seen": 136,
-    "tribe_added": 0,
-    "fixtures_total": 64,
-    "wp_routes_hint": null
-  },
-  {
-    "url": "https://connachtgaa.ie/fixtures-results/",
-    "rows_seen": 170,
-    "tribe_added": 0,
-    "fixtures_total": 110,
-    "wp_routes_hint": null
-  },
-  {
-    "url": "https://munster.gaa.ie/fixtures-results/",
-    "rows_seen": 290,
-    "tribe_added": 0,
-    "fixtures_total": 212,
-    "wp_routes_hint": null
+{
+  "pages": [
+    {
+      "url": "https://ulster.gaa.ie/fixtures-results/",
+      "rows_seen": 68,
+      "tribe_added": 0,
+      "ajax_added": 0,
+      "fixtures_total": 32,
+      "wp_routes_hint": null
+    },
+    {
+      "url": "https://connachtgaa.ie/fixtures-results/",
+      "rows_seen": 109,
+      "tribe_added": 0,
+      "ajax_added": 24,
+      "fixtures_total": 65,
+      "wp_routes_hint": null
+    },
+    {
+      "url": "https://munster.gaa.ie/fixtures-results/",
+      "rows_seen": 145,
+      "tribe_added": 0,
+      "ajax_added": 0,
+      "fixtures_total": 116,
+      "wp_routes_hint": null
+    },
+    {
+      "url": "https://leinstergaa.ie/fixtures-results/",
+      "rows_seen": 0,
+      "tribe_added": 0,
+      "ajax_added": 0,
+      "fixtures_total": 116,
+      "wp_routes_hint": [
+        "/tribe/event-aggregator/v1",
+        "/tribe/event-aggregator/v1/import/(?P<import_id>\\w+)/batch",
+        "/tribe/event-aggregator/v1/import/(?P<import_id>\\w+)/state",
+        "/tribe/events/v1",
+        "/tribe/events/v1/doc",
+        "/tribe/events/v1/events",
+        "/tribe/events/v1/events/(?P<id>\\d+)",
+        "/tribe/events/v1/events/by-slug/(?P<slug>[^/]+)",
+        "/tribe/events/v1/venues",
+        "/tribe/events/v1/venues/(?P<id>\\d+)",
+        "/tribe/events/v1/venues/by-slug/(?P<slug>[^/]+)",
+        "/tribe/events/v1/organizers",
+        "/tribe/events/v1/organizers/(?P<id>\\d+)",
+        "/tribe/events/v1/organizers/by-slug/(?P<slug>[^/]+)",
+        "/tribe/events/v1/categories",
+        "/tribe/events/v1/categories/(?P<id>\\d+)",
+        "/tribe/events/v1/tags",
+        "/tribe/events/v1/tags/(?P<id>\\d+)",
+        "/tribe/views/v2",
+        "/tribe/views/v2/html"
+      ]
+    }
+  ],
+  "counts": {
+    "raw": 116,
+    "deduped": 116
   }
-]
+}

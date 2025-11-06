@@ -10,7 +10,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -24,7 +24,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -38,7 +38,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -52,7 +52,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -66,7 +66,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -80,7 +80,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -94,7 +94,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -108,7 +108,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -122,7 +122,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -136,455 +136,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1500-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-3-carrickmacross-e-naomh-columba",
-    "date": "2025-04-27",
-    "time": "15:00",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 3",
-    "home": "Carrickmacross Emmets GFC",
-    "away": "Naomh Columba",
-    "venue": "Grattan Park, Inniskeen",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1530-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-1-clg-cuchulainn-irvinestown-st-m",
-    "date": "2025-04-27",
-    "time": "15:30",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 1",
-    "home": "CLG Cuchulainn",
-    "away": "Irvinestown St Molaise",
-    "venue": "Kingspan Breffni, Cavan",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1700-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-2-clonoe-orahillys-saval",
-    "date": "2025-04-27",
-    "time": "17:00",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 2",
-    "home": "Clonoe O`Rahilly's CLG",
-    "away": "Saval",
-    "venue": "O'Neills Healy Park, Omagh",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1730-2025-ulster-gaa-football-senior-club-championship-quarter-final-1-kingscourt-stars-erne-gaels-belle",
-    "date": "2025-04-27",
-    "time": "17:30",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 1",
-    "home": "Kingscourt Stars",
-    "away": "Erne Gaels Belleek",
-    "venue": "Kingspan Breffni, Cavan",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1915-2025-ulster-gaa-football-senior-club-championship-quarter-final-2-loughmacrory-st--kilcoo",
-    "date": "2025-04-27",
-    "time": "19:15",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 2",
-    "home": "Loughmacrory St. Teresa's",
-    "away": "Kilcoo",
-    "venue": "O'Neills Healy Park, Omagh",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1315-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-4-sarsfields-glenullin",
-    "date": "2025-04-27",
-    "time": "13:15",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 4",
-    "home": "Sarsfields",
-    "away": "Glenullin",
-    "venue": "BOX-IT Athletic Grounds, Armagh",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1330-2025-ulster-gaa-football-senior-club-championship-quarter-final-3-scotstown-naomh-conaill",
-    "date": "2025-04-27",
-    "time": "13:30",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 3",
-    "home": "Scotstown",
-    "away": "Naomh Conaill",
-    "venue": "St. Tiernach's Park, Clones",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1530-2025-ulster-gaa-football-senior-club-championship-quarter-final-4-madden-sean-oleary-gac-",
-    "date": "2025-04-27",
-    "time": "15:30",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 4",
-    "home": "Madden",
-    "away": "Sean O'Leary GAC Newbridge",
-    "venue": "BOX-IT Athletic Grounds, Armagh",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1330-2025-ulster-gaa-football-junior-club-championship-semi-final-1-clogher-eire-og-st-patricks-dona",
-    "date": "2025-04-27",
-    "time": "13:30",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Semi Final 1",
-    "home": "Clogher Eire \u00d3g",
-    "away": "St Patrick's Donagh",
-    "venue": "St. Tiernach's Park, Clones",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1330-2025-ulster-gaa-football-junior-club-championship-semi-final-2-emyvale-munterconnaught",
-    "date": "2025-04-27",
-    "time": "13:30",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Semi Final 2",
-    "home": "Emyvale",
-    "away": "Munterconnaught",
-    "venue": "Shamrock Park, Roslea",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-4-clonmore-robert--munterconnaught",
-    "date": "2025-04-27",
-    "time": "13:30",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 4",
-    "home": "Clonmore Robert Emmets",
-    "away": "Munterconnaught",
-    "venue": "BOX-IT Athletic Grounds, Armagh",
-    "status": "FT",
-    "score": "2-15 \u2013 1-19",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-3-emyvale-clg-carndomhnaig",
-    "date": "2025-04-27",
-    "time": "13:30",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 3",
-    "home": "Emyvale",
-    "away": "CLG Carndomhnaigh",
-    "venue": "St. Tiernach's Park, Clones",
-    "status": "FT",
-    "score": "1-16 \u2013 2-12",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1530-2025-ulster-gaa-football-junior-club-championship-quarter-final-2-st-marys-slaught-clogher-eire-og",
-    "date": "2025-04-27",
-    "time": "15:30",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 2",
-    "home": "St Marys Slaughtmanus GAC",
-    "away": "Clogher Eire \u00d3g",
-    "venue": "Owenbeg",
-    "status": "FT",
-    "score": "2-8 \u2013 5-15",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-1-st-patricks-dona-naomh-una-clgst-",
-    "date": "2025-04-27",
-    "time": "13:30",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 1",
-    "home": "St Patrick's Donagh",
-    "away": "Naomh \u00dana CLG/St Agnes' GAC",
-    "venue": "Brewster Park, Enniskillen",
-    "status": "FT",
-    "score": "2-11 \u2013 1-7",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1600-2025-ulster-gaa-football-intermediate-club-championship-first-round-glenullin-naomh-eargnait-m",
-    "date": "2025-04-27",
-    "time": "16:00",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship First Round",
-    "home": "Glenullin",
-    "away": "Naomh Eargnait, Muine Gl\u00e1s",
-    "venue": "Owenbeg",
-    "status": "FT",
-    "score": "2-17 \u2013 0-6",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1800-2025-ulster-gaa-football-senior-club-championship-first-round-sean-oleary-gac--cuchullains-dun-",
-    "date": "2025-04-27",
-    "time": "18:00",
-    "competition": "2025 Ulster GAA Football Senior Club Championship First Round",
-    "home": "Sean O'Leary GAC Newbridge",
-    "away": "Cuchullains Dun Latha\u00ed",
-    "venue": "Owenbeg",
-    "status": "FT",
-    "score": "1-14 \u2013 0-11",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1500-2025-ulster-gaa-football-junior-club-championship-first-round-munterconnaught-ardglass",
-    "date": "2025-04-27",
-    "time": "15:00",
-    "competition": "2025 Ulster GAA Football Junior Club Championship First Round",
-    "home": "Munterconnaught",
-    "away": "Ardglass",
-    "venue": "Kingspan Breffni, Cavan",
-    "status": "FT",
-    "score": "6-19 \u2013 1-10",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1230-division-3-final-stfinbarrs-craobh-rua",
-    "date": "2025-04-27",
-    "time": "12:30",
-    "competition": "Division 3 Final",
-    "home": "St.Finbarrs",
-    "away": "Craobh Rua",
-    "venue": "Ogra Colmcille",
-    "status": "FT",
-    "score": "9-8 \u2013 1-10",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1100-division-2-final-naomh-colum-cill-lisbellaw-st-pat",
-    "date": "2025-04-27",
-    "time": "11:00",
-    "competition": "Division 2 Final",
-    "home": "Naomh Colum Cille",
-    "away": "Lisbellaw St Patrick's",
-    "venue": "Garvaghey",
-    "status": "FT",
-    "score": "3-10 \u2013 1-14",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1200-division-1-final-swatragh-dungannon-eoghan",
-    "date": "2025-04-27",
-    "time": "12:00",
-    "competition": "Division 1 Final",
-    "home": "Swatragh",
-    "away": "Dungannon Eoghan Ruadh /D\u00fan Geanainn Eoghain Ruadh",
-    "venue": "MUSA",
-    "status": "FT",
-    "score": "1-19 \u2013 0-16",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1945-division-1-semi-final-gaeil-triucha-cl-dungannon-eoghan",
-    "date": "2025-04-27",
-    "time": "19:45",
-    "competition": "Division 1 Semi-Final",
-    "home": "Gaeil Triucha Clg",
-    "away": "Dungannon Eoghan Ruadh /D\u00fan Geanainn Eoghain Ruadh",
-    "venue": "Truagh",
-    "status": "FT",
-    "score": "0-9 \u2013 4-11",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1100-division-2-semi-final-naomh-colum-cill-four-masters",
-    "date": "2025-04-27",
-    "time": "11:00",
-    "competition": "Division 2 Semi-Final",
-    "home": "Naomh Colum Cille",
-    "away": "Four Masters",
-    "venue": "Garvaghey",
-    "status": "FT",
-    "score": "8-18 \u2013 1-9",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1200-division-2-semi-final-lisbellaw-st-pat-letterkenny-gael",
-    "date": "2025-04-27",
-    "time": "12:00",
-    "competition": "Division 2 Semi-Final",
-    "home": "Lisbellaw St Patrick's",
-    "away": "Letterkenny Gaels",
-    "venue": "Four Masters",
-    "status": "FT",
-    "score": "0-0 \u2013 CON",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1200-division-3-semi-final-craobh-rua-burt",
-    "date": "2025-04-27",
-    "time": "12:00",
-    "competition": "Division 3 Semi-Final",
-    "home": "Craobh Rua",
-    "away": "Burt",
-    "venue": "Eoghan Ruadh Hurling Club",
-    "status": "FT",
-    "score": "0-0 \u2013 0-0",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1200-division-1-semi-final-swatragh-omagh-st-endas",
-    "date": "2025-04-27",
-    "time": "12:00",
-    "competition": "Division 1 Semi-Final",
-    "home": "Swatragh",
-    "away": "Omagh St Enda's",
-    "venue": "Pairc Chloch\u00f3g",
-    "status": "FT",
-    "score": "4-10 \u2013 0-13",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1600-division-3-semi-final-stfinbarrs-erne-gaels-belle",
-    "date": "2025-04-27",
-    "time": "16:00",
-    "competition": "Division 3 Semi-Final",
-    "home": "St.Finbarrs",
-    "away": "Erne Gaels Belleek",
-    "venue": "Setanta",
-    "status": "FT",
-    "score": "2-16 \u2013 0-11",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1930-division-2-quarter-finals-belnaleck-art-mc-lisbellaw-st-pat",
-    "date": "2025-04-27",
-    "time": "19:30",
-    "competition": "Division 2 Quarter Finals",
-    "home": "Belnaleck Art McMurroughs",
-    "away": "Lisbellaw St Patrick's",
-    "venue": "Belnaleck GAA Grounds",
-    "status": "FT",
-    "score": "1-11 \u2013 3-16",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1630-division-1-quarter-finals-aodh-ruadh-bally-gaeil-triucha-cl",
-    "date": "2025-04-27",
-    "time": "16:30",
-    "competition": "Division 1 Quarter Finals",
-    "home": "Aodh Ruadh Ballyshannon",
-    "away": "Gaeil Triucha Clg",
-    "venue": "Lisbellaw",
-    "status": "FT",
-    "score": "1-14 \u2013 6-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1200-division-2-quarter-finals-letterkenny-gael-east-cavan-gaels",
-    "date": "2025-04-27",
-    "time": "12:00",
-    "competition": "Division 2 Quarter Finals",
-    "home": "Letterkenny Gaels",
-    "away": "East Cavan Gaels",
-    "venue": "Letterkenny Gaels",
-    "status": "FT",
-    "score": "0-0 \u2013 CON",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1200-division-3-quarter-finals-erne-gaels-belle-st-malachys",
-    "date": "2025-04-27",
-    "time": "12:00",
-    "competition": "Division 3 Quarter Finals",
-    "home": "Erne Gaels Belleek",
-    "away": "St Malachy's",
-    "venue": "P\u00e1irc na hEirne, Belleek",
-    "status": "FT",
-    "score": "0-0 \u2013 CON",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1200-division-1-quarter-finals-dungannon-eoghan-na-magha",
-    "date": "2025-04-27",
-    "time": "12:00",
-    "competition": "Division 1 Quarter Finals",
-    "home": "Dungannon Eoghan Ruadh /D\u00fan Geanainn Eoghain Ruadh",
-    "away": "Na Magha",
-    "venue": "Eoghan Ruadh Hurling Club",
-    "status": "FT",
-    "score": "5-15 \u2013 3-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsulstergaaiefixtures-results-20250427-1730-division-3-quarter-finals-stfinbarrs-knocks-grattans",
-    "date": "2025-04-27",
-    "time": "17:30",
-    "competition": "Division 3 Quarter Finals",
-    "home": "St.Finbarrs",
-    "away": "Knocks Grattans",
-    "venue": "Ogra Colmcille",
-    "status": "FT",
-    "score": "0-0 \u2013 CON",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -598,7 +150,7 @@
     "status": "FT",
     "score": "2-15 \u2013 1-19",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -612,7 +164,7 @@
     "status": "FT",
     "score": "1-16 \u2013 2-12",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -626,7 +178,7 @@
     "status": "FT",
     "score": "2-8 \u2013 5-15",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -640,7 +192,7 @@
     "status": "FT",
     "score": "2-11 \u2013 1-7",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -654,7 +206,7 @@
     "status": "FT",
     "score": "2-17 \u2013 0-6",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -668,7 +220,7 @@
     "status": "FT",
     "score": "1-14 \u2013 0-11",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -682,7 +234,7 @@
     "status": "FT",
     "score": "6-19 \u2013 1-10",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -696,7 +248,7 @@
     "status": "FT",
     "score": "9-8 \u2013 1-10",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -710,7 +262,7 @@
     "status": "FT",
     "score": "3-10 \u2013 1-14",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -724,7 +276,7 @@
     "status": "FT",
     "score": "1-19 \u2013 0-16",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -738,7 +290,7 @@
     "status": "FT",
     "score": "0-9 \u2013 4-11",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -752,7 +304,7 @@
     "status": "FT",
     "score": "8-18 \u2013 1-9",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -766,7 +318,7 @@
     "status": "FT",
     "score": "0-0 \u2013 CON",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -780,7 +332,7 @@
     "status": "FT",
     "score": "0-0 \u2013 0-0",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -794,7 +346,7 @@
     "status": "FT",
     "score": "4-10 \u2013 0-13",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -808,7 +360,7 @@
     "status": "FT",
     "score": "2-16 \u2013 0-11",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -822,7 +374,7 @@
     "status": "FT",
     "score": "1-11 \u2013 3-16",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -836,7 +388,7 @@
     "status": "FT",
     "score": "1-14 \u2013 6-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -850,7 +402,7 @@
     "status": "FT",
     "score": "0-0 \u2013 CON",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -864,7 +416,7 @@
     "status": "FT",
     "score": "0-0 \u2013 CON",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -878,7 +430,7 @@
     "status": "FT",
     "score": "5-15 \u2013 3-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
     "search_index": null
   },
   {
@@ -892,7 +444,147 @@
     "status": "FT",
     "score": "0-0 \u2013 CON",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:34Z",
+    "updated_at": "2025-11-06T04:06:00Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1830-club-senior-football-championship-2025-knockout-quarter-final-2-ballina-stepheni-north-london-sha",
+    "date": "2025-11-17",
+    "time": "18:30",
+    "competition": "Club Senior Football Championship 2025- Knockout Quarter Final 2",
+    "home": "Ballina Stephenites",
+    "away": "North London Shamrocks",
+    "venue": "Connacht GAA Centre",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1330-club-intermediate-football-championship-2025-quarter-final-kilmeena-caltra",
+    "date": "2025-11-17",
+    "time": "13:30",
+    "competition": "Club Intermediate Football Championship 2025 Quarter Final",
+    "home": "Kilmeena",
+    "away": "Caltra",
+    "venue": "Tuam Stadium",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1330-club-junior-football-championship-2025-quarter-final-st-croans-cloonacool",
+    "date": "2025-11-17",
+    "time": "13:30",
+    "competition": "Club Junior Football Championship 2025 Quarter Final",
+    "home": "St. Croans",
+    "away": "Cloonacool",
+    "venue": "King & Moffatt Dr Hyde Park, Roscommon",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1330-club-senior-football-championship-2025-knockout-quarter-final-1-maigh-cuilinn-shamrock-gaelsga",
+    "date": "2025-11-17",
+    "time": "13:30",
+    "competition": "Club Senior Football Championship 2025- Knockout Quarter Final 1",
+    "home": "Maigh Cuilinn",
+    "away": "Shamrock Gaels/Gaeil na Seamr\u00f3ige",
+    "venue": "Kilcoyne Park",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1230-connacht-gaa-pps-junior-c-football-competition-202526-knockout-semi-final-1-winner-of-quarte-winner-of-quarte",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "competition": "Connacht GAA PPS Junior C Football Competition 2025/26- Knockout Semi-Final 1",
+    "home": "Winner of Quarter Final 2",
+    "away": "Winner of Quarter Final 1",
+    "venue": "TBC",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1230-connacht-gaa-pps-junior-b-football-competition-202526-knockout-semi-final-1-top-team-group-2-winner-of-quarte",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "competition": "Connacht GAA PPS Junior B Football Competition 2025/26- Knockout Semi-Final 1",
+    "home": "Top Team Group 2",
+    "away": "Winner of Quarter Final 2",
+    "venue": "TBC",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1230-connacht-gaa-pps-junior-e-football-competitions-202526-knockout-semi-final-1-winner-of-quarte-winner-of-quarte",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "competition": "Connacht GAA PPS Junior E Football Competitions 2025/26- Knockout Semi-Final 1",
+    "home": "Winner of Quarter Final 1",
+    "away": "Winner of Quarter Final 2",
+    "venue": "TBC",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1230-junior-c1-football-championship-202526-knockout-semi-final-1-top-team-group-1-runner-up-group-",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "competition": "Junior C1 Football Championship 2025/26- Knockout Semi-Final 1",
+    "home": "Top Team Group 1",
+    "away": "Runner Up Group 2",
+    "venue": "TBC",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1230-connacht-gaa-pps-junior-b-football-competition-202526-knockout-semi-final-2-top-team-group-3-winner-of-quarte",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "competition": "Connacht GAA PPS Junior B Football Competition 2025/26- Knockout Semi-Final 2",
+    "home": "Top Team Group 3",
+    "away": "Winner of Quarter Final 1",
+    "venue": "TBC",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
+    "search_index": null
+  },
+  {
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251117-1230-junior-c1-football-championship-202526-knockout-semi-final-2-top-team-group-2-runner-up-group-",
+    "date": "2025-11-17",
+    "time": "12:30",
+    "competition": "Junior C1 Football Championship 2025/26- Knockout Semi-Final 2",
+    "home": "Top Team Group 2",
+    "away": "Runner Up Group 1",
+    "venue": "TBC",
+    "status": "scheduled",
+    "score": "",
+    "source": "scraper",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -906,7 +598,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -920,7 +612,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -934,7 +626,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -948,7 +640,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -962,7 +654,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -976,7 +668,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -990,7 +682,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1004,7 +696,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1018,7 +710,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1032,7 +724,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1046,7 +738,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1060,7 +752,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1074,7 +766,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1088,7 +780,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1102,7 +794,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1116,7 +808,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1130,329 +822,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1830-club-senior-football-championship-2025-knockout-quarter-final-2-ballina-stepheni-north-london-sha",
-    "date": "2025-03-12",
-    "time": "18:30",
-    "competition": "Club Senior Football Championship 2025- Knockout Quarter Final 2",
-    "home": "Ballina Stephenites",
-    "away": "North London Shamrocks",
-    "venue": "Connacht GAA Centre",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1330-club-senior-football-championship-2025-knockout-quarter-final-1-maigh-cuilinn-shamrock-gaelsga",
-    "date": "2025-03-12",
-    "time": "13:30",
-    "competition": "Club Senior Football Championship 2025- Knockout Quarter Final 1",
-    "home": "Maigh Cuilinn",
-    "away": "Shamrock Gaels/Gaeil na Seamr\u00f3ige",
-    "venue": "Kilcoyne Park",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1330-club-intermediate-football-championship-2025-quarter-final-kilmeena-caltra",
-    "date": "2025-03-12",
-    "time": "13:30",
-    "competition": "Club Intermediate Football Championship 2025 Quarter Final",
-    "home": "Kilmeena",
-    "away": "Caltra",
-    "venue": "Tuam Stadium",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1330-club-junior-football-championship-2025-quarter-final-st-croans-cloonacool",
-    "date": "2025-03-12",
-    "time": "13:30",
-    "competition": "Club Junior Football Championship 2025 Quarter Final",
-    "home": "St. Croans",
-    "away": "Cloonacool",
-    "venue": "King & Moffatt Dr Hyde Park, Roscommon",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-junior-c1-football-championship-202526-knockout-semi-final-2-top-team-group-2-runner-up-group-",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Junior C1 Football Championship 2025/26- Knockout Semi-Final 2",
-    "home": "Top Team Group 2",
-    "away": "Runner Up Group 1",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-junior-c1-football-championship-202526-knockout-semi-final-1-top-team-group-1-runner-up-group-",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Junior C1 Football Championship 2025/26- Knockout Semi-Final 1",
-    "home": "Top Team Group 1",
-    "away": "Runner Up Group 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-b-football-competition-202526-knockout-semi-final-2-top-team-group-3-winner-of-quarte",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior B Football Competition 2025/26- Knockout Semi-Final 2",
-    "home": "Top Team Group 3",
-    "away": "Winner of Quarter Final 1",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-b-football-competition-202526-knockout-semi-final-1-top-team-group-2-winner-of-quarte",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior B Football Competition 2025/26- Knockout Semi-Final 1",
-    "home": "Top Team Group 2",
-    "away": "Winner of Quarter Final 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-c-football-competition-202526-knockout-semi-final-1-winner-of-quarte-winner-of-quarte",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior C Football Competition 2025/26- Knockout Semi-Final 1",
-    "home": "Winner of Quarter Final 2",
-    "away": "Winner of Quarter Final 1",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-e-football-competitions-202526-knockout-semi-final-1-winner-of-quarte-winner-of-quarte",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior E Football Competitions 2025/26- Knockout Semi-Final 1",
-    "home": "Winner of Quarter Final 1",
-    "away": "Winner of Quarter Final 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-pps-senior-a-football-championship-202526-group-2-round-2-sligo-leitrim",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "PPS Senior A Football Championship 2025/26- Group 2 Round 2",
-    "home": "Sligo",
-    "away": "Leitrim",
-    "venue": "Markievicz Park, Sligo",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-a-football-competition-202526-knockout-final-winner-of-semi-f-winner-of-semi-f",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior A Football Competition 2025/26- Knockout Final",
-    "home": "Winner of Semi-Final 1",
-    "away": "Winner of Semi-Final 1",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-junior-c1-football-championship-202526-knockout-final-winner-of-semi-f-winner-of-semi-f",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Junior C1 Football Championship 2025/26- Knockout Final",
-    "home": "Winner of Semi-Final 1",
-    "away": "Winner of Semi-Final 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-d-football-competitions-202526-knockout-final-winner-of-semi-f-winner-of-semi-f",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior D Football Competitions 2025/26- Knockout Final",
-    "home": "Winner of Semi-Final 1",
-    "away": "Winner of Semi-Final 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-e-football-competitions-202526-knockout-final-winner-of-semi-f-winner-of-semi-f",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior E Football Competitions 2025/26- Knockout Final",
-    "home": "Winner of Semi-Final 1",
-    "away": "Winner of Semi-Final 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-c-football-competition-202526-knockout-final-winner-of-semi-f-winner-of-semi-f",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior C Football Competition 2025/26- Knockout Final",
-    "home": "Winner of Semi-Final 1",
-    "away": "Winner of Semi-Final 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1230-connacht-gaa-pps-junior-b-football-competition-202526-knockout-final-winner-of-semi-f-winner-of-semi-f",
-    "date": "2025-03-12",
-    "time": "12:30",
-    "competition": "Connacht GAA PPS Junior B Football Competition 2025/26- Knockout Final",
-    "home": "Winner of Semi-Final 1",
-    "away": "Winner of Semi-Final 2",
-    "venue": "TBC",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1600-connacht-gaa-football-senior-championship-final-mayo-galway",
-    "date": "2025-03-12",
-    "time": "16:00",
-    "competition": "Connacht GAA Football Senior Championship Final",
-    "home": "Mayo",
-    "away": "Galway",
-    "venue": "Hastings Insurance MacHale Park, Castlebar",
-    "status": "FT",
-    "score": "1-15 \u2013 1-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1600-connacht-gaa-football-senior-championship-semi-final-galway-roscommon",
-    "date": "2025-03-12",
-    "time": "16:00",
-    "competition": "Connacht GAA Football Senior Championship Semi-Final",
-    "home": "Galway",
-    "away": "Roscommon",
-    "venue": "Pearse Stadium",
-    "status": "FT",
-    "score": "1-24 \u2013 0-18",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1630-connacht-gaa-football-senior-championship-semi-final-leitrim-mayo",
-    "date": "2025-03-12",
-    "time": "16:30",
-    "competition": "Connacht GAA Football Senior Championship Semi-Final",
-    "home": "Leitrim",
-    "away": "Mayo",
-    "venue": "Heartland Credit Union P\u00e1irc Se\u00e1n MacDiarmada",
-    "status": "FT",
-    "score": "0-13 \u2013 0-20",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1530-connacht-gaa-football-senior-championship-quarter-final-mayo-sligo",
-    "date": "2025-03-12",
-    "time": "15:30",
-    "competition": "Connacht GAA Football Senior Championship Quarter-Final",
-    "home": "Mayo",
-    "away": "Sligo",
-    "venue": "Hastings Insurance MacHale Park, Castlebar",
-    "status": "FT",
-    "score": "2-20 \u2013 2-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-2000-connacht-gaa-football-senior-championship-quarter-final-new-york-galway",
-    "date": "2025-03-12",
-    "time": "20:00",
-    "competition": "Connacht GAA Football Senior Championship Quarter-Final",
-    "home": "New York",
-    "away": "Galway",
-    "venue": "Gaelic Park, New York",
-    "status": "FT",
-    "score": "0-20 \u2013 3-28",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsconnachtgaaiefixtures-results-20250312-1430-connacht-gaa-football-senior-championship-quarter-final-london-roscommon",
-    "date": "2025-03-12",
-    "time": "14:30",
-    "competition": "Connacht GAA Football Senior Championship Quarter-Final",
-    "home": "London",
-    "away": "Roscommon",
-    "venue": "McGovern Park, Ruislip",
-    "status": "FT",
-    "score": "0-13 \u2013 2-26",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1466,7 +836,7 @@
     "status": "FT",
     "score": "1-15 \u2013 1-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1480,7 +850,7 @@
     "status": "FT",
     "score": "1-24 \u2013 0-18",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1494,7 +864,7 @@
     "status": "FT",
     "score": "0-13 \u2013 0-20",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1508,7 +878,7 @@
     "status": "FT",
     "score": "2-20 \u2013 2-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1522,7 +892,7 @@
     "status": "FT",
     "score": "0-20 \u2013 3-28",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1536,7 +906,7 @@
     "status": "FT",
     "score": "0-13 \u2013 2-26",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:08Z",
     "search_index": null
   },
   {
@@ -1550,7 +920,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -1564,7 +934,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -1578,7 +948,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -1592,7 +962,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -1606,721 +976,7 @@
     "status": "scheduled",
     "score": "",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1330-munster-jfc-club-championship-quarter-final-shamrocks-buttevant",
-    "date": "2019-07-23",
-    "time": "13:30",
-    "competition": "Munster JFC Club Championship Quarter Final",
-    "home": "Shamrocks",
-    "away": "Buttevant",
-    "venue": "Cappoquin Logistics Fraher Field, Dungarvan",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1430-munster-jfc-club-championship-quarter-final-killimer-clonmel-og",
-    "date": "2019-07-23",
-    "time": "14:30",
-    "competition": "Munster JFC Club Championship Quarter Final",
-    "home": "Killimer",
-    "away": "Clonmel \u00d3g",
-    "venue": "Kilmihil GAA",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1330-munster-sfc-club-championship-quarter-final-eire-og-ennis-rathgormack",
-    "date": "2019-07-23",
-    "time": "13:30",
-    "competition": "Munster SFC Club Championship Quarter Final",
-    "home": "\u00c9ire \u00d3g Ennis",
-    "away": "Rathgormack",
-    "venue": "Zimmer Biomet P\u00e1irc Ch\u00edos\u00f3g, Ennis",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1330-munster-ifc-club-championship-quarter-final-thurles-sarsfiel-aghabullogue",
-    "date": "2019-07-23",
-    "time": "13:30",
-    "competition": "Munster IFC Club Championship Quarter Final",
-    "home": "Thurles Sarsfields",
-    "away": "Aghabullogue",
-    "venue": "Templetuohy",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1330-munster-ifc-club-championship-quarter-final-corofin-stradbally",
-    "date": "2019-07-23",
-    "time": "13:30",
-    "competition": "Munster IFC Club Championship Quarter Final",
-    "home": "Corofin",
-    "away": "Stradbally",
-    "venue": "Corofin",
-    "status": "scheduled",
-    "score": "",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1345-munster-gaa-football-senior-championship-final-kerry-clare",
-    "date": "2019-07-23",
-    "time": "13:45",
-    "competition": "Munster GAA Football Senior Championship Final",
-    "home": "Kerry",
-    "away": "Clare",
-    "venue": "Fitzgerald Stadium",
-    "status": "FT",
-    "score": "4-20 \u2013 0-21",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-munster-gaa-football-senior-championship-semi-final-clare-tipperary",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Munster GAA Football Senior Championship Semi-Final",
-    "home": "Clare",
-    "away": "Tipperary",
-    "venue": "Zimmer Biomet P\u00e1irc Ch\u00edos\u00f3g, Ennis",
-    "status": "FT",
-    "score": "2-18 \u2013 1-15",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1900-munster-gaa-football-senior-championship-semi-final-cork-kerry",
-    "date": "2019-07-23",
-    "time": "19:00",
-    "competition": "Munster GAA Football Senior Championship Semi-Final",
-    "home": "Cork",
-    "away": "Kerry",
-    "venue": "SuperValu P\u00e1irc U\u00ed Chaoimh, Cork",
-    "status": "FT",
-    "score": "1-25 \u2013 3-21",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1800-munster-gaa-football-senior-championship-quarter-final-limerick-cork",
-    "date": "2019-07-23",
-    "time": "18:00",
-    "competition": "Munster GAA Football Senior Championship Quarter-Final",
-    "home": "Limerick",
-    "away": "Cork",
-    "venue": "TUS Gaelic Grounds",
-    "status": "FT",
-    "score": "0-13 \u2013 0-24",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1800-munster-gaa-football-senior-championship-quarter-final-tipperary-waterford",
-    "date": "2019-07-23",
-    "time": "18:00",
-    "competition": "Munster GAA Football Senior Championship Quarter-Final",
-    "home": "Tipperary",
-    "away": "Waterford",
-    "venue": "FBD Semple Stadium, Thurles",
-    "status": "FT",
-    "score": "1-22 \u2013 1-19",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1600-allianz-football-league-roinn-1-final-kerry-mayo",
-    "date": "2019-07-23",
-    "time": "16:00",
-    "competition": "Allianz Football League Roinn 1 Final",
-    "home": "Kerry",
-    "away": "Mayo",
-    "venue": "P\u00e1irc an Chr\u00f3caigh",
-    "status": "FT",
-    "score": "1-18 \u2013 1-12",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1700-allianz-football-league-roinn-4-final-limerick-wexford",
-    "date": "2019-07-23",
-    "time": "17:00",
-    "competition": "Allianz Football League Roinn 4 Final",
-    "home": "Limerick",
-    "away": "Wexford",
-    "venue": "P\u00e1irc an Chr\u00f3caigh",
-    "status": "FT",
-    "score": "3-11 \u2013 0-18",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1300-allianz-football-league-roinn-4-round-7-tipperary-wicklow",
-    "date": "2019-07-23",
-    "time": "13:00",
-    "competition": "Allianz Football League Roinn 4 Round 7",
-    "home": "Tipperary",
-    "away": "Wicklow",
-    "venue": "Clonmel",
-    "status": "FT",
-    "score": "0-12 \u2013 0-21",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1300-allianz-football-league-roinn-4-round-7-limerick-waterford",
-    "date": "2019-07-23",
-    "time": "13:00",
-    "competition": "Allianz Football League Roinn 4 Round 7",
-    "home": "Limerick",
-    "away": "Waterford",
-    "venue": "Mick Neville Park Rathkeale",
-    "status": "FT",
-    "score": "4-24 \u2013 1-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1330-allianz-football-league-roinn-2-round-7-cavan-cork",
-    "date": "2019-07-23",
-    "time": "13:30",
-    "competition": "Allianz Football League Roinn 2 Round 7",
-    "home": "Cavan",
-    "away": "Cork",
-    "venue": "Kingspan Breffni, Cavan",
-    "status": "FT",
-    "score": "0-19 \u2013 0-21",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-allianz-football-league-roinn-3-round-7-clare-offaly",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Allianz Football League Roinn 3 Round 7",
-    "home": "Clare",
-    "away": "Offaly",
-    "venue": "Zimmer Biomet P\u00e1irc Ch\u00edos\u00f3g, Ennis",
-    "status": "FT",
-    "score": "2-14 \u2013 2-9",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1545-allianz-football-league-roinn-1-round-7-galway-kerry",
-    "date": "2019-07-23",
-    "time": "15:45",
-    "competition": "Allianz Football League Roinn 1 Round 7",
-    "home": "Galway",
-    "away": "Kerry",
-    "venue": "Pearse Stadium",
-    "status": "FT",
-    "score": "2-19 \u2013 3-24",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-allianz-football-league-roinn-2-round-6-cork-louth",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Allianz Football League Roinn 2 Round 6",
-    "home": "Cork",
-    "away": "Louth",
-    "venue": "SuperValu P\u00e1irc U\u00ed Chaoimh, Cork",
-    "status": "FT",
-    "score": "1-23 \u2013 0-18",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-allianz-football-league-roinn-4-round-6-wicklow-limerick",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Allianz Football League Roinn 4 Round 6",
-    "home": "Wicklow",
-    "away": "Limerick",
-    "venue": "Echelon Park, Aughrim",
-    "status": "FT",
-    "score": "3-15 \u2013 1-21",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1730-allianz-football-league-roinn-1-round-6-kerry-armagh",
-    "date": "2019-07-23",
-    "time": "17:30",
-    "competition": "Allianz Football League Roinn 1 Round 6",
-    "home": "Kerry",
-    "away": "Armagh",
-    "venue": "Austin Stack Park",
-    "status": "FT",
-    "score": "2-21 \u2013 0-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1800-allianz-football-league-roinn-3-round-6-laois-clare",
-    "date": "2019-07-23",
-    "time": "18:00",
-    "competition": "Allianz Football League Roinn 3 Round 6",
-    "home": "Laois",
-    "away": "Clare",
-    "venue": "Laois Hire O'Moore Park, Portlaoise",
-    "status": "FT",
-    "score": "1-21 \u2013 2-22",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1830-allianz-football-league-roinn-4-round-6-wexford-tipperary",
-    "date": "2019-07-23",
-    "time": "18:30",
-    "competition": "Allianz Football League Roinn 4 Round 6",
-    "home": "Wexford",
-    "away": "Tipperary",
-    "venue": "Chadwicks Wexford Park",
-    "status": "FT",
-    "score": "1-13 \u2013 1-12",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1900-allianz-football-league-roinn-4-round-6-waterford-london",
-    "date": "2019-07-23",
-    "time": "19:00",
-    "competition": "Allianz Football League Roinn 4 Round 6",
-    "home": "Waterford",
-    "away": "London",
-    "venue": "Cappoquin Logistics Fraher Field, Dungarvan",
-    "status": "FT",
-    "score": "1-19 \u2013 2-11",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1330-allianz-football-league-roinn-3-round-4-sligo-clare",
-    "date": "2019-07-23",
-    "time": "13:30",
-    "competition": "Allianz Football League Roinn 3 Round 4",
-    "home": "Sligo",
-    "away": "Clare",
-    "venue": "Markievicz Park, Sligo",
-    "status": "FT",
-    "score": "1-19 \u2013 2-14",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-allianz-football-league-roinn-3-round-5-clare-kildare",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Allianz Football League Roinn 3 Round 5",
-    "home": "Clare",
-    "away": "Kildare",
-    "venue": "Zimmer Biomet P\u00e1irc Ch\u00edos\u00f3g, Ennis",
-    "status": "FT",
-    "score": "2-12 \u2013 0-16",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1830-allianz-football-league-roinn-4-round-5-limerick-tipperary",
-    "date": "2019-07-23",
-    "time": "18:30",
-    "competition": "Allianz Football League Roinn 4 Round 5",
-    "home": "Limerick",
-    "away": "Tipperary",
-    "venue": "Mick Neville Park Rathkeale",
-    "status": "FT",
-    "score": "2-21 \u2013 3-8",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1830-allianz-football-league-roinn-4-round-5-waterford-wexford",
-    "date": "2019-07-23",
-    "time": "18:30",
-    "competition": "Allianz Football League Roinn 4 Round 5",
-    "home": "Waterford",
-    "away": "Wexford",
-    "venue": "Cappoquin Logistics Fraher Field, Dungarvan",
-    "status": "FT",
-    "score": "0-11 \u2013 2-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1900-allianz-football-league-roinn-2-round-5-cork-roscommon",
-    "date": "2019-07-23",
-    "time": "19:00",
-    "competition": "Allianz Football League Roinn 2 Round 5",
-    "home": "Cork",
-    "away": "Roscommon",
-    "venue": "SuperValu P\u00e1irc U\u00ed Chaoimh, Cork",
-    "status": "FT",
-    "score": "0-13 \u2013 2-21",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-5-waterford-tipperary",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 5",
-    "home": "Waterford",
-    "away": "Tipperary",
-    "venue": "Cappoquin Logistics Fraher Field, Dungarvan",
-    "status": "FT",
-    "score": "1-4 \u2013 1-9",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-5-kerry-limerick",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 5",
-    "home": "Kerry",
-    "away": "Limerick",
-    "venue": "Cordal",
-    "status": "FT",
-    "score": "5-11 \u2013 2-3",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-5-cork-clare",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 5",
-    "home": "Cork",
-    "away": "Clare",
-    "venue": "Mallow",
-    "status": "FT",
-    "score": "0-0 \u2013 0-0",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1930-championship-round-4-waterford-clare",
-    "date": "2019-07-23",
-    "time": "19:30",
-    "competition": "Championship Round 4",
-    "home": "Waterford",
-    "away": "Clare",
-    "venue": "Cappoquin Logistics Fraher Field, Dungarvan",
-    "status": "FT",
-    "score": "0-6 \u2013 1-4",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1945-championship-round-4-tipperary-limerick",
-    "date": "2019-07-23",
-    "time": "19:45",
-    "competition": "Championship Round 4",
-    "home": "Tipperary",
-    "away": "Limerick",
-    "venue": "Fethard Town Park, Grass Pitch",
-    "status": "FT",
-    "score": "2-12 \u2013 2-8",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-4-kerry-cork",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 4",
-    "home": "Kerry",
-    "away": "Cork",
-    "venue": "TBC",
-    "status": "FT",
-    "score": "1-6 \u2013 1-17",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-3-cork-waterford",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 3",
-    "home": "Cork",
-    "away": "Waterford",
-    "venue": "Killeagh",
-    "status": "FT",
-    "score": "3-14 \u2013 1-4",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-3-clare-limerick",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 3",
-    "home": "Clare",
-    "away": "Limerick",
-    "venue": "Miltown Malbay",
-    "status": "FT",
-    "score": "2-10 \u2013 1-7",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-3-tipperary-kerry",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 3",
-    "home": "Tipperary",
-    "away": "Kerry",
-    "venue": "Bansha",
-    "status": "FT",
-    "score": "1-10 \u2013 2-8",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-2-kerry-waterford",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 2",
-    "home": "Kerry",
-    "away": "Waterford",
-    "venue": "Cordal",
-    "status": "FT",
-    "score": "2-11 \u2013 3-9",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-2-limerick-cork",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 2",
-    "home": "Limerick",
-    "away": "Cork",
-    "venue": "Martinstown",
-    "status": "FT",
-    "score": "3-1 \u2013 5-11",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-2-tipperary-clare",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 2",
-    "home": "Tipperary",
-    "away": "Clare",
-    "venue": "Sean Treacy Park",
-    "status": "FT",
-    "score": "0-6 \u2013 3-2",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1200-championship-round-1-cork-tipperary",
-    "date": "2019-07-23",
-    "time": "12:00",
-    "competition": "Championship Round 1",
-    "home": "Cork",
-    "away": "Tipperary",
-    "venue": "Mallow",
-    "status": "FT",
-    "score": "4-8 \u2013 1-4",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1400-championship-round-1-limerick-waterford",
-    "date": "2019-07-23",
-    "time": "14:00",
-    "competition": "Championship Round 1",
-    "home": "Limerick",
-    "away": "Waterford",
-    "venue": "Martinstown",
-    "status": "FT",
-    "score": "2-10 \u2013 1-13",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1500-championship-round-1-clare-kerry",
-    "date": "2019-07-23",
-    "time": "15:00",
-    "competition": "Championship Round 1",
-    "home": "Clare",
-    "away": "Kerry",
-    "venue": "Inagh",
-    "status": "FT",
-    "score": "4-5 \u2013 0-5",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1930-munster-u20-football-competition-final-tipperary-cork",
-    "date": "2019-07-23",
-    "time": "19:30",
-    "competition": "Munster U/20 Football Competition Final",
-    "home": "Tipperary",
-    "away": "Cork",
-    "venue": "FBD Semple Stadium, Thurles",
-    "status": "FT",
-    "score": "3-10 \u2013 3-20",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1930-munster-u20-football-competition-semi-final-tipperary-waterford",
-    "date": "2019-07-23",
-    "time": "19:30",
-    "competition": "Munster U/20 Football Competition Semi-Final",
-    "home": "Tipperary",
-    "away": "Waterford",
-    "venue": "FBD Semple Stadium, Thurles",
-    "status": "FT",
-    "score": "0-11 \u2013 0-9",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1930-munster-u20-football-competition-quarter-final-waterford-clare",
-    "date": "2019-07-23",
-    "time": "19:30",
-    "competition": "Munster U/20 Football Competition Quarter Final",
-    "home": "Waterford",
-    "away": "Clare",
-    "venue": "Cappoquin Logistics Fraher Field, Dungarvan",
-    "status": "FT",
-    "score": "4-5 \u2013 1-9",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1930-munster-u20-football-competition-quarter-final-tipperary-limerick",
-    "date": "2019-07-23",
-    "time": "19:30",
-    "competition": "Munster U/20 Football Competition Quarter Final",
-    "home": "Tipperary",
-    "away": "Limerick",
-    "venue": "FBD Semple Stadium, Thurles",
-    "status": "FT",
-    "score": "0-16 \u2013 1-10",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1930-munster-u20-football-competition-final-kerry-cork",
-    "date": "2019-07-23",
-    "time": "19:30",
-    "competition": "Munster U/20 Football Competition Final",
-    "home": "Kerry",
-    "away": "Cork",
-    "venue": "Austin Stack Park",
-    "status": "FT",
-    "score": "0-17 \u2013 1-9",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1900-munster-u20-football-competition-semi-final-clare-cork",
-    "date": "2019-07-23",
-    "time": "19:00",
-    "competition": "Munster U/20 Football Competition Semi-Final",
-    "home": "Clare",
-    "away": "Cork",
-    "venue": "Miltown Malbay",
-    "status": "FT",
-    "score": "2-7 \u2013 1-12",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1900-munster-u20-football-competition-semi-final-limerick-kerry",
-    "date": "2019-07-23",
-    "time": "19:00",
-    "competition": "Munster U/20 Football Competition Semi-Final",
-    "home": "Limerick",
-    "away": "Kerry",
-    "venue": "LIT Gaelic Grounds, Limerick",
-    "status": "FT",
-    "score": "0-7 \u2013 0-14",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
-    "search_index": null
-  },
-  {
-    "id": "prov-httpsmunstergaaiefixtures-results-20190723-1900-munster-u20-football-competition-quarter-final-limerick-tipperary",
-    "date": "2019-07-23",
-    "time": "19:00",
-    "competition": "Munster U/20 Football Competition Quarter Final",
-    "home": "Limerick",
-    "away": "Tipperary",
-    "venue": "LIT Gaelic Grounds, Limerick",
-    "status": "FT",
-    "score": "0-7 \u2013 0-6",
-    "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2334,7 +990,7 @@
     "status": "FT",
     "score": "4-20 \u2013 0-21",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2348,7 +1004,7 @@
     "status": "FT",
     "score": "2-18 \u2013 1-15",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2362,7 +1018,7 @@
     "status": "FT",
     "score": "1-25 \u2013 3-21",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2376,7 +1032,7 @@
     "status": "FT",
     "score": "0-13 \u2013 0-24",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2390,7 +1046,7 @@
     "status": "FT",
     "score": "1-22 \u2013 1-19",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2404,7 +1060,7 @@
     "status": "FT",
     "score": "1-18 \u2013 1-12",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2418,7 +1074,7 @@
     "status": "FT",
     "score": "3-11 \u2013 0-18",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2432,7 +1088,7 @@
     "status": "FT",
     "score": "0-12 \u2013 0-21",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2446,7 +1102,7 @@
     "status": "FT",
     "score": "4-24 \u2013 1-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2460,7 +1116,7 @@
     "status": "FT",
     "score": "0-19 \u2013 0-21",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2474,7 +1130,7 @@
     "status": "FT",
     "score": "2-14 \u2013 2-9",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2488,7 +1144,7 @@
     "status": "FT",
     "score": "2-19 \u2013 3-24",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2502,7 +1158,7 @@
     "status": "FT",
     "score": "1-23 \u2013 0-18",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2516,7 +1172,7 @@
     "status": "FT",
     "score": "3-15 \u2013 1-21",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2530,7 +1186,7 @@
     "status": "FT",
     "score": "2-21 \u2013 0-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2544,7 +1200,7 @@
     "status": "FT",
     "score": "1-21 \u2013 2-22",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2558,7 +1214,7 @@
     "status": "FT",
     "score": "1-13 \u2013 1-12",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2572,7 +1228,7 @@
     "status": "FT",
     "score": "1-19 \u2013 2-11",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2586,7 +1242,7 @@
     "status": "FT",
     "score": "1-19 \u2013 2-14",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2600,7 +1256,7 @@
     "status": "FT",
     "score": "2-12 \u2013 0-16",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2614,7 +1270,7 @@
     "status": "FT",
     "score": "2-21 \u2013 3-8",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2628,7 +1284,7 @@
     "status": "FT",
     "score": "0-11 \u2013 2-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2642,7 +1298,7 @@
     "status": "FT",
     "score": "0-13 \u2013 2-21",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2656,7 +1312,7 @@
     "status": "FT",
     "score": "1-4 \u2013 1-9",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2670,7 +1326,7 @@
     "status": "FT",
     "score": "5-11 \u2013 2-3",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2684,7 +1340,7 @@
     "status": "FT",
     "score": "0-0 \u2013 0-0",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2698,7 +1354,7 @@
     "status": "FT",
     "score": "0-6 \u2013 1-4",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2712,7 +1368,7 @@
     "status": "FT",
     "score": "2-12 \u2013 2-8",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2726,7 +1382,7 @@
     "status": "FT",
     "score": "1-6 \u2013 1-17",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2740,7 +1396,7 @@
     "status": "FT",
     "score": "3-14 \u2013 1-4",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2754,7 +1410,7 @@
     "status": "FT",
     "score": "2-10 \u2013 1-7",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2768,7 +1424,7 @@
     "status": "FT",
     "score": "1-10 \u2013 2-8",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2782,7 +1438,7 @@
     "status": "FT",
     "score": "2-11 \u2013 3-9",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2796,7 +1452,7 @@
     "status": "FT",
     "score": "3-1 \u2013 5-11",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2810,7 +1466,7 @@
     "status": "FT",
     "score": "0-6 \u2013 3-2",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2824,7 +1480,7 @@
     "status": "FT",
     "score": "4-8 \u2013 1-4",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2838,7 +1494,7 @@
     "status": "FT",
     "score": "2-10 \u2013 1-13",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2852,7 +1508,7 @@
     "status": "FT",
     "score": "4-5 \u2013 0-5",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2866,7 +1522,7 @@
     "status": "FT",
     "score": "3-10 \u2013 3-20",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2880,7 +1536,7 @@
     "status": "FT",
     "score": "0-11 \u2013 0-9",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2894,7 +1550,7 @@
     "status": "FT",
     "score": "4-5 \u2013 1-9",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2908,7 +1564,7 @@
     "status": "FT",
     "score": "0-16 \u2013 1-10",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2922,7 +1578,7 @@
     "status": "FT",
     "score": "0-17 \u2013 1-9",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2936,7 +1592,7 @@
     "status": "FT",
     "score": "2-7 \u2013 1-12",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2950,7 +1606,7 @@
     "status": "FT",
     "score": "0-7 \u2013 0-14",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   },
   {
@@ -2964,7 +1620,7 @@
     "status": "FT",
     "score": "0-7 \u2013 0-6",
     "source": "scraper",
-    "updated_at": "2025-11-05T21:31:35Z",
+    "updated_at": "2025-11-06T04:06:09Z",
     "search_index": null
   }
 ]

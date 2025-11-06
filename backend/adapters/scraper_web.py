@@ -8,6 +8,7 @@ from typing import Any, Iterable, List, Optional
 import httpx
 from dateutil import parser as dtparser
 from selectolax.parser import HTMLParser
+from icalendar import Calendar  # type: ignore
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from ..models import Fixture
@@ -20,13 +21,19 @@ SCORE_RE = re.compile(r"(\d+\s*-\s*\d+)\s*[–-]\s*(\d+\s*-\s*\d+)")
 
 EXCLUDE_COMP_TOKENS = [
     # codes for non-football
-    "hurl", "camogie", "ladies", "lgfa", "women", "girls",
+    "hurl", "hurling", "camogie", "ladies", "lgfa", "women", "girls",
+    # common hurling acronyms
+    "shc", "ihc", "jhc",
     # underage
     "u7", "u8", "u9", "u10", "u11", "u12", "u13", "u14", "u15", "u16", "u17", "u18", "u19", "u20", "u21",
     "under", "minor", "academy", "schools", "freshers", "hec", "higher education",
 ]
 
-FOOTBALL_HINTS = ["football", "senior", "intermediate", "junior", "division", "league", "championship"]
+FOOTBALL_HINTS = [
+    "football", "senior", "intermediate", "junior", "division", "league", "championship",
+    # football acronyms
+    "sfc", "ifc", "jfc",
+]
 
 
 def _is_adult_football(competition_text: str) -> bool:
@@ -161,6 +168,22 @@ def fetch(config: dict) -> List[Fixture]:
                     pass
                 doc = HTMLParser(html)
                 rows_found = 0
+                ajax_added = 0
+
+                # Province AJAX endpoint (fixtures-results-ajax) if available
+                try:
+                    ajax_items = _fetch_province_ajax(
+                        client,
+                        page_url=url,
+                        days_prev=max(int(config.get("results_days_back", 60)), int(config.get("days_back", 14))),
+                        days_after=max(int(config.get("scraper_days_forward", 42)), int(config.get("days_forward", 14))),
+                    )
+                    if ajax_items:
+                        fixtures.extend([fx for fx in ajax_items if _is_adult_football(fx.competition)])
+                        ajax_added = len(ajax_items)
+                        rows_found += ajax_added
+                except Exception:
+                    pass
                 # Structured data (JSON-LD) first
                 for script in doc.css('script[type="application/ld+json"]'):
                     try:
@@ -213,6 +236,15 @@ def fetch(config: dict) -> List[Fixture]:
                 if prov:
                     fixtures.extend([fx for fx in prov if _is_adult_football(fx.competition)])
                     rows_found += len(prov)
+
+                # Leinster theme (list inside .data_data)
+                try:
+                    lein = _parse_leinster_list(doc, url)
+                    if lein:
+                        fixtures.extend([fx for fx in lein if _is_adult_football(fx.competition)])
+                        rows_found += len(lein)
+                except Exception:
+                    pass
 
                 # Province theme results (explicitly within #results)
                 prov_results = _parse_province_results(doc, url)
@@ -300,6 +332,101 @@ def fetch(config: dict) -> List[Fixture]:
                     except Exception:
                         pass
 
+                # Wider Tribe JSON window (1 year back/forward) if still nothing
+                if rows_found == 0 and tribe_added == 0:
+                    try:
+                        today = datetime.utcnow().date()
+                        wide = _fetch_wordpress_tribe(
+                            client,
+                            f"{urlparse(url).scheme}://{urlparse(url).netloc}",
+                            today_start=(today - timedelta(days=365)).isoformat(),
+                            today_end=(today + timedelta(days=365)).isoformat(),
+                        )
+                        fixtures.extend(wide)
+                        tribe_added += len(wide)
+                    except Exception:
+                        pass
+
+                # ICS feed fallback via The Events Calendar subscribe link
+                if rows_found == 0 and tribe_added == 0:
+                    try:
+                        ics_items = _fetch_tribe_ical(client, page_url=url)
+                        fixtures.extend(ics_items)
+                        tribe_added += len(ics_items)
+                    except Exception:
+                        pass
+
+                # As a last resort, optional headless render to execute JS
+                if rows_found == 0 and tribe_added == 0 and (config.get("headless", {}) or {}).get("enable", False):
+                    try:
+                        rendered = _render_headless(
+                            url,
+                            wait_selector=(config.get("headless", {}) or {}).get(
+                                "wait_selector", "li.fixture-result, .tribe-events, #fixtures, .data_data"
+                            ),
+                            timeout_ms=int((config.get("headless", {}) or {}).get("timeout_ms", 15000)),
+                        )
+                        if rendered:
+                            doc2 = HTMLParser(rendered)
+                            before = len(fixtures)
+                            # Re-run parsers on rendered DOM
+                            prov2 = _parse_province_fixtures(doc2, url)
+                            if prov2:
+                                fixtures.extend([fx for fx in prov2 if _is_adult_football(fx.competition)])
+                            lein2 = _parse_leinster_list(doc2, url)
+                            if lein2:
+                                fixtures.extend([fx for fx in lein2 if _is_adult_football(fx.competition)])
+                            for headers_row, cols in _find_table_rows(doc2):
+                                data = _extract_from_table(headers_row, cols)
+                                comp = data.get("competition") or ""
+                                if not _is_adult_football(comp):
+                                    continue
+                                dtp = _parse_datetime(data.get("date", ""), data.get("time", ""))
+                                if not dtp:
+                                    continue
+                                date_iso, time_hm = dtp
+                                if time_hm == "00:00":
+                                    continue
+                                if not (start <= date_iso <= end):
+                                    continue
+                                status_text = (data.get("status") or "").lower()
+                                if "postpon" in status_text:
+                                    status = "PP"
+                                elif "result" in status_text or "full" in status_text or data.get("score"):
+                                    status = "FT"
+                                else:
+                                    status = "scheduled"
+                                home = data.get("home") or ""
+                                away = data.get("away") or ""
+                                score = data.get("score") or ""
+                                if not (home and away and comp):
+                                    joined = " ".join(cols)
+                                    team_parsed = _parse_row_text(joined)
+                                    home = home or team_parsed["home"]
+                                    away = away or team_parsed["away"]
+                                    score = score or team_parsed["score"]
+                                if not (home and away and comp):
+                                    continue
+                                fixtures.append(
+                                    Fixture(
+                                        id=f"scrape-{slugify(url)}-{date_iso.replace('-', '')}-{time_hm.replace(':','')}-{slugify(home)[:16]}-{slugify(away)[:16]}",
+                                        date=date_iso,
+                                        time=time_hm,
+                                        competition=comp,
+                                        home=home,
+                                        away=away,
+                                        venue=(data.get("venue") or None),
+                                        status=status,  # type: ignore[assignment]
+                                        score=score or "",
+                                        source="scraper",
+                                        updated_at=iso_z(datetime.utcnow()),
+                                    )
+                                )
+                            added = len(fixtures) - before
+                            rows_found += added
+                    except Exception:
+                        pass
+
                 # Probe /wp-json routes for debugging
                 probe_routes = None
                 try:
@@ -307,7 +434,7 @@ def fetch(config: dict) -> List[Fixture]:
                 except Exception:
                     probe_routes = None
 
-                debug.append({"url": url, "rows_seen": rows_found, "tribe_added": tribe_added, "fixtures_total": len(fixtures), "wp_routes_hint": probe_routes})
+                debug.append({"url": url, "rows_seen": rows_found, "tribe_added": tribe_added, "ajax_added": ajax_added, "fixtures_total": len(fixtures), "wp_routes_hint": probe_routes})
             except Exception as e:
                 debug.append({"url": url, "error": str(e)})
 
@@ -409,6 +536,229 @@ def _probe_wp_json(client: httpx.Client, origin: str) -> list[str] | None:
     return hints[:20]
 
 
+def _parse_leinster_list(doc: HTMLParser, page_url: str) -> List[Fixture]:
+    """Parse Leinster fixtures/results list structure under .data_data.
+
+    Expected structure:
+      <div class="data_data"><ul>
+        <h3 class="fix_res_date">Sat 8th Nov 25</h3>
+        <li class="fixture-result"> ...
+          <div class="home_team"><span class="details"><a>Home</a></span><span class="score">(1-10)</span></div>
+          <div class="vrs">v</div>
+          <div class="away_team"><span class="score">(0-12)</span><span class="details"><a>Away</a></span></div>
+          <div class="more_info">
+            <div class="fix-res-competition">Competition Name ...</div>
+            <div class="fix-res-venue"><a>Venue</a> 1:30 PM</div>
+          </div>
+        </li>
+      </ul></div>
+    """
+    out: List[Fixture] = []
+    container = doc.css_first('.data_data')
+    if container:
+        nodes = container.css('h3.fix_res_date, li.fixture-result')
+    else:
+        # Fallback: scan entire document (useful for AJAX snippets without wrapper)
+        nodes = doc.css('h3.fix_res_date, li.fixture-result')
+        if not nodes:
+            return out
+    if not nodes:
+        return out
+
+    current_date_iso: Optional[str] = None
+    time_pat = re.compile(r"(\d{1,2}:\d{2})\s*(am|pm)?", re.IGNORECASE)
+
+    for node in nodes:
+        classes = node.attributes.get('class', '') if hasattr(node, 'attributes') else ''  # type: ignore
+        # Date headers
+        if 'fix_res_date' in classes:
+            date_text = node.text(strip=True)
+            try:
+                # e.g. "Sat 8th Nov 25"
+                dt = dtparser.parse(date_text, dayfirst=True, fuzzy=True)
+                current_date_iso = dt.strftime('%Y-%m-%d')
+            except Exception:
+                current_date_iso = None
+            continue
+
+        # Fixture/result rows
+        if 'fixture-result' in classes:
+            if not current_date_iso:
+                continue
+            home_el = node.css_first('.home_team .details a')
+            away_el = node.css_first('.away_team .details a')
+            home = home_el.text(strip=True) if home_el else ''
+            away = away_el.text(strip=True) if away_el else ''
+
+            comp_el = node.css_first('.more_info .fix-res-competition')
+            competition = comp_el.text(strip=True) if comp_el else ''
+
+            venue_wrap = node.css_first('.more_info .fix-res-venue')
+            venue_el = node.css_first('.more_info .fix-res-venue a')
+            venue = venue_el.text(strip=True) if venue_el else None
+            # Extract time from the remaining text within the venue block
+            time_text = ''
+            if venue_wrap:
+                txt = venue_wrap.text(separator=' ', strip=True)
+                m = time_pat.search(txt)
+                if m:
+                    raw_time = m.group(0)
+                    try:
+                        dt = dtparser.parse(f"{current_date_iso} {raw_time}", dayfirst=True)
+                        date_iso, time_hm = to_london_date_time(dt)
+                    except Exception:
+                        date_iso, time_hm = current_date_iso, _norm_time_str(m.group(1))
+                else:
+                    date_iso, time_hm = current_date_iso, '00:00'
+            else:
+                date_iso, time_hm = current_date_iso, '00:00'
+
+            # Scores if present (inside parentheses)
+            hs = (node.css_first('.home_team .score').text(strip=True) if node.css_first('.home_team .score') else '')
+            as_ = (node.css_first('.away_team .score').text(strip=True) if node.css_first('.away_team .score') else '')
+            hs_clean = hs.strip('() ')
+            as_clean = as_.strip('() ')
+            has_numeric = bool(re.search(r"\d", hs_clean + as_clean))
+            if has_numeric:
+                status = 'FT'
+                score = f"{hs_clean} - {as_clean}".strip()
+                # If time missing for FT, normalise to 12:00 to keep results
+                if time_hm == '00:00' or not time_hm:
+                    time_hm = '12:00'
+            else:
+                status = 'scheduled'
+                score = ''
+                # Drop placeholder all-day times
+                if time_hm == '00:00':
+                    # Skip scheduled entries with no time per requirements
+                    continue
+
+            if not (home and away and competition):
+                continue
+
+            out.append(
+                Fixture(
+                    id=f"lein-{slugify(page_url)}-{date_iso.replace('-', '')}-{time_hm.replace(':','')}-{slugify(competition or 'football')}-{slugify(home)[:16]}-{slugify(away)[:16]}",
+                    date=date_iso,
+                    time=time_hm,
+                    competition=competition or 'Football',
+                    home=home,
+                    away=away,
+                    venue=venue,
+                    status=status,  # type: ignore[assignment]
+                    score=score,
+                    source='scraper',
+                    updated_at=iso_z(datetime.utcnow()),
+                )
+            )
+
+    return out
+
+
+def _fetch_tribe_ical(client: httpx.Client, page_url: str) -> List[Fixture]:
+    """Fetch and parse iCalendar feed exposed by The Events Calendar subscribe links.
+
+    Tries common routes:
+      - /events/list/?ical=1&tribe_display=all
+      - /events/?ical=1&tribe_display=all
+      - <page_url>?ical=1&tribe_display=all
+    """
+    origin = f"{urlparse(page_url).scheme}://{urlparse(page_url).netloc}"
+    candidates = [
+        f"{origin}/events/list/?ical=1&tribe_display=all",
+        f"{origin}/events/?ical=1&tribe_display=all",
+        f"{page_url.rstrip('/')}/?ical=1&tribe_display=all",
+    ]
+    raw_ics: str | None = None
+    for u in candidates:
+        try:
+            r = client.get(u, timeout=25, follow_redirects=True)
+            if r.status_code < 400 and ("BEGIN:VCALENDAR" in r.text or (r.headers.get("Content-Type", "").startswith("text/calendar"))):
+                raw_ics = r.text
+                break
+        except Exception:
+            continue
+    if not raw_ics:
+        return []
+
+    cal = Calendar.from_ical(raw_ics)
+    fixtures: List[Fixture] = []
+    today = datetime.utcnow().date()
+
+    for comp in cal.walk():
+        if comp.name != "VEVENT":
+            continue
+        try:
+            dt = comp.get("dtstart").dt  # type: ignore[attr-defined]
+        except Exception:
+            continue
+        # dt can be date or datetime
+        try:
+            if hasattr(dt, "year") and hasattr(dt, "hour"):
+                dt_py = dt  # datetime
+            else:
+                # date only, assume midnight local
+                dt_py = datetime(dt.year, dt.month, dt.day)
+        except Exception:
+            continue
+        date_iso, time_hm = to_london_date_time(dt_py)
+
+        # Extract text fields
+        summary = str(comp.get("summary") or "")
+        location = str(comp.get("location") or "") or None
+        cats = comp.get("categories")
+        if isinstance(cats, (list, tuple)) and cats:
+            competition_hint = str(cats[0])
+        else:
+            competition_hint = ""
+
+        # Parse teams and potential score from summary/description
+        t = _parse_row_text(summary)
+        home, away = t.get("home") or "", t.get("away") or ""
+        score = t.get("score") or ""
+
+        # Try to infer competition from prefix of summary (before dash/en dash)
+        comp_text = competition_hint
+        if not comp_text and " v " in summary.lower():
+            m = re.split(r"\s[–—-]\s", summary)
+            if len(m) >= 2:
+                comp_text = m[0].strip()
+
+        # Filter adult football
+        if not _is_adult_football(f"{comp_text} {summary}"):
+            continue
+
+        # Drop scheduled with 00:00 as per rules
+        status = "scheduled"
+        if (score or "").strip():
+            status = "FT"
+            if time_hm == "00:00":
+                time_hm = "12:00"
+        elif time_hm == "00:00":
+            # Skip if no real time
+            continue
+
+        if not (home and away):
+            continue
+
+        fixtures.append(
+            Fixture(
+                id=f"ics-{slugify(origin)}-{date_iso.replace('-', '')}-{time_hm.replace(':','')}-{slugify(comp_text or 'football')}-{slugify(home)[:16]}-{slugify(away)[:16]}",
+                date=date_iso,
+                time=time_hm,
+                competition=comp_text or "Football",
+                home=home,
+                away=away,
+                venue=(location or None),
+                status=status,  # type: ignore[assignment]
+                score=score,
+                source="scraper",
+                updated_at=iso_z(datetime.utcnow()),
+            )
+        )
+
+    return fixtures
+
 def _parse_tribe_document(doc: HTMLParser, page_url: str) -> List[Fixture]:
     out: List[Fixture] = []
     # Look for list view articles
@@ -489,8 +839,16 @@ def _fetch_tribe_views_html(client: httpx.Client, page_url: str, days_back: int,
 def _parse_province_fixtures(doc: HTMLParser, page_url: str) -> List[Fixture]:
     out: List[Fixture] = []
     # Recognize structure: h3.fix_res_date then multiple div.competition blocks
+    # Scope to #fixtures first to avoid mixing dates from results tab; fallback to global only if needed.
     current_date_iso: Optional[str] = None
-    for node in doc.css('#fixtures .fix_res_date, #fixtures .competition, .fix_res_date, .competition'):
+    nodes = []
+    try:
+        nodes = doc.css('#fixtures .fix_res_date, #fixtures .competition')
+    except Exception:
+        nodes = []
+    if not nodes:
+        nodes = doc.css('.fix_res_date, .competition')
+    for node in nodes:
         classes = node.attributes.get('class', '') if hasattr(node, 'attributes') else ''  # type: ignore
         if 'fix_res_date' in classes:
             # date like 'Saturday 8th Nov 2025'
@@ -596,3 +954,90 @@ def _parse_province_results(doc: HTMLParser, page_url: str) -> List[Fixture]:
                 )
             )
     return out
+
+
+def _fetch_province_ajax(client: httpx.Client, page_url: str, days_prev: int, days_after: int) -> List[Fixture]:
+    """Fetch fixtures/results via the shared fixtures-results-ajax endpoint.
+
+    Mapping (based on observed behaviour):
+      - Ulster (ulster.gaa.ie) -> owner=2139, base on leinstergaa.ie
+      - Connacht (connachtgaa.ie) -> owner=2142, base on connachtgaa.ie
+      - Munster (munster.gaa.ie) -> owner=2140, base on leinstergaa.ie
+      - Leinster (leinstergaa.ie) -> owner=2141, base on leinstergaa.ie
+    """
+    host = urlparse(page_url).netloc
+    base_by_host = {
+        "ulster.gaa.ie": ("https://leinstergaa.ie/fixtures-results/fixtures-results-ajax/", 2139),
+        "connachtgaa.ie": ("https://connachtgaa.ie/fixtures-results/fixtures-results-ajax/", 2142),
+        "munster.gaa.ie": ("https://leinstergaa.ie/fixtures-results/fixtures-results-ajax/", 2140),
+        "leinstergaa.ie": ("https://leinstergaa.ie/fixtures-results/fixtures-results-ajax/", 2141),
+    }
+    if host not in base_by_host:
+        return []
+    base, owner = base_by_host[host]
+
+    def get(params: dict) -> str:
+        r = client.get(base, params=params, timeout=25)
+        if r.status_code >= 400:
+            return ""
+        return r.text
+
+    items: List[Fixture] = []
+    # Results window
+    res_html = get({
+        "owner": owner,
+        "ccAC": 1,
+        "resultsOnly": "Y",
+        "reverseDateOrder": "Y",
+        "noTBC": "Y",
+        "includeClubGames": "Y",
+        "includeSchoolGames": "N",
+        "daysPrevious": int(days_prev),
+    })
+    if res_html:
+        doc = HTMLParser(res_html)
+        items.extend(_parse_province_fixtures(doc, page_url))
+
+    # Fixtures window
+    fix_html = get({
+        "owner": owner,
+        "ccAC": 1,
+        "fixturesOnly": "Y",
+        "noTBC": "Y",
+        "showByeGames": "N",
+        "includeClubGames": "Y",
+        "includeSchoolGames": "N",
+        "daysAfter": int(days_after),
+    })
+    if fix_html:
+        doc = HTMLParser(fix_html)
+        items.extend(_parse_province_fixtures(doc, page_url))
+
+    return items
+
+def _render_headless(page_url: str, wait_selector: str, timeout_ms: int) -> Optional[str]:
+    """Best-effort headless render using Playwright if installed. Returns HTML or None.
+
+    Controlled by config.headless.enable. Does not install browsers automatically.
+    """
+    try:
+        from playwright.sync_api import sync_playwright  # type: ignore
+    except Exception:
+        return None
+    html: Optional[str] = None
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context()
+            page = context.new_page()
+            page.goto(page_url, wait_until="load", timeout=timeout_ms)
+            try:
+                page.wait_for_selector(wait_selector, timeout=timeout_ms)
+            except Exception:
+                pass
+            html = page.content()
+            context.close()
+            browser.close()
+    except Exception:
+        html = None
+    return html

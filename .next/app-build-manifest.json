@@ -11,15 +11,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
     ],
-    "/fixtures/page": [
+    "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/fixtures/page.js"
+      "static/chunks/app/page.js"
     ],
     "/results/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/results/page.js"
+    ],
+    "/fixtures/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/fixtures/page.js"
     ]
   }
 }
