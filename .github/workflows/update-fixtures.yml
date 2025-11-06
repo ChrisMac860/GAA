@@ -5,11 +5,22 @@ on:
     - cron: '0 6,18 * * *'
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-fixtures
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
@@ -26,13 +37,23 @@ jobs:
           CLUBZAP_JWT: ${{ secrets.CLUBZAP_JWT }}
         run: |
           poetry run python -m backend all
-      - name: Pull latest changes
+      - name: Commit and push data files (manual)
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git pull origin main --rebase
-      - name: Commit data files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(data): update fixtures/results"
-          file_pattern: public/data/*.json
+          set -e
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add public/data/*.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit";
+            exit 0;
+          fi
+          git commit -m "chore(data): update fixtures/results"
+          git fetch origin main
+          git rebase origin/main
+          # Retry push once if non-fast-forward occurs during race conditions
+          if ! git push origin HEAD:main; then
+            echo "Rebased again due to remote update; retrying push";
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
