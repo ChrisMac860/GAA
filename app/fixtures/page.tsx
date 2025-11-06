@@ -1,6 +1,6 @@
 import { Suspense } from "react";
 import SkeletonList from "@/components/SkeletonList";
-import { loadFixtures, type Fixture } from "@/lib/data";
+import { loadFixtures } from "@/lib/data";
 import FixturesSearch from "@/components/FixturesSearch";
 
 export const metadata = {
@@ -25,7 +25,6 @@ export default async function Page({ searchParams }: { searchParams: Promise<{ q
         <h1 className="text-lg font-semibold">Fixtures</h1>
       </div>
       <Suspense fallback={<SkeletonList count={6} />}> 
-        {/* @ts-expect-error Async Server Component */}
         <FixturesBody q={q} />
       </Suspense>
     </section>

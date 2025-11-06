@@ -25,10 +25,8 @@ export default async function Page({ searchParams }: { searchParams: Promise<{ q
         <h1 className="text-lg font-semibold">Results</h1>
       </div>
       <Suspense fallback={<SkeletonList count={6} />}> 
-        {/* @ts-expect-error Async Server Component */}
         <ResultsBody q={q} />
       </Suspense>
     </section>
   );
 }
-

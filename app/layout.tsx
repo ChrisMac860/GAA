@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import Link from "next/link";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
@@ -38,10 +39,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </a>
         <header className="sticky top-0 z-40 strip">
           <div className="mx-auto flex max-w-screen-sm items-center justify-between gap-3 px-4 py-3">
-            <a href="/" className="text-base font-extrabold tracking-tight">GAA Fixtures</a>
+            <Link href="/" className="text-base font-extrabold tracking-tight">GAA Fixtures</Link>
             <nav aria-label="Primary" className="ml-auto flex items-center gap-2">
-              <a href="/fixtures" className="btn btn-secondary text-sm">Fixtures</a>
-              <a href="/results" className="btn btn-secondary text-sm">Results</a>
+              <Link href="/fixtures" className="btn btn-secondary text-sm">Fixtures</Link>
+              <Link href="/results" className="btn btn-secondary text-sm">Results</Link>
             </nav>
           </div>
         </header>

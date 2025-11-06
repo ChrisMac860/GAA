@@ -5,7 +5,7 @@ const CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
 
 export default function AnimatedTitle({ text }: { text: string }) {
   const [display, setDisplay] = useState<string>(text);
-  const [phase, setPhase] = useState<"scramble" | "final">("scramble");
+  const [_phase, setPhase] = useState<"scramble" | "final">("scramble");
   const letters = useMemo(() => text.split(""), [text]);
 
   useEffect(() => {

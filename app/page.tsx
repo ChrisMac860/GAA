@@ -70,13 +70,13 @@ export default function Page() {
       </section>
       <section className="mt-6">
         <h2 className="mb-2 text-lg font-semibold">This Weekends 4 Picks</h2>
-        <Suspense fallback={<SkeletonList count={3} />}>{/* @ts-expect-error Async Server Component */}
+        <Suspense fallback={<SkeletonList count={3} />}>
           <WeekendPicks />
         </Suspense>
       </section>
       <section className="mt-6">
         <h2 className="mb-2 text-lg font-semibold">Last Weekends 4 Picks</h2>
-        <Suspense fallback={<SkeletonList count={3} />}>{/* @ts-expect-error Async Server Component */}
+        <Suspense fallback={<SkeletonList count={3} />}>
           <PreviousWeekendPicks />
         </Suspense>
       </section>
