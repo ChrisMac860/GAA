@@ -26,9 +26,13 @@ jobs:
           CLUBZAP_JWT: ${{ secrets.CLUBZAP_JWT }}
         run: |
           poetry run python -m backend all
+      - name: Pull latest changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git pull origin main --rebase
       - name: Commit data files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): update fixtures/results"
           file_pattern: public/data/*.json
-
