@@ -50,9 +50,10 @@ jobs:
           fi
           # Commit the data update
           git commit -m "chore(data): update fixtures/results"
-          # Stash all remaining local changes (if any) so rebase has a clean tree
-          git stash push -u -m "ci-stash-other-changes" || true
+          # Ensure a clean working tree before rebasing
           git fetch origin main
+          git reset --hard
+          git clean -fd
           git rebase origin/main
           # Retry push once if non-fast-forward occurs during race conditions
           if ! git push origin HEAD:main; then
@@ -61,5 +62,4 @@ jobs:
             git rebase origin/main
             git push origin HEAD:main
           fi
-          # Drop the stash (not needed after push)
-          git stash drop || true
+          # Done
