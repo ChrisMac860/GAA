@@ -1,0 +1,85 @@
+1: name: Update fixtures
+2: 
+3: on:
+4:   schedule:
+5:     - cron: '0 6,18 * * *'
+6:   workflow_dispatch: {}
+7: 
+8: permissions:
+9:   contents: write
+10: 
+11: concurrency:
+12:   group: update-fixtures
+13:   cancel-in-progress: true
+14: 
+15: jobs:
+16:   build:
+17:     runs-on: ubuntu-latest
+18:     steps:
+19:       - uses: actions/checkout@v4
+20:         with:
+21:           fetch-depth: 0
+22:           persist-credentials: true
+23:           ref: main
+24:       - uses: actions/setup-python@v5
+25:         with:
+26:           python-version: '3.11'
+27:       - name: Install Poetry
+28:         run: |
+29:           pipx install poetry
+30:       - name: Install deps
+31:         run: |
+32:           poetry install --no-root
+33:       - name: Run pipeline (fetch + build)
+34:         env:
+35:           GMS_BASE_URL: ${{ secrets.GMS_BASE_URL }}
+36:           GMS_API_KEY: ${{ secrets.GMS_API_KEY }}
+37:           CLUBZAP_JWT: ${{ secrets.CLUBZAP_JWT }}
+38:         run: |
+39:           poetry run python -m backend all
+40:       - name: Checkout clean repo for commit
+41:         uses: actions/checkout@v4
+42:         with:
+43:           fetch-depth: 0
+44:           persist-credentials: true
+45:           ref: main
+46:           path: repo-clean
+47: 
+48:       - name: Commit and push data files (clean workspace)
+49:         run: |
+50:           set -euo pipefail
+51:           cd repo-clean
+52:           git config user.email "github-actions[bot]@users.noreply.github.com"
+53:           git config user.name "github-actions[bot]"
+54: 
+55:           attempts=0
+56:           max_attempts=3
+57: 
+58:           while [ $attempts -lt $max_attempts ]; do
+59:             attempts=$((attempts + 1))
+60:             echo "Attempt $attempts to commit and push data"
+61:             git fetch origin main
+62:             git checkout main
+63:             git reset --hard origin/main
+64: 
+65:             mkdir -p public/data
+66:             cp -f ../public/data/*.json public/data/
+67: 
+68:             git add public/data/*.json
+69:             if git diff --cached --quiet; then
+70:               echo "No data changes to commit";
+71:               exit 0;
+72:             fi
+73: 
+74:             git commit -m "chore(data): update fixtures/results"
+75: 
+76:             if git push origin HEAD:main; then
+77:               echo "Push succeeded"
+78:               exit 0
+79:             fi
+80: 
+81:             echo "Push failed (likely race). Retrying..."
+82:           done
+83: 
+84:           echo "Failed to push after $max_attempts attempts"
+85:           exit 1

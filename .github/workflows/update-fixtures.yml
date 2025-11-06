@@ -47,26 +47,39 @@ jobs:
 
       - name: Commit and push data files (clean workspace)
         run: |
-          set -e
-          # Copy generated data into clean repo
-          mkdir -p repo-clean/public/data
-          cp -f public/data/*.json repo-clean/public/data/
-
+          set -euo pipefail
           cd repo-clean
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          # Ensure we're exactly at remote main
-          git fetch origin main
-          git checkout -B main origin/main
 
-          git add public/data/*.json
-          if git diff --cached --quiet; then
-            echo "No data changes to commit";
-            exit 0;
-          fi
-          git commit -m "chore(data): update fixtures/results"
-          # Try push; if race, rebase and retry
-          if ! git push origin HEAD:main; then
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+          attempts=0
+          max_attempts=3
+
+          while [ $attempts -lt $max_attempts ]; do
+            attempts=$((attempts + 1))
+            echo "Attempt $attempts to commit and push data"
+            git fetch origin main
+            git checkout main
+            git reset --hard origin/main
+
+            mkdir -p public/data
+            cp -f ../public/data/*.json public/data/
+
+            git add public/data/*.json
+            if git diff --cached --quiet; then
+              echo "No data changes to commit";
+              exit 0;
+            fi
+
+            git commit -m "chore(data): update fixtures/results"
+
+            if git push origin HEAD:main; then
+              echo "Push succeeded"
+              exit 0
+            fi
+
+            echo "Push failed (likely race). Retrying..."
+          done
+
+          echo "Failed to push after $max_attempts attempts"
+          exit 1
