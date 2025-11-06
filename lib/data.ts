@@ -1,5 +1,8 @@
 import 'server-only';
 import { headers } from 'next/headers';
+import { unstable_noStore as noStore } from 'next/cache';
+import fs from 'node:fs/promises';
+import path from 'node:path';
 
 export type FixtureStatus = 'scheduled' | 'FT' | 'PP';
 
@@ -24,16 +27,27 @@ async function getBaseUrl() {
   return `${proto}://${host}`;
 }
 
+async function readPublicJson<T>(filename: string): Promise<T> {
+  const filePath = path.join(process.cwd(), 'public', 'data', filename);
+  const raw = await fs.readFile(filePath, 'utf8');
+  return JSON.parse(raw) as T;
+}
+
 export async function loadFixtures(): Promise<Fixture[]> {
-  const base = await getBaseUrl();
-  const res = await fetch(`${base}/data/fixtures.json`, {
-    cache: 'no-store'
-  });
-  if (!res.ok) {
-    throw new Error(`Failed to load fixtures: ${res.status}`);
+  noStore();
+  try {
+    return await readPublicJson<Fixture[]>('fixtures.json');
+  } catch (e) {
+    try {
+      const mod = await import('@/public/data/fixtures.json');
+      // Cast through unknown to avoid strict structural typing on JSON modules
+      return (mod as unknown as { default: Fixture[] }).default;
+    } catch {}
+    const base = await getBaseUrl();
+    const res = await fetch(`${base}/data/fixtures.json`, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`Failed to load fixtures: ${res.status}`);
+    return (await res.json()) as Fixture[];
   }
-  const data = (await res.json()) as Fixture[];
-  return data;
 }
 
 export function distinctClubs(fixtures: Fixture[]) {
@@ -47,13 +61,17 @@ export function distinctClubs(fixtures: Fixture[]) {
 }
 
 export async function loadResults(): Promise<Fixture[]> {
-  const base = await getBaseUrl();
-  const res = await fetch(`${base}/data/results.json`, {
-    cache: 'no-store'
-  });
-  if (!res.ok) {
-    throw new Error(`Failed to load results: ${res.status}`);
+  noStore();
+  try {
+    return await readPublicJson<Fixture[]>('results.json');
+  } catch (e) {
+    try {
+      const mod = await import('@/public/data/results.json');
+      return (mod as unknown as { default: Fixture[] }).default;
+    } catch {}
+    const base = await getBaseUrl();
+    const res = await fetch(`${base}/data/results.json`, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`Failed to load results: ${res.status}`);
+    return (await res.json()) as Fixture[];
   }
-  const data = (await res.json()) as Fixture[];
-  return data;
 }
