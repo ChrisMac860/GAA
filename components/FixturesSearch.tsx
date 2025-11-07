@@ -1,8 +1,9 @@
 "use client";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { Fixture } from "@/lib/data";
-import { formatTimeLondon, todayISO } from "@/lib/dates";
+import { formatTimeLondon } from "@/lib/dates";
 import { normalizeQuery, buildIndexEntry } from "@/lib/search";
+import { filterUpcomingFixtures } from "@/lib/filters";
 
 export default function FixturesSearch({ fixtures, initialQuery }: { fixtures: Fixture[]; initialQuery: string }) {
   const [q, setQ] = useState(initialQuery ?? "");
@@ -18,15 +19,15 @@ export default function FixturesSearch({ fixtures, initialQuery }: { fixtures: F
     window.history.replaceState({}, "", url.toString());
   }, [q]);
 
-  const index = useMemo(() => fixtures.map((f) => ({ f, idx: buildIndexEntry(f) })), [fixtures]);
+  // Filter out placeholders and out-of-window items before indexing/searching
+  const filteredBase = useMemo(() => filterUpcomingFixtures(fixtures), [fixtures]);
+  const index = useMemo(() => filteredBase.map((f) => ({ f, idx: buildIndexEntry(f) })), [filteredBase]);
 
   const filteredUpcoming = useMemo(() => {
-    const today = todayISO();
-    const upcoming = index.filter(({ f }) => f.date >= today && f.status !== "FT");
-    if (!debounced.trim()) return upcoming.map((x) => x.f);
+    if (!debounced.trim()) return index.map((x) => x.f);
     const nq = normalizeQuery(debounced);
     const words = nq.split(/\s+/).filter(Boolean);
-    return upcoming
+    return index
       .filter(({ idx }) => words.every((w) => idx.includes(w)))
       .map((x) => x.f);
   }, [index, debounced]);
@@ -54,6 +55,7 @@ export default function FixturesSearch({ fixtures, initialQuery }: { fixtures: F
         onChange={(e) => setQ(e.target.value)}
       />
 
+      <p className="text-xs text-gray-600">Placeholder fixtures (e.g., ‘Winner of …’) are hidden.</p>
       <div className="max-h-[640px] overflow-y-auto panel">
         {grouped.length === 0 ? (
           <div className="p-4 text-sm text-gray-700">No matches. Try different keywords.</div>

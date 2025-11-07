@@ -4,6 +4,7 @@ import SkeletonList from "@/components/SkeletonList";
 import { loadFixtures, type Fixture, loadResults } from "@/lib/data";
 import { nextWeekendLondon, prevWeekendLondon, isBetweenNoonAndFive, addDaysISO } from "@/lib/dates";
 import FixtureCard from "@/components/FixtureCard";
+import { filterUpcomingFixtures, filterRecentResults } from "@/lib/filters";
 
 export const metadata = {
   title: "GAA Fixtures & Results",
@@ -16,7 +17,7 @@ function shuffle<T>(arr: T[]): T[] { const a = [...arr]; for (let i=a.length-1;i
 
 async function WeekendPicks() {
   await new Promise((r) => setTimeout(r, 320));
-  const fixtures = await loadFixtures();
+  const fixtures = filterUpcomingFixtures(await loadFixtures());
   const { saturdayISO, sundayISO } = nextWeekendLondon();
   const fridayISO = addDaysISO(saturdayISO, -1);
   const inRange = (d: string) => d >= fridayISO && d <= sundayISO;
@@ -39,7 +40,7 @@ async function WeekendPicks() {
 
 async function PreviousWeekendPicks() {
   await new Promise((r) => setTimeout(r, 320));
-  const results = await loadResults();
+  const results = filterRecentResults(await loadResults());
   const { saturdayISO, sundayISO } = prevWeekendLondon();
   const fridayISO = addDaysISO(saturdayISO, -1);
   const inRange = (d: string) => d >= fridayISO && d <= sundayISO;

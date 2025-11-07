@@ -63,6 +63,12 @@ Fixtures are loaded from `public/data/fixtures.json` with this schema:
 
 To update fixtures, replace `public/data/fixtures.json` with your data (keep under ~100 kB for performance).
 
+Filtering & windows:
+- Placeholder teams are hidden (e.g., “Winner of …”, “Runner-up Group A”, X/Y pairings before a prior tie is decided).
+- Results show only last N days, fixtures only next M days. Tunable via env:
+  - `NEXT_PUBLIC_RESULT_LOOKBACK_DAYS` (default 14)
+  - `NEXT_PUBLIC_FIXTURE_LOOKAHEAD_DAYS` (default 14)
+
 ## Vercel Deploy
 
 1. Push this repository to GitHub/GitLab/Bitbucket
@@ -86,4 +92,3 @@ The test ensures `/` loads and `/fixtures` renders a list.
 ## Routes
 - `/` Landing with animated title and "This Weekend’s Big Competitions" (top 3)
 - `/fixtures` Bilingual (Irish↔English) search, upcoming fixtures grouped by day (scrollable)
-

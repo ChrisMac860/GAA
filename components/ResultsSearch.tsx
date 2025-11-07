@@ -3,6 +3,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { Fixture } from "@/lib/data";
 import { formatTimeLondon } from "@/lib/dates";
 import { normalizeQuery, buildIndexEntry } from "@/lib/search";
+import { filterRecentResults } from "@/lib/filters";
 
 export default function ResultsSearch({ results, initialQuery }: { results: Fixture[]; initialQuery: string }) {
   const [q, setQ] = useState(initialQuery ?? "");
@@ -17,7 +18,9 @@ export default function ResultsSearch({ results, initialQuery }: { results: Fixt
     window.history.replaceState({}, "", url.toString());
   }, [q]);
 
-  const index = useMemo(() => results.map((f) => ({ f, idx: buildIndexEntry(f) })), [results]);
+  // Filter out placeholders and out-of-window items before indexing/searching
+  const filteredBase = useMemo(() => filterRecentResults(results), [results]);
+  const index = useMemo(() => filteredBase.map((f) => ({ f, idx: buildIndexEntry(f) })), [filteredBase]);
 
   const filtered = useMemo(() => {
     if (!debounced.trim()) return index.map((x) => x.f);
