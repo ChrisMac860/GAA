@@ -38,9 +38,9 @@ scraper:
     - "https://leinstergaa.ie/fixtures-results/"
 
 # Allow widening the fixtures window for scrapers (provinces) if needed
-scraper_days_forward: 42
-results_days_back: 60
-results_fallback_days: 365
+scraper_days_forward: 14
+results_days_back: 14
+results_fallback_days: 14
 preserve_on_empty: false
 
 # Optional headless rendering fallback (Playwright)

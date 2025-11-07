@@ -10,18 +10,18 @@
     },
     {
       "url": "https://connachtgaa.ie/fixtures-results/",
-      "rows_seen": 109,
+      "rows_seen": 105,
       "tribe_added": 0,
-      "ajax_added": 24,
-      "fixtures_total": 65,
+      "ajax_added": 20,
+      "fixtures_total": 61,
       "wp_routes_hint": null
     },
     {
       "url": "https://munster.gaa.ie/fixtures-results/",
-      "rows_seen": 145,
+      "rows_seen": 150,
       "tribe_added": 0,
       "ajax_added": 0,
-      "fixtures_total": 116,
+      "fixtures_total": 112,
       "wp_routes_hint": null
     },
     {
@@ -29,7 +29,7 @@
       "rows_seen": 0,
       "tribe_added": 0,
       "ajax_added": 0,
-      "fixtures_total": 116,
+      "fixtures_total": 112,
       "wp_routes_hint": [
         "/tribe/event-aggregator/v1",
         "/tribe/event-aggregator/v1/import/(?P<import_id>\\w+)/batch",
@@ -55,7 +55,7 @@
     }
   ],
   "counts": {
-    "raw": 116,
-    "deduped": 116
+    "raw": 112,
+    "deduped": 112
   }
 }

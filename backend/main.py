@@ -9,7 +9,7 @@ from typing import List
 from .adapters import fetch_clubzap, fetch_gms, fetch_ics, fetch_scraper
 from .merge import competitions_from_fixtures, dedupe
 from .models import Fixture
-from .normalise import build_search_index
+from .normalise import build_search_index, is_placeholder_team
 from .utils import ensure_dir, iso_z, write_json
 
 
@@ -77,6 +77,9 @@ def build_cmd() -> None:
 
     # Merge & dedupe
     merged = dedupe(fixtures)
+
+    # Drop placeholder matchups (e.g., "Winner of ...", group placeholders)
+    merged = [f for f in merged if not (is_placeholder_team(f.home) or is_placeholder_team(f.away))]
 
     # Windowing
     now = datetime.utcnow()
