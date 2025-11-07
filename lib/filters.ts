@@ -38,8 +38,7 @@ export function isPlaceholderTeam(name: string): boolean {
   // Shorthand stages like QF/SF/R1/R2
   if (/(^|\b)(qf|sf|rf|r\d{1,2})(\b|$)/.test(s)) return true;
 
-  // Ambiguous placeholder like "Team A/Team B" often used before a prior tie is decided
-  if (/^[^vvs]+\/.+$/i.test(raw) && !/\b(v|vs|versus)\b/i.test(raw)) return true;
+  // Avoid treating bilingual names with a slash as placeholders
 
   return false;
 }
@@ -81,4 +80,3 @@ export function filterUpcomingFixtures(fixtures: Fixture[]): Fixture[] {
 export function filterRecentResults(items: Fixture[]): Fixture[] {
   return items.filter((f) => isRenderableFixture(f) && withinResultsWindow(f.date));
 }
-

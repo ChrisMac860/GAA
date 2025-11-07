@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from typing import List
 
 from .adapters import fetch_clubzap, fetch_gms, fetch_ics, fetch_scraper
-from .merge import competitions_from_fixtures, dedupe
+from .merge import competitions_from_fixtures, dedupe, collapse_future_duplicates
 from .models import Fixture
 from .normalise import build_search_index, is_placeholder_team
 from .utils import ensure_dir, iso_z, write_json
@@ -80,6 +80,9 @@ def build_cmd() -> None:
 
     # Drop placeholder matchups (e.g., "Winner of ...", group placeholders)
     merged = [f for f in merged if not (is_placeholder_team(f.home) or is_placeholder_team(f.away))]
+
+    # Collapse accidental duplicates on different dates within same competition
+    merged = collapse_future_duplicates(merged)
 
     # Windowing
     now = datetime.utcnow()

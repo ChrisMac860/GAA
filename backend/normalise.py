@@ -85,8 +85,7 @@ def is_placeholder_team(name: str) -> bool:
     if _PLACEHOLDER_SHORT.search(s):
         return True
 
-    # Ambiguous placeholders like "Team A/Team B" often used pre-decider (but ensure not genuine vs)
-    if _re.match(r"^[^vvs]+/.+$", raw, _re.I) and not _re.search(r"\b(v|vs|versus)\b", raw, _re.I):
-        return True
+    # Do NOT treat bilingual names with slash as placeholders (e.g., English/Irish)
+    # Only rely on explicit keywords above.
 
     return False

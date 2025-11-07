@@ -85,6 +85,42 @@ def dedupe(fixtures: Iterable[Fixture]) -> List[Fixture]:
     return merged
 
 
+def collapse_future_duplicates(fixtures: Iterable[Fixture]) -> List[Fixture]:
+    """If the same teams are scheduled in the same competition multiple times,
+    keep the soonest upcoming instance and drop later duplicates.
+
+    This protects against upstream pages that occasionally list a fixture twice
+    on different dates (e.g., stale page fragments). Results (FT) are unaffected.
+    """
+    groups: dict[Tuple[str, str, str], List[Fixture]] = defaultdict(list)
+    for f in fixtures:
+        if f.status == "FT":
+            # Never collapse results
+            continue
+        comp_slug = slugify(f.competition)
+        key = (_norm_team(f.home), _norm_team(f.away), comp_slug)
+        groups[key].append(f)
+
+    keep_ids: set[str] = set()
+    # For each group, choose earliest by date then time
+    for items in groups.values():
+        if len(items) == 1:
+            keep_ids.add(items[0].id)
+            continue
+        items_sorted = sorted(items, key=lambda x: (x.date, x.time))
+        # keep earliest only
+        keep_ids.add(items_sorted[0].id)
+
+    out: List[Fixture] = []
+    for f in fixtures:
+        if f.status == "FT" or f.id in keep_ids or (
+            (_norm_team(f.home), _norm_team(f.away), slugify(f.competition)) not in groups
+        ):
+            out.append(f)
+    out.sort(key=lambda f: (f.date, f.time))
+    return out
+
+
 def competitions_from_fixtures(fixtures: Iterable[Fixture]) -> List[Competition]:
     comps: dict[str, List[Fixture]] = defaultdict(list)
     for f in fixtures:
@@ -116,4 +152,3 @@ def weekend_top_competitions(fixtures: Iterable[Fixture], today: datetime) -> Li
     weekend = [f for f in fixtures if sat.isoformat() <= f.date <= sun.isoformat()]
     comps = competitions_from_fixtures(weekend)
     return comps[:3]
-
