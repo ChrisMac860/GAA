@@ -3,10 +3,7 @@ import SkeletonList from "@/components/SkeletonList";
 import { loadFixtures } from "@/lib/data";
 import FixturesSearch from "@/components/FixturesSearch";
 
-export const metadata = {
-  title: "Fixtures",
-  description: "Search fixtures (Irish or English)"
-};
+export const metadata = { alternates: { canonical: '/fixtures' }, title: 'Fixtures' };
 
 export const dynamic = "force-dynamic";
 

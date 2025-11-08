@@ -3,10 +3,7 @@ import SkeletonList from "@/components/SkeletonList";
 import ResultsSearch from "@/components/ResultsSearch";
 import { loadResults } from "@/lib/data";
 
-export const metadata = {
-  title: "Results",
-  description: "Recent GAA results (last 7 days)",
-};
+export const metadata = { alternates: { canonical: '/results' }, title: 'Results' };
 
 export const dynamic = "force-dynamic";
 

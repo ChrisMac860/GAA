@@ -1,26 +1,22 @@
-import type { Metadata, Viewport } from "next";
+import type { Viewport } from "next";
 import Link from "next/link";
 import { Analytics } from "@vercel/analytics/next";
 import "@/styles/globals.css";
 
-export const metadata: Metadata = {
-  metadataBase: new URL("https://gaa-fixtures.local"),
-  title: {
-    default: "GAA Fixtures & Results",
-    template: "%s · GAA Fixtures"
-  },
-  description: "Fast, accessible GAA fixtures and results.",
+export const metadata = {
+  metadataBase: new URL('https://gaafixturesresults.vercel.app'),
+  title: { default: 'GAA Fixtures & Results', template: '%s · GAA Fixtures' },
+  description: 'Fast fixtures & results across provinces with Irish/English search.',
+  alternates: { canonical: '/' },
   openGraph: {
-    title: "GAA Fixtures & Results",
-    description: "Fast, accessible GAA fixtures and results.",
-    url: "/",
-    siteName: "GAA Fixtures",
-    type: "website"
+    type: 'website',
+    url: 'https://gaafixturesresults.vercel.app/',
+    title: 'GAA Fixtures & Results',
+    description: 'Fast fixtures & results.',
   },
-  icons: {
-    icon: "/favicon.ico"
-  }
-};
+  twitter: { card: 'summary_large_image' },
+  icons: { icon: '/favicon.ico' }
+} satisfies import('next').Metadata;
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -68,3 +64,4 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+
