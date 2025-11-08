@@ -1,4 +1,5 @@
 import { formatTimeLondon } from "@/lib/dates";
+import { shortenCompetition } from "@/lib/competitions";
 import type { Fixture } from "@/lib/data";
 
 export default function FixtureCard({ fixture }: { fixture: Fixture }) {
@@ -7,7 +8,7 @@ export default function FixtureCard({ fixture }: { fixture: Fixture }) {
     <article className="panel p-4" aria-label={`${home} vs ${away}`}>
       <div className="flex items-center justify-between gap-2">
         <div className="text-sm" aria-label="Competition">
-          {competition}
+          {shortenCompetition(competition)}
         </div>
         <div className="text-sm font-bold" aria-label="Time">{formatTimeLondon(date, time)}</div>
       </div>
