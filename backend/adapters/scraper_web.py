@@ -775,9 +775,9 @@ def _parse_tribe_document(doc: HTMLParser, page_url: str) -> List[Fixture]:
             dt = dtparser.parse(dt_txt)
         except Exception:
             continue
-            date_iso, time_hm = to_london_date_time(dt)
-            if time_hm == '00:00':
-                continue
+        date_iso, time_hm = to_london_date_time(dt)
+        if time_hm == '00:00':
+            continue
         # Venue
         venue_el = ev.css_first('.tribe-events-calendar-list__event-venue, .tribe-events-venue-details, .tribe-venue')
         venue = venue_el.text(strip=True) if venue_el else None
