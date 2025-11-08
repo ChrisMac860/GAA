@@ -55,7 +55,7 @@ export default function FixturesSearch({ fixtures, initialQuery }: { fixtures: F
         onChange={(e) => setQ(e.target.value)}
       />
 
-      <p className="text-xs text-gray-600">Placeholder fixtures (e.g., ‘Winner of …’) are hidden.</p>
+      <p className="text-xs text-gray-600">The Irish search sort of works</p>
       <div className="max-h-[640px] overflow-y-auto panel">
         {grouped.length === 0 ? (
           <div className="p-4 text-sm text-gray-700">No matches. Try different keywords.</div>
