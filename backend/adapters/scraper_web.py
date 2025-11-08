@@ -232,7 +232,7 @@ def fetch(config: dict) -> List[Fixture]:
                     except Exception:
                         continue
                 # Province theme fixtures (Ulster style)
-                prov = _parse_province_fixtures(doc, url)
+                prov = _parse_province_fixtures_dom_order(doc, url)
                 if prov:
                     fixtures.extend([fx for fx in prov if _is_adult_football(fx.competition)])
                     rows_found += len(prov)
@@ -370,7 +370,7 @@ def fetch(config: dict) -> List[Fixture]:
                             doc2 = HTMLParser(rendered)
                             before = len(fixtures)
                             # Re-run parsers on rendered DOM
-                            prov2 = _parse_province_fixtures(doc2, url)
+                            prov2 = _parse_province_fixtures_dom_order(doc2, url)
                             if prov2:
                                 fixtures.extend([fx for fx in prov2 if _is_adult_football(fx.competition)])
                             lein2 = _parse_leinster_list(doc2, url)
@@ -956,6 +956,77 @@ def _parse_province_results(doc: HTMLParser, page_url: str) -> List[Fixture]:
     return out
 
 
+def _parse_province_fixtures_dom_order(doc: HTMLParser, page_url: str) -> List[Fixture]:
+    """Parse province fixtures by walking the DOM in order so each competition
+    block inherits the correct date from the nearest preceding fix_res_date.
+
+    This avoids the bug where selecting two separate CSS lists caused all
+    competitions to inherit the last date found (e.g., 6 Dec on Ulster).
+    """
+    out: List[Fixture] = []
+    try:
+        container = doc.css_first('#fixtures')
+    except Exception:
+        container = None
+    if not container:
+        container = doc
+
+    current_date_iso: Optional[str] = None
+    # Walk breadth-first through descendants to maintain DOM order
+    for node in container.traverse():  # type: ignore[attr-defined]
+        classes = node.attributes.get('class', '') if hasattr(node, 'attributes') else ''  # type: ignore
+        if 'fix_res_date' in classes:
+            date_text = node.text(strip=True)
+            try:
+                dt = dtparser.parse(date_text, dayfirst=True, fuzzy=True)
+                current_date_iso = dt.strftime('%Y-%m-%d')
+            except Exception:
+                current_date_iso = None
+            continue
+        if 'competition' in classes:
+            if not current_date_iso:
+                continue
+            comp_name_el = node.css_first('.competition-name')
+            comp_name = comp_name_el.text(strip=True) if comp_name_el else ''
+            home_el = node.css_first('.home_team a')
+            away_el = node.css_first('.away_team a')
+            time_el = node.css_first('.time')
+            venue_el = node.css_first('.more_info a')
+            home_score_el = node.css_first('.home_score')
+            away_score_el = node.css_first('.away_score')
+            home = home_el.text(strip=True) if home_el else ''
+            away = away_el.text(strip=True) if away_el else ''
+            time_text = _norm_time_str(time_el.text(strip=True) if time_el else '')
+            venue = venue_el.text(strip=True) if venue_el else None
+            hst = (home_score_el.text(strip=True) if home_score_el else '')
+            ast = (away_score_el.text(strip=True) if away_score_el else '')
+            if not (current_date_iso and home and away and time_text is not None):
+                continue
+            status = 'FT' if (hst or ast) else 'scheduled'
+            if time_text == '00:00':
+                if status == 'FT':
+                    time_text = '12:00'
+                else:
+                    continue
+            score = f"{hst}  {ast}" if (hst or ast) else ''
+            out.append(
+                Fixture(
+                    id=f"prov-{slugify(page_url)}-{current_date_iso.replace('-', '')}-{time_text.replace(':','')}-{slugify(comp_name or 'football')}-{slugify(home)[:16]}-{slugify(away)[:16]}",
+                    date=current_date_iso,
+                    time=time_text,
+                    competition=comp_name or 'Football',
+                    home=home,
+                    away=away,
+                    venue=venue,
+                    status=status,  # type: ignore[assignment]
+                    score=score,
+                    source='scraper',
+                    updated_at=iso_z(datetime.utcnow()),
+                )
+            )
+    return out
+
+
 def _fetch_province_ajax(client: httpx.Client, page_url: str, days_prev: int, days_after: int) -> List[Fixture]:
     """Fetch fixtures/results via the shared fixtures-results-ajax endpoint.
 
@@ -996,7 +1067,7 @@ def _fetch_province_ajax(client: httpx.Client, page_url: str, days_prev: int, da
     })
     if res_html:
         doc = HTMLParser(res_html)
-        items.extend(_parse_province_fixtures(doc, page_url))
+        items.extend(_parse_province_fixtures_dom_order(doc, page_url))
 
     # Fixtures window
     fix_html = get({
@@ -1011,7 +1082,7 @@ def _fetch_province_ajax(client: httpx.Client, page_url: str, days_prev: int, da
     })
     if fix_html:
         doc = HTMLParser(fix_html)
-        items.extend(_parse_province_fixtures(doc, page_url))
+        items.extend(_parse_province_fixtures_dom_order(doc, page_url))
 
     return items
 
