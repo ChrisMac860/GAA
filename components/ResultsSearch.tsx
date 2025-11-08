@@ -4,6 +4,7 @@ import type { Fixture } from "@/lib/data";
 import { formatTimeLondon } from "@/lib/dates";
 import { normalizeQuery, buildIndexEntry } from "@/lib/search";
 import { filterRecentResults } from "@/lib/filters";
+import { shortenCompetition } from "@/lib/competitions";
 
 export default function ResultsSearch({ results, initialQuery }: { results: Fixture[]; initialQuery: string }) {
   const [q, setQ] = useState(initialQuery ?? "");
@@ -74,7 +75,7 @@ export default function ResultsSearch({ results, initialQuery }: { results: Fixt
                   <li key={f.id} role="listitem">
                     <article className="rounded-2xl border border-gray-200 p-4 hover:shadow-sm">
                       <div className="flex items-center justify-between gap-2">
-                        <div className="text-sm text-gray-600 truncate" title={f.competition}>{f.competition}</div>
+                        <div className="text-sm text-gray-600 truncate" title={f.competition}>{shortenCompetition(f.competition)}</div>
                         <div className="text-sm font-medium text-gray-900">{formatTimeLondon(f.date, f.time)}</div>
                       </div>
                       <div className="mt-2 text-base font-semibold text-gray-900">
