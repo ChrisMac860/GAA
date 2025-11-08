@@ -86,36 +86,33 @@ def dedupe(fixtures: Iterable[Fixture]) -> List[Fixture]:
 
 
 def collapse_future_duplicates(fixtures: Iterable[Fixture]) -> List[Fixture]:
-    """If the same teams are scheduled in the same competition multiple times,
-    keep the soonest upcoming instance and drop later duplicates.
+    """Collapse duplicate future fixtures by team pair, keeping the earliest.
 
-    This protects against upstream pages that occasionally list a fixture twice
-    on different dates (e.g., stale page fragments). Results (FT) are unaffected.
+    Upstream pages can sometimes publish the same pairing twice with slightly
+    different competition strings (e.g. missing spaces) or re-posted dates.
+    We treat duplicates as "same home+away" and keep the soonest upcoming one.
+
+    Results (FT) are never collapsed.
     """
-    groups: dict[Tuple[str, str, str], List[Fixture]] = defaultdict(list)
+    groups: dict[Tuple[str, str], List[Fixture]] = defaultdict(list)
     for f in fixtures:
         if f.status == "FT":
-            # Never collapse results
             continue
-        comp_slug = slugify(f.competition)
-        key = (_norm_team(f.home), _norm_team(f.away), comp_slug)
+        key = (_norm_team(f.home), _norm_team(f.away))
         groups[key].append(f)
 
     keep_ids: set[str] = set()
-    # For each group, choose earliest by date then time
     for items in groups.values():
         if len(items) == 1:
             keep_ids.add(items[0].id)
             continue
         items_sorted = sorted(items, key=lambda x: (x.date, x.time))
-        # keep earliest only
         keep_ids.add(items_sorted[0].id)
 
     out: List[Fixture] = []
     for f in fixtures:
-        if f.status == "FT" or f.id in keep_ids or (
-            (_norm_team(f.home), _norm_team(f.away), slugify(f.competition)) not in groups
-        ):
+        key = (_norm_team(f.home), _norm_team(f.away))
+        if f.status == "FT" or (key in groups and f.id in keep_ids) or (key not in groups):
             out.append(f)
     out.sort(key=lambda f: (f.date, f.time))
     return out
