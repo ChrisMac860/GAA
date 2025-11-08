@@ -153,7 +153,11 @@ def fetch(config: dict) -> List[Fixture]:
     fixtures: List[Fixture] = []
     debug: list[dict[str, Any]] = []
 
-    headers = {"User-Agent": "gaa-scraper/0.1 (+https://example.local)"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-GB,en;q=0.9",
+    }
     with httpx.Client(headers=headers) as client:
         for url in urls:
             try:
@@ -569,7 +573,12 @@ def _parse_leinster_list(doc: HTMLParser, page_url: str) -> List[Fixture]:
     time_pat = re.compile(r"(\d{1,2}:\d{2})\s*(am|pm)?", re.IGNORECASE)
 
     for node in nodes:
-        classes = node.attributes.get('class', '') if hasattr(node, 'attributes') else ''  # type: ignore
+        attrs = getattr(node, 'attributes', None)
+        classes = (attrs.get('class') if isinstance(attrs, dict) else '')  # type: ignore
+        if classes is None:
+            classes = ''
+        else:
+            classes = str(classes)
         # Date headers
         if 'fix_res_date' in classes:
             date_text = node.text(strip=True)
@@ -969,12 +978,29 @@ def _parse_province_fixtures_dom_order(doc: HTMLParser, page_url: str) -> List[F
     except Exception:
         container = None
     if not container:
-        container = doc
+        # Use document root when the tab container is missing
+        container = getattr(doc, 'root', doc)
 
     current_date_iso: Optional[str] = None
     # Walk breadth-first through descendants to maintain DOM order
-    for node in container.traverse():  # type: ignore[attr-defined]
-        classes = node.attributes.get('class', '') if hasattr(node, 'attributes') else ''  # type: ignore
+    # selectolax Node has traverse(); HTMLParser.root is a Node
+    traverse = getattr(container, 'traverse', None)
+    if traverse is None and hasattr(container, 'root'):
+        container = container.root
+        traverse = getattr(container, 'traverse', None)
+    if traverse is None:
+        # last resort: iterate flat selection
+        nodes = doc.css('.fix_res_date, .competition')
+        seq = nodes
+    else:
+        seq = container.traverse()
+    for node in seq:  # type: ignore
+        attrs = getattr(node, 'attributes', None)
+        classes = (attrs.get('class') if isinstance(attrs, dict) else '')  # type: ignore
+        if classes is None:
+            classes = ''
+        else:
+            classes = str(classes)
         if 'fix_res_date' in classes:
             date_text = node.text(strip=True)
             try:
@@ -1067,7 +1093,10 @@ def _fetch_province_ajax(client: httpx.Client, page_url: str, days_prev: int, da
     })
     if res_html:
         doc = HTMLParser(res_html)
-        items.extend(_parse_province_fixtures_dom_order(doc, page_url))
+        parsed = _parse_province_fixtures_dom_order(doc, page_url)
+        if not parsed:
+            parsed = _parse_leinster_list(doc, page_url)
+        items.extend(parsed)
 
     # Fixtures window
     fix_html = get({
@@ -1082,7 +1111,10 @@ def _fetch_province_ajax(client: httpx.Client, page_url: str, days_prev: int, da
     })
     if fix_html:
         doc = HTMLParser(fix_html)
-        items.extend(_parse_province_fixtures_dom_order(doc, page_url))
+        parsed = _parse_province_fixtures_dom_order(doc, page_url)
+        if not parsed:
+            parsed = _parse_leinster_list(doc, page_url)
+        items.extend(parsed)
 
     return items
 

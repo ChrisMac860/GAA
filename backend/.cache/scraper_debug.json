@@ -2,60 +2,39 @@
   "pages": [
     {
       "url": "https://ulster.gaa.ie/fixtures-results/",
-      "rows_seen": 68,
+      "rows_seen": 151,
       "tribe_added": 0,
-      "ajax_added": 0,
-      "fixtures_total": 32,
+      "ajax_added": 33,
+      "fixtures_total": 71,
       "wp_routes_hint": null
     },
     {
       "url": "https://connachtgaa.ie/fixtures-results/",
-      "rows_seen": 105,
+      "rows_seen": 152,
       "tribe_added": 0,
       "ajax_added": 20,
-      "fixtures_total": 61,
+      "fixtures_total": 106,
       "wp_routes_hint": null
     },
     {
       "url": "https://munster.gaa.ie/fixtures-results/",
-      "rows_seen": 150,
+      "rows_seen": 302,
       "tribe_added": 0,
-      "ajax_added": 0,
-      "fixtures_total": 112,
+      "ajax_added": 13,
+      "fixtures_total": 208,
       "wp_routes_hint": null
     },
     {
       "url": "https://leinstergaa.ie/fixtures-results/",
-      "rows_seen": 0,
+      "rows_seen": 39,
       "tribe_added": 0,
-      "ajax_added": 0,
-      "fixtures_total": 112,
-      "wp_routes_hint": [
-        "/tribe/event-aggregator/v1",
-        "/tribe/event-aggregator/v1/import/(?P<import_id>\\w+)/batch",
-        "/tribe/event-aggregator/v1/import/(?P<import_id>\\w+)/state",
-        "/tribe/events/v1",
-        "/tribe/events/v1/doc",
-        "/tribe/events/v1/events",
-        "/tribe/events/v1/events/(?P<id>\\d+)",
-        "/tribe/events/v1/events/by-slug/(?P<slug>[^/]+)",
-        "/tribe/events/v1/venues",
-        "/tribe/events/v1/venues/(?P<id>\\d+)",
-        "/tribe/events/v1/venues/by-slug/(?P<slug>[^/]+)",
-        "/tribe/events/v1/organizers",
-        "/tribe/events/v1/organizers/(?P<id>\\d+)",
-        "/tribe/events/v1/organizers/by-slug/(?P<slug>[^/]+)",
-        "/tribe/events/v1/categories",
-        "/tribe/events/v1/categories/(?P<id>\\d+)",
-        "/tribe/events/v1/tags",
-        "/tribe/events/v1/tags/(?P<id>\\d+)",
-        "/tribe/views/v2",
-        "/tribe/views/v2/html"
-      ]
+      "ajax_added": 39,
+      "fixtures_total": 232,
+      "wp_routes_hint": null
     }
   ],
   "counts": {
-    "raw": 112,
-    "deduped": 112
+    "raw": 232,
+    "deduped": 224
   }
 }
