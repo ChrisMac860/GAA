@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Grattan Park, Inniskeen"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Owenbeg"
   },
   {
@@ -122,8 +122,36 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Owenbeg"
+  },
+  {
+    "away": "Saval",
+    "competition": "2025 Ulster GAA Football Intermediate Club ChampionshipQuarter Final 2",
+    "date": "2025-10-26",
+    "home": "Clonoe O`Rahilly's CLG",
+    "id": "lein-httpsulstergaaiefixtures-results-20251026-1700-2025-ulster-gaa-football-intermediate-club-championshipquarter-final-2-clonoe-orahillys-saval",
+    "score": "1-18 - 0-12",
+    "search_index": "clonoe o rahilly s clg saval 2025 ulster gaa football intermediate club championshipquarter final 2 o neills healy park omagh clonoe o rahilly s clg saval 2025 ulster gaa football intermediate club championshipquarter final 2 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2025-11-09T06:27:01Z",
+    "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Erne Gaels Belleek",
+    "competition": "2025 Ulster GAA Football Senior Club ChampionshipQuarter Final 1",
+    "date": "2025-10-26",
+    "home": "Kingscourt Stars",
+    "id": "lein-httpsulstergaaiefixtures-results-20251026-1730-2025-ulster-gaa-football-senior-club-championshipquarter-final-1-kingscourt-stars-erne-gaels-belle",
+    "score": "1-16 - 3-15",
+    "search_index": "kingscourt stars erne gaels belleek 2025 ulster gaa football senior club championshipquarter final 1 kingspan breffni cavan kingscourt stars erne gaels belleek 2025 ulster gaa football senior club championshipquarter final 1 kingspan breffni cavan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:30",
+    "updated_at": "2025-11-09T06:27:01Z",
+    "venue": "Kingspan Breffni, Cavan"
   },
   {
     "away": "Cuchullains Dun Lathaí",
@@ -136,8 +164,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2025-11-08T18:25:20Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Owenbeg"
+  },
+  {
+    "away": "Kilcoo",
+    "competition": "2025 Ulster GAA Football Senior Club ChampionshipQuarter Final 2",
+    "date": "2025-10-26",
+    "home": "Loughmacrory St. Teresa's",
+    "id": "lein-httpsulstergaaiefixtures-results-20251026-1915-2025-ulster-gaa-football-senior-club-championshipquarter-final-2-loughmacrory-st--kilcoo",
+    "score": "0-11 - 0-16",
+    "search_index": "loughmacrory st teresa s kilcoo 2025 ulster gaa football senior club championshipquarter final 2 o neills healy park omagh loughmacrory saint teresa s kilcoo 2025 ulster gaa football senior club championshipquarter final 2 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "19:15",
+    "updated_at": "2025-11-09T06:27:01Z",
+    "venue": "O'Neills Healy Park, Omagh"
   },
   {
     "away": "Naomh Úna CLG/St Agnes' GAC",
@@ -150,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -164,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Owenbeg"
   },
   {
@@ -178,22 +220,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Owenbeg"
-  },
-  {
-    "away": "CLG Carndomhnaigh",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 3",
-    "date": "2025-11-02",
-    "home": "Emyvale",
-    "id": "prov-httpsulstergaaiefixtures-results-20251102-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-3-emyvale-clg-carndomhnaig",
-    "score": "1-16 \u0013 2-12",
-    "search_index": "emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 st tiernach s park clones emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-08T18:25:21Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Munterconnaught",
@@ -206,8 +234,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
+  },
+  {
+    "away": "CLG Carndomhnaigh",
+    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 3",
+    "date": "2025-11-02",
+    "home": "Emyvale",
+    "id": "prov-httpsulstergaaiefixtures-results-20251102-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-3-emyvale-clg-carndomhnaig",
+    "score": "1-16 \u0013 2-12",
+    "search_index": "emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 st tiernach s park clones emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-09T06:27:01Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Clogher Eire Óg",
@@ -220,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Owenbeg"
   },
   {
@@ -234,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Grattan Park, Inniskeen"
   },
   {
@@ -248,7 +290,63 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-08T18:25:21Z",
+    "updated_at": "2025-11-09T06:27:01Z",
     "venue": "Kingspan Breffni, Cavan"
+  },
+  {
+    "away": "Saval",
+    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 2",
+    "date": "2025-11-08",
+    "home": "Clonoe O`Rahilly's CLG",
+    "id": "prov-httpsulstergaaiefixtures-results-20251108-1700-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-2-clonoe-orahillys-saval",
+    "score": "1-18 \u0013 0-12",
+    "search_index": "clonoe o rahilly s clg saval 2025 ulster gaa football intermediate club championship quarter final 2 o neills healy park omagh clonoe o rahilly s clg saval 2025 ulster gaa football intermediate club championship quarter final 2 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2025-11-09T06:27:01Z",
+    "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Erne Gaels Belleek",
+    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 1",
+    "date": "2025-11-08",
+    "home": "Kingscourt Stars",
+    "id": "prov-httpsulstergaaiefixtures-results-20251108-1730-2025-ulster-gaa-football-senior-club-championship-quarter-final-1-kingscourt-stars-erne-gaels-belle",
+    "score": "1-16 \u0013 3-15",
+    "search_index": "kingscourt stars erne gaels belleek 2025 ulster gaa football senior club championship quarter final 1 kingspan breffni cavan kingscourt stars erne gaels belleek 2025 ulster gaa football senior club championship quarter final 1 kingspan breffni cavan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:30",
+    "updated_at": "2025-11-09T06:27:01Z",
+    "venue": "Kingspan Breffni, Cavan"
+  },
+  {
+    "away": "North London Shamrocks",
+    "competition": "Club Senior Football Championship 2025- Knockout Quarter Final 2",
+    "date": "2025-11-08",
+    "home": "Ballina Stephenites",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251108-1830-club-senior-football-championship-2025-knockout-quarter-final-2-ballina-stepheni-north-london-sha",
+    "score": "1-15 \u0013 0-10",
+    "search_index": "ballina stephenites north london shamrocks club senior football championship 2025- knockout quarter final 2 connacht gaa centre ballina stephenites north london shamrocks club senior football championship 2025- knockout quarter final 2 connacht gaa centre",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:30",
+    "updated_at": "2025-11-09T06:27:04Z",
+    "venue": "Connacht GAA Centre"
+  },
+  {
+    "away": "Kilcoo",
+    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 2",
+    "date": "2025-11-08",
+    "home": "Loughmacrory St. Teresa's",
+    "id": "prov-httpsulstergaaiefixtures-results-20251108-1915-2025-ulster-gaa-football-senior-club-championship-quarter-final-2-loughmacrory-st--kilcoo",
+    "score": "0-11 \u0013 0-16",
+    "search_index": "loughmacrory st teresa s kilcoo 2025 ulster gaa football senior club championship quarter final 2 o neills healy park omagh loughmacrory saint teresa s kilcoo 2025 ulster gaa football senior club championship quarter final 2 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "19:15",
+    "updated_at": "2025-11-09T06:27:01Z",
+    "venue": "O'Neills Healy Park, Omagh"
   }
 ]
