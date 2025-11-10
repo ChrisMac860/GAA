@@ -1,5 +1,19 @@
 [
   {
+    "first_kickoff": "2025-11-22T14:30:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 1",
+    "popularity": 130,
+    "slug": "2025-ulster-gaa-football-intermediate-club-championship-semi-final-1"
+  },
+  {
+    "first_kickoff": "2025-11-23T13:15:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Intermediate Club ChampionshipSemi Final 2",
+    "popularity": 130,
+    "slug": "2025-ulster-gaa-football-intermediate-club-championshipsemi-final-2"
+  },
+  {
     "first_kickoff": "2025-11-15T13:30:00Z",
     "match_count": 1,
     "name": "2025 Ulster GAA Football Junior Club Championship Semi Final 1",
@@ -33,6 +47,27 @@
     "name": "AIB Leinster Club SFC 25Quarter-Final",
     "popularity": 80,
     "slug": "aib-leinster-club-sfc-25quarter-final"
+  },
+  {
+    "first_kickoff": "2025-11-15T13:15:00Z",
+    "match_count": 1,
+    "name": "Munster SFC Club Championship Quarter Final",
+    "popularity": 80,
+    "slug": "munster-sfc-club-championship-quarter-final"
+  },
+  {
+    "first_kickoff": "2025-11-22T16:30:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Senior Club Championship Semi Final 1",
+    "popularity": 80,
+    "slug": "2025-ulster-gaa-football-senior-club-championship-semi-final-1"
+  },
+  {
+    "first_kickoff": "2025-11-23T15:30:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Senior Club ChampionshipSemi Final 2",
+    "popularity": 80,
+    "slug": "2025-ulster-gaa-football-senior-club-championshipsemi-final-2"
   },
   {
     "first_kickoff": "2025-11-15T13:30:00Z",
