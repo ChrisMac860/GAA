@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-14T06:30:50Z",
+    "updated_at": "2025-11-14T18:28:24Z",
     "venue": "Clonmel Sportsfield"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:33Z",
+    "updated_at": "2025-11-14T18:28:18Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:38Z",
+    "updated_at": "2025-11-14T18:28:23Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:38Z",
+    "updated_at": "2025-11-14T18:28:23Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:33Z",
+    "updated_at": "2025-11-14T18:28:18Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:38Z",
+    "updated_at": "2025-11-14T18:28:23Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:38Z",
+    "updated_at": "2025-11-14T18:28:23Z",
     "venue": "Páirc Seán Uí Eslín, Ballinamore"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:38Z",
+    "updated_at": "2025-11-14T18:28:23Z",
     "venue": "Pearse Stadium"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:38Z",
+    "updated_at": "2025-11-14T18:28:23Z",
     "venue": "Ballyforan"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2025-11-14T06:30:33Z",
+    "updated_at": "2025-11-14T18:28:18Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -150,22 +150,8 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-11-14T06:30:33Z",
+    "updated_at": "2025-11-14T18:28:18Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
-  },
-  {
-    "away": "St Martin's GAA Club",
-    "competition": "AIB Leinster Club IFC 2025Quarter-Final",
-    "date": "2025-11-23",
-    "home": "Tubberclair Gaa Club",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251123-1300-aib-leinster-club-ifc-2025quarter-final-tubberclair-gaa--st-martins-gaa-c",
-    "score": "",
-    "search_index": "tubberclair gaa club st martin s gaa club aib leinster club ifc 2025quarter-final the downs tubberclair gaa club saint martin s gaa club aib leinster club ifc 2025quarter-final the downs",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-14T06:30:51Z",
-    "venue": "The Downs"
   },
   {
     "away": "Glenullin",
@@ -178,7 +164,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-14T06:30:33Z",
+    "updated_at": "2025-11-14T18:28:18Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Páirc Tailteann, Navan"
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Glenisk O Connor Park"
   },
   {
@@ -220,7 +206,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Stabannon Parnells"
   },
   {
@@ -234,7 +220,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Glennon Brothers Pearse Park"
   },
   {
@@ -248,7 +234,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Netwatch Carlow Training Centre"
   },
   {
@@ -258,12 +244,12 @@
     "home": "Ballinagore",
     "id": "lein-httpsleinstergaaiefixtures-results-20251123-1330-aib-leinster-club-jfc-25quarter-final-ballinagore-barcelona-gaels-",
     "score": "",
-    "search_index": "ballinagore barcelona gaels gaa club aib leinster club jfc 25quarter-final kinnegad ballinagore barcelona gaels gaa club aib leinster club jfc 25quarter-final kinnegad",
+    "search_index": "ballinagore barcelona gaels gaa club aib leinster club jfc 25quarter-final 3g pitch st lomans mullingar ballinagore barcelona gaels gaa club aib leinster club jfc 25quarter-final 3g pitch saint lomans mullingar",
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
-    "venue": "Kinnegad"
+    "updated_at": "2025-11-14T18:28:25Z",
+    "venue": "3G Pitch St. Lomans Mullingar"
   },
   {
     "away": "Cloughbawn",
@@ -276,7 +262,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Manguard Park"
   },
   {
@@ -290,7 +276,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Integral GAA Grounds"
   },
   {
@@ -304,7 +290,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -318,7 +304,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Chadwicks Wexford Park"
   },
   {
@@ -332,8 +318,22 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-14T06:30:33Z",
+    "updated_at": "2025-11-14T18:28:18Z",
     "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "St Martin's GAA Club",
+    "competition": "AIB Leinster Club IFC 2025Quarter-Final",
+    "date": "2025-11-23",
+    "home": "Tubberclair Gaa Club",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251123-1530-aib-leinster-club-ifc-2025quarter-final-tubberclair-gaa--st-martins-gaa-c",
+    "score": "",
+    "search_index": "tubberclair gaa club st martin s gaa club aib leinster club ifc 2025quarter-final 3g pitch st lomans mullingar tubberclair gaa club saint martin s gaa club aib leinster club ifc 2025quarter-final 3g pitch saint lomans mullingar",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "15:30",
+    "updated_at": "2025-11-14T18:28:25Z",
+    "venue": "3G Pitch St. Lomans Mullingar"
   },
   {
     "away": "Summerhill",
@@ -346,7 +346,21 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:15",
-    "updated_at": "2025-11-14T06:30:51Z",
+    "updated_at": "2025-11-14T18:28:25Z",
     "venue": "Cedral St Conleth's Newbridge"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "PPS Senior A Football Championship 2025/26- Group 2 Round 2",
+    "date": "2025-11-28",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251128-1230-pps-senior-a-football-championship-202526-group-2-round-2-sligo-leitrim",
+    "score": "",
+    "search_index": "sligo leitrim pps senior a football championship 2025 26- group 2 round 2 markievicz park sligo sligo leitrim pps senior a football championship 2025 26- group 2 round 2 markievicz park sligo",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "12:30",
+    "updated_at": "2025-11-14T18:28:23Z",
+    "venue": "Markievicz Park, Sligo"
   }
 ]
