@@ -1,47 +1,5 @@
 [
   {
-    "away": "Naomh Úna CLG/St Agnes' GAC",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 1",
-    "date": "2025-11-01",
-    "home": "St Patrick's Donagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20251101-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-1-st-patricks-dona-naomh-una-clgst-",
-    "score": "2-11 \u0013 1-7",
-    "search_index": "st patrick s donagh naomh una clg st agnes gac 2025 ulster gaa football junior club championship quarter final 1 brewster park enniskillen saint patrick s donagh saint una clg saint agnes gac 2025 ulster gaa football junior club championship quarter final 1 brewster park enniskillen",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-15T18:25:02Z",
-    "venue": "Brewster Park, Enniskillen"
-  },
-  {
-    "away": "Naomh Eargnait, Muine Glás",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship First Round",
-    "date": "2025-11-01",
-    "home": "Glenullin",
-    "id": "prov-httpsulstergaaiefixtures-results-20251101-1600-2025-ulster-gaa-football-intermediate-club-championship-first-round-glenullin-naomh-eargnait-m",
-    "score": "2-17 \u0013 0-6",
-    "search_index": "glenullin naomh eargnait muine glas 2025 ulster gaa football intermediate club championship first round owenbeg glenullin saint eargnait muine glas 2025 ulster gaa football intermediate club championship first round owenbeg",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:00",
-    "updated_at": "2025-11-15T18:25:02Z",
-    "venue": "Owenbeg"
-  },
-  {
-    "away": "Cuchullains Dun Lathaí",
-    "competition": "2025 Ulster GAA Football Senior Club Championship First Round",
-    "date": "2025-11-01",
-    "home": "Sean O'Leary GAC Newbridge",
-    "id": "prov-httpsulstergaaiefixtures-results-20251101-1800-2025-ulster-gaa-football-senior-club-championship-first-round-sean-oleary-gac--cuchullains-dun-",
-    "score": "1-14 \u0013 0-11",
-    "search_index": "sean o leary gac newbridge cuchullains dun lathai 2025 ulster gaa football senior club championship first round owenbeg sean o leary gac newbridge cuchullains dun lathai 2025 ulster gaa football senior club championship first round owenbeg",
-    "source": "scraper",
-    "status": "FT",
-    "time": "18:00",
-    "updated_at": "2025-11-15T18:25:02Z",
-    "venue": "Owenbeg"
-  },
-  {
     "away": "CLG Carndomhnaigh",
     "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 3",
     "date": "2025-11-02",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "Owenbeg"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "Grattan Park, Inniskeen"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -150,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2025-11-15T18:25:04Z",
+    "updated_at": "2025-11-16T06:28:21Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -164,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -178,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -192,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -206,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:04Z",
+    "updated_at": "2025-11-16T06:28:21Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -220,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:04Z",
+    "updated_at": "2025-11-16T06:28:21Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -234,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:04Z",
+    "updated_at": "2025-11-16T06:28:21Z",
     "venue": "Kilcoyne Park"
   },
   {
@@ -248,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -262,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:02Z",
+    "updated_at": "2025-11-16T06:28:17Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -276,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:04Z",
+    "updated_at": "2025-11-16T06:28:21Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -290,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-15T18:25:04Z",
+    "updated_at": "2025-11-16T06:28:21Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   }
 ]
