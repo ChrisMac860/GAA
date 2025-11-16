@@ -5,13 +5,55 @@
     "date": "2025-11-16",
     "home": "Emyvale",
     "id": "prov-httpsulstergaaiefixtures-results-20251116-1330-2025-ulster-gaa-football-junior-club-championship-semi-final-2-emyvale-munterconnaught",
-    "score": "",
+    "score": "1-19 \u0013 0-8",
     "search_index": "emyvale munterconnaught 2025 ulster gaa football junior club championship semi final 2 shamrock park roslea emyvale munterconnaught 2025 ulster gaa football junior club championship semi final 2 shamrock park roslea",
     "source": "scraper",
-    "status": "scheduled",
+    "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "Shamrock Park, Roslea"
+  },
+  {
+    "away": "Cárna-Caiseal",
+    "competition": "Club Junior Football Championship 2025 Semi-Final 1",
+    "date": "2025-11-16",
+    "home": "Achadh an Mheasa",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-1-achadh-an-mheasa-carna-caiseal",
+    "score": "1-10 \u0013 1-9",
+    "search_index": "achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:58Z",
+    "venue": "Páirc Seán Uí Eslín, Ballinamore"
+  },
+  {
+    "away": "Maigh Cuilinn",
+    "competition": "Club Senior Football Championship 2025- Knockout Semi-Final 2",
+    "date": "2025-11-16",
+    "home": "Leitrim Gaels/Gaeil Liatroma",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-senior-football-championship-2025-knockout-semi-final-2-leitrim-gaelsgae-maigh-cuilinn",
+    "score": "1-9 \u0013 4-13",
+    "search_index": "leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:58Z",
+    "venue": "Pearse Stadium"
+  },
+  {
+    "away": "St. Croans",
+    "competition": "Club Junior Football Championship 2025 Semi-Final 2",
+    "date": "2025-11-16",
+    "home": "Kiltimagh",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-2-kiltimagh-st-croans",
+    "score": "1-14 \u0013 2-11",
+    "search_index": "kiltimagh st croans club junior football championship 2025 semi-final 2 ballyforan kiltimagh saint croans club junior football championship 2025 semi-final 2 ballyforan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:58Z",
+    "venue": "Ballyforan"
   },
   {
     "away": "Maigh Cuilinn",
@@ -24,50 +66,22 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:22Z",
+    "updated_at": "2025-11-16T18:25:59Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
-    "away": "Cárna-Caiseal",
-    "competition": "Club Junior Football Championship 2025 Semi-Final 1",
-    "date": "2025-11-16",
-    "home": "Achadh an Mheasa",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-1-achadh-an-mheasa-carna-caiseal",
+    "away": "Emyvale",
+    "competition": "2025 Ulster GAA Football Junior Club Championship Final",
+    "date": "2025-11-22",
+    "home": "Clogher Eire Óg",
+    "id": "prov-httpsulstergaaiefixtures-results-20251122-1300-2025-ulster-gaa-football-junior-club-championship-final-clogher-eire-og-emyvale",
     "score": "",
-    "search_index": "achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore",
+    "search_index": "clogher eire og emyvale 2025 ulster gaa football junior club championship final shamrock park roslea clogher eire og emyvale 2025 ulster gaa football junior club championship final shamrock park roslea",
     "source": "scraper",
     "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-16T06:28:22Z",
-    "venue": "Páirc Seán Uí Eslín, Ballinamore"
-  },
-  {
-    "away": "Maigh Cuilinn",
-    "competition": "Club Senior Football Championship 2025- Knockout Semi-Final 2",
-    "date": "2025-11-16",
-    "home": "Leitrim Gaels/Gaeil Liatroma",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-senior-football-championship-2025-knockout-semi-final-2-leitrim-gaelsgae-maigh-cuilinn",
-    "score": "",
-    "search_index": "leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-16T06:28:22Z",
-    "venue": "Pearse Stadium"
-  },
-  {
-    "away": "St. Croans",
-    "competition": "Club Junior Football Championship 2025 Semi-Final 2",
-    "date": "2025-11-16",
-    "home": "Kiltimagh",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-2-kiltimagh-st-croans",
-    "score": "",
-    "search_index": "kiltimagh st croans club junior football championship 2025 semi-final 2 ballyforan kiltimagh saint croans club junior football championship 2025 semi-final 2 ballyforan",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-16T06:28:22Z",
-    "venue": "Ballyforan"
+    "time": "13:00",
+    "updated_at": "2025-11-16T18:25:56Z",
+    "venue": "Shamrock Park, Roslea"
   },
   {
     "away": "Clonoe O`Rahilly's CLG",
@@ -80,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -94,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -108,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -122,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -136,50 +150,22 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-16T06:28:22Z",
+    "updated_at": "2025-11-16T18:25:59Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
-    "away": "Portarlington",
-    "competition": "AIB Leinster Club SFC 25Quarter-Final",
-    "date": "2025-11-29",
-    "home": "Naomh Mairtin",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1330-aib-leinster-club-sfc-25quarter-final-naomh-mairtin-portarlington",
-    "score": "",
-    "search_index": "naomh mairtin portarlington aib leinster club sfc 25quarter-final integral gaa grounds saint mairtin portarlington aib leinster club sfc 25quarter-final integral gaa grounds",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-16T06:28:34Z",
-    "venue": "Integral GAA Grounds"
-  },
-  {
-    "away": "Tullamore",
-    "competition": "AIB Leinster Club SFC 25Quarter-Final",
-    "date": "2025-11-29",
-    "home": "Na Dúnta",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1330-aib-leinster-club-sfc-25quarter-final-na-dunta-tullamore",
-    "score": "",
-    "search_index": "na dunta tullamore aib leinster club sfc 25quarter-final teg cusack park mullingar na dunta tullamore aib leinster club sfc 25quarter-final teg cusack park mullingar",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-16T06:28:34Z",
-    "venue": "TEG Cusack Park, Mullingar"
-  },
-  {
     "away": "Ballyboden/St Enda's",
-    "competition": "AIB Leinster Club SFC 25Quarter-Final",
+    "competition": "AIB Leinster Club SFC 25S-Final",
     "date": "2025-11-29",
-    "home": "Castletown-Liam Mellows",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1330-aib-leinster-club-sfc-25quarter-final-castletown-liam--ballybodenst-end",
+    "home": "Tullamore",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1330-aib-leinster-club-sfc-25s-final-tullamore-ballybodenst-end",
     "score": "",
-    "search_index": "castletown-liam mellows ballyboden st enda s aib leinster club sfc 25quarter-final chadwicks wexford park castletown-liam mellows ballyboden saint enda s aib leinster club sfc 25quarter-final chadwicks wexford park",
+    "search_index": "tullamore ballyboden st enda s aib leinster club sfc 25s-final glenisk o connor park tullamore ballyboden saint enda s aib leinster club sfc 25s-final glenisk o connor park",
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:34Z",
-    "venue": "Chadwicks Wexford Park"
+    "updated_at": "2025-11-16T18:26:03Z",
+    "venue": "Glenisk O Connor Park"
   },
   {
     "away": "Tubberclair Gaa Club",
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:34Z",
+    "updated_at": "2025-11-16T18:26:03Z",
     "venue": ""
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:34Z",
+    "updated_at": "2025-11-16T18:26:03Z",
     "venue": ""
   }
 ]

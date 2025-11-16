@@ -1,19 +1,5 @@
 [
   {
-    "away": "CLG Carndomhnaigh",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 3",
-    "date": "2025-11-02",
-    "home": "Emyvale",
-    "id": "prov-httpsulstergaaiefixtures-results-20251102-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-3-emyvale-clg-carndomhnaig",
-    "score": "1-16 \u0013 2-12",
-    "search_index": "emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 st tiernach s park clones emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-16T06:28:17Z",
-    "venue": "St. Tiernach's Park, Clones"
-  },
-  {
     "away": "Munterconnaught",
     "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 4",
     "date": "2025-11-02",
@@ -24,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
+  },
+  {
+    "away": "CLG Carndomhnaigh",
+    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 3",
+    "date": "2025-11-02",
+    "home": "Emyvale",
+    "id": "prov-httpsulstergaaiefixtures-results-20251102-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-3-emyvale-clg-carndomhnaig",
+    "score": "1-16 \u0013 2-12",
+    "search_index": "emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 st tiernach s park clones emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:56Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Clogher Eire Óg",
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "Owenbeg"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "Grattan Park, Inniskeen"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2025-11-16T06:28:21Z",
+    "updated_at": "2025-11-16T18:25:58Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:21Z",
+    "updated_at": "2025-11-16T18:25:58Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:21Z",
+    "updated_at": "2025-11-16T18:25:58Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:21Z",
+    "updated_at": "2025-11-16T18:25:58Z",
     "venue": "Kilcoyne Park"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:17Z",
+    "updated_at": "2025-11-16T18:25:56Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:21Z",
+    "updated_at": "2025-11-16T18:25:58Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -248,7 +248,63 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T06:28:21Z",
+    "updated_at": "2025-11-16T18:25:58Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
+  },
+  {
+    "away": "Munterconnaught",
+    "competition": "2025 Ulster GAA Football Junior Club Championship Semi Final 2",
+    "date": "2025-11-16",
+    "home": "Emyvale",
+    "id": "prov-httpsulstergaaiefixtures-results-20251116-1330-2025-ulster-gaa-football-junior-club-championship-semi-final-2-emyvale-munterconnaught",
+    "score": "1-19 \u0013 0-8",
+    "search_index": "emyvale munterconnaught 2025 ulster gaa football junior club championship semi final 2 shamrock park roslea emyvale munterconnaught 2025 ulster gaa football junior club championship semi final 2 shamrock park roslea",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:56Z",
+    "venue": "Shamrock Park, Roslea"
+  },
+  {
+    "away": "Cárna-Caiseal",
+    "competition": "Club Junior Football Championship 2025 Semi-Final 1",
+    "date": "2025-11-16",
+    "home": "Achadh an Mheasa",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-1-achadh-an-mheasa-carna-caiseal",
+    "score": "1-10 \u0013 1-9",
+    "search_index": "achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:58Z",
+    "venue": "Páirc Seán Uí Eslín, Ballinamore"
+  },
+  {
+    "away": "Maigh Cuilinn",
+    "competition": "Club Senior Football Championship 2025- Knockout Semi-Final 2",
+    "date": "2025-11-16",
+    "home": "Leitrim Gaels/Gaeil Liatroma",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-senior-football-championship-2025-knockout-semi-final-2-leitrim-gaelsgae-maigh-cuilinn",
+    "score": "1-9 \u0013 4-13",
+    "search_index": "leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:58Z",
+    "venue": "Pearse Stadium"
+  },
+  {
+    "away": "St. Croans",
+    "competition": "Club Junior Football Championship 2025 Semi-Final 2",
+    "date": "2025-11-16",
+    "home": "Kiltimagh",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-2-kiltimagh-st-croans",
+    "score": "1-14 \u0013 2-11",
+    "search_index": "kiltimagh st croans club junior football championship 2025 semi-final 2 ballyforan kiltimagh saint croans club junior football championship 2025 semi-final 2 ballyforan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-11-16T18:25:58Z",
+    "venue": "Ballyforan"
   }
 ]
