@@ -1,47 +1,5 @@
 [
   {
-    "away": "Munterconnaught",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 4",
-    "date": "2025-11-02",
-    "home": "Clonmore Robert Emmets",
-    "id": "prov-httpsulstergaaiefixtures-results-20251102-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-4-clonmore-robert--munterconnaught",
-    "score": "2-15 \u0013 1-19",
-    "search_index": "clonmore robert emmets munterconnaught 2025 ulster gaa football junior club championship quarter final 4 box-it athletic grounds armagh clonmore robert emmets munterconnaught 2025 ulster gaa football junior club championship quarter final 4 box-it athletic grounds armagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-16T18:25:56Z",
-    "venue": "BOX-IT Athletic Grounds, Armagh"
-  },
-  {
-    "away": "CLG Carndomhnaigh",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 3",
-    "date": "2025-11-02",
-    "home": "Emyvale",
-    "id": "prov-httpsulstergaaiefixtures-results-20251102-1330-2025-ulster-gaa-football-junior-club-championship-quarter-final-3-emyvale-clg-carndomhnaig",
-    "score": "1-16 \u0013 2-12",
-    "search_index": "emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 st tiernach s park clones emyvale clg carndomhnaigh 2025 ulster gaa football junior club championship quarter final 3 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-16T18:25:56Z",
-    "venue": "St. Tiernach's Park, Clones"
-  },
-  {
-    "away": "Clogher Eire Óg",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Quarter Final 2",
-    "date": "2025-11-02",
-    "home": "St Marys Slaughtmanus GAC",
-    "id": "prov-httpsulstergaaiefixtures-results-20251102-1530-2025-ulster-gaa-football-junior-club-championship-quarter-final-2-st-marys-slaught-clogher-eire-og",
-    "score": "2-8 \u0013 5-15",
-    "search_index": "st marys slaughtmanus gac clogher eire og 2025 ulster gaa football junior club championship quarter final 2 owenbeg saint marys slaughtmanus gac clogher eire og 2025 ulster gaa football junior club championship quarter final 2 owenbeg",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:30",
-    "updated_at": "2025-11-16T18:25:56Z",
-    "venue": "Owenbeg"
-  },
-  {
     "away": "Naomh Columba",
     "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 3",
     "date": "2025-11-08",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "Grattan Park, Inniskeen"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -150,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -164,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -178,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -192,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "Kilcoyne Park"
   },
   {
@@ -206,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -220,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -234,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -248,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -262,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:56Z",
+    "updated_at": "2025-11-17T06:31:04Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -276,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "Páirc Seán Uí Eslín, Ballinamore"
   },
   {
@@ -290,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "Pearse Stadium"
   },
   {
@@ -304,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-16T18:25:58Z",
+    "updated_at": "2025-11-17T06:31:11Z",
     "venue": "Ballyforan"
   }
 ]
