@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-18T06:29:57Z",
+    "updated_at": "2025-11-18T18:29:47Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-18T06:30:13Z",
+    "updated_at": "2025-11-18T18:29:52Z",
     "venue": "Clonmel Sportsfield"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-18T06:30:13Z",
+    "updated_at": "2025-11-18T18:29:52Z",
     "venue": "Kildorrery GAA"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2025-11-18T06:29:57Z",
+    "updated_at": "2025-11-18T18:29:47Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-11-18T06:29:57Z",
+    "updated_at": "2025-11-18T18:29:47Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-18T06:30:13Z",
+    "updated_at": "2025-11-18T18:29:52Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -94,21 +94,21 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-18T06:30:13Z",
+    "updated_at": "2025-11-18T18:29:52Z",
     "venue": "Corofin"
   },
   {
-    "away": "ABK Desmonds",
+    "away": "Askeaton Ballysteen Kilcornan",
     "competition": "Munster IFC Club Championship Semi Final",
     "date": "2025-11-23",
     "home": "Aghabullogue",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-aghabullogue-abk-desmonds",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-aghabullogue-askeaton-ballyst",
     "score": "",
-    "search_index": "aghabullogue abk desmonds munster ifc club championship semi final supervalu pairc ui chaoimh cork aghabullogue abk desmonds munster ifc club championship semi final supervalu pairc ui chaoimh cork",
+    "search_index": "aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork",
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-18T06:30:13Z",
+    "updated_at": "2025-11-18T18:29:52Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-18T06:29:57Z",
+    "updated_at": "2025-11-18T18:29:47Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-18T06:30:01Z",
+    "updated_at": "2025-11-18T18:29:49Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-18T06:29:57Z",
+    "updated_at": "2025-11-18T18:29:47Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-18T06:30:13Z",
+    "updated_at": "2025-11-18T18:29:52Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-18T06:30:01Z",
+    "updated_at": "2025-11-18T18:29:49Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -192,64 +192,8 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-18T06:30:01Z",
+    "updated_at": "2025-11-18T18:29:49Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
-  },
-  {
-    "away": "Ballyboden/St Enda's",
-    "competition": "AIB Leinster Club SFC 25S-Final",
-    "date": "2025-11-29",
-    "home": "Tullamore",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1330-aib-leinster-club-sfc-25s-final-tullamore-ballybodenst-end",
-    "score": "",
-    "search_index": "tullamore ballyboden st enda s aib leinster club sfc 25s-final glenisk o connor park tullamore ballyboden saint enda s aib leinster club sfc 25s-final glenisk o connor park",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-18T06:30:14Z",
-    "venue": "Glenisk O Connor Park"
-  },
-  {
-    "away": "Tubberclair Gaa Club",
-    "competition": "AIB Leinster Club IFC 2025S-Final",
-    "date": "2025-11-29",
-    "home": "Hunterstown Rovers GFC",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1330-aib-leinster-club-ifc-2025s-final-hunterstown-rove-tubberclair-gaa-",
-    "score": "",
-    "search_index": "hunterstown rovers gfc tubberclair gaa club aib leinster club ifc 2025s-final hunterstown rovers gfc tubberclair gaa club aib leinster club ifc 2025s-final",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-18T06:30:14Z",
-    "venue": ""
-  },
-  {
-    "away": "FIGHTING COCKS GFC",
-    "competition": "AIB Leinster Club JFC 25S-Final",
-    "date": "2025-11-29",
-    "home": "St. Brigid's Killashee",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1330-aib-leinster-club-jfc-25s-final-st-brigids-killa-fighting-cocks-g",
-    "score": "",
-    "search_index": "st brigid s killashee fighting cocks gfc aib leinster club jfc 25s-final saint brigid s killashee fighting cocks gfc aib leinster club jfc 25s-final",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:30",
-    "updated_at": "2025-11-18T06:30:14Z",
-    "venue": ""
-  },
-  {
-    "away": "Portarlington",
-    "competition": "AIB Leinster Club SFC 25S-Final",
-    "date": "2025-11-29",
-    "home": "Athy",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251129-1400-aib-leinster-club-sfc-25s-final-athy-portarlington",
-    "score": "",
-    "search_index": "athy portarlington aib leinster club sfc 25s-final cedral st conleth s newbridge athy portarlington aib leinster club sfc 25s-final cedral saint conleth s newbridge",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "14:00",
-    "updated_at": "2025-11-18T06:30:14Z",
-    "venue": "Cedral St Conleth's Newbridge"
   },
   {
     "away": "St Brigids",
@@ -262,7 +206,91 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-18T06:30:01Z",
+    "updated_at": "2025-11-18T18:29:49Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
+  },
+  {
+    "away": "Ballyboden/St Enda's",
+    "competition": "AIB Leinster Club SFC 25S-Final",
+    "date": "2025-11-30",
+    "home": "Tullamore",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251130-1330-aib-leinster-club-sfc-25s-final-tullamore-ballybodenst-end",
+    "score": "",
+    "search_index": "tullamore ballyboden st enda s aib leinster club sfc 25s-final glenisk o connor park tullamore ballyboden saint enda s aib leinster club sfc 25s-final glenisk o connor park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:30",
+    "updated_at": "2025-11-18T18:29:54Z",
+    "venue": "Glenisk O Connor Park"
+  },
+  {
+    "away": "Tubberclair Gaa Club",
+    "competition": "AIB Leinster Club IFC 2025S-Final",
+    "date": "2025-11-30",
+    "home": "Hunterstown Rovers GFC",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251130-1330-aib-leinster-club-ifc-2025s-final-hunterstown-rove-tubberclair-gaa-",
+    "score": "",
+    "search_index": "hunterstown rovers gfc tubberclair gaa club aib leinster club ifc 2025s-final stabannon parnells hunterstown rovers gfc tubberclair gaa club aib leinster club ifc 2025s-final stabannon parnells",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:30",
+    "updated_at": "2025-11-18T18:29:54Z",
+    "venue": "Stabannon Parnells"
+  },
+  {
+    "away": "FIGHTING COCKS GFC",
+    "competition": "AIB Leinster Club JFC 25S-Final",
+    "date": "2025-11-30",
+    "home": "St. Brigid's Killashee",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251130-1330-aib-leinster-club-jfc-25s-final-st-brigids-killa-fighting-cocks-g",
+    "score": "",
+    "search_index": "st brigid s killashee fighting cocks gfc aib leinster club jfc 25s-final glennon brothers pearse park saint brigid s killashee fighting cocks gfc aib leinster club jfc 25s-final glennon brothers pearse park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:30",
+    "updated_at": "2025-11-18T18:29:54Z",
+    "venue": "Glennon Brothers Pearse Park"
+  },
+  {
+    "away": "Portarlington",
+    "competition": "AIB Leinster Club SFC 25S-Final",
+    "date": "2025-11-30",
+    "home": "Athy",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251130-1400-aib-leinster-club-sfc-25s-final-athy-portarlington",
+    "score": "",
+    "search_index": "athy portarlington aib leinster club sfc 25s-final cedral st conleth s newbridge athy portarlington aib leinster club sfc 25s-final cedral saint conleth s newbridge",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:00",
+    "updated_at": "2025-11-18T18:29:54Z",
+    "venue": "Cedral St Conleth's Newbridge"
+  },
+  {
+    "away": "Clara",
+    "competition": "AIB Leinster Club IFC 2025S-Final",
+    "date": "2025-11-30",
+    "home": "Sallins GAA Club",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251130-1400-aib-leinster-club-ifc-2025s-final-sallins-gaa-club-clara",
+    "score": "",
+    "search_index": "sallins gaa club clara aib leinster club ifc 2025s-final cedral st conleth s newbridge sallins gaa club clara aib leinster club ifc 2025s-final cedral saint conleth s newbridge",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:00",
+    "updated_at": "2025-11-18T18:29:54Z",
+    "venue": "Cedral St Conleth's Newbridge"
+  },
+  {
+    "away": "Barcelona Gaels GAA Club",
+    "competition": "AIB Leinster Club JFC 25S-Final",
+    "date": "2025-11-30",
+    "home": "Grangenolvin",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251130-1430-aib-leinster-club-jfc-25s-final-grangenolvin-barcelona-gaels-",
+    "score": "",
+    "search_index": "grangenolvin barcelona gaels gaa club aib leinster club jfc 25s-final manguard park grangenolvin barcelona gaels gaa club aib leinster club jfc 25s-final manguard park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:30",
+    "updated_at": "2025-11-18T18:29:54Z",
+    "venue": "Manguard Park"
   }
 ]

@@ -42,11 +42,25 @@
     "slug": "munster-ifc-club-championship-semi-final"
   },
   {
-    "first_kickoff": "2025-11-29T13:30:00Z",
+    "first_kickoff": "2025-11-30T13:30:00Z",
     "match_count": 2,
     "name": "AIB Leinster Club SFC 25S-Final",
     "popularity": 80,
     "slug": "aib-leinster-club-sfc-25s-final"
+  },
+  {
+    "first_kickoff": "2025-11-30T13:30:00Z",
+    "match_count": 2,
+    "name": "AIB Leinster Club IFC 2025S-Final",
+    "popularity": 80,
+    "slug": "aib-leinster-club-ifc-2025s-final"
+  },
+  {
+    "first_kickoff": "2025-11-30T13:30:00Z",
+    "match_count": 2,
+    "name": "AIB Leinster Club JFC 25S-Final",
+    "popularity": 80,
+    "slug": "aib-leinster-club-jfc-25s-final"
   },
   {
     "first_kickoff": "2025-11-22T16:30:00Z",
@@ -61,20 +75,6 @@
     "name": "2025 Ulster GAA Football Senior Club Championship Semi Final 2",
     "popularity": 80,
     "slug": "2025-ulster-gaa-football-senior-club-championship-semi-final-2"
-  },
-  {
-    "first_kickoff": "2025-11-29T13:30:00Z",
-    "match_count": 1,
-    "name": "AIB Leinster Club IFC 2025S-Final",
-    "popularity": 80,
-    "slug": "aib-leinster-club-ifc-2025s-final"
-  },
-  {
-    "first_kickoff": "2025-11-29T13:30:00Z",
-    "match_count": 1,
-    "name": "AIB Leinster Club JFC 25S-Final",
-    "popularity": 80,
-    "slug": "aib-leinster-club-jfc-25s-final"
   },
   {
     "first_kickoff": "2025-11-23T13:30:00Z",
