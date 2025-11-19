@@ -10,22 +10,8 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-19T06:30:25Z",
+    "updated_at": "2025-11-19T18:30:13Z",
     "venue": "Shamrock Park, Roslea"
-  },
-  {
-    "away": "Ballymacelligott",
-    "competition": "Munster JFC Club Championship Semi Final",
-    "date": "2025-11-22",
-    "home": "Clonmel Óg",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251122-1300-munster-jfc-club-championship-semi-final-clonmel-og-ballymacelligott",
-    "score": "",
-    "search_index": "clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-19T06:30:50Z",
-    "venue": "Clonmel Sportsfield"
   },
   {
     "away": "Ahane",
@@ -38,8 +24,22 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-19T06:30:50Z",
+    "updated_at": "2025-11-19T18:30:17Z",
     "venue": "Kildorrery GAA"
+  },
+  {
+    "away": "Ballymacelligott",
+    "competition": "Munster JFC Club Championship Semi Final",
+    "date": "2025-11-22",
+    "home": "Clonmel Óg",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251122-1300-munster-jfc-club-championship-semi-final-clonmel-og-ballymacelligott",
+    "score": "",
+    "search_index": "clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-11-19T18:30:17Z",
+    "venue": "Clonmel Sportsfield"
   },
   {
     "away": "Clonoe O`Rahilly's CLG",
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2025-11-19T06:30:25Z",
+    "updated_at": "2025-11-19T18:30:13Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-11-19T06:30:25Z",
+    "updated_at": "2025-11-19T18:30:13Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-19T06:30:50Z",
+    "updated_at": "2025-11-19T18:30:17Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-19T06:30:50Z",
+    "updated_at": "2025-11-19T18:30:17Z",
     "venue": "Corofin"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-19T06:30:50Z",
+    "updated_at": "2025-11-19T18:30:17Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-19T06:30:25Z",
+    "updated_at": "2025-11-19T18:30:13Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-19T06:30:46Z",
+    "updated_at": "2025-11-19T18:30:16Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-19T06:30:25Z",
+    "updated_at": "2025-11-19T18:30:13Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-19T06:30:50Z",
+    "updated_at": "2025-11-19T18:30:17Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-19T06:30:46Z",
+    "updated_at": "2025-11-19T18:30:16Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-19T06:30:46Z",
+    "updated_at": "2025-11-19T18:30:16Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-19T06:30:46Z",
+    "updated_at": "2025-11-19T18:30:16Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-19T06:30:53Z",
+    "updated_at": "2025-11-19T18:30:19Z",
     "venue": "Glenisk O Connor Park"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-19T06:30:53Z",
+    "updated_at": "2025-11-19T18:30:19Z",
     "venue": "Stabannon Parnells"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-19T06:30:53Z",
+    "updated_at": "2025-11-19T18:30:19Z",
     "venue": "Glennon Brothers Pearse Park"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2025-11-19T06:30:53Z",
+    "updated_at": "2025-11-19T18:30:19Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2025-11-19T06:30:53Z",
+    "updated_at": "2025-11-19T18:30:19Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2025-11-19T06:30:53Z",
+    "updated_at": "2025-11-19T18:30:19Z",
     "venue": "Manguard Park"
   }
 ]
