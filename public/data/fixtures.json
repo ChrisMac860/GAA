@@ -10,36 +10,8 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-21T06:31:01Z",
+    "updated_at": "2025-11-21T18:27:08Z",
     "venue": "Shamrock Park, Roslea"
-  },
-  {
-    "away": "Ahane",
-    "competition": "Munster JFC Club Championship Semi Final",
-    "date": "2025-11-22",
-    "home": "Buttevant",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251122-1300-munster-jfc-club-championship-semi-final-buttevant-ahane",
-    "score": "",
-    "search_index": "buttevant ahane munster jfc club championship semi final kildorrery gaa buttevant ahane munster jfc club championship semi final kildorrery gaa",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-21T06:31:17Z",
-    "venue": "Kildorrery GAA"
-  },
-  {
-    "away": "Ballymacelligott",
-    "competition": "Munster JFC Club Championship Semi Final",
-    "date": "2025-11-22",
-    "home": "Clonmel Óg",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251122-1300-munster-jfc-club-championship-semi-final-clonmel-og-ballymacelligott",
-    "score": "",
-    "search_index": "clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-21T06:31:17Z",
-    "venue": "Clonmel Sportsfield"
   },
   {
     "away": "Clonoe O`Rahilly's CLG",
@@ -52,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2025-11-21T06:31:01Z",
+    "updated_at": "2025-11-21T18:27:08Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -66,50 +38,8 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-11-21T06:31:01Z",
+    "updated_at": "2025-11-21T18:27:08Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
-  },
-  {
-    "away": "Mungret St Pauls",
-    "competition": "Munster SFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "Dingle",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-sfc-club-championship-semi-final-dingle-mungret-st-pauls",
-    "score": "",
-    "search_index": "dingle mungret st pauls munster sfc club championship semi final austin stack park dingle mungret saint pauls munster sfc club championship semi final austin stack park",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-21T06:31:17Z",
-    "venue": "Austin Stack Park"
-  },
-  {
-    "away": "An Ghaeltacht",
-    "competition": "Munster IFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "Corofin",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-corofin-an-ghaeltacht",
-    "score": "",
-    "search_index": "corofin an ghaeltacht munster ifc club championship semi final corofin corofin an ghaeltacht munster ifc club championship semi final corofin",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-21T06:31:17Z",
-    "venue": "Corofin"
-  },
-  {
-    "away": "Askeaton Ballysteen Kilcornan",
-    "competition": "Munster IFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "Aghabullogue",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-aghabullogue-askeaton-ballyst",
-    "score": "",
-    "search_index": "aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-21T06:31:17Z",
-    "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
     "away": "Glenullin",
@@ -122,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-21T06:31:01Z",
+    "updated_at": "2025-11-21T18:27:08Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -136,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-21T06:31:06Z",
+    "updated_at": "2025-11-21T18:27:12Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -150,22 +80,8 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-21T06:31:01Z",
+    "updated_at": "2025-11-21T18:27:08Z",
     "venue": "O'Neills Healy Park, Omagh"
-  },
-  {
-    "away": "Éire Óg Ennis",
-    "competition": "Munster SFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "St Finbarr's/Barra Naofa",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1530-munster-sfc-club-championship-semi-final-st-finbarrsbarra-eire-og-ennis",
-    "score": "",
-    "search_index": "st finbarr s barra naofa eire og ennis munster sfc club championship semi final supervalu pairc ui chaoimh cork saint finbarr s barra naofa eire og ennis munster sfc club championship semi final supervalu pairc ui chaoimh cork",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "15:30",
-    "updated_at": "2025-11-21T06:31:17Z",
-    "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
     "away": "Leitrim",
@@ -178,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-21T06:31:06Z",
+    "updated_at": "2025-11-21T18:27:12Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -192,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-21T06:31:06Z",
+    "updated_at": "2025-11-21T18:27:12Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -206,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-21T06:31:06Z",
+    "updated_at": "2025-11-21T18:27:12Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -220,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-21T06:31:19Z",
+    "updated_at": "2025-11-21T18:27:14Z",
     "venue": "Glenisk O Connor Park"
   },
   {
@@ -234,7 +150,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-21T06:31:19Z",
+    "updated_at": "2025-11-21T18:27:14Z",
     "venue": "Stabannon Parnells"
   },
   {
@@ -248,7 +164,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-21T06:31:19Z",
+    "updated_at": "2025-11-21T18:27:14Z",
     "venue": "Glennon Brothers Pearse Park"
   },
   {
@@ -262,7 +178,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2025-11-21T06:31:19Z",
+    "updated_at": "2025-11-21T18:27:14Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -276,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2025-11-21T06:31:19Z",
+    "updated_at": "2025-11-21T18:27:14Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -290,7 +206,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2025-11-21T06:31:19Z",
+    "updated_at": "2025-11-21T18:27:14Z",
     "venue": "Manguard Park"
   }
 ]
