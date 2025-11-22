@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "first_kickoff": "2025-11-22T14:30:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 1",
+    "popularity": 130,
+    "slug": "2025-ulster-gaa-football-intermediate-club-championship-semi-final-1"
+  },
+  {
+    "first_kickoff": "2025-11-23T13:15:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 2",
+    "popularity": 130,
+    "slug": "2025-ulster-gaa-football-intermediate-club-championship-semi-final-2"
+  },
+  {
+    "first_kickoff": "2025-11-22T13:00:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Junior Club Championship Final",
+    "popularity": 120,
+    "slug": "2025-ulster-gaa-football-junior-club-championship-final"
+  },
+  {
+    "first_kickoff": "2025-11-22T13:00:00Z",
+    "match_count": 2,
+    "name": "Munster JFC Club Championship Semi Final",
+    "popularity": 80,
+    "slug": "munster-jfc-club-championship-semi-final"
+  },
+  {
+    "first_kickoff": "2025-11-22T16:30:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Senior Club Championship Semi Final 1",
+    "popularity": 80,
+    "slug": "2025-ulster-gaa-football-senior-club-championship-semi-final-1"
+  },
+  {
+    "first_kickoff": "2025-11-23T15:30:00Z",
+    "match_count": 1,
+    "name": "2025 Ulster GAA Football Senior Club Championship Semi Final 2",
+    "popularity": 80,
+    "slug": "2025-ulster-gaa-football-senior-club-championship-semi-final-2"
+  },
+  {
+    "first_kickoff": "2025-11-23T13:30:00Z",
+    "match_count": 1,
+    "name": "Club Intermediate Football Championship 2025 Final",
+    "popularity": 50,
+    "slug": "club-intermediate-football-championship-2025-final"
+  },
+  {
+    "first_kickoff": "2025-11-29T13:30:00Z",
+    "match_count": 1,
+    "name": "Club Junior Football Championship 2025 Final",
+    "popularity": 40,
+    "slug": "club-junior-football-championship-2025-final"
+  },
+  {
+    "first_kickoff": "2025-11-28T12:30:00Z",
+    "match_count": 1,
+    "name": "PPS Senior A Football Championship 2025/26- Group 2 Round 2",
+    "popularity": 0,
+    "slug": "pps-senior-a-football-championship-202526-group-2-round-2"
+  },
+  {
+    "first_kickoff": "2025-11-30T13:00:00Z",
+    "match_count": 1,
+    "name": "Club Senior Football Championship 2025- Knockout Final",
+    "popularity": 0,
+    "slug": "club-senior-football-championship-2025-knockout-final"
+  }
+]
