@@ -1,5 +1,47 @@
 [
   {
+    "away": "Mungret St Pauls",
+    "competition": "Munster SFC Club Championship Semi Final",
+    "date": "2025-11-23",
+    "home": "Dingle",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-sfc-club-championship-semi-final-dingle-mungret-st-pauls",
+    "score": "",
+    "search_index": "dingle mungret st pauls munster sfc club championship semi final austin stack park dingle mungret saint pauls munster sfc club championship semi final austin stack park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-11-23T18:26:41Z",
+    "venue": "Austin Stack Park"
+  },
+  {
+    "away": "An Ghaeltacht",
+    "competition": "Munster IFC Club Championship Semi Final",
+    "date": "2025-11-23",
+    "home": "Corofin",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-corofin-an-ghaeltacht",
+    "score": "",
+    "search_index": "corofin an ghaeltacht munster ifc club championship semi final corofin corofin an ghaeltacht munster ifc club championship semi final corofin",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-11-23T18:26:41Z",
+    "venue": "Corofin"
+  },
+  {
+    "away": "Askeaton Ballysteen Kilcornan",
+    "competition": "Munster IFC Club Championship Semi Final",
+    "date": "2025-11-23",
+    "home": "Aghabullogue",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-aghabullogue-askeaton-ballyst",
+    "score": "",
+    "search_index": "aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-11-23T18:26:41Z",
+    "venue": "SuperValu Páirc Uí Chaoimh, Cork"
+  },
+  {
     "away": "Glenullin",
     "competition": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 2",
     "date": "2025-11-23",
@@ -10,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-23T06:28:26Z",
+    "updated_at": "2025-11-23T18:26:37Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -19,12 +61,12 @@
     "date": "2025-11-23",
     "home": "Strokestown",
     "id": "prov-httpsconnachtgaaiefixtures-results-20251123-1330-club-intermediate-football-championship-2025-final-strokestown-kilmeena",
-    "score": "",
+    "score": "4-11 \u0013 0-14",
     "search_index": "strokestown kilmeena club intermediate football championship 2025 final hastings insurance machale park castlebar strokestown kilmeena club intermediate football championship 2025 final hastings insurance machale park castlebar",
     "source": "scraper",
-    "status": "scheduled",
+    "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-23T06:28:32Z",
+    "updated_at": "2025-11-23T18:26:39Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -38,8 +80,22 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-23T06:28:26Z",
+    "updated_at": "2025-11-23T18:26:37Z",
     "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Éire Óg Ennis",
+    "competition": "Munster SFC Club Championship Semi Final",
+    "date": "2025-11-23",
+    "home": "St Finbarr's/Barra Naofa",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1530-munster-sfc-club-championship-semi-final-st-finbarrsbarra-eire-og-ennis",
+    "score": "",
+    "search_index": "st finbarr s barra naofa eire og ennis munster sfc club championship semi final supervalu pairc ui chaoimh cork saint finbarr s barra naofa eire og ennis munster sfc club championship semi final supervalu pairc ui chaoimh cork",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "15:30",
+    "updated_at": "2025-11-23T18:26:41Z",
+    "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
     "away": "Leitrim",
@@ -52,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-23T06:28:32Z",
+    "updated_at": "2025-11-23T18:26:39Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -66,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-23T06:28:32Z",
+    "updated_at": "2025-11-23T18:26:39Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -80,21 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-23T06:28:32Z",
+    "updated_at": "2025-11-23T18:26:39Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
-  },
-  {
-    "away": "Scotstown/Newbridge",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Final",
-    "date": "2025-12-07",
-    "home": "Kilcoo",
-    "id": "prov-httpsulstergaaiefixtures-results-20251207-1530-2025-ulster-gaa-football-senior-club-championship-final-kilcoo-scotstownnewbrid",
-    "score": "",
-    "search_index": "kilcoo scotstown newbridge 2025 ulster gaa football senior club championship final kilcoo kilcoo scotstown newbridge 2025 ulster gaa football senior club championship final kilcoo",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "15:30",
-    "updated_at": "2025-11-23T06:28:26Z",
-    "venue": "Kilcoo"
   }
 ]
