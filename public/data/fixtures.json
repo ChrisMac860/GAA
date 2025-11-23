@@ -1,75 +1,5 @@
 [
   {
-    "away": "Emyvale",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Final",
-    "date": "2025-11-22",
-    "home": "Clogher Eire Óg",
-    "id": "prov-httpsulstergaaiefixtures-results-20251122-1300-2025-ulster-gaa-football-junior-club-championship-final-clogher-eire-og-emyvale",
-    "score": "1-12 \u0013 0-14",
-    "search_index": "clogher eire og emyvale 2025 ulster gaa football junior club championship final shamrock park roslea clogher eire og emyvale 2025 ulster gaa football junior club championship final shamrock park roslea",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "Shamrock Park, Roslea"
-  },
-  {
-    "away": "Ballymacelligott",
-    "competition": "Munster JFC Club Championship Semi Final",
-    "date": "2025-11-22",
-    "home": "Clonmel Óg",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251122-1300-munster-jfc-club-championship-semi-final-clonmel-og-ballymacelligott",
-    "score": "",
-    "search_index": "clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield clonmel og ballymacelligott munster jfc club championship semi final clonmel sportsfield",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-22T18:26:34Z",
-    "venue": "Clonmel Sportsfield"
-  },
-  {
-    "away": "Ahane",
-    "competition": "Munster JFC Club Championship Semi Final",
-    "date": "2025-11-22",
-    "home": "Buttevant",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251122-1300-munster-jfc-club-championship-semi-final-buttevant-ahane",
-    "score": "",
-    "search_index": "buttevant ahane munster jfc club championship semi final kildorrery gaa buttevant ahane munster jfc club championship semi final kildorrery gaa",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-22T18:26:34Z",
-    "venue": "Kildorrery GAA"
-  },
-  {
-    "away": "Clonoe O`Rahilly's CLG",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 1",
-    "date": "2025-11-22",
-    "home": "CLG Cuchulainn",
-    "id": "prov-httpsulstergaaiefixtures-results-20251122-1430-2025-ulster-gaa-football-intermediate-club-championship-semi-final-1-clg-cuchulainn-clonoe-orahillys",
-    "score": "2-11 \u0013 1-13",
-    "search_index": "clg cuchulainn clonoe o rahilly s clg 2025 ulster gaa football intermediate club championship semi final 1 box-it athletic grounds armagh clg cuchulainn clonoe o rahilly s clg 2025 ulster gaa football intermediate club championship semi final 1 box-it athletic grounds armagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "14:30",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "BOX-IT Athletic Grounds, Armagh"
-  },
-  {
-    "away": "Kilcoo",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Semi Final 1",
-    "date": "2025-11-22",
-    "home": "Erne Gaels Belleek",
-    "id": "prov-httpsulstergaaiefixtures-results-20251122-1630-2025-ulster-gaa-football-senior-club-championship-semi-final-1-erne-gaels-belle-kilcoo",
-    "score": "1-10 \u0013 4-12",
-    "search_index": "erne gaels belleek kilcoo 2025 ulster gaa football senior club championship semi final 1 box-it athletic grounds armagh erne gaels belleek kilcoo 2025 ulster gaa football senior club championship semi final 1 box-it athletic grounds armagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:30",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "BOX-IT Athletic Grounds, Armagh"
-  },
-  {
     "away": "Glenullin",
     "competition": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 2",
     "date": "2025-11-23",
@@ -80,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -94,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:27Z",
+    "updated_at": "2025-11-23T06:28:32Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -108,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -122,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-22T18:26:27Z",
+    "updated_at": "2025-11-23T06:28:32Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -136,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:27Z",
+    "updated_at": "2025-11-23T06:28:32Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -150,7 +80,21 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-22T18:26:27Z",
+    "updated_at": "2025-11-23T06:28:32Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
+  },
+  {
+    "away": "Scotstown/Newbridge",
+    "competition": "2025 Ulster GAA Football Senior Club Championship Final",
+    "date": "2025-12-07",
+    "home": "Kilcoo",
+    "id": "prov-httpsulstergaaiefixtures-results-20251207-1530-2025-ulster-gaa-football-senior-club-championship-final-kilcoo-scotstownnewbrid",
+    "score": "",
+    "search_index": "kilcoo scotstown newbridge 2025 ulster gaa football senior club championship final kilcoo kilcoo scotstown newbridge 2025 ulster gaa football senior club championship final kilcoo",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "15:30",
+    "updated_at": "2025-11-23T06:28:26Z",
+    "venue": "Kilcoo"
   }
 ]

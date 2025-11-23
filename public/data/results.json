@@ -1,89 +1,5 @@
 [
   {
-    "away": "Naomh Columba",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 3",
-    "date": "2025-11-08",
-    "home": "Carrickmacross Emmets GFC",
-    "id": "prov-httpsulstergaaiefixtures-results-20251108-1500-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-3-carrickmacross-e-naomh-columba",
-    "score": "1-22 \u0013 0-9",
-    "search_index": "carrickmacross emmets gfc naomh columba 2025 ulster gaa football intermediate club championship quarter final 3 grattan park inniskeen carrickmacross emmets gfc saint columba 2025 ulster gaa football intermediate club championship quarter final 3 grattan park inniskeen",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:00",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "Grattan Park, Inniskeen"
-  },
-  {
-    "away": "Irvinestown St Molaise",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 1",
-    "date": "2025-11-08",
-    "home": "CLG Cuchulainn",
-    "id": "prov-httpsulstergaaiefixtures-results-20251108-1530-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-1-clg-cuchulainn-irvinestown-st-m",
-    "score": "2-18 \u0013 1-18",
-    "search_index": "clg cuchulainn irvinestown st molaise 2025 ulster gaa football intermediate club championship quarter final 1 kingspan breffni cavan clg cuchulainn irvinestown saint molaise 2025 ulster gaa football intermediate club championship quarter final 1 kingspan breffni cavan",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:30",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "Kingspan Breffni, Cavan"
-  },
-  {
-    "away": "Saval",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 2",
-    "date": "2025-11-08",
-    "home": "Clonoe O`Rahilly's CLG",
-    "id": "prov-httpsulstergaaiefixtures-results-20251108-1700-2025-ulster-gaa-football-intermediate-club-championship-quarter-final-2-clonoe-orahillys-saval",
-    "score": "1-18 \u0013 0-12",
-    "search_index": "clonoe o rahilly s clg saval 2025 ulster gaa football intermediate club championship quarter final 2 o neills healy park omagh clonoe o rahilly s clg saval 2025 ulster gaa football intermediate club championship quarter final 2 o neills healy park omagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "17:00",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "O'Neills Healy Park, Omagh"
-  },
-  {
-    "away": "Erne Gaels Belleek",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 1",
-    "date": "2025-11-08",
-    "home": "Kingscourt Stars",
-    "id": "prov-httpsulstergaaiefixtures-results-20251108-1730-2025-ulster-gaa-football-senior-club-championship-quarter-final-1-kingscourt-stars-erne-gaels-belle",
-    "score": "1-16 \u0013 3-15",
-    "search_index": "kingscourt stars erne gaels belleek 2025 ulster gaa football senior club championship quarter final 1 kingspan breffni cavan kingscourt stars erne gaels belleek 2025 ulster gaa football senior club championship quarter final 1 kingspan breffni cavan",
-    "source": "scraper",
-    "status": "FT",
-    "time": "17:30",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "Kingspan Breffni, Cavan"
-  },
-  {
-    "away": "North London Shamrocks",
-    "competition": "Club Senior Football Championship 2025- Knockout Quarter Final 2",
-    "date": "2025-11-08",
-    "home": "Ballina Stephenites",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251108-1830-club-senior-football-championship-2025-knockout-quarter-final-2-ballina-stepheni-north-london-sha",
-    "score": "1-15 \u0013 0-10",
-    "search_index": "ballina stephenites north london shamrocks club senior football championship 2025- knockout quarter final 2 connacht gaa centre ballina stephenites north london shamrocks club senior football championship 2025- knockout quarter final 2 connacht gaa centre",
-    "source": "scraper",
-    "status": "FT",
-    "time": "18:30",
-    "updated_at": "2025-11-22T18:26:26Z",
-    "venue": "Connacht GAA Centre"
-  },
-  {
-    "away": "Kilcoo",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Quarter Final 2",
-    "date": "2025-11-08",
-    "home": "Loughmacrory St. Teresa's",
-    "id": "prov-httpsulstergaaiefixtures-results-20251108-1915-2025-ulster-gaa-football-senior-club-championship-quarter-final-2-loughmacrory-st--kilcoo",
-    "score": "0-11 \u0013 0-16",
-    "search_index": "loughmacrory st teresa s kilcoo 2025 ulster gaa football senior club championship quarter final 2 o neills healy park omagh loughmacrory saint teresa s kilcoo 2025 ulster gaa football senior club championship quarter final 2 o neills healy park omagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "19:15",
-    "updated_at": "2025-11-22T18:26:22Z",
-    "venue": "O'Neills Healy Park, Omagh"
-  },
-  {
     "away": "Glenullin",
     "competition": "2025 Ulster GAA Football Intermediate Club Championship Quarter Final 4",
     "date": "2025-11-09",
@@ -94,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -108,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -136,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -150,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "Kilcoyne Park"
   },
   {
@@ -164,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -178,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -192,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -206,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -220,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -234,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "Páirc Seán Uí Eslín, Ballinamore"
   },
   {
@@ -248,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "Pearse Stadium"
   },
   {
@@ -262,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-22T18:26:26Z",
+    "updated_at": "2025-11-23T06:28:30Z",
     "venue": "Ballyforan"
   },
   {
@@ -276,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -290,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -304,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-11-22T18:26:22Z",
+    "updated_at": "2025-11-23T06:28:26Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
