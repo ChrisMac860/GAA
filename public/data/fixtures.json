@@ -1,103 +1,5 @@
 [
   {
-    "away": "Mungret St Pauls",
-    "competition": "Munster SFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "Dingle",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-sfc-club-championship-semi-final-dingle-mungret-st-pauls",
-    "score": "",
-    "search_index": "dingle mungret st pauls munster sfc club championship semi final austin stack park dingle mungret saint pauls munster sfc club championship semi final austin stack park",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-23T18:26:41Z",
-    "venue": "Austin Stack Park"
-  },
-  {
-    "away": "An Ghaeltacht",
-    "competition": "Munster IFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "Corofin",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-corofin-an-ghaeltacht",
-    "score": "",
-    "search_index": "corofin an ghaeltacht munster ifc club championship semi final corofin corofin an ghaeltacht munster ifc club championship semi final corofin",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-23T18:26:41Z",
-    "venue": "Corofin"
-  },
-  {
-    "away": "Askeaton Ballysteen Kilcornan",
-    "competition": "Munster IFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "Aghabullogue",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1300-munster-ifc-club-championship-semi-final-aghabullogue-askeaton-ballyst",
-    "score": "",
-    "search_index": "aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork aghabullogue askeaton ballysteen kilcornan munster ifc club championship semi final supervalu pairc ui chaoimh cork",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-11-23T18:26:41Z",
-    "venue": "SuperValu Páirc Uí Chaoimh, Cork"
-  },
-  {
-    "away": "Glenullin",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 2",
-    "date": "2025-11-23",
-    "home": "Carrickmacross Emmets GFC",
-    "id": "prov-httpsulstergaaiefixtures-results-20251123-1315-2025-ulster-gaa-football-intermediate-club-championship-semi-final-2-carrickmacross-e-glenullin",
-    "score": "",
-    "search_index": "carrickmacross emmets gfc glenullin 2025 ulster gaa football intermediate club championship semi final 2 o neills healy park omagh carrickmacross emmets gfc glenullin 2025 ulster gaa football intermediate club championship semi final 2 o neills healy park omagh",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:15",
-    "updated_at": "2025-11-23T18:26:37Z",
-    "venue": "O'Neills Healy Park, Omagh"
-  },
-  {
-    "away": "Kilmeena",
-    "competition": "Club Intermediate Football Championship 2025 Final",
-    "date": "2025-11-23",
-    "home": "Strokestown",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251123-1330-club-intermediate-football-championship-2025-final-strokestown-kilmeena",
-    "score": "4-11 \u0013 0-14",
-    "search_index": "strokestown kilmeena club intermediate football championship 2025 final hastings insurance machale park castlebar strokestown kilmeena club intermediate football championship 2025 final hastings insurance machale park castlebar",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-23T18:26:39Z",
-    "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
-    "away": "Sean O'Leary GAC Newbridge",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Semi Final 2",
-    "date": "2025-11-23",
-    "home": "Scotstown",
-    "id": "prov-httpsulstergaaiefixtures-results-20251123-1530-2025-ulster-gaa-football-senior-club-championship-semi-final-2-scotstown-sean-oleary-gac-",
-    "score": "",
-    "search_index": "scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championship semi final 2 o neills healy park omagh scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championship semi final 2 o neills healy park omagh",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "15:30",
-    "updated_at": "2025-11-23T18:26:37Z",
-    "venue": "O'Neills Healy Park, Omagh"
-  },
-  {
-    "away": "Éire Óg Ennis",
-    "competition": "Munster SFC Club Championship Semi Final",
-    "date": "2025-11-23",
-    "home": "St Finbarr's/Barra Naofa",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251123-1530-munster-sfc-club-championship-semi-final-st-finbarrsbarra-eire-og-ennis",
-    "score": "",
-    "search_index": "st finbarr s barra naofa eire og ennis munster sfc club championship semi final supervalu pairc ui chaoimh cork saint finbarr s barra naofa eire og ennis munster sfc club championship semi final supervalu pairc ui chaoimh cork",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "15:30",
-    "updated_at": "2025-11-23T18:26:41Z",
-    "venue": "SuperValu Páirc Uí Chaoimh, Cork"
-  },
-  {
     "away": "Leitrim",
     "competition": "PPS Senior A Football Championship 2025/26- Group 2 Round 2",
     "date": "2025-11-28",
@@ -108,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-23T18:26:39Z",
+    "updated_at": "2025-11-24T06:31:34Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -122,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-23T18:26:39Z",
+    "updated_at": "2025-11-24T06:31:34Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -136,7 +38,21 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-23T18:26:39Z",
+    "updated_at": "2025-11-24T06:31:34Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
+  },
+  {
+    "away": "Sean O'Leary GAC Newbridge",
+    "competition": "2025 Ulster GAA Football Senior Club ChampionshipSemi Final 2",
+    "date": "2025-11-30",
+    "home": "Scotstown",
+    "id": "lein-httpsulstergaaiefixtures-results-20251130-1600-2025-ulster-gaa-football-senior-club-championshipsemi-final-2-scotstown-sean-oleary-gac-",
+    "score": "",
+    "search_index": "scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championshipsemi final 2 box-it athletic grounds armagh scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championshipsemi final 2 box-it athletic grounds armagh",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "16:00",
+    "updated_at": "2025-11-24T06:31:28Z",
+    "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
