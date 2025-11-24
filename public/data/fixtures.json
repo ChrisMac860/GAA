@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "12:30",
-    "updated_at": "2025-11-24T06:31:34Z",
+    "updated_at": "2025-11-24T18:29:58Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-24T06:31:34Z",
+    "updated_at": "2025-11-24T18:29:58Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-24T06:31:34Z",
+    "updated_at": "2025-11-24T18:29:58Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-11-24T06:31:28Z",
+    "updated_at": "2025-11-24T18:29:55Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
