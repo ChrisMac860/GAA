@@ -4,14 +4,14 @@
     "competition": "PPS Senior A Football Championship 2025/26- Group 2 Round 2",
     "date": "2025-11-28",
     "home": "Sligo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251128-1230-pps-senior-a-football-championship-202526-group-2-round-2-sligo-leitrim",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20251128-1830-pps-senior-a-football-championship-202526-group-2-round-2-sligo-leitrim",
     "score": "",
-    "search_index": "sligo leitrim pps senior a football championship 2025 26- group 2 round 2 markievicz park sligo sligo leitrim pps senior a football championship 2025 26- group 2 round 2 markievicz park sligo",
+    "search_index": "sligo leitrim pps senior a football championship 2025 26- group 2 round 2 enniscrone sligo leitrim pps senior a football championship 2025 26- group 2 round 2 enniscrone",
     "source": "scraper",
     "status": "scheduled",
-    "time": "12:30",
-    "updated_at": "2025-11-25T06:31:54Z",
-    "venue": "Markievicz Park, Sligo"
+    "time": "18:30",
+    "updated_at": "2025-11-25T18:31:01Z",
+    "venue": "Enniscrone"
   },
   {
     "away": "Kiltimagh",
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-25T06:31:54Z",
+    "updated_at": "2025-11-25T18:31:01Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,21 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-25T06:31:54Z",
+    "updated_at": "2025-11-25T18:31:01Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
-  },
-  {
-    "away": "Sean O'Leary GAC Newbridge",
-    "competition": "2025 Ulster GAA Football Senior Club ChampionshipSemi Final 2",
-    "date": "2025-11-30",
-    "home": "Scotstown",
-    "id": "lein-httpsulstergaaiefixtures-results-20251130-1600-2025-ulster-gaa-football-senior-club-championshipsemi-final-2-scotstown-sean-oleary-gac-",
-    "score": "",
-    "search_index": "scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championshipsemi final 2 box-it athletic grounds armagh scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championshipsemi final 2 box-it athletic grounds armagh",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "16:00",
-    "updated_at": "2025-11-25T06:31:49Z",
-    "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
