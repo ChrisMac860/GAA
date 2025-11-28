@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:30",
-    "updated_at": "2025-11-28T06:31:58Z",
+    "updated_at": "2025-11-28T18:28:06Z",
     "venue": "Enniscrone"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-28T06:31:58Z",
+    "updated_at": "2025-11-28T18:28:06Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,7 +38,49 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-28T06:31:58Z",
+    "updated_at": "2025-11-28T18:28:06Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
+  },
+  {
+    "away": "Buttevant",
+    "competition": "Munster JFC Club Championship FINAL",
+    "date": "2025-12-06",
+    "home": "Ballymacelligott",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251206-1300-munster-jfc-club-championship-final-ballymacelligott-buttevant",
+    "score": "",
+    "search_index": "ballymacelligott buttevant munster jfc club championship final mallow ballymacelligott buttevant munster jfc club championship final mallow",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-11-28T18:28:12Z",
+    "venue": "Mallow"
+  },
+  {
+    "away": "Aghabullogue",
+    "competition": "Munster IFC Club Championship FINAL",
+    "date": "2025-12-06",
+    "home": "An Ghaeltacht",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251206-1600-munster-ifc-club-championship-final-an-ghaeltacht-aghabullogue",
+    "score": "",
+    "search_index": "an ghaeltacht aghabullogue munster ifc club championship final mick neville park an ghaeltacht aghabullogue munster ifc club championship final mick neville park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "16:00",
+    "updated_at": "2025-11-28T18:28:12Z",
+    "venue": "Mick Neville Park"
+  },
+  {
+    "away": "St Finbarr's/Barra Naofa",
+    "competition": "Munster SFC Club Championship FINAL",
+    "date": "2025-12-07",
+    "home": "Dingle",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251207-1330-munster-sfc-club-championship-final-dingle-st-finbarrsbarra",
+    "score": "",
+    "search_index": "dingle st finbarr s barra naofa munster sfc club championship final fbd semple stadium thurles dingle saint finbarr s barra naofa munster sfc club championship final fbd semple stadium thurles",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:30",
+    "updated_at": "2025-11-28T18:28:12Z",
+    "venue": "FBD Semple Stadium, Thurles"
   }
 ]
