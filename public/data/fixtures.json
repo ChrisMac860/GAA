@@ -5,12 +5,12 @@
     "date": "2025-11-30",
     "home": "Maigh Cuilinn",
     "id": "prov-httpsconnachtgaaiefixtures-results-20251130-1300-club-senior-football-championship-2025-knockout-final-maigh-cuilinn-st-brigids",
-    "score": "",
+    "score": "1-14 \u0013 1-16",
     "search_index": "maigh cuilinn st brigids club senior football championship 2025- knockout final king moffatt dr hyde park roscommon maigh cuilinn saint brigids club senior football championship 2025- knockout final king moffatt dr hyde park roscommon",
     "source": "scraper",
-    "status": "scheduled",
+    "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-11-30T06:30:07Z",
+    "updated_at": "2025-11-30T18:27:16Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-11-30T06:29:59Z",
+    "updated_at": "2025-11-30T18:27:15Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-30T06:30:13Z",
+    "updated_at": "2025-11-30T18:27:18Z",
     "venue": "Mallow"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-11-30T06:30:13Z",
+    "updated_at": "2025-11-30T18:27:18Z",
     "venue": "Mick Neville Park"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-11-30T06:29:59Z",
+    "updated_at": "2025-11-30T18:27:15Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-30T06:29:59Z",
+    "updated_at": "2025-11-30T18:27:15Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-30T06:30:13Z",
+    "updated_at": "2025-11-30T18:27:18Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -108,7 +108,49 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2025-11-30T06:29:59Z",
+    "updated_at": "2025-11-30T18:27:15Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
+  },
+  {
+    "away": "Tubberclair Gaa Club",
+    "competition": "AIB Leinster Club IFC 2025Final",
+    "date": "2025-12-14",
+    "home": "Sallins GAA Club",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251214-1330-aib-leinster-club-ifc-2025final-sallins-gaa-club-tubberclair-gaa-",
+    "score": "",
+    "search_index": "sallins gaa club tubberclair gaa club aib leinster club ifc 2025final sallins gaa club tubberclair gaa club aib leinster club ifc 2025final",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:30",
+    "updated_at": "2025-11-30T18:27:19Z",
+    "venue": ""
+  },
+  {
+    "away": "Grangenolvin",
+    "competition": "AIB Leinster Club JFC 25Final",
+    "date": "2025-12-14",
+    "home": "FIGHTING COCKS GFC",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251214-1330-aib-leinster-club-jfc-25final-fighting-cocks-g-grangenolvin",
+    "score": "",
+    "search_index": "fighting cocks gfc grangenolvin aib leinster club jfc 25final fighting cocks gfc grangenolvin aib leinster club jfc 25final",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:30",
+    "updated_at": "2025-11-30T18:27:19Z",
+    "venue": ""
+  },
+  {
+    "away": "Ballyboden/St Enda's",
+    "competition": "AIB Leinster Club SFC 25Final",
+    "date": "2025-12-14",
+    "home": "Athy",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251214-1630-aib-leinster-club-sfc-25final-athy-ballybodenst-end",
+    "score": "",
+    "search_index": "athy ballyboden st enda s aib leinster club sfc 25final croke park athy ballyboden saint enda s aib leinster club sfc 25final croke park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "16:30",
+    "updated_at": "2025-11-30T18:27:19Z",
+    "venue": "Croke Park"
   }
 ]

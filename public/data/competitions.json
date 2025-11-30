@@ -49,6 +49,27 @@
     "slug": "2025-ulster-gaa-football-senior-club-championshipfinal"
   },
   {
+    "first_kickoff": "2025-12-14T13:30:00Z",
+    "match_count": 1,
+    "name": "AIB Leinster Club IFC 2025Final",
+    "popularity": 80,
+    "slug": "aib-leinster-club-ifc-2025final"
+  },
+  {
+    "first_kickoff": "2025-12-14T13:30:00Z",
+    "match_count": 1,
+    "name": "AIB Leinster Club JFC 25Final",
+    "popularity": 80,
+    "slug": "aib-leinster-club-jfc-25final"
+  },
+  {
+    "first_kickoff": "2025-12-14T16:30:00Z",
+    "match_count": 1,
+    "name": "AIB Leinster Club SFC 25Final",
+    "popularity": 80,
+    "slug": "aib-leinster-club-sfc-25final"
+  },
+  {
     "first_kickoff": "2025-11-30T13:00:00Z",
     "match_count": 1,
     "name": "Club Senior Football Championship 2025- Knockout Final",
