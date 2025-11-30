@@ -1,19 +1,5 @@
 [
   {
-    "away": "Kiltimagh",
-    "competition": "Club Junior Football Championship 2025 Final",
-    "date": "2025-11-29",
-    "home": "Achadh an Mheasa",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251129-1330-club-junior-football-championship-2025-final-achadh-an-mheasa-kiltimagh",
-    "score": "0-8 \u0013 0-16",
-    "search_index": "achadh an mheasa kiltimagh club junior football championship 2025 final heartland credit union pairc sean macdiarmada achadh an mheasa kiltimagh club junior football championship 2025 final heartland credit union pairc sean macdiarmada",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-29T18:27:24Z",
-    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
-  },
-  {
     "away": "St Brigids",
     "competition": "Club Senior Football Championship 2025- Knockout Final",
     "date": "2025-11-30",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-29T18:27:25Z",
+    "updated_at": "2025-11-30T06:30:07Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:13Z",
     "venue": "Mallow"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:13Z",
     "venue": "Mick Neville Park"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:13Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -122,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]

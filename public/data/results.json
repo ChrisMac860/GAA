@@ -1,47 +1,5 @@
 [
   {
-    "away": "St Patrick's Donagh",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Semi Final 1",
-    "date": "2025-11-15",
-    "home": "Clogher Eire Óg",
-    "id": "prov-httpsulstergaaiefixtures-results-20251115-1330-2025-ulster-gaa-football-junior-club-championship-semi-final-1-clogher-eire-og-st-patricks-dona",
-    "score": "1-24 \u0013 3-13",
-    "search_index": "clogher eire og st patrick s donagh 2025 ulster gaa football junior club championship semi final 1 st tiernach s park clones clogher eire og saint patrick s donagh 2025 ulster gaa football junior club championship semi final 1 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-29T18:27:22Z",
-    "venue": "St. Tiernach's Park, Clones"
-  },
-  {
-    "away": "Kilmeena",
-    "competition": "Club Intermediate Football Championship 2025 Semi-Final 1",
-    "date": "2025-11-15",
-    "home": "Coolaney/Mullinabreena",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251115-1330-club-intermediate-football-championship-2025-semi-final-1-coolaneymullinab-kilmeena",
-    "score": "1-9 \u0013 0-22",
-    "search_index": "coolaney mullinabreena kilmeena club intermediate football championship 2025 semi-final 1 hastings insurance machale park castlebar coolaney mullinabreena kilmeena club intermediate football championship 2025 semi-final 1 hastings insurance machale park castlebar",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-29T18:27:25Z",
-    "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
-    "away": "Strokestown",
-    "competition": "Club Intermediate Football Championship 2025 Semi-Final 2",
-    "date": "2025-11-15",
-    "home": "Allen Gaels",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251115-1330-club-intermediate-football-championship-2025-semi-final-2-allen-gaels-strokestown",
-    "score": "0-16 \u0013 2-16",
-    "search_index": "allen gaels strokestown club intermediate football championship 2025 semi-final 2 king moffatt dr hyde park roscommon allen gaels strokestown club intermediate football championship 2025 semi-final 2 king moffatt dr hyde park roscommon",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-29T18:27:25Z",
-    "venue": "King & Moffatt Dr Hyde Park, Roscommon"
-  },
-  {
     "away": "Emyvale",
     "competition": "2025 Ulster GAA Football Junior Club ChampionshipFinal",
     "date": "2025-11-16",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:58Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:58Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:58Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:24Z",
+    "updated_at": "2025-11-30T06:30:06Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:24Z",
+    "updated_at": "2025-11-30T06:30:06Z",
     "venue": "Páirc Seán Uí Eslín, Ballinamore"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:24Z",
+    "updated_at": "2025-11-30T06:30:06Z",
     "venue": "Pearse Stadium"
   },
   {
@@ -150,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:24Z",
+    "updated_at": "2025-11-30T06:30:06Z",
     "venue": "Ballyforan"
   },
   {
@@ -164,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "Glenisk O Connor Park"
   },
   {
@@ -178,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "Stabannon Parnells"
   },
   {
@@ -192,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "Glennon Brothers Pearse Park"
   },
   {
@@ -206,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "Integral GAA Grounds"
   },
   {
@@ -220,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -234,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "Chadwicks Wexford Park"
   },
   {
@@ -248,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -262,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:58Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -276,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-11-29T18:27:27Z",
+    "updated_at": "2025-11-30T06:30:15Z",
     "venue": "Manguard Park"
   },
   {
@@ -290,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:58Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -304,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -318,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -332,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -346,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-29T18:27:22Z",
+    "updated_at": "2025-11-30T06:29:59Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -360,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:24Z",
+    "updated_at": "2025-11-30T06:30:06Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -374,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2025-11-29T18:27:24Z",
+    "updated_at": "2025-11-30T06:30:06Z",
     "venue": "Enniscrone"
   },
   {
@@ -388,7 +346,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-29T18:27:24Z",
+    "updated_at": "2025-11-30T06:30:06Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   }
 ]
