@@ -1,75 +1,5 @@
 [
   {
-    "away": "Munterconnaught",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Semi Final 2",
-    "date": "2025-11-16",
-    "home": "Emyvale",
-    "id": "prov-httpsulstergaaiefixtures-results-20251116-1330-2025-ulster-gaa-football-junior-club-championship-semi-final-2-emyvale-munterconnaught",
-    "score": "1-19 \u0013 0-8",
-    "search_index": "emyvale munterconnaught 2025 ulster gaa football junior club championship semi final 2 shamrock park roslea emyvale munterconnaught 2025 ulster gaa football junior club championship semi final 2 shamrock park roslea",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-30T18:27:15Z",
-    "venue": "Shamrock Park, Roslea"
-  },
-  {
-    "away": "Ballina Stephenites",
-    "competition": "Club Senior Football Championship 2025- Knockout Semi-Final 1",
-    "date": "2025-11-16",
-    "home": "St Brigids",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-senior-football-championship-2025-knockout-semi-final-1-st-brigids-ballina-stepheni",
-    "score": "1-21 \u0013 3-8",
-    "search_index": "st brigids ballina stephenites club senior football championship 2025- knockout semi-final 1 king moffatt dr hyde park roscommon saint brigids ballina stephenites club senior football championship 2025- knockout semi-final 1 king moffatt dr hyde park roscommon",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-30T18:27:17Z",
-    "venue": "King & Moffatt Dr Hyde Park, Roscommon"
-  },
-  {
-    "away": "Maigh Cuilinn",
-    "competition": "Club Senior Football Championship 2025- Knockout Semi-Final 2",
-    "date": "2025-11-16",
-    "home": "Leitrim Gaels/Gaeil Liatroma",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-senior-football-championship-2025-knockout-semi-final-2-leitrim-gaelsgae-maigh-cuilinn",
-    "score": "1-9 \u0013 4-13",
-    "search_index": "leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium leitrim gaels gaeil liatroma maigh cuilinn club senior football championship 2025- knockout semi-final 2 pearse stadium",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-30T18:27:17Z",
-    "venue": "Pearse Stadium"
-  },
-  {
-    "away": "Cárna-Caiseal",
-    "competition": "Club Junior Football Championship 2025 Semi-Final 1",
-    "date": "2025-11-16",
-    "home": "Achadh an Mheasa",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-1-achadh-an-mheasa-carna-caiseal",
-    "score": "1-10 \u0013 1-9",
-    "search_index": "achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore achadh an mheasa carna-caiseal club junior football championship 2025 semi-final 1 pairc sean ui eslin ballinamore",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-30T18:27:17Z",
-    "venue": "Páirc Seán Uí Eslín, Ballinamore"
-  },
-  {
-    "away": "St. Croans",
-    "competition": "Club Junior Football Championship 2025 Semi-Final 2",
-    "date": "2025-11-16",
-    "home": "Kiltimagh",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251116-1330-club-junior-football-championship-2025-semi-final-2-kiltimagh-st-croans",
-    "score": "1-14 \u0013 2-11",
-    "search_index": "kiltimagh st croans club junior football championship 2025 semi-final 2 ballyforan kiltimagh saint croans club junior football championship 2025 semi-final 2 ballyforan",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-11-30T18:27:17Z",
-    "venue": "Ballyforan"
-  },
-  {
     "away": "Emyvale",
     "competition": "2025 Ulster GAA Football Junior Club ChampionshipFinal",
     "date": "2025-11-22",
@@ -80,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-11-30T18:27:14Z",
+    "updated_at": "2025-12-01T06:33:46Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -94,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-11-30T18:27:15Z",
+    "updated_at": "2025-12-01T06:33:47Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -108,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-30T18:27:14Z",
+    "updated_at": "2025-12-01T06:33:46Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -122,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-30T18:27:19Z",
+    "updated_at": "2025-12-01T06:34:00Z",
     "venue": "Glenisk O Connor Park"
   },
   {
@@ -136,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-30T18:27:19Z",
+    "updated_at": "2025-12-01T06:34:00Z",
     "venue": "Stabannon Parnells"
   },
   {
@@ -150,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-30T18:27:19Z",
+    "updated_at": "2025-12-01T06:34:00Z",
     "venue": "Glennon Brothers Pearse Park"
   },
   {
@@ -164,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2025-11-30T18:27:19Z",
+    "updated_at": "2025-12-01T06:34:00Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -178,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2025-11-30T18:27:19Z",
+    "updated_at": "2025-12-01T06:34:00Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -192,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-11-30T18:27:14Z",
+    "updated_at": "2025-12-01T06:33:46Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -206,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-11-30T18:27:15Z",
+    "updated_at": "2025-12-01T06:33:47Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -220,8 +150,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-11-30T18:27:19Z",
+    "updated_at": "2025-12-01T06:34:00Z",
     "venue": "Manguard Park"
+  },
+  {
+    "away": "Sean O'Leary GAC Newbridge",
+    "competition": "2025 Ulster GAA Football Senior Club ChampionshipSemi Final 2",
+    "date": "2025-11-22",
+    "home": "Scotstown",
+    "id": "lein-httpsulstergaaiefixtures-results-20251122-1600-2025-ulster-gaa-football-senior-club-championshipsemi-final-2-scotstown-sean-oleary-gac-",
+    "score": "2-21 - 2-20",
+    "search_index": "scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championshipsemi final 2 box-it athletic grounds armagh scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championshipsemi final 2 box-it athletic grounds armagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2025-12-01T06:33:46Z",
+    "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
     "away": "Kilcoo",
@@ -234,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-11-30T18:27:14Z",
+    "updated_at": "2025-12-01T06:33:46Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -248,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-11-30T18:27:15Z",
+    "updated_at": "2025-12-01T06:33:47Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -262,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2025-11-30T18:27:15Z",
+    "updated_at": "2025-12-01T06:33:47Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -276,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-30T18:27:16Z",
+    "updated_at": "2025-12-01T06:33:52Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -290,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2025-11-30T18:27:16Z",
+    "updated_at": "2025-12-01T06:33:52Z",
     "venue": "Enniscrone"
   },
   {
@@ -304,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-11-30T18:27:16Z",
+    "updated_at": "2025-12-01T06:33:52Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -318,7 +262,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-11-30T18:27:16Z",
+    "updated_at": "2025-12-01T06:33:52Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
+  },
+  {
+    "away": "Sean O'Leary GAC Newbridge",
+    "competition": "2025 Ulster GAA Football Senior Club Championship Semi Final 2",
+    "date": "2025-11-30",
+    "home": "Scotstown",
+    "id": "prov-httpsulstergaaiefixtures-results-20251130-1600-2025-ulster-gaa-football-senior-club-championship-semi-final-2-scotstown-sean-oleary-gac-",
+    "score": "2-21 \u0013 2-20",
+    "search_index": "scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championship semi final 2 box-it athletic grounds armagh scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championship semi final 2 box-it athletic grounds armagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2025-12-01T06:33:47Z",
+    "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
