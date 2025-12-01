@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-01T06:34:00Z",
+    "updated_at": "2025-12-01T18:33:51Z",
     "venue": "Mallow"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-12-01T06:34:00Z",
+    "updated_at": "2025-12-01T18:33:51Z",
     "venue": "Mick Neville Park"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-12-01T06:33:47Z",
+    "updated_at": "2025-12-01T18:33:48Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-01T06:33:47Z",
+    "updated_at": "2025-12-01T18:33:48Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-01T06:34:00Z",
+    "updated_at": "2025-12-01T18:33:51Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:15",
-    "updated_at": "2025-12-01T06:33:47Z",
+    "updated_at": "2025-12-01T18:33:48Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -90,12 +90,12 @@
     "home": "Sallins GAA Club",
     "id": "lein-httpsleinstergaaiefixtures-results-20251214-1330-aib-leinster-club-ifc-2025final-sallins-gaa-club-tubberclair-gaa-",
     "score": "",
-    "search_index": "sallins gaa club tubberclair gaa club aib leinster club ifc 2025final sallins gaa club tubberclair gaa club aib leinster club ifc 2025final",
+    "search_index": "sallins gaa club tubberclair gaa club aib leinster club ifc 2025final cedral st conleth s newbridge sallins gaa club tubberclair gaa club aib leinster club ifc 2025final cedral saint conleth s newbridge",
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-01T06:34:01Z",
-    "venue": ""
+    "updated_at": "2025-12-01T18:33:52Z",
+    "venue": "Cedral St Conleth's Newbridge"
   },
   {
     "away": "Grangenolvin",
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-01T06:34:01Z",
+    "updated_at": "2025-12-01T18:33:52Z",
     "venue": ""
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-12-01T06:34:01Z",
+    "updated_at": "2025-12-01T18:33:52Z",
     "venue": "Croke Park"
   }
 ]
