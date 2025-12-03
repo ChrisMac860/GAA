@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-02T18:32:36Z",
+    "updated_at": "2025-12-03T06:32:25Z",
     "venue": "Mallow"
   },
   {
@@ -24,36 +24,8 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-12-02T18:32:36Z",
+    "updated_at": "2025-12-03T06:32:25Z",
     "venue": "Mick Neville Park"
-  },
-  {
-    "away": "Tara GFC",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Twinning Final",
-    "date": "2025-12-06",
-    "home": "Clogher Eire Óg",
-    "id": "prov-httpsulstergaaiefixtures-results-20251206-1630-2025-ulster-gaa-football-junior-club-championship-twinning-final-clogher-eire-og-tara-gfc",
-    "score": "",
-    "search_index": "clogher eire og tara gfc 2025 ulster gaa football junior club championship twinning final mullaghmoyle park stewartstown clogher eire og tara gfc 2025 ulster gaa football junior club championship twinning final mullaghmoyle park stewartstown",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "16:30",
-    "updated_at": "2025-12-02T18:32:33Z",
-    "venue": "Mullaghmoyle Park, Stewartstown"
-  },
-  {
-    "away": "Glenullin",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Final",
-    "date": "2025-12-07",
-    "home": "CLG Cuchulainn",
-    "id": "prov-httpsulstergaaiefixtures-results-20251207-1300-2025-ulster-gaa-football-intermediate-club-championship-final-clg-cuchulainn-glenullin",
-    "score": "",
-    "search_index": "clg cuchulainn glenullin 2025 ulster gaa football intermediate club championship final st tiernach s park clones clg cuchulainn glenullin 2025 ulster gaa football intermediate club championship final saint tiernach s park clones",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-12-02T18:32:33Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "St Finbarr's/Barra Naofa",
@@ -66,8 +38,36 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-02T18:32:36Z",
+    "updated_at": "2025-12-03T06:32:25Z",
     "venue": "FBD Semple Stadium, Thurles"
+  },
+  {
+    "away": "Glenullin",
+    "competition": "2025 Ulster GAA Football Intermediate Club ChampionshipFinal",
+    "date": "2025-12-13",
+    "home": "CLG Cuchulainn",
+    "id": "lein-httpsulstergaaiefixtures-results-20251213-1300-2025-ulster-gaa-football-intermediate-club-championshipfinal-clg-cuchulainn-glenullin",
+    "score": "",
+    "search_index": "clg cuchulainn glenullin 2025 ulster gaa football intermediate club championshipfinal st tiernach s park clones clg cuchulainn glenullin 2025 ulster gaa football intermediate club championshipfinal saint tiernach s park clones",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-12-03T06:32:12Z",
+    "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Tara GFC",
+    "competition": "2025 Ulster GAA Football Junior Club ChampionshipTwinning Final",
+    "date": "2025-12-13",
+    "home": "Clogher Eire Óg",
+    "id": "lein-httpsulstergaaiefixtures-results-20251213-1630-2025-ulster-gaa-football-junior-club-championshiptwinning-final-clogher-eire-og-tara-gfc",
+    "score": "",
+    "search_index": "clogher eire og tara gfc 2025 ulster gaa football junior club championshiptwinning final mullaghmoyle park stewartstown clogher eire og tara gfc 2025 ulster gaa football junior club championshiptwinning final mullaghmoyle park stewartstown",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "16:30",
+    "updated_at": "2025-12-03T06:32:12Z",
+    "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
     "away": "Scotstown",
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:15",
-    "updated_at": "2025-12-02T18:32:33Z",
+    "updated_at": "2025-12-03T06:32:12Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-02T18:32:38Z",
+    "updated_at": "2025-12-03T06:32:26Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-02T18:32:38Z",
+    "updated_at": "2025-12-03T06:32:26Z",
     "venue": "SETU Carlow Campus"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-12-02T18:32:38Z",
+    "updated_at": "2025-12-03T06:32:26Z",
     "venue": "Croke Park"
   }
 ]
