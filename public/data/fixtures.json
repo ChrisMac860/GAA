@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-06T06:28:19Z",
+    "updated_at": "2025-12-06T18:26:46Z",
     "venue": "Mallow"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2025-12-06T06:28:19Z",
+    "updated_at": "2025-12-06T18:26:46Z",
     "venue": "Mick Neville Park"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:30",
-    "updated_at": "2025-12-06T06:28:14Z",
+    "updated_at": "2025-12-06T18:26:39Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-06T06:28:14Z",
+    "updated_at": "2025-12-06T18:26:39Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-06T06:28:19Z",
+    "updated_at": "2025-12-06T18:26:46Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:15",
-    "updated_at": "2025-12-06T06:28:14Z",
+    "updated_at": "2025-12-06T18:26:39Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-06T06:28:20Z",
+    "updated_at": "2025-12-06T18:26:47Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -108,21 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-06T06:28:20Z",
+    "updated_at": "2025-12-06T18:26:47Z",
     "venue": "SETU Carlow Campus"
-  },
-  {
-    "away": "Ballyboden/St Enda's",
-    "competition": "AIB Leinster Club SFC 25Final",
-    "date": "2025-12-14",
-    "home": "Athy",
-    "id": "lein-httpsleinstergaaiefixtures-results-20251214-1630-aib-leinster-club-sfc-25final-athy-ballybodenst-end",
-    "score": "",
-    "search_index": "athy ballyboden st enda s aib leinster club sfc 25final croke park athy ballyboden saint enda s aib leinster club sfc 25final croke park",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "16:30",
-    "updated_at": "2025-12-06T06:28:20Z",
-    "venue": "Croke Park"
   }
 ]
