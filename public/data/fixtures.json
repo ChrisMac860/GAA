@@ -5,26 +5,26 @@
     "date": "2025-12-07",
     "home": "CLG Cuchulainn",
     "id": "prov-httpsulstergaaiefixtures-results-20251207-1300-2025-ulster-gaa-football-intermediate-club-championship-final-clg-cuchulainn-glenullin",
-    "score": "",
+    "score": "0-19 \u0013 3-15",
     "search_index": "clg cuchulainn glenullin 2025 ulster gaa football intermediate club championship final st tiernach s park clones clg cuchulainn glenullin 2025 ulster gaa football intermediate club championship final saint tiernach s park clones",
     "source": "scraper",
-    "status": "scheduled",
+    "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-12-07T06:28:31Z",
+    "updated_at": "2025-12-07T18:26:41Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "St Finbarr's/Barra Naofa",
-    "competition": "Munster SFC Club ChampionshipFINAL",
-    "date": "2025-12-12",
+    "competition": "Munster SFC Club Championship FINAL",
+    "date": "2025-12-07",
     "home": "Dingle",
-    "id": "lein-httpsmunstergaaiefixtures-results-20251212-1330-munster-sfc-club-championshipfinal-dingle-st-finbarrsbarra",
+    "id": "prov-httpsmunstergaaiefixtures-results-20251207-1330-munster-sfc-club-championship-final-dingle-st-finbarrsbarra",
     "score": "",
-    "search_index": "dingle st finbarr s barra naofa munster sfc club championshipfinal fbd semple stadium thurles dingle saint finbarr s barra naofa munster sfc club championshipfinal fbd semple stadium thurles",
+    "search_index": "dingle st finbarr s barra naofa munster sfc club championship final fbd semple stadium thurles dingle saint finbarr s barra naofa munster sfc club championship final fbd semple stadium thurles",
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-07T06:28:36Z",
+    "updated_at": "2025-12-07T18:26:55Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:15",
-    "updated_at": "2025-12-07T06:28:31Z",
+    "updated_at": "2025-12-07T18:26:41Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-07T06:28:37Z",
+    "updated_at": "2025-12-07T18:26:56Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-07T06:28:37Z",
+    "updated_at": "2025-12-07T18:26:56Z",
     "venue": "SETU Carlow Campus"
   }
 ]
