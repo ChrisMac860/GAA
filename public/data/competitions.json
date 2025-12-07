@@ -7,32 +7,11 @@
     "slug": "2025-ulster-gaa-football-intermediate-club-championship-final"
   },
   {
-    "first_kickoff": "2025-12-06T16:30:00Z",
+    "first_kickoff": "2025-12-12T13:30:00Z",
     "match_count": 1,
-    "name": "2025 Ulster GAA Football Junior Club Championship Twinning Final",
-    "popularity": 120,
-    "slug": "2025-ulster-gaa-football-junior-club-championship-twinning-final"
-  },
-  {
-    "first_kickoff": "2025-12-06T13:00:00Z",
-    "match_count": 1,
-    "name": "Munster JFC Club Championship FINAL",
+    "name": "Munster SFC Club ChampionshipFINAL",
     "popularity": 80,
-    "slug": "munster-jfc-club-championship-final"
-  },
-  {
-    "first_kickoff": "2025-12-06T16:00:00Z",
-    "match_count": 1,
-    "name": "Munster IFC Club Championship FINAL",
-    "popularity": 80,
-    "slug": "munster-ifc-club-championship-final"
-  },
-  {
-    "first_kickoff": "2025-12-07T13:30:00Z",
-    "match_count": 1,
-    "name": "Munster SFC Club Championship FINAL",
-    "popularity": 80,
-    "slug": "munster-sfc-club-championship-final"
+    "slug": "munster-sfc-club-championshipfinal"
   },
   {
     "first_kickoff": "2025-12-13T18:15:00Z",

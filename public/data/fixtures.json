@@ -1,47 +1,5 @@
 [
   {
-    "away": "Buttevant",
-    "competition": "Munster JFC Club Championship FINAL",
-    "date": "2025-12-06",
-    "home": "Ballymacelligott",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251206-1300-munster-jfc-club-championship-final-ballymacelligott-buttevant",
-    "score": "",
-    "search_index": "ballymacelligott buttevant munster jfc club championship final mallow ballymacelligott buttevant munster jfc club championship final mallow",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "13:00",
-    "updated_at": "2025-12-06T18:26:46Z",
-    "venue": "Mallow"
-  },
-  {
-    "away": "Aghabullogue",
-    "competition": "Munster IFC Club Championship FINAL",
-    "date": "2025-12-06",
-    "home": "An Ghaeltacht",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251206-1600-munster-ifc-club-championship-final-an-ghaeltacht-aghabullogue",
-    "score": "",
-    "search_index": "an ghaeltacht aghabullogue munster ifc club championship final mick neville park an ghaeltacht aghabullogue munster ifc club championship final mick neville park",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "16:00",
-    "updated_at": "2025-12-06T18:26:46Z",
-    "venue": "Mick Neville Park"
-  },
-  {
-    "away": "Tara GFC",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Twinning Final",
-    "date": "2025-12-06",
-    "home": "Clogher Eire Óg",
-    "id": "prov-httpsulstergaaiefixtures-results-20251206-1630-2025-ulster-gaa-football-junior-club-championship-twinning-final-clogher-eire-og-tara-gfc",
-    "score": "",
-    "search_index": "clogher eire og tara gfc 2025 ulster gaa football junior club championship twinning final mullaghmoyle park stewartstown clogher eire og tara gfc 2025 ulster gaa football junior club championship twinning final mullaghmoyle park stewartstown",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "16:30",
-    "updated_at": "2025-12-06T18:26:39Z",
-    "venue": "Mullaghmoyle Park, Stewartstown"
-  },
-  {
     "away": "Glenullin",
     "competition": "2025 Ulster GAA Football Intermediate Club Championship Final",
     "date": "2025-12-07",
@@ -52,21 +10,21 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-06T18:26:39Z",
+    "updated_at": "2025-12-07T06:28:31Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "St Finbarr's/Barra Naofa",
-    "competition": "Munster SFC Club Championship FINAL",
-    "date": "2025-12-07",
+    "competition": "Munster SFC Club ChampionshipFINAL",
+    "date": "2025-12-12",
     "home": "Dingle",
-    "id": "prov-httpsmunstergaaiefixtures-results-20251207-1330-munster-sfc-club-championship-final-dingle-st-finbarrsbarra",
+    "id": "lein-httpsmunstergaaiefixtures-results-20251212-1330-munster-sfc-club-championshipfinal-dingle-st-finbarrsbarra",
     "score": "",
-    "search_index": "dingle st finbarr s barra naofa munster sfc club championship final fbd semple stadium thurles dingle saint finbarr s barra naofa munster sfc club championship final fbd semple stadium thurles",
+    "search_index": "dingle st finbarr s barra naofa munster sfc club championshipfinal fbd semple stadium thurles dingle saint finbarr s barra naofa munster sfc club championshipfinal fbd semple stadium thurles",
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-06T18:26:46Z",
+    "updated_at": "2025-12-07T06:28:36Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:15",
-    "updated_at": "2025-12-06T18:26:39Z",
+    "updated_at": "2025-12-07T06:28:31Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-06T18:26:47Z",
+    "updated_at": "2025-12-07T06:28:37Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-06T18:26:47Z",
+    "updated_at": "2025-12-07T06:28:37Z",
     "venue": "SETU Carlow Campus"
   }
 ]
