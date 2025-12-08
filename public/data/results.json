@@ -1,33 +1,5 @@
 [
   {
-    "away": "Glenullin",
-    "competition": "2025 Ulster GAA Football Intermediate Club Championship Semi Final 2",
-    "date": "2025-11-23",
-    "home": "Carrickmacross Emmets GFC",
-    "id": "prov-httpsulstergaaiefixtures-results-20251123-1315-2025-ulster-gaa-football-intermediate-club-championship-semi-final-2-carrickmacross-e-glenullin",
-    "score": "2-13 \u0013 1-17",
-    "search_index": "carrickmacross emmets gfc glenullin 2025 ulster gaa football intermediate club championship semi final 2 o neills healy park omagh carrickmacross emmets gfc glenullin 2025 ulster gaa football intermediate club championship semi final 2 o neills healy park omagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:15",
-    "updated_at": "2025-12-07T18:26:41Z",
-    "venue": "O'Neills Healy Park, Omagh"
-  },
-  {
-    "away": "Kilmeena",
-    "competition": "Club Intermediate Football Championship 2025 Final",
-    "date": "2025-11-23",
-    "home": "Strokestown",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251123-1330-club-intermediate-football-championship-2025-final-strokestown-kilmeena",
-    "score": "4-11 \u0013 0-14",
-    "search_index": "strokestown kilmeena club intermediate football championship 2025 final hastings insurance machale park castlebar strokestown kilmeena club intermediate football championship 2025 final hastings insurance machale park castlebar",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2025-12-07T18:26:44Z",
-    "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
     "away": "Leitrim",
     "competition": "PPS Senior A Football Championship 2025/26- Group 2 Round 2",
     "date": "2025-11-28",
@@ -38,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2025-12-07T18:26:43Z",
+    "updated_at": "2025-12-08T06:35:19Z",
     "venue": "Enniscrone"
   },
   {
@@ -52,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-12-07T18:26:40Z",
+    "updated_at": "2025-12-08T06:35:16Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -66,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-12-07T18:26:43Z",
+    "updated_at": "2025-12-08T06:35:19Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -80,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-12-07T18:26:55Z",
+    "updated_at": "2025-12-08T06:35:22Z",
     "venue": "Glenisk O Connor Park"
   },
   {
@@ -94,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-12-07T18:26:55Z",
+    "updated_at": "2025-12-08T06:35:22Z",
     "venue": "Stabannon Parnells"
   },
   {
@@ -108,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2025-12-07T18:26:55Z",
+    "updated_at": "2025-12-08T06:35:22Z",
     "venue": "Glennon Brothers Pearse Park"
   },
   {
@@ -122,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2025-12-07T18:26:55Z",
+    "updated_at": "2025-12-08T06:35:22Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -136,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2025-12-07T18:26:55Z",
+    "updated_at": "2025-12-08T06:35:22Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -150,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2025-12-07T18:26:55Z",
+    "updated_at": "2025-12-08T06:35:22Z",
     "venue": "Manguard Park"
   },
   {
@@ -164,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2025-12-07T18:26:40Z",
+    "updated_at": "2025-12-08T06:35:16Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -178,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-12-07T18:26:40Z",
+    "updated_at": "2025-12-08T06:35:16Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -192,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-12-07T18:26:55Z",
+    "updated_at": "2025-12-08T06:35:22Z",
     "venue": "Croke Park"
   },
   {
@@ -206,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-12-07T18:26:43Z",
+    "updated_at": "2025-12-08T06:35:19Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -220,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2025-12-07T18:26:41Z",
+    "updated_at": "2025-12-08T06:35:17Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -234,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-12-07T18:26:41Z",
+    "updated_at": "2025-12-08T06:35:17Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -248,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-12-07T18:26:41Z",
+    "updated_at": "2025-12-08T06:35:17Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
