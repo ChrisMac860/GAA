@@ -1,16 +1,16 @@
 [
   {
     "away": "Scotstown",
-    "competition": "2025 Ulster GAA Football Senior Club ChampionshipFinal",
+    "competition": "2025 Ulster GAA Football Senior Club Championship Final",
     "date": "2025-12-13",
     "home": "Kilcoo",
-    "id": "lein-httpsulstergaaiefixtures-results-20251213-1815-2025-ulster-gaa-football-senior-club-championshipfinal-kilcoo-scotstown",
+    "id": "prov-httpsulstergaaiefixtures-results-20251213-1815-2025-ulster-gaa-football-senior-club-championship-final-kilcoo-scotstown",
     "score": "",
-    "search_index": "kilcoo scotstown 2025 ulster gaa football senior club championshipfinal box-it athletic grounds armagh kilcoo scotstown 2025 ulster gaa football senior club championshipfinal box-it athletic grounds armagh",
+    "search_index": "kilcoo scotstown 2025 ulster gaa football senior club championship final box-it athletic grounds armagh kilcoo scotstown 2025 ulster gaa football senior club championship final box-it athletic grounds armagh",
     "source": "scraper",
     "status": "scheduled",
     "time": "18:15",
-    "updated_at": "2025-12-13T06:30:17Z",
+    "updated_at": "2025-12-13T18:26:48Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-13T06:30:37Z",
+    "updated_at": "2025-12-13T18:26:58Z",
     "venue": "Cedral St Conleth's Newbridge"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2025-12-13T06:30:37Z",
+    "updated_at": "2025-12-13T18:26:58Z",
     "venue": "SETU Carlow Campus"
   }
 ]
