@@ -1,33 +1,5 @@
 [
   {
-    "away": "St Brigids",
-    "competition": "Club Senior Football Championship 2025- Knockout Final",
-    "date": "2025-11-30",
-    "home": "Maigh Cuilinn",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20251130-1300-club-senior-football-championship-2025-knockout-final-maigh-cuilinn-st-brigids",
-    "score": "1-14 \u0013 1-16",
-    "search_index": "maigh cuilinn st brigids club senior football championship 2025- knockout final king moffatt dr hyde park roscommon maigh cuilinn saint brigids club senior football championship 2025- knockout final king moffatt dr hyde park roscommon",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2025-12-14T18:28:18Z",
-    "venue": "King & Moffatt Dr Hyde Park, Roscommon"
-  },
-  {
-    "away": "Sean O'Leary GAC Newbridge",
-    "competition": "2025 Ulster GAA Football Senior Club Championship Semi Final 2",
-    "date": "2025-11-30",
-    "home": "Scotstown",
-    "id": "prov-httpsulstergaaiefixtures-results-20251130-1600-2025-ulster-gaa-football-senior-club-championship-semi-final-2-scotstown-sean-oleary-gac-",
-    "score": "2-21 \u0013 2-20",
-    "search_index": "scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championship semi final 2 box-it athletic grounds armagh scotstown sean o leary gac newbridge 2025 ulster gaa football senior club championship semi final 2 box-it athletic grounds armagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:00",
-    "updated_at": "2025-12-14T18:28:15Z",
-    "venue": "BOX-IT Athletic Grounds, Armagh"
-  },
-  {
     "away": "Tara GFC",
     "competition": "2025 Ulster GAA Football Junior Club Championship Twinning Final",
     "date": "2025-12-06",
@@ -38,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2025-12-14T18:28:15Z",
+    "updated_at": "2025-12-15T06:35:45Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -52,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-12-14T18:28:15Z",
+    "updated_at": "2025-12-15T06:35:45Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -66,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2025-12-14T18:28:15Z",
+    "updated_at": "2025-12-15T06:35:45Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
