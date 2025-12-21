@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-20T18:26:37Z",
+    "updated_at": "2025-12-21T06:30:44Z",
     "venue": "Fr. O'Hara Park"
   },
   {
@@ -24,7 +24,35 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2025-12-20T18:26:37Z",
+    "updated_at": "2025-12-21T06:30:44Z",
+    "venue": "Connacht GAA Centre"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "FBD League 2026 Round 1",
+    "date": "2026-01-04",
+    "home": "Roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260104-1300-fbd-league-2026-round-1-roscommon-leitrim",
+    "score": "",
+    "search_index": "roscommon leitrim fbd league 2026 round 1 orchard park roscommon leitrim fbd league 2026 round 1 orchard park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-12-21T06:30:44Z",
+    "venue": "Orchard Park"
+  },
+  {
+    "away": "Sligo",
+    "competition": "FBD League 2026 Round 2",
+    "date": "2026-01-04",
+    "home": "London",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260104-1300-fbd-league-2026-round-2-london-sligo",
+    "score": "",
+    "search_index": "london sligo fbd league 2026 round 2 connacht gaa centre london sligo fbd league 2026 round 2 connacht gaa centre",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-12-21T06:30:44Z",
     "venue": "Connacht GAA Centre"
   }
 ]

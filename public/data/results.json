@@ -1,19 +1,5 @@
 [
   {
-    "away": "Tara GFC",
-    "competition": "2025 Ulster GAA Football Junior Club Championship Twinning Final",
-    "date": "2025-12-06",
-    "home": "Clogher Eire Óg",
-    "id": "prov-httpsulstergaaiefixtures-results-20251206-1630-2025-ulster-gaa-football-junior-club-championship-twinning-final-clogher-eire-og-tara-gfc",
-    "score": "2-11 \u0013 1-13",
-    "search_index": "clogher eire og tara gfc 2025 ulster gaa football junior club championship twinning final mullaghmoyle park stewartstown clogher eire og tara gfc 2025 ulster gaa football junior club championship twinning final mullaghmoyle park stewartstown",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:30",
-    "updated_at": "2025-12-20T18:26:30Z",
-    "venue": "Mullaghmoyle Park, Stewartstown"
-  },
-  {
     "away": "Glenullin",
     "competition": "2025 Ulster GAA Football Intermediate Club Championship Final",
     "date": "2025-12-07",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-12-20T18:26:30Z",
+    "updated_at": "2025-12-21T06:30:39Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2025-12-20T18:26:30Z",
+    "updated_at": "2025-12-21T06:30:39Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
