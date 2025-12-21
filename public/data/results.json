@@ -10,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2025-12-21T06:30:39Z",
+    "updated_at": "2025-12-21T18:28:26Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Scotstown",
+    "competition": "2025 Ulster GAA Football Senior Club ChampionshipFinal",
+    "date": "2025-12-13",
+    "home": "Kilcoo",
+    "id": "lein-httpsulstergaaiefixtures-results-20251213-1815-2025-ulster-gaa-football-senior-club-championshipfinal-kilcoo-scotstown",
+    "score": "0-16 - 0-19",
+    "search_index": "kilcoo scotstown 2025 ulster gaa football senior club championshipfinal box-it athletic grounds armagh kilcoo scotstown 2025 ulster gaa football senior club championshipfinal box-it athletic grounds armagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:15",
+    "updated_at": "2025-12-21T18:28:24Z",
+    "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
     "away": "Scotstown",
@@ -24,7 +38,35 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2025-12-21T06:30:39Z",
+    "updated_at": "2025-12-21T18:28:26Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
+  },
+  {
+    "away": "Tubberclair Gaa Club",
+    "competition": "AIB Leinster Club IFC 2025Final",
+    "date": "2025-12-14",
+    "home": "Sallins GAA Club",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251214-1330-aib-leinster-club-ifc-2025final-sallins-gaa-club-tubberclair-gaa-",
+    "score": "2-11 - 2-4",
+    "search_index": "sallins gaa club tubberclair gaa club aib leinster club ifc 2025final cedral st conleth s newbridge sallins gaa club tubberclair gaa club aib leinster club ifc 2025final cedral saint conleth s newbridge",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-12-21T18:28:37Z",
+    "venue": "Cedral St Conleth's Newbridge"
+  },
+  {
+    "away": "Grangenolvin",
+    "competition": "AIB Leinster Club JFC 25Final",
+    "date": "2025-12-14",
+    "home": "FIGHTING COCKS GFC",
+    "id": "lein-httpsleinstergaaiefixtures-results-20251214-1330-aib-leinster-club-jfc-25final-fighting-cocks-g-grangenolvin",
+    "score": "1-8 - 1-12",
+    "search_index": "fighting cocks gfc grangenolvin aib leinster club jfc 25final setu carlow campus fighting cocks gfc grangenolvin aib leinster club jfc 25final setu carlow campus",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2025-12-21T18:28:37Z",
+    "venue": "SETU Carlow Campus"
   }
 ]
