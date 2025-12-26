@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-25T18:29:51Z",
+    "updated_at": "2025-12-26T06:33:00Z",
     "venue": "Fr. O'Hara Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2025-12-25T18:29:51Z",
+    "updated_at": "2025-12-26T06:33:00Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-25T18:29:51Z",
+    "updated_at": "2025-12-26T06:33:00Z",
     "venue": "Orchard Park"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-25T18:29:51Z",
+    "updated_at": "2025-12-26T06:33:00Z",
     "venue": "Connacht GAA Centre"
   }
 ]
