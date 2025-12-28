@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-27T18:28:39Z",
+    "updated_at": "2025-12-28T06:31:56Z",
     "venue": "Fr. O'Hara Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2025-12-27T18:28:39Z",
+    "updated_at": "2025-12-28T06:31:56Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-27T18:28:39Z",
+    "updated_at": "2025-12-28T06:31:56Z",
     "venue": "Orchard Park"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-27T18:28:39Z",
+    "updated_at": "2025-12-28T06:31:56Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -66,7 +66,21 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2025-12-27T18:28:39Z",
+    "updated_at": "2025-12-28T06:31:56Z",
     "venue": "Tuam Stadium"
+  },
+  {
+    "away": "Roscommon",
+    "competition": "FBD League 2026 Round 2",
+    "date": "2026-01-11",
+    "home": "Mayo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260111-1300-fbd-league-2026-round-2-mayo-roscommon",
+    "score": "",
+    "search_index": "mayo roscommon fbd league 2026 round 2 king moffatt dr hyde park roscommon mayo roscommon fbd league 2026 round 2 king moffatt dr hyde park roscommon",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2025-12-28T06:31:56Z",
+    "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   }
 ]
