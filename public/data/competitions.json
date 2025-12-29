@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "first_kickoff": "2026-01-03T13:00:00Z",
+    "match_count": 3,
+    "name": "FBD League 2026 Round 1",
+    "popularity": 30,
+    "slug": "fbd-league-2026-round-1"
+  },
+  {
+    "first_kickoff": "2026-01-04T13:00:00Z",
+    "match_count": 3,
+    "name": "FBD League 2026 Round 2",
+    "popularity": 30,
+    "slug": "fbd-league-2026-round-2"
+  }
+]
