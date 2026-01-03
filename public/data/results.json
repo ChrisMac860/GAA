@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "away": "Mayo",
+    "competition": "FBD League 2026 Round 1",
+    "date": "2026-01-03",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260103-1300-fbd-league-2026-round-1-sligo-mayo",
+    "score": "1-11 \u0013 1-17",
+    "search_index": "sligo mayo fbd league 2026 round 1 fr o hara park sligo mayo fbd league 2026 round 1 fr o hara park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-01-03T18:29:08Z",
+    "venue": "Fr. O'Hara Park"
+  }
+]
