@@ -10,7 +10,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-03T18:29:08Z",
+    "updated_at": "2026-01-04T06:32:17Z",
     "venue": "Fr. O'Hara Park"
+  },
+  {
+    "away": "London",
+    "competition": "FBD League 2026 Round 1",
+    "date": "2026-01-03",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260103-1800-fbd-league-2026-round-1-galway-london",
+    "score": "3-19 \u0013 0-4",
+    "search_index": "galway london fbd league 2026 round 1 connacht gaa centre galway london fbd league 2026 round 1 connacht gaa centre",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:00",
+    "updated_at": "2026-01-04T06:32:17Z",
+    "venue": "Connacht GAA Centre"
   }
 ]
