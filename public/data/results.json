@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-04T06:32:17Z",
+    "updated_at": "2026-01-04T18:29:22Z",
     "venue": "Fr. O'Hara Park"
   },
   {
@@ -24,7 +24,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-04T06:32:17Z",
+    "updated_at": "2026-01-04T18:29:22Z",
+    "venue": "Connacht GAA Centre"
+  },
+  {
+    "away": "Sligo",
+    "competition": "FBD League 2026 Round 2",
+    "date": "2026-01-04",
+    "home": "London",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260104-1300-fbd-league-2026-round-2-london-sligo",
+    "score": "1-11 \u0013 0-14",
+    "search_index": "london sligo fbd league 2026 round 2 connacht gaa centre london sligo fbd league 2026 round 2 connacht gaa centre",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-01-04T18:29:22Z",
     "venue": "Connacht GAA Centre"
   }
 ]
