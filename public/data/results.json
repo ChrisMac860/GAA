@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-10T06:31:07Z",
+    "updated_at": "2026-01-10T18:29:18Z",
     "venue": "Fr. O'Hara Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-10T06:31:07Z",
+    "updated_at": "2026-01-10T18:29:18Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-10T06:31:07Z",
+    "updated_at": "2026-01-10T18:29:18Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -52,7 +52,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-01-10T06:31:07Z",
+    "updated_at": "2026-01-10T18:29:18Z",
     "venue": "Connacht GAA Centre"
+  },
+  {
+    "away": "Galway",
+    "competition": "FBD League 2026 Round 2",
+    "date": "2026-01-10",
+    "home": "Leitrim",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260110-1300-fbd-league-2026-round-2-leitrim-galway",
+    "score": "0-14 \u0013 2-19",
+    "search_index": "leitrim galway fbd league 2026 round 2 tuam stadium leitrim galway fbd league 2026 round 2 tuam stadium",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-01-10T18:29:18Z",
+    "venue": "Tuam Stadium"
   }
 ]
