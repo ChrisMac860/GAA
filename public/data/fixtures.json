@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-09T18:32:48Z",
+    "updated_at": "2026-01-10T06:31:08Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -24,7 +24,49 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-09T18:32:48Z",
+    "updated_at": "2026-01-10T06:31:08Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
+  },
+  {
+    "away": "Longford",
+    "competition": "Allianz Football League Roinn 4 Round 1",
+    "date": "2026-01-24",
+    "home": "Waterford",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1430-allianz-football-league-roinn-4-round-1-waterford-longford",
+    "score": "",
+    "search_index": "waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:30",
+    "updated_at": "2026-01-10T06:31:13Z",
+    "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
+  },
+  {
+    "away": "Limerick",
+    "competition": "Allianz Football League Roinn 3 Round 1",
+    "date": "2026-01-24",
+    "home": "Laois",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-laois-limerick",
+    "score": "",
+    "search_index": "laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "18:00",
+    "updated_at": "2026-01-10T06:31:13Z",
+    "venue": "Laois Hire O'Moore Park, Portlaoise"
+  },
+  {
+    "away": "Clare",
+    "competition": "Allianz Football League Roinn 3 Round 1",
+    "date": "2026-01-24",
+    "home": "Down",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-down-clare",
+    "score": "",
+    "search_index": "down clare allianz football league roinn 3 round 1 pairc esler newry down clare allianz football league roinn 3 round 1 pairc esler newry",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "18:00",
+    "updated_at": "2026-01-10T06:31:13Z",
+    "venue": "Páirc Esler, Newry"
   }
 ]
