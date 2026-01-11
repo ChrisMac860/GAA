@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-11T06:32:26Z",
+    "updated_at": "2026-01-11T18:29:22Z",
     "venue": "King & Moffatt Dr Hyde Park, Roscommon"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2026-01-11T06:32:40Z",
+    "updated_at": "2026-01-11T18:29:27Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-01-11T06:32:40Z",
+    "updated_at": "2026-01-11T18:29:27Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-01-11T06:32:40Z",
+    "updated_at": "2026-01-11T18:29:27Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-11T06:32:40Z",
+    "updated_at": "2026-01-11T18:29:27Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-11T06:32:40Z",
+    "updated_at": "2026-01-11T18:29:27Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-11T06:32:40Z",
+    "updated_at": "2026-01-11T18:29:27Z",
     "venue": "McGovern Park, Ruislip"
   }
 ]
