@@ -14,11 +14,25 @@
     "slug": "allianz-football-league-roinn-3-round-1"
   },
   {
-    "first_kickoff": "2026-01-11T13:00:00Z",
+    "first_kickoff": "2026-01-16T19:30:00Z",
     "match_count": 1,
-    "name": "FBD League 2026 Round 2",
+    "name": "FBD League 2026 Shield Final",
     "popularity": 30,
-    "slug": "fbd-league-2026-round-2"
+    "slug": "fbd-league-2026-shield-final"
+  },
+  {
+    "first_kickoff": "2026-01-17T18:30:00Z",
+    "match_count": 1,
+    "name": "FBD League 2026 Plate Final",
+    "popularity": 30,
+    "slug": "fbd-league-2026-plate-final"
+  },
+  {
+    "first_kickoff": "2026-01-18T13:00:00Z",
+    "match_count": 1,
+    "name": "FBD League 2026 Cup Final",
+    "popularity": 30,
+    "slug": "fbd-league-2026-cup-final"
   },
   {
     "first_kickoff": "2026-01-25T13:30:00Z",
