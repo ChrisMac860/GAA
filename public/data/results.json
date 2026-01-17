@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-16T18:33:16Z",
+    "updated_at": "2026-01-17T06:31:11Z",
     "venue": "Fr. O'Hara Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-16T18:33:16Z",
+    "updated_at": "2026-01-17T06:31:11Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-16T18:33:16Z",
+    "updated_at": "2026-01-17T06:31:11Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-01-16T18:33:16Z",
+    "updated_at": "2026-01-17T06:31:11Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -66,7 +66,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-16T18:33:16Z",
+    "updated_at": "2026-01-17T06:31:11Z",
     "venue": "Tuam Stadium"
+  },
+  {
+    "away": "Sligo",
+    "competition": "FBD League 2026 Shield Final",
+    "date": "2026-01-16",
+    "home": "Roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260116-1930-fbd-league-2026-shield-final-roscommon-sligo",
+    "score": "2-14 \u0013 1-18",
+    "search_index": "roscommon sligo fbd league 2026 shield final connacht gaa centre roscommon sligo fbd league 2026 shield final connacht gaa centre",
+    "source": "scraper",
+    "status": "FT",
+    "time": "19:30",
+    "updated_at": "2026-01-17T06:31:11Z",
+    "venue": "Connacht GAA Centre"
   }
 ]

@@ -14,13 +14,6 @@
     "slug": "allianz-football-league-roinn-3-round-1"
   },
   {
-    "first_kickoff": "2026-01-16T19:30:00Z",
-    "match_count": 1,
-    "name": "FBD League 2026 Shield Final",
-    "popularity": 30,
-    "slug": "fbd-league-2026-shield-final"
-  },
-  {
     "first_kickoff": "2026-01-17T18:30:00Z",
     "match_count": 1,
     "name": "FBD League 2026 Plate Final",
@@ -47,5 +40,12 @@
     "name": "Allianz Football League Roinn 1 Round 1",
     "popularity": 30,
     "slug": "allianz-football-league-roinn-1-round-1"
+  },
+  {
+    "first_kickoff": "2026-01-31T14:00:00Z",
+    "match_count": 1,
+    "name": "Allianz Football League Roinn 3 Round 2",
+    "popularity": 30,
+    "slug": "allianz-football-league-roinn-3-round-2"
   }
 ]

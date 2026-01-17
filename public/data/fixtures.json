@@ -1,19 +1,5 @@
 [
   {
-    "away": "Sligo",
-    "competition": "FBD League 2026 Shield Final",
-    "date": "2026-01-16",
-    "home": "Roscommon",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260116-1930-fbd-league-2026-shield-final-roscommon-sligo",
-    "score": "",
-    "search_index": "roscommon sligo fbd league 2026 shield final connacht gaa centre roscommon sligo fbd league 2026 shield final connacht gaa centre",
-    "source": "scraper",
-    "status": "scheduled",
-    "time": "19:30",
-    "updated_at": "2026-01-16T18:33:17Z",
-    "venue": "Connacht GAA Centre"
-  },
-  {
     "away": "Leitrim",
     "competition": "FBD League 2026 Plate Final",
     "date": "2026-01-17",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:30",
-    "updated_at": "2026-01-16T18:33:17Z",
+    "updated_at": "2026-01-17T06:31:12Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-16T18:33:17Z",
+    "updated_at": "2026-01-17T06:31:12Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:30",
-    "updated_at": "2026-01-16T18:33:23Z",
+    "updated_at": "2026-01-17T06:31:24Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-01-16T18:33:23Z",
+    "updated_at": "2026-01-17T06:31:24Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-01-16T18:33:23Z",
+    "updated_at": "2026-01-17T06:31:24Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-16T18:33:23Z",
+    "updated_at": "2026-01-17T06:31:24Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-16T18:33:23Z",
+    "updated_at": "2026-01-17T06:31:24Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -122,7 +108,21 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-16T18:33:23Z",
+    "updated_at": "2026-01-17T06:31:24Z",
     "venue": "Fitzgerald Stadium"
+  },
+  {
+    "away": "Down",
+    "competition": "Allianz Football League Roinn 3 Round 2",
+    "date": "2026-01-31",
+    "home": "Limerick",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260131-1400-allianz-football-league-roinn-3-round-2-limerick-down",
+    "score": "",
+    "search_index": "limerick down allianz football league roinn 3 round 2 mick neville park rathkeale limerick down allianz football league roinn 3 round 2 mick neville park rathkeale",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:00",
+    "updated_at": "2026-01-17T06:31:24Z",
+    "venue": "Mick Neville Park Rathkeale"
   }
 ]
