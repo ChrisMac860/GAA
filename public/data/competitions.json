@@ -14,11 +14,18 @@
     "slug": "allianz-football-league-roinn-3-round-1"
   },
   {
-    "first_kickoff": "2026-01-17T18:30:00Z",
-    "match_count": 1,
-    "name": "FBD League 2026 Plate Final",
+    "first_kickoff": "2026-01-31T14:00:00Z",
+    "match_count": 2,
+    "name": "Allianz Football League Roinn 3 Round 2",
     "popularity": 30,
-    "slug": "fbd-league-2026-plate-final"
+    "slug": "allianz-football-league-roinn-3-round-2"
+  },
+  {
+    "first_kickoff": "2026-02-01T13:00:00Z",
+    "match_count": 2,
+    "name": "Allianz Football League Roinn 4 Round 2",
+    "popularity": 30,
+    "slug": "allianz-football-league-roinn-4-round-2"
   },
   {
     "first_kickoff": "2026-01-18T13:00:00Z",
@@ -42,10 +49,17 @@
     "slug": "allianz-football-league-roinn-1-round-1"
   },
   {
-    "first_kickoff": "2026-01-31T14:00:00Z",
+    "first_kickoff": "2026-02-01T13:30:00Z",
     "match_count": 1,
-    "name": "Allianz Football League Roinn 3 Round 2",
+    "name": "Allianz Football League Roinn 1 Round 2",
     "popularity": 30,
-    "slug": "allianz-football-league-roinn-3-round-2"
+    "slug": "allianz-football-league-roinn-1-round-2"
+  },
+  {
+    "first_kickoff": "2026-02-01T13:30:00Z",
+    "match_count": 1,
+    "name": "Allianz Football League Roinn 2 Round 2",
+    "popularity": 30,
+    "slug": "allianz-football-league-roinn-2-round-2"
   }
 ]
