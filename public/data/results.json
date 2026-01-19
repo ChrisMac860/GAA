@@ -1,33 +1,5 @@
 [
   {
-    "away": "Sligo",
-    "competition": "FBD League 2026 Round 2",
-    "date": "2026-01-04",
-    "home": "London",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260104-1300-fbd-league-2026-round-2-london-sligo",
-    "score": "1-11 \u0013 0-14",
-    "search_index": "london sligo fbd league 2026 round 2 connacht gaa centre london sligo fbd league 2026 round 2 connacht gaa centre",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-01-18T18:28:43Z",
-    "venue": "Connacht GAA Centre"
-  },
-  {
-    "away": "Leitrim",
-    "competition": "FBD League 2026 Round 1",
-    "date": "2026-01-04",
-    "home": "Roscommon",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260104-1430-fbd-league-2026-round-1-roscommon-leitrim",
-    "score": "5-17 \u0013 0-14",
-    "search_index": "roscommon leitrim fbd league 2026 round 1 connacht gaa centre roscommon leitrim fbd league 2026 round 1 connacht gaa centre",
-    "source": "scraper",
-    "status": "FT",
-    "time": "14:30",
-    "updated_at": "2026-01-18T18:28:43Z",
-    "venue": "Connacht GAA Centre"
-  },
-  {
     "away": "Galway",
     "competition": "FBD League 2026 Round 2",
     "date": "2026-01-10",
@@ -38,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-18T18:28:42Z",
+    "updated_at": "2026-01-19T06:39:03Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -52,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-01-18T18:28:42Z",
+    "updated_at": "2026-01-19T06:39:03Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -66,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-01-18T18:28:42Z",
+    "updated_at": "2026-01-19T06:39:03Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -80,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-18T18:28:42Z",
+    "updated_at": "2026-01-19T06:39:03Z",
     "venue": "Tuam Stadium"
   }
 ]
