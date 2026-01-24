@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-24T06:32:24Z",
+    "updated_at": "2026-01-24T18:30:28Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-01-24T06:32:24Z",
+    "updated_at": "2026-01-24T18:30:28Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-01-24T06:32:24Z",
+    "updated_at": "2026-01-24T18:30:28Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -52,7 +52,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-24T06:32:24Z",
+    "updated_at": "2026-01-24T18:30:28Z",
     "venue": "Tuam Stadium"
+  },
+  {
+    "away": "Longford",
+    "competition": "Allianz Football League Roinn 4 Round 1",
+    "date": "2026-01-24",
+    "home": "Waterford",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1200-allianz-football-league-roinn-4-round-1-waterford-longford",
+    "score": "P \u0013 P",
+    "search_index": "waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-01-24T18:30:34Z",
+    "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   }
 ]
