@@ -1,19 +1,5 @@
 [
   {
-    "away": "Galway",
-    "competition": "FBD League 2026 Round 2",
-    "date": "2026-01-10",
-    "home": "Leitrim",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260110-1300-fbd-league-2026-round-2-leitrim-galway",
-    "score": "0-14 \u0013 2-19",
-    "search_index": "leitrim galway fbd league 2026 round 2 tuam stadium leitrim galway fbd league 2026 round 2 tuam stadium",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-01-24T18:30:28Z",
-    "venue": "Tuam Stadium"
-  },
-  {
     "away": "Sligo",
     "competition": "FBD League 2026 Shield Final",
     "date": "2026-01-16",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-01-24T18:30:28Z",
+    "updated_at": "2026-01-25T06:32:48Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-01-24T18:30:28Z",
+    "updated_at": "2026-01-25T06:32:48Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -52,21 +38,35 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-24T18:30:28Z",
+    "updated_at": "2026-01-25T06:32:48Z",
     "venue": "Tuam Stadium"
   },
   {
-    "away": "Longford",
-    "competition": "Allianz Football League Roinn 4 Round 1",
+    "away": "Clare",
+    "competition": "Allianz Football League Roinn 3 Round 1",
     "date": "2026-01-24",
-    "home": "Waterford",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1200-allianz-football-league-roinn-4-round-1-waterford-longford",
-    "score": "P \u0013 P",
-    "search_index": "waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan",
+    "home": "Down",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-down-clare",
+    "score": "2-19 \u0013 2-14",
+    "search_index": "down clare allianz football league roinn 3 round 1 pairc esler newry down clare allianz football league roinn 3 round 1 pairc esler newry",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-01-24T18:30:34Z",
-    "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
+    "time": "18:00",
+    "updated_at": "2026-01-25T06:33:04Z",
+    "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "Limerick",
+    "competition": "Allianz Football League Roinn 3 Round 1",
+    "date": "2026-01-24",
+    "home": "Laois",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-laois-limerick",
+    "score": "1-10 \u0013 0-13",
+    "search_index": "laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:00",
+    "updated_at": "2026-01-25T06:33:04Z",
+    "venue": "Laois Hire O'Moore Park, Portlaoise"
   }
 ]
