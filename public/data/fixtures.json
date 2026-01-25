@@ -5,12 +5,12 @@
     "date": "2026-01-25",
     "home": "London",
     "id": "prov-httpsmunstergaaiefixtures-results-20260125-1300-allianz-football-league-roinn-4-round-1-london-tipperary",
-    "score": "",
+    "score": "0-21 \u0013 0-21",
     "search_index": "london tipperary allianz football league roinn 4 round 1 mcgovern park ruislip london tipperary allianz football league roinn 4 round 1 mcgovern park ruislip",
     "source": "scraper",
-    "status": "scheduled",
+    "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -19,12 +19,12 @@
     "date": "2026-01-25",
     "home": "Cork",
     "id": "prov-httpsmunstergaaiefixtures-results-20260125-1330-allianz-football-league-roinn-2-round-1-cork-cavan",
-    "score": "",
+    "score": "0-24 \u0013 2-17",
     "search_index": "cork cavan allianz football league roinn 2 round 1 supervalu pairc ui chaoimh cork cork cavan allianz football league roinn 2 round 1 supervalu pairc ui chaoimh cork",
     "source": "scraper",
-    "status": "scheduled",
+    "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "Ballyshannon"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "DEFY Pairc Mhuire, Ardee"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-25T06:33:04Z",
+    "updated_at": "2026-01-25T18:30:43Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   }
 ]
