@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-01-25T18:30:32Z",
+    "updated_at": "2026-01-26T06:37:56Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-01-25T18:30:32Z",
+    "updated_at": "2026-01-26T06:37:56Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-25T18:30:32Z",
+    "updated_at": "2026-01-26T06:37:56Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-25T18:30:43Z",
+    "updated_at": "2026-01-26T06:38:08Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-25T18:30:43Z",
+    "updated_at": "2026-01-26T06:38:08Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-25T18:30:43Z",
+    "updated_at": "2026-01-26T06:38:08Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -94,7 +94,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-01-25T18:30:43Z",
+    "updated_at": "2026-01-26T06:38:08Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
+  },
+  {
+    "away": "Roscommon",
+    "competition": "Allianz Football League Roinn 1 Round 1",
+    "date": "2026-01-25",
+    "home": "Kerry",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260125-1400-allianz-football-league-roinn-1-round-1-kerry-roscommon",
+    "score": "2-18 \u0013 1-20",
+    "search_index": "kerry roscommon allianz football league roinn 1 round 1 fitzgerald stadium kerry roscommon allianz football league roinn 1 round 1 fitzgerald stadium",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-01-26T06:38:08Z",
+    "venue": "Fitzgerald Stadium"
   }
 ]
