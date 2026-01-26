@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-01-26T06:37:56Z",
+    "updated_at": "2026-01-26T18:36:19Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-01-26T06:37:56Z",
+    "updated_at": "2026-01-26T18:36:19Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-26T06:37:56Z",
+    "updated_at": "2026-01-26T18:36:19Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-26T06:38:08Z",
+    "updated_at": "2026-01-26T18:36:25Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-26T06:38:08Z",
+    "updated_at": "2026-01-26T18:36:25Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-26T06:38:08Z",
+    "updated_at": "2026-01-26T18:36:25Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-01-26T06:38:08Z",
+    "updated_at": "2026-01-26T18:36:25Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-01-26T06:38:08Z",
+    "updated_at": "2026-01-26T18:36:25Z",
     "venue": "Fitzgerald Stadium"
   }
 ]
