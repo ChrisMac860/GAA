@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-30T06:50:14Z",
+    "updated_at": "2026-01-30T18:42:24Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-30T06:50:14Z",
+    "updated_at": "2026-01-30T18:42:24Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-30T06:50:14Z",
+    "updated_at": "2026-01-30T18:42:24Z",
     "venue": "Ballyshannon"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-30T06:50:14Z",
+    "updated_at": "2026-01-30T18:42:24Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-30T06:50:14Z",
+    "updated_at": "2026-01-30T18:42:24Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -76,11 +76,11 @@
     "home": "Tipperary",
     "id": "prov-httpsmunstergaaiefixtures-results-20260201-1400-allianz-football-league-roinn-4-round-2-tipperary-antrim",
     "score": "",
-    "search_index": "tipperary antrim allianz football league roinn 4 round 2 fbd semple stadium thurles tipperary antrim allianz football league roinn 4 round 2 fbd semple stadium thurles",
+    "search_index": "tipperary antrim allianz football league roinn 4 round 2 moneygall tipperary antrim allianz football league roinn 4 round 2 moneygall",
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-30T06:50:14Z",
-    "venue": "FBD Semple Stadium, Thurles"
+    "updated_at": "2026-01-30T18:42:24Z",
+    "venue": "Moneygall"
   }
 ]
