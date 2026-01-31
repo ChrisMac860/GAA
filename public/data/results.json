@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-01-31T06:39:12Z",
+    "updated_at": "2026-01-31T18:33:09Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-31T06:39:12Z",
+    "updated_at": "2026-01-31T18:33:07Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -94,7 +94,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Fitzgerald Stadium"
+  },
+  {
+    "away": "Down",
+    "competition": "Allianz Football League Roinn 3 Round 2",
+    "date": "2026-01-31",
+    "home": "Limerick",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260131-1400-allianz-football-league-roinn-3-round-2-limerick-down",
+    "score": "1-14 \u0013 0-18",
+    "search_index": "limerick down allianz football league roinn 3 round 2 mick neville park rathkeale limerick down allianz football league roinn 3 round 2 mick neville park rathkeale",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-01-31T18:33:14Z",
+    "venue": "Mick Neville Park Rathkeale"
   }
 ]

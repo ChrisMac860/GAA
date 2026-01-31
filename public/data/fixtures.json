@@ -5,12 +5,12 @@
     "date": "2026-01-31",
     "home": "Limerick",
     "id": "prov-httpsmunstergaaiefixtures-results-20260131-1400-allianz-football-league-roinn-3-round-2-limerick-down",
-    "score": "",
+    "score": "1-14 \u0013 0-18",
     "search_index": "limerick down allianz football league roinn 3 round 2 mick neville park rathkeale limerick down allianz football league roinn 3 round 2 mick neville park rathkeale",
     "source": "scraper",
-    "status": "scheduled",
+    "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Ballyshannon"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Moneygall"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-01-31T06:39:23Z",
+    "updated_at": "2026-01-31T18:33:14Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   }
 ]
