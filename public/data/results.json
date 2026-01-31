@@ -1,19 +1,5 @@
 [
   {
-    "away": "Sligo",
-    "competition": "FBD League 2026 Shield Final",
-    "date": "2026-01-16",
-    "home": "Roscommon",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260116-1930-fbd-league-2026-shield-final-roscommon-sligo",
-    "score": "2-14 \u0013 1-18",
-    "search_index": "roscommon sligo fbd league 2026 shield final connacht gaa centre roscommon sligo fbd league 2026 shield final connacht gaa centre",
-    "source": "scraper",
-    "status": "FT",
-    "time": "19:30",
-    "updated_at": "2026-01-30T18:42:13Z",
-    "venue": "Connacht GAA Centre"
-  },
-  {
     "away": "Leitrim",
     "competition": "FBD League 2026 Plate Final",
     "date": "2026-01-17",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-01-30T18:42:13Z",
+    "updated_at": "2026-01-31T06:39:12Z",
     "venue": "Connacht GAA Centre"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-30T18:42:13Z",
+    "updated_at": "2026-01-31T06:39:12Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-30T18:42:24Z",
+    "updated_at": "2026-01-31T06:39:23Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-01-30T18:42:24Z",
+    "updated_at": "2026-01-31T06:39:23Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-01-30T18:42:24Z",
+    "updated_at": "2026-01-31T06:39:23Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-01-30T18:42:24Z",
+    "updated_at": "2026-01-31T06:39:23Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-01-30T18:42:24Z",
+    "updated_at": "2026-01-31T06:39:23Z",
     "venue": "Fitzgerald Stadium"
   }
 ]
