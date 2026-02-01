@@ -10,22 +10,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-01T06:49:56Z",
+    "updated_at": "2026-02-01T18:35:32Z",
     "venue": "Tuam Stadium"
-  },
-  {
-    "away": "Clare",
-    "competition": "Allianz Football League Roinn 3 Round 1",
-    "date": "2026-01-24",
-    "home": "Down",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-down-clare",
-    "score": "2-19 \u0013 2-14",
-    "search_index": "down clare allianz football league roinn 3 round 1 pairc esler newry down clare allianz football league roinn 3 round 1 pairc esler newry",
-    "source": "scraper",
-    "status": "FT",
-    "time": "18:00",
-    "updated_at": "2026-02-01T06:50:12Z",
-    "venue": "Páirc Esler, Newry"
   },
   {
     "away": "Limerick",
@@ -38,8 +24,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-01T06:50:12Z",
+    "updated_at": "2026-02-01T18:35:46Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
+  },
+  {
+    "away": "Clare",
+    "competition": "Allianz Football League Roinn 3 Round 1",
+    "date": "2026-01-24",
+    "home": "Down",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-down-clare",
+    "score": "2-19 \u0013 2-14",
+    "search_index": "down clare allianz football league roinn 3 round 1 pairc esler newry down clare allianz football league roinn 3 round 1 pairc esler newry",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:00",
+    "updated_at": "2026-02-01T18:35:46Z",
+    "venue": "Páirc Esler, Newry"
   },
   {
     "away": "Tipperary",
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-01T06:50:12Z",
+    "updated_at": "2026-02-01T18:35:46Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-01T06:50:12Z",
+    "updated_at": "2026-02-01T18:35:46Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-01T06:50:12Z",
+    "updated_at": "2026-02-01T18:35:46Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -94,7 +94,77 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-01T06:50:12Z",
+    "updated_at": "2026-02-01T18:35:46Z",
     "venue": "Mick Neville Park Rathkeale"
+  },
+  {
+    "away": "Waterford",
+    "competition": "Allianz Football League Roinn 4 Round 2",
+    "date": "2026-02-01",
+    "home": "Leitrim",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1300-allianz-football-league-roinn-4-round-2-leitrim-waterford",
+    "score": "1-16 \u0013 2-8",
+    "search_index": "leitrim waterford allianz football league roinn 4 round 2 heartland credit union pairc sean macdiarmada leitrim waterford allianz football league roinn 4 round 2 heartland credit union pairc sean macdiarmada",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-02-01T18:35:46Z",
+    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
+  },
+  {
+    "away": "Kerry",
+    "competition": "Allianz Football League Roinn 1 Round 2",
+    "date": "2026-02-01",
+    "home": "Donegal",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1330-allianz-football-league-roinn-1-round-2-donegal-kerry",
+    "score": "1-22 \u0013 1-18",
+    "search_index": "donegal kerry allianz football league roinn 1 round 2 ballyshannon donegal kerry allianz football league roinn 1 round 2 ballyshannon",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-02-01T18:35:46Z",
+    "venue": "Ballyshannon"
+  },
+  {
+    "away": "Cork",
+    "competition": "Allianz Football League Roinn 2 Round 2",
+    "date": "2026-02-01",
+    "home": "Louth",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1330-allianz-football-league-roinn-2-round-2-louth-cork",
+    "score": "1-12 \u0013 1-17",
+    "search_index": "louth cork allianz football league roinn 2 round 2 integral gaa grounds drogheda louth cork allianz football league roinn 2 round 2 integral gaa grounds drogheda",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-02-01T18:35:46Z",
+    "venue": "Integral GAA Grounds, Drogheda"
+  },
+  {
+    "away": "Westmeath",
+    "competition": "Allianz Football League Roinn 3 Round 2",
+    "date": "2026-02-01",
+    "home": "Clare",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1400-allianz-football-league-roinn-3-round-2-clare-westmeath",
+    "score": "1-17 \u0013 2-19",
+    "search_index": "clare westmeath allianz football league roinn 3 round 2 zimmer biomet pairc chiosog ennis clare westmeath allianz football league roinn 3 round 2 zimmer biomet pairc chiosog ennis",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-02-01T18:35:46Z",
+    "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
+  },
+  {
+    "away": "Antrim",
+    "competition": "Allianz Football League Roinn 4 Round 2",
+    "date": "2026-02-01",
+    "home": "Tipperary",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1400-allianz-football-league-roinn-4-round-2-tipperary-antrim",
+    "score": "1-13 \u0013 1-9",
+    "search_index": "tipperary antrim allianz football league roinn 4 round 2 moneygall tipperary antrim allianz football league roinn 4 round 2 moneygall",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-02-01T18:35:46Z",
+    "venue": "Moneygall"
   }
 ]
