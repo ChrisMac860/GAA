@@ -1,19 +1,5 @@
 [
   {
-    "away": "Down",
-    "competition": "Allianz Football League Roinn 3 Round 2",
-    "date": "2026-01-31",
-    "home": "Limerick",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260131-1400-allianz-football-league-roinn-3-round-2-limerick-down",
-    "score": "1-14 \u0013 0-18",
-    "search_index": "limerick down allianz football league roinn 3 round 2 mick neville park rathkeale limerick down allianz football league roinn 3 round 2 mick neville park rathkeale",
-    "source": "scraper",
-    "status": "FT",
-    "time": "14:00",
-    "updated_at": "2026-01-31T18:33:14Z",
-    "venue": "Mick Neville Park Rathkeale"
-  },
-  {
     "away": "Waterford",
     "competition": "Allianz Football League Roinn 4 Round 2",
     "date": "2026-02-01",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-01-31T18:33:14Z",
+    "updated_at": "2026-02-01T06:50:12Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-31T18:33:14Z",
+    "updated_at": "2026-02-01T06:50:12Z",
     "venue": "Ballyshannon"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:30",
-    "updated_at": "2026-01-31T18:33:14Z",
+    "updated_at": "2026-02-01T06:50:12Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-31T18:33:14Z",
+    "updated_at": "2026-02-01T06:50:12Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-01-31T18:33:14Z",
+    "updated_at": "2026-02-01T06:50:12Z",
     "venue": "Moneygall"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-01-31T18:33:14Z",
+    "updated_at": "2026-02-01T06:50:12Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -108,7 +94,63 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-01-31T18:33:14Z",
+    "updated_at": "2026-02-01T06:50:12Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
+  },
+  {
+    "away": "Clare",
+    "competition": "Allianz Football League Roinn 3 Round 3",
+    "date": "2026-02-15",
+    "home": "Fermanagh",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260215-1300-allianz-football-league-roinn-3-round-3-fermanagh-clare",
+    "score": "",
+    "search_index": "fermanagh clare allianz football league roinn 3 round 3 brewster park enniskillen fermanagh clare allianz football league roinn 3 round 3 brewster park enniskillen",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "13:00",
+    "updated_at": "2026-02-01T06:50:12Z",
+    "venue": "Brewster Park, Enniskillen"
+  },
+  {
+    "away": "Cork",
+    "competition": "Allianz Football League Roinn 2 Round 3",
+    "date": "2026-02-15",
+    "home": "Offaly",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260215-1400-allianz-football-league-roinn-2-round-3-offaly-cork",
+    "score": "",
+    "search_index": "offaly cork allianz football league roinn 2 round 3 glenisk o connor park offaly cork allianz football league roinn 2 round 3 glenisk o connor park",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:00",
+    "updated_at": "2026-02-01T06:50:12Z",
+    "venue": "Glenisk O'Connor Park"
+  },
+  {
+    "away": "Wexford",
+    "competition": "Allianz Football League Roinn 3 Round 3",
+    "date": "2026-02-15",
+    "home": "Limerick",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260215-1400-allianz-football-league-roinn-3-round-3-limerick-wexford",
+    "score": "",
+    "search_index": "limerick wexford allianz football league roinn 3 round 3 mick neville park rathkeale limerick wexford allianz football league roinn 3 round 3 mick neville park rathkeale",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:00",
+    "updated_at": "2026-02-01T06:50:12Z",
+    "venue": "Mick Neville Park Rathkeale"
+  },
+  {
+    "away": "Carlow",
+    "competition": "Allianz Football League Roinn 4 Round 3",
+    "date": "2026-02-15",
+    "home": "Tipperary",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260215-1400-allianz-football-league-roinn-4-round-3-tipperary-carlow",
+    "score": "",
+    "search_index": "tipperary carlow allianz football league roinn 4 round 3 fbd semple stadium thurles tipperary carlow allianz football league roinn 4 round 3 fbd semple stadium thurles",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:00",
+    "updated_at": "2026-02-01T06:50:12Z",
+    "venue": "FBD Semple Stadium, Thurles"
   }
 ]
