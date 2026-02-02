@@ -1,5 +1,19 @@
 [
   {
+    "away": "Longford",
+    "competition": "Allianz Football League Roinn 4 Round 1",
+    "date": "2026-02-08",
+    "home": "Waterford",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260208-1400-allianz-football-league-roinn-4-round-1-waterford-longford",
+    "score": "",
+    "search_index": "waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan waterford longford allianz football league roinn 4 round 1 cappoquin logistics fraher field dungarvan",
+    "source": "scraper",
+    "status": "scheduled",
+    "time": "14:00",
+    "updated_at": "2026-02-02T18:43:55Z",
+    "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
+  },
+  {
     "away": "Galway",
     "competition": "Allianz Football League Roinn 1 Round 3",
     "date": "2026-02-14",
@@ -10,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-02-02T07:03:06Z",
+    "updated_at": "2026-02-02T18:43:55Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -24,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-02-02T07:03:06Z",
+    "updated_at": "2026-02-02T18:43:55Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -38,7 +52,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-02-02T07:03:06Z",
+    "updated_at": "2026-02-02T18:43:55Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -52,7 +66,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-02T07:03:06Z",
+    "updated_at": "2026-02-02T18:43:55Z",
     "venue": "Glenisk O'Connor Park"
   },
   {
@@ -66,7 +80,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-02T07:03:06Z",
+    "updated_at": "2026-02-02T18:43:55Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -80,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-02T07:03:06Z",
+    "updated_at": "2026-02-02T18:43:55Z",
     "venue": "FBD Semple Stadium, Thurles"
   }
 ]
