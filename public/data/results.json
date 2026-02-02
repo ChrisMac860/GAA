@@ -1,19 +1,5 @@
 [
   {
-    "away": "Mayo",
-    "competition": "FBD League 2026 Cup Final",
-    "date": "2026-01-18",
-    "home": "Galway",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260118-1300-fbd-league-2026-cup-final-galway-mayo",
-    "score": "2-12 \u0013 1-14",
-    "search_index": "galway mayo fbd league 2026 cup final tuam stadium galway mayo fbd league 2026 cup final tuam stadium",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-02-01T18:35:32Z",
-    "venue": "Tuam Stadium"
-  },
-  {
     "away": "Limerick",
     "competition": "Allianz Football League Roinn 3 Round 1",
     "date": "2026-01-24",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -122,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Ballyshannon"
   },
   {
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -164,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-01T18:35:46Z",
+    "updated_at": "2026-02-02T07:03:06Z",
     "venue": "Moneygall"
   }
 ]
