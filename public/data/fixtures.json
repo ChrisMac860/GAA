@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Burren"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Derrytresk"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Éire Óg GAC"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Emmet Park, Lisnaskea"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Éire Óg, Smithborough"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "All Saints Ballymena"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Páirc Sheáin Mhic Dhiarmada"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -192,22 +192,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Killinkere"
   },
   {
-    "away": "Belnaleck Art MacMurroughs GAC",
-    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 1",
+    "away": "Kilrea",
+    "competition": "2026 Ulster GAA Football Senior Club League Group D - Round 1",
     "date": "2026-02-08",
-    "home": "Gaeil Triucha Clg",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-1-gaeil-triucha-cl-belnaleck-art-ma",
+    "home": "Faughanvale",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-d-round-1-faughanvale-kilrea",
     "score": "0-0 \u0013 0-0",
-    "search_index": "gaeil triucha clg belnaleck art macmurroughs gac 2026 ulster gaa football senior club league group c - round 1 truagh gaeil triucha clg belnaleck art macmurroughs gac 2026 ulster gaa football senior club league group c - round 1 truagh",
+    "search_index": "faughanvale kilrea 2026 ulster gaa football senior club league group d - round 1 faughanvale kilrea 2026 ulster gaa football senior club league group d - round 1",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
-    "venue": "Truagh"
+    "updated_at": "2026-02-04T06:53:13Z",
+    "venue": ""
   },
   {
     "away": "Con Magee's Glenravel",
@@ -220,8 +220,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Burt"
+  },
+  {
+    "away": "Belnaleck Art MacMurroughs GAC",
+    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 1",
+    "date": "2026-02-08",
+    "home": "Gaeil Triucha Clg",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-1-gaeil-triucha-cl-belnaleck-art-ma",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "gaeil triucha clg belnaleck art macmurroughs gac 2026 ulster gaa football senior club league group c - round 1 truagh gaeil triucha clg belnaleck art macmurroughs gac 2026 ulster gaa football senior club league group c - round 1 truagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-04T06:53:13Z",
+    "venue": "Truagh"
   },
   {
     "away": "Wolfe Tones GAC",
@@ -234,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -248,21 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
-    "venue": ""
-  },
-  {
-    "away": "Kilrea",
-    "competition": "2026 Ulster GAA Football Senior Club League Group D - Round 1",
-    "date": "2026-02-08",
-    "home": "Faughanvale",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-d-round-1-faughanvale-kilrea",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "faughanvale kilrea 2026 ulster gaa football senior club league group d - round 1 faughanvale kilrea 2026 ulster gaa football senior club league group d - round 1",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Aughnamullen"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Butlersbridge"
   },
   {
@@ -304,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Craigbane"
   },
   {
@@ -318,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Tullysaran"
   },
   {
@@ -332,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -346,7 +346,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -360,7 +360,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:45",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "St Mary's Magherafelt"
   },
   {
@@ -374,7 +374,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-03T18:56:53Z",
+    "updated_at": "2026-02-04T06:53:34Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -388,7 +388,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -402,7 +402,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-02-03T18:56:53Z",
+    "updated_at": "2026-02-04T06:53:34Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -416,7 +416,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-02-03T18:56:53Z",
+    "updated_at": "2026-02-04T06:53:34Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -430,7 +430,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "St Paul's Lurgan"
   },
   {
@@ -444,7 +444,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "Donegal GAA Centre"
   },
   {
@@ -458,7 +458,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": "People's Park"
   },
   {
@@ -472,7 +472,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-03T18:56:42Z",
+    "updated_at": "2026-02-04T06:53:13Z",
     "venue": ""
   },
   {
@@ -486,7 +486,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-02-03T18:56:53Z",
+    "updated_at": "2026-02-04T06:53:34Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -500,7 +500,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-03T18:56:53Z",
+    "updated_at": "2026-02-04T06:53:34Z",
     "venue": "Glenisk O'Connor Park"
   },
   {
@@ -514,7 +514,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-03T18:56:53Z",
+    "updated_at": "2026-02-04T06:53:34Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -528,7 +528,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-03T18:56:53Z",
+    "updated_at": "2026-02-04T06:53:34Z",
     "venue": "FBD Semple Stadium, Thurles"
   }
 ]
