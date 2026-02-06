@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-05T18:51:17Z",
+    "updated_at": "2026-02-06T06:55:08Z",
     "venue": ""
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Ballyshannon"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -164,7 +164,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-05T18:51:25Z",
+    "updated_at": "2026-02-06T06:55:25Z",
     "venue": "Moneygall"
+  },
+  {
+    "away": "Ballyhegan",
+    "competition": "2026 Ulster GAA Football Junior Club League Group C - Round 1",
+    "date": "2026-02-06",
+    "home": "Stewartstown Harps",
+    "id": "prov-httpsulstergaaiefixtures-results-20260206-2000-2026-ulster-gaa-football-junior-club-league-group-c-round-1-stewartstown-har-ballyhegan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "stewartstown harps ballyhegan 2026 ulster gaa football junior club league group c - round 1 mullaghmoyle park stewartstown stewartstown harps ballyhegan 2026 ulster gaa football junior club league group c - round 1 mullaghmoyle park stewartstown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "20:00",
+    "updated_at": "2026-02-06T06:55:08Z",
+    "venue": "Mullaghmoyle Park, Stewartstown"
   }
 ]
