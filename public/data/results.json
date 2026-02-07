@@ -1,19 +1,5 @@
 [
   {
-    "away": "Limerick",
-    "competition": "Allianz Football League Roinn 3 Round 1",
-    "date": "2026-01-24",
-    "home": "Laois",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-laois-limerick",
-    "score": "1-10 \u0013 0-13",
-    "search_index": "laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise",
-    "source": "scraper",
-    "status": "FT",
-    "time": "18:00",
-    "updated_at": "2026-02-07T06:42:19Z",
-    "venue": "Laois Hire O'Moore Park, Portlaoise"
-  },
-  {
     "away": "Clare",
     "competition": "Allianz Football League Roinn 3 Round 1",
     "date": "2026-01-24",
@@ -24,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "Limerick",
+    "competition": "Allianz Football League Roinn 3 Round 1",
+    "date": "2026-01-24",
+    "home": "Laois",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260124-1800-allianz-football-league-roinn-3-round-1-laois-limerick",
+    "score": "1-10 \u0013 0-13",
+    "search_index": "laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise laois limerick allianz football league roinn 3 round 1 laois hire o moore park portlaoise",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:00",
+    "updated_at": "2026-02-07T18:36:04Z",
+    "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
     "away": "Tipperary",
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-07T06:42:11Z",
+    "updated_at": "2026-02-07T18:35:46Z",
     "venue": ""
   },
   {
@@ -108,22 +108,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
-  },
-  {
-    "away": "Kerry",
-    "competition": "Allianz Football League Roinn 1 Round 2",
-    "date": "2026-02-01",
-    "home": "Donegal",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1330-allianz-football-league-roinn-1-round-2-donegal-kerry",
-    "score": "1-22 \u0013 1-18",
-    "search_index": "donegal kerry allianz football league roinn 1 round 2 ballyshannon donegal kerry allianz football league roinn 1 round 2 ballyshannon",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-02-07T06:42:19Z",
-    "venue": "Ballyshannon"
   },
   {
     "away": "Cork",
@@ -136,22 +122,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
-    "away": "Westmeath",
-    "competition": "Allianz Football League Roinn 3 Round 2",
+    "away": "Kerry",
+    "competition": "Allianz Football League Roinn 1 Round 2",
     "date": "2026-02-01",
-    "home": "Clare",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1400-allianz-football-league-roinn-3-round-2-clare-westmeath",
-    "score": "1-17 \u0013 2-19",
-    "search_index": "clare westmeath allianz football league roinn 3 round 2 zimmer biomet pairc chiosog ennis clare westmeath allianz football league roinn 3 round 2 zimmer biomet pairc chiosog ennis",
+    "home": "Donegal",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1330-allianz-football-league-roinn-1-round-2-donegal-kerry",
+    "score": "1-22 \u0013 1-18",
+    "search_index": "donegal kerry allianz football league roinn 1 round 2 ballyshannon donegal kerry allianz football league roinn 1 round 2 ballyshannon",
     "source": "scraper",
     "status": "FT",
-    "time": "14:00",
-    "updated_at": "2026-02-07T06:42:19Z",
-    "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
+    "time": "13:30",
+    "updated_at": "2026-02-07T18:36:04Z",
+    "venue": "Ballyshannon"
   },
   {
     "away": "Antrim",
@@ -164,8 +150,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-07T06:42:19Z",
+    "updated_at": "2026-02-07T18:36:04Z",
     "venue": "Moneygall"
+  },
+  {
+    "away": "Westmeath",
+    "competition": "Allianz Football League Roinn 3 Round 2",
+    "date": "2026-02-01",
+    "home": "Clare",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260201-1400-allianz-football-league-roinn-3-round-2-clare-westmeath",
+    "score": "1-17 \u0013 2-19",
+    "search_index": "clare westmeath allianz football league roinn 3 round 2 zimmer biomet pairc chiosog ennis clare westmeath allianz football league roinn 3 round 2 zimmer biomet pairc chiosog ennis",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-02-07T18:36:04Z",
+    "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
     "away": "Brocagh Emmetts GFC",
@@ -173,12 +173,12 @@
     "date": "2026-02-07",
     "home": "Lacken GAA",
     "id": "prov-httpsulstergaaiefixtures-results-20260207-1300-2026-ulster-gaa-football-junior-club-league-group-b-round-1-lacken-gaa-brocagh-emmetts-",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-12 \u0013 0-9",
     "search_index": "lacken gaa brocagh emmetts gfc 2026 ulster gaa football junior club league group b - round 1 lacken gaa lacken gaa brocagh emmetts gfc 2026 ulster gaa football junior club league group b - round 1 lacken gaa",
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-07T06:42:11Z",
+    "updated_at": "2026-02-07T18:35:46Z",
     "venue": "Lacken GAA"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-02-07T06:42:11Z",
+    "updated_at": "2026-02-07T18:35:46Z",
     "venue": "Red Hughs GAA Killygordan"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-07T06:42:11Z",
+    "updated_at": "2026-02-07T18:35:46Z",
     "venue": "Convoy"
   }
 ]
