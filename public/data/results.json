@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-06T18:51:34Z",
+    "updated_at": "2026-02-07T06:42:11Z",
     "venue": ""
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Ballyshannon"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -164,7 +164,49 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-06T18:51:53Z",
+    "updated_at": "2026-02-07T06:42:19Z",
     "venue": "Moneygall"
+  },
+  {
+    "away": "Brocagh Emmetts GFC",
+    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 1",
+    "date": "2026-02-07",
+    "home": "Lacken GAA",
+    "id": "prov-httpsulstergaaiefixtures-results-20260207-1300-2026-ulster-gaa-football-junior-club-league-group-b-round-1-lacken-gaa-brocagh-emmetts-",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "lacken gaa brocagh emmetts gfc 2026 ulster gaa football junior club league group b - round 1 lacken gaa lacken gaa brocagh emmetts gfc 2026 ulster gaa football junior club league group b - round 1 lacken gaa",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-02-07T06:42:11Z",
+    "venue": "Lacken GAA"
+  },
+  {
+    "away": "Tir na nÓg",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group G - Round 1",
+    "date": "2026-02-07",
+    "home": "Red Hughs",
+    "id": "prov-httpsulstergaaiefixtures-results-20260207-1500-2026-ulster-gaa-football-intermediate-club-league-group-g-round-1-red-hughs-tir-na-nog",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "red hughs tir na nog 2026 ulster gaa football intermediate club league group g - round 1 red hughs gaa killygordan red hughs tir na nog 2026 ulster gaa football intermediate club league group g - round 1 red hughs gaa killygordan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-02-07T06:42:11Z",
+    "venue": "Red Hughs GAA Killygordan"
+  },
+  {
+    "away": "Urris",
+    "competition": "2026 Ulster GAA Football Junior Club League Group D - Round 1",
+    "date": "2026-02-07",
+    "home": "Naomh Mhuire Conmhaigh",
+    "id": "prov-httpsulstergaaiefixtures-results-20260207-1800-2026-ulster-gaa-football-junior-club-league-group-d-round-1-naomh-mhuire-con-urris",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "naomh mhuire conmhaigh urris 2026 ulster gaa football junior club league group d - round 1 convoy saint mhuire conmhaigh urris 2026 ulster gaa football junior club league group d - round 1 convoy",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:00",
+    "updated_at": "2026-02-07T06:42:11Z",
+    "venue": "Convoy"
   }
 ]
