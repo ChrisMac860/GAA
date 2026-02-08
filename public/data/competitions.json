@@ -1,12 +1,5 @@
 [
   {
-    "first_kickoff": "2026-02-07T15:00:00Z",
-    "match_count": 2,
-    "name": "2026 Ulster GAA Football Intermediate Club League Group G - Round 1",
-    "popularity": 160,
-    "slug": "2026-ulster-gaa-football-intermediate-club-league-group-g-round-1"
-  },
-  {
     "first_kickoff": "2026-02-08T11:00:00Z",
     "match_count": 2,
     "name": "2026 Ulster GAA Football Intermediate Club League Group E - Round 1",
@@ -49,6 +42,13 @@
     "slug": "2026-ulster-gaa-football-intermediate-club-league-group-d-round-1"
   },
   {
+    "first_kickoff": "2026-02-08T12:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club League Group G - Round 1",
+    "popularity": 160,
+    "slug": "2026-ulster-gaa-football-intermediate-club-league-group-g-round-1"
+  },
+  {
     "first_kickoff": "2026-02-14T11:45:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Intermediate Club League Group A - Round 2",
@@ -68,20 +68,6 @@
     "name": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
     "popularity": 160,
     "slug": "2026-ulster-gaa-football-intermediate-club-league-group-c-round-2"
-  },
-  {
-    "first_kickoff": "2026-02-07T13:00:00Z",
-    "match_count": 2,
-    "name": "2026 Ulster GAA Football Junior Club League Group B - Round 1",
-    "popularity": 150,
-    "slug": "2026-ulster-gaa-football-junior-club-league-group-b-round-1"
-  },
-  {
-    "first_kickoff": "2026-02-07T18:00:00Z",
-    "match_count": 2,
-    "name": "2026 Ulster GAA Football Junior Club League Group D - Round 1",
-    "popularity": 150,
-    "slug": "2026-ulster-gaa-football-junior-club-league-group-d-round-1"
   },
   {
     "first_kickoff": "2026-02-08T11:00:00Z",
@@ -112,6 +98,20 @@
     "slug": "2026-ulster-gaa-football-junior-club-league-group-e-round-2"
   },
   {
+    "first_kickoff": "2026-02-08T12:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Junior Club League Group B - Round 1",
+    "popularity": 150,
+    "slug": "2026-ulster-gaa-football-junior-club-league-group-b-round-1"
+  },
+  {
+    "first_kickoff": "2026-02-08T12:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Junior Club League Group D - Round 1",
+    "popularity": 150,
+    "slug": "2026-ulster-gaa-football-junior-club-league-group-d-round-1"
+  },
+  {
     "first_kickoff": "2026-02-09T20:00:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Junior Club League Group C - Round 1",
@@ -124,6 +124,13 @@
     "name": "2026 Ulster GAA Football Junior Club League Group D - Round 2",
     "popularity": 150,
     "slug": "2026-ulster-gaa-football-junior-club-league-group-d-round-2"
+  },
+  {
+    "first_kickoff": "2026-02-15T12:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Junior Club League Group B - Round 2",
+    "popularity": 150,
+    "slug": "2026-ulster-gaa-football-junior-club-league-group-b-round-2"
   },
   {
     "first_kickoff": "2026-02-08T12:00:00Z",
@@ -168,6 +175,20 @@
     "slug": "allianz-football-league-roinn-3-round-3"
   },
   {
+    "first_kickoff": "2026-02-21T17:00:00Z",
+    "match_count": 2,
+    "name": "Allianz Football League Roinn 4 Round 4",
+    "popularity": 30,
+    "slug": "allianz-football-league-roinn-4-round-4"
+  },
+  {
+    "first_kickoff": "2026-02-22T14:00:00Z",
+    "match_count": 2,
+    "name": "Allianz Football League Roinn 3 Round 4",
+    "popularity": 30,
+    "slug": "allianz-football-league-roinn-3-round-4"
+  },
+  {
     "first_kickoff": "2026-02-08T14:00:00Z",
     "match_count": 1,
     "name": "Allianz Football League Roinn 4 Round 1",
@@ -189,17 +210,17 @@
     "slug": "allianz-football-league-roinn-2-round-3"
   },
   {
-    "first_kickoff": "2026-02-21T17:00:00Z",
-    "match_count": 1,
-    "name": "Allianz Football League Roinn 4 Round 4",
-    "popularity": 30,
-    "slug": "allianz-football-league-roinn-4-round-4"
-  },
-  {
     "first_kickoff": "2026-02-21T19:00:00Z",
     "match_count": 1,
     "name": "Allianz Football League Roinn 1 Round 4",
     "popularity": 30,
     "slug": "allianz-football-league-roinn-1-round-4"
+  },
+  {
+    "first_kickoff": "2026-02-22T14:00:00Z",
+    "match_count": 1,
+    "name": "Allianz Football League Roinn 2 Round 4",
+    "popularity": 30,
+    "slug": "allianz-football-league-roinn-2-round-4"
   }
 ]
