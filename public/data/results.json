@@ -1,47 +1,5 @@
 [
   {
-    "away": "Tipperary",
-    "competition": "Allianz Football League Roinn 4 Round 1",
-    "date": "2026-01-25",
-    "home": "London",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260125-1300-allianz-football-league-roinn-4-round-1-london-tipperary",
-    "score": "0-21 \u0013 0-21",
-    "search_index": "london tipperary allianz football league roinn 4 round 1 mcgovern park ruislip london tipperary allianz football league roinn 4 round 1 mcgovern park ruislip",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-02-08T18:37:33Z",
-    "venue": "McGovern Park, Ruislip"
-  },
-  {
-    "away": "Cavan",
-    "competition": "Allianz Football League Roinn 2 Round 1",
-    "date": "2026-01-25",
-    "home": "Cork",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260125-1330-allianz-football-league-roinn-2-round-1-cork-cavan",
-    "score": "0-24 \u0013 2-17",
-    "search_index": "cork cavan allianz football league roinn 2 round 1 supervalu pairc ui chaoimh cork cork cavan allianz football league roinn 2 round 1 supervalu pairc ui chaoimh cork",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-02-08T18:37:33Z",
-    "venue": "SuperValu Páirc Uí Chaoimh, Cork"
-  },
-  {
-    "away": "Roscommon",
-    "competition": "Allianz Football League Roinn 1 Round 1",
-    "date": "2026-01-25",
-    "home": "Kerry",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260125-1400-allianz-football-league-roinn-1-round-1-kerry-roscommon",
-    "score": "2-18 \u0013 1-20",
-    "search_index": "kerry roscommon allianz football league roinn 1 round 1 fitzgerald stadium kerry roscommon allianz football league roinn 1 round 1 fitzgerald stadium",
-    "source": "scraper",
-    "status": "FT",
-    "time": "14:00",
-    "updated_at": "2026-02-08T18:37:33Z",
-    "venue": "Fitzgerald Stadium"
-  },
-  {
     "away": "Down",
     "competition": "Allianz Football League Roinn 3 Round 2",
     "date": "2026-01-31",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-08T18:37:33Z",
+    "updated_at": "2026-02-09T07:04:30Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": ""
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-08T18:37:33Z",
+    "updated_at": "2026-02-09T07:04:30Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-08T18:37:33Z",
+    "updated_at": "2026-02-09T07:04:30Z",
     "venue": "Integral GAA Grounds, Drogheda"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-08T18:37:33Z",
+    "updated_at": "2026-02-09T07:04:30Z",
     "venue": "Ballyshannon"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-08T18:37:33Z",
+    "updated_at": "2026-02-09T07:04:30Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-08T18:37:33Z",
+    "updated_at": "2026-02-09T07:04:30Z",
     "venue": "Moneygall"
   },
   {
@@ -150,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Lacken GAA"
   },
   {
@@ -164,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Red Hughs GAA Killygordan"
   },
   {
@@ -178,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Convoy"
   },
   {
@@ -192,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Burt"
   },
   {
@@ -206,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": ""
   },
   {
@@ -220,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Derrytresk"
   },
   {
@@ -234,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "St Peter's Lurgan"
   },
   {
@@ -248,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": ""
   },
   {
@@ -262,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Tullysaran"
   },
   {
@@ -276,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Desertmartin"
   },
   {
@@ -290,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Craigbane"
   },
   {
@@ -304,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -318,22 +276,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Ballerin"
-  },
-  {
-    "away": "Clones",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 1",
-    "date": "2026-02-08",
-    "home": "Killinkere CLG",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-1-killinkere-clg-clones",
-    "score": "1-14 \u0013 1-12",
-    "search_index": "killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
-    "venue": "Killinkere"
   },
   {
     "away": "Kilrea",
@@ -346,8 +290,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Faughanvale"
+  },
+  {
+    "away": "Clones",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 1",
+    "date": "2026-02-08",
+    "home": "Killinkere CLG",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-1-killinkere-clg-clones",
+    "score": "1-14 \u0013 1-12",
+    "search_index": "killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-09T07:04:13Z",
+    "venue": "Killinkere"
   },
   {
     "away": "Gaeil Triucha Clg",
@@ -360,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Belanaleck Art McMurroughs"
   },
   {
@@ -374,22 +332,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Páirc Sheáin Mhic Dhiarmada"
-  },
-  {
-    "away": "Clan na Gael",
-    "competition": "2026 Ulster GAA Football Senior Club League Group D - Round 1",
-    "date": "2026-02-08",
-    "home": "All Saints GAC, Ballymena",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-d-round-1-all-saints-gac-b-clan-na-gael",
-    "score": "2-10 \u0013 3-11",
-    "search_index": "all saints gac ballymena clan na gael 2026 ulster gaa football senior club league group d - round 1 all saints ballymena all saints gac ballymena clan na gael 2026 ulster gaa football senior club league group d - round 1 all saints ballymena",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
-    "venue": "All Saints Ballymena"
   },
   {
     "away": "Scotstown",
@@ -402,8 +346,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Letterkenny Gaels"
+  },
+  {
+    "away": "Clan na Gael",
+    "competition": "2026 Ulster GAA Football Senior Club League Group D - Round 1",
+    "date": "2026-02-08",
+    "home": "All Saints GAC, Ballymena",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-d-round-1-all-saints-gac-b-clan-na-gael",
+    "score": "2-10 \u0013 3-11",
+    "search_index": "all saints gac ballymena clan na gael 2026 ulster gaa football senior club league group d - round 1 all saints ballymena all saints gac ballymena clan na gael 2026 ulster gaa football senior club league group d - round 1 all saints ballymena",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-09T07:04:13Z",
+    "venue": "All Saints Ballymena"
   },
   {
     "away": "Currin",
@@ -416,7 +374,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Éire Óg GAC"
   },
   {
@@ -430,7 +388,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Aughnamullen"
   },
   {
@@ -444,7 +402,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-08T18:37:24Z",
+    "updated_at": "2026-02-09T07:04:13Z",
     "venue": "Butlersbridge"
+  },
+  {
+    "away": "Ballyhegan",
+    "competition": "2026 Ulster GAA Football Junior Club League Group C - Round 1",
+    "date": "2026-02-09",
+    "home": "Stewartstown Harps",
+    "id": "prov-httpsulstergaaiefixtures-results-20260209-2000-2026-ulster-gaa-football-junior-club-league-group-c-round-1-stewartstown-har-ballyhegan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "stewartstown harps ballyhegan 2026 ulster gaa football junior club league group c - round 1 mullaghmoyle park stewartstown stewartstown harps ballyhegan 2026 ulster gaa football junior club league group c - round 1 mullaghmoyle park stewartstown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "20:00",
+    "updated_at": "2026-02-09T07:04:13Z",
+    "venue": "Mullaghmoyle Park, Stewartstown"
   }
 ]
