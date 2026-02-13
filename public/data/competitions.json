@@ -29,13 +29,6 @@
   },
   {
     "first_kickoff": "2026-02-15T12:00:00Z",
-    "match_count": 2,
-    "name": "2026 Ulster GAA Football Intermediate Club League Group D - Round 2",
-    "popularity": 160,
-    "slug": "2026-ulster-gaa-football-intermediate-club-league-group-d-round-2"
-  },
-  {
-    "first_kickoff": "2026-02-15T12:00:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
     "popularity": 160,
@@ -47,6 +40,13 @@
     "name": "2026 Ulster GAA Football Intermediate Club League Group A - Round 2",
     "popularity": 160,
     "slug": "2026-ulster-gaa-football-intermediate-club-league-group-a-round-2"
+  },
+  {
+    "first_kickoff": "2026-02-15T12:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club League Group D - Round 2",
+    "popularity": 160,
+    "slug": "2026-ulster-gaa-football-intermediate-club-league-group-d-round-2"
   },
   {
     "first_kickoff": "2026-02-21T14:00:00Z",
@@ -75,13 +75,6 @@
     "name": "2026 Ulster GAA Football Intermediate Club League Group A - Round 1",
     "popularity": 160,
     "slug": "2026-ulster-gaa-football-intermediate-club-league-group-a-round-1"
-  },
-  {
-    "first_kickoff": "2026-02-13T20:00:00Z",
-    "match_count": 2,
-    "name": "2026 Ulster GAA Football Junior Club League Group C - Round 2",
-    "popularity": 150,
-    "slug": "2026-ulster-gaa-football-junior-club-league-group-c-round-2"
   },
   {
     "first_kickoff": "2026-02-14T16:00:00Z",
