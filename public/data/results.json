@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "09:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Mallusk"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:30",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Strabane"
   },
   {
@@ -38,36 +38,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Ballerin"
-  },
-  {
-    "away": "Clones",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 1",
-    "date": "2026-02-08",
-    "home": "Killinkere CLG",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-1-killinkere-clg-clones",
-    "score": "1-14 \u0013 1-12",
-    "search_index": "killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
-    "venue": "Killinkere"
-  },
-  {
-    "away": "Gaeil Triucha Clg",
-    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 1",
-    "date": "2026-02-08",
-    "home": "Belnaleck Art MacMurroughs GAC",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-1-belnaleck-art-ma-gaeil-triucha-cl",
-    "score": "1-12 \u0013 1-16",
-    "search_index": "belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
-    "venue": "Belanaleck Art McMurroughs"
   },
   {
     "away": "Kilrea",
@@ -80,8 +52,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Faughanvale"
+  },
+  {
+    "away": "Clones",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 1",
+    "date": "2026-02-08",
+    "home": "Killinkere CLG",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-1-killinkere-clg-clones",
+    "score": "1-14 \u0013 1-12",
+    "search_index": "killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-18T18:55:22Z",
+    "venue": "Killinkere"
   },
   {
     "away": "Wolfe Tones GAC",
@@ -94,8 +80,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Wolfe Tones Derrymacash"
+  },
+  {
+    "away": "Gaeil Triucha Clg",
+    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 1",
+    "date": "2026-02-08",
+    "home": "Belnaleck Art MacMurroughs GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-1-belnaleck-art-ma-gaeil-triucha-cl",
+    "score": "1-12 \u0013 1-16",
+    "search_index": "belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-18T18:55:22Z",
+    "venue": "Belanaleck Art McMurroughs"
   },
   {
     "away": "St Mochai's GAC Darragh Cross",
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Desertmartin"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Craigbane"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Kilrea"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Pairc an Ghleanna"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Liatroim"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Currin GAA"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Eglish St Patricks"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Derrytresk"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Fr Hackett Park"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Ardara"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Brackaville"
   },
   {
@@ -304,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -318,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "O'Connell Park Drumlane"
   },
   {
@@ -332,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -346,7 +346,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -360,7 +360,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -374,7 +374,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "St Teresas"
   },
   {
@@ -388,7 +388,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -402,7 +402,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -416,7 +416,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Cloghan"
   },
   {
@@ -430,7 +430,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-18T07:01:54Z",
+    "updated_at": "2026-02-18T18:55:39Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -444,7 +444,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:45",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Urris"
   },
   {
@@ -458,7 +458,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Donegal GAA Centre"
   },
   {
@@ -472,7 +472,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Burren"
   },
   {
@@ -486,7 +486,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "All Saints Ballymena"
   },
   {
@@ -500,7 +500,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Burt"
   },
   {
@@ -514,7 +514,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -528,7 +528,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -542,7 +542,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Burren"
   },
   {
@@ -556,7 +556,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "09:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Mallusk"
   },
   {
@@ -570,7 +570,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Donegal GAA Centre"
   },
   {
@@ -584,7 +584,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -598,7 +598,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -612,7 +612,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -626,7 +626,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "St Teresas"
   },
   {
@@ -640,7 +640,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "All Saints Ballymena"
   },
   {
@@ -654,7 +654,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Burt"
   },
   {
@@ -668,7 +668,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -682,7 +682,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -696,7 +696,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:45",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Urris"
   },
   {
@@ -710,7 +710,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-02-18T07:01:54Z",
+    "updated_at": "2026-02-18T18:55:39Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -724,7 +724,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-18T07:01:54Z",
+    "updated_at": "2026-02-18T18:55:39Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -738,7 +738,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:30",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Strabane"
   },
   {
@@ -752,7 +752,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Kilrea"
   },
   {
@@ -766,7 +766,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -780,7 +780,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Pairc an Ghleanna"
   },
   {
@@ -794,7 +794,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Liatroim"
   },
   {
@@ -808,7 +808,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -822,7 +822,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Currin GAA"
   },
   {
@@ -836,7 +836,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Eglish St Patricks"
   },
   {
@@ -850,7 +850,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Derrytresk"
   },
   {
@@ -864,7 +864,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Fr Hackett Park"
   },
   {
@@ -878,7 +878,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Ardara"
   },
   {
@@ -892,7 +892,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Brackaville"
   },
   {
@@ -906,7 +906,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": ""
   },
   {
@@ -920,7 +920,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "O'Connell Park Drumlane"
   },
   {
@@ -934,7 +934,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Cloghan"
   },
   {
@@ -948,7 +948,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-18T07:01:54Z",
+    "updated_at": "2026-02-18T18:55:39Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -962,22 +962,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-18T07:01:54Z",
+    "updated_at": "2026-02-18T18:55:39Z",
     "venue": "Mick Neville Park Rathkeale"
-  },
-  {
-    "away": "Cork",
-    "competition": "Allianz Football League Roinn 2 Round 3",
-    "date": "2026-02-15",
-    "home": "Offaly",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260215-1400-allianz-football-league-roinn-2-round-3-offaly-cork",
-    "score": "0-19 \u0013 3-15",
-    "search_index": "offaly cork allianz football league roinn 2 round 3 glenisk o connor park offaly cork allianz football league roinn 2 round 3 glenisk o connor park",
-    "source": "scraper",
-    "status": "FT",
-    "time": "14:00",
-    "updated_at": "2026-02-18T07:01:54Z",
-    "venue": "Glenisk O'Connor Park"
   },
   {
     "away": "Carlow",
@@ -990,8 +976,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-18T07:01:54Z",
+    "updated_at": "2026-02-18T18:55:39Z",
     "venue": "FBD Semple Stadium, Thurles"
+  },
+  {
+    "away": "Cork",
+    "competition": "Allianz Football League Roinn 2 Round 3",
+    "date": "2026-02-15",
+    "home": "Offaly",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260215-1400-allianz-football-league-roinn-2-round-3-offaly-cork",
+    "score": "0-19 \u0013 3-15",
+    "search_index": "offaly cork allianz football league roinn 2 round 3 glenisk o connor park offaly cork allianz football league roinn 2 round 3 glenisk o connor park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-02-18T18:55:39Z",
+    "venue": "Glenisk O'Connor Park"
   },
   {
     "away": "Owen Roe O`Neill's GAC, Leckpatrick",
@@ -1004,7 +1004,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-18T07:01:38Z",
+    "updated_at": "2026-02-18T18:55:22Z",
     "venue": "Craigbane"
   }
 ]
