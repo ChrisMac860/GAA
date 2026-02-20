@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "09:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Mallusk"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Strabane"
   },
   {
@@ -38,36 +38,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Ballerin"
-  },
-  {
-    "away": "Clones",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 1",
-    "date": "2026-02-08",
-    "home": "Killinkere CLG",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-1-killinkere-clg-clones",
-    "score": "1-14 \u0013 1-12",
-    "search_index": "killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
-    "venue": "Killinkere"
-  },
-  {
-    "away": "Gaeil Triucha Clg",
-    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 1",
-    "date": "2026-02-08",
-    "home": "Belnaleck Art MacMurroughs GAC",
-    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-1-belnaleck-art-ma-gaeil-triucha-cl",
-    "score": "1-12 \u0013 1-16",
-    "search_index": "belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
-    "venue": "Belanaleck Art McMurroughs"
   },
   {
     "away": "Kilrea",
@@ -80,8 +52,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Faughanvale"
+  },
+  {
+    "away": "Clones",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 1",
+    "date": "2026-02-08",
+    "home": "Killinkere CLG",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-1-killinkere-clg-clones",
+    "score": "1-14 \u0013 1-12",
+    "search_index": "killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere killinkere clg clones 2026 ulster gaa football intermediate club league group c - round 1 killinkere",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-20T18:48:57Z",
+    "venue": "Killinkere"
   },
   {
     "away": "Wolfe Tones GAC",
@@ -94,8 +80,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Wolfe Tones Derrymacash"
+  },
+  {
+    "away": "Gaeil Triucha Clg",
+    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 1",
+    "date": "2026-02-08",
+    "home": "Belnaleck Art MacMurroughs GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-1-belnaleck-art-ma-gaeil-triucha-cl",
+    "score": "1-12 \u0013 1-16",
+    "search_index": "belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs belnaleck art macmurroughs gac gaeil triucha clg 2026 ulster gaa football senior club league group c - round 1 belanaleck art mcmurroughs",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-20T18:48:57Z",
+    "venue": "Belanaleck Art McMurroughs"
   },
   {
     "away": "St Mochai's GAC Darragh Cross",
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Desertmartin"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Craigbane"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Kilrea"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Pairc an Ghleanna"
   },
   {
@@ -192,22 +192,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Liatroim"
-  },
-  {
-    "away": "Lacken GAA",
-    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 2",
-    "date": "2026-02-08",
-    "home": "Currin",
-    "id": "provres-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-2-currin-lacken-gaa",
-    "score": "0-6 – 0-9",
-    "search_index": "currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
-    "venue": "Currin GAA"
   },
   {
     "away": "St Mochai's GAC Darragh Cross",
@@ -220,8 +206,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
+  },
+  {
+    "away": "Lacken GAA",
+    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 2",
+    "date": "2026-02-08",
+    "home": "Currin",
+    "id": "provres-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-2-currin-lacken-gaa",
+    "score": "0-6 – 0-9",
+    "search_index": "currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-20T18:48:57Z",
+    "venue": "Currin GAA"
   },
   {
     "away": "Burren GAC",
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Eglish St Patricks"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Derrytresk"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Fr Hackett Park"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Ardara"
   },
   {
@@ -290,22 +290,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "O'Connell Park Drumlane"
-  },
-  {
-    "away": "Killinkere CLG",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
-    "date": "2026-02-08",
-    "home": "Denn",
-    "id": "provres-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-denn-killinkere-clg",
-    "score": "1-13 – 3-11",
-    "search_index": "denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
-    "venue": "TBC"
   },
   {
     "away": "Letterkenny Gaels",
@@ -318,8 +304,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Brackaville"
+  },
+  {
+    "away": "Killinkere CLG",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
+    "date": "2026-02-08",
+    "home": "Denn",
+    "id": "provres-httpsulstergaaiefixtures-results-20260208-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-denn-killinkere-clg",
+    "score": "1-13 – 3-11",
+    "search_index": "denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-20T18:48:57Z",
+    "venue": "TBC"
   },
   {
     "away": "Lisnaskea Emmetts",
@@ -332,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -346,7 +346,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -360,7 +360,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -374,7 +374,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "St Teresas"
   },
   {
@@ -388,7 +388,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -402,7 +402,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -416,7 +416,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Cloghan"
   },
   {
@@ -430,7 +430,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-20T06:56:55Z",
+    "updated_at": "2026-02-20T18:49:11Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -444,7 +444,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:45",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Urris"
   },
   {
@@ -458,7 +458,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Donegal GAA Centre"
   },
   {
@@ -472,7 +472,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "St Paul's Lurgan"
   },
   {
@@ -486,7 +486,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Burren"
   },
   {
@@ -500,7 +500,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "All Saints Ballymena"
   },
   {
@@ -514,7 +514,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Burt"
   },
   {
@@ -528,7 +528,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -542,7 +542,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -556,7 +556,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Burren"
   },
   {
@@ -570,7 +570,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "09:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Mallusk"
   },
   {
@@ -584,7 +584,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Donegal GAA Centre"
   },
   {
@@ -598,7 +598,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -612,7 +612,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -626,7 +626,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -640,7 +640,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "St Teresas"
   },
   {
@@ -654,7 +654,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "All Saints Ballymena"
   },
   {
@@ -668,7 +668,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Burt"
   },
   {
@@ -682,7 +682,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -696,7 +696,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -710,7 +710,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:45",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Urris"
   },
   {
@@ -724,7 +724,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-02-20T06:56:55Z",
+    "updated_at": "2026-02-20T18:49:11Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -738,7 +738,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-02-20T06:56:55Z",
+    "updated_at": "2026-02-20T18:49:11Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -752,7 +752,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Strabane"
   },
   {
@@ -766,7 +766,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Kilrea"
   },
   {
@@ -780,7 +780,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -794,7 +794,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Pairc an Ghleanna"
   },
   {
@@ -808,22 +808,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Liatroim"
-  },
-  {
-    "away": "Lacken GAA",
-    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 2",
-    "date": "2026-02-15",
-    "home": "Currin",
-    "id": "prov-httpsulstergaaiefixtures-results-20260215-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-2-currin-lacken-gaa",
-    "score": "0-6 \u0013 0-9",
-    "search_index": "currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
-    "venue": "Currin GAA"
   },
   {
     "away": "St Mochai's GAC Darragh Cross",
@@ -836,8 +822,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
+  },
+  {
+    "away": "Lacken GAA",
+    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 2",
+    "date": "2026-02-15",
+    "home": "Currin",
+    "id": "prov-httpsulstergaaiefixtures-results-20260215-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-2-currin-lacken-gaa",
+    "score": "0-6 \u0013 0-9",
+    "search_index": "currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa currin lacken gaa 2026 ulster gaa football junior club league group b - round 2 currin gaa",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-20T18:48:57Z",
+    "venue": "Currin GAA"
   },
   {
     "away": "Burren GAC",
@@ -850,7 +850,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Eglish St Patricks"
   },
   {
@@ -864,7 +864,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Derrytresk"
   },
   {
@@ -878,7 +878,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Fr Hackett Park"
   },
   {
@@ -892,7 +892,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Ardara"
   },
   {
@@ -906,22 +906,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "O'Connell Park Drumlane"
-  },
-  {
-    "away": "Killinkere CLG",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
-    "date": "2026-02-15",
-    "home": "Denn",
-    "id": "prov-httpsulstergaaiefixtures-results-20260215-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-denn-killinkere-clg",
-    "score": "1-13 \u0013 3-11",
-    "search_index": "denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
-    "venue": "TBC"
   },
   {
     "away": "Letterkenny Gaels",
@@ -934,8 +920,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Brackaville"
+  },
+  {
+    "away": "Killinkere CLG",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
+    "date": "2026-02-15",
+    "home": "Denn",
+    "id": "prov-httpsulstergaaiefixtures-results-20260215-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-denn-killinkere-clg",
+    "score": "1-13 \u0013 3-11",
+    "search_index": "denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc denn killinkere clg 2026 ulster gaa football intermediate club league group c - round 2 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-20T18:48:57Z",
+    "venue": "TBC"
   },
   {
     "away": "Éire Óg GAC",
@@ -948,7 +948,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Cloghan"
   },
   {
@@ -962,7 +962,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-20T06:56:55Z",
+    "updated_at": "2026-02-20T18:49:11Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -976,7 +976,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-20T06:56:55Z",
+    "updated_at": "2026-02-20T18:49:11Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -990,7 +990,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-20T06:56:55Z",
+    "updated_at": "2026-02-20T18:49:11Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -1004,7 +1004,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-20T06:56:55Z",
+    "updated_at": "2026-02-20T18:49:11Z",
     "venue": "Glenisk O'Connor Park"
   },
   {
@@ -1018,7 +1018,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "TBC"
   },
   {
@@ -1032,7 +1032,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "St Paul's Lurgan"
   },
   {
@@ -1046,7 +1046,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-02-20T06:56:41Z",
+    "updated_at": "2026-02-20T18:48:57Z",
     "venue": "Desertmartin"
   }
 ]
