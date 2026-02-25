@@ -1,30 +1,30 @@
 [
   {
-    "away": "All Saints GAC, Ballymena",
+    "away": "Kilrea",
     "competition": "2026 Ulster GAA Football Senior Club League Group D - Round 3",
     "date": "2026-02-25",
-    "home": "Kilrea",
-    "id": "prov-httpsulstergaaiefixtures-results-20260225-1930-2026-ulster-gaa-football-senior-club-league-group-d-round-3-kilrea-all-saints-gac-b",
+    "home": "All Saints GAC, Ballymena",
+    "id": "prov-httpsulstergaaiefixtures-results-20260225-1930-2026-ulster-gaa-football-senior-club-league-group-d-round-3-all-saints-gac-b-kilrea",
     "score": "0-0 \u0013 0-0",
-    "search_index": "kilrea all saints gac ballymena 2026 ulster gaa football senior club league group d - round 3 kilrea kilrea all saints gac ballymena 2026 ulster gaa football senior club league group d - round 3 kilrea",
+    "search_index": "all saints gac ballymena kilrea 2026 ulster gaa football senior club league group d - round 3 all saints ballymena all saints gac ballymena kilrea 2026 ulster gaa football senior club league group d - round 3 all saints ballymena",
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-25T07:02:20Z",
-    "venue": "Kilrea"
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "All Saints Ballymena"
   },
   {
-    "away": "Craigbane",
+    "away": "Red Hughs",
     "competition": "2026 Ulster GAA Football Intermediate Club League Group G - Round 4",
     "date": "2026-02-27",
-    "home": "Red Hughs",
-    "id": "prov-httpsulstergaaiefixtures-results-20260227-1930-2026-ulster-gaa-football-intermediate-club-league-group-g-round-4-red-hughs-craigbane",
+    "home": "Craigbane",
+    "id": "prov-httpsulstergaaiefixtures-results-20260227-1930-2026-ulster-gaa-football-intermediate-club-league-group-g-round-4-craigbane-red-hughs",
     "score": "0-0 \u0013 0-0",
-    "search_index": "red hughs craigbane 2026 ulster gaa football intermediate club league group g - round 4 craigbane red hughs craigbane 2026 ulster gaa football intermediate club league group g - round 4 craigbane",
+    "search_index": "craigbane red hughs 2026 ulster gaa football intermediate club league group g - round 4 craigbane craigbane red hughs 2026 ulster gaa football intermediate club league group g - round 4 craigbane",
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Craigbane"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Burt"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Convoy"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "18:00",
-    "updated_at": "2026-02-25T07:02:42Z",
+    "updated_at": "2026-02-25T19:06:45Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -136,7 +136,63 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "St Oliver Plunkett's GAC, Greenlough",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group F - Round 3",
+    "date": "2026-03-01",
+    "home": "Con Magee's Glenravel",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-intermediate-club-league-group-f-round-3-con-magees-glenr-st-oliver-plunke",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "con magee s glenravel st oliver plunkett s gac greenlough 2026 ulster gaa football intermediate club league group f - round 3 tbc con magee s glenravel saint oliver plunkett s gac greenlough 2026 ulster gaa football intermediate club league group f - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Brocagh Emmetts GFC",
+    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 4",
+    "date": "2026-03-01",
+    "home": "Drumhowan",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-4-drumhowan-brocagh-emmetts-",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "drumhowan brocagh emmetts gfc 2026 ulster gaa football junior club league group b - round 4 tbc drumhowan brocagh emmetts gfc 2026 ulster gaa football junior club league group b - round 4 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "St Mochai's GAC Darragh Cross",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group E - Round 3",
+    "date": "2026-03-01",
+    "home": "Grange Naomh Colmcille CLG",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-intermediate-club-league-group-e-round-3-grange-naomh-col-st-mochais-gac-d",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "grange naomh colmcille clg st mochai s gac darragh cross 2026 ulster gaa football intermediate club league group e - round 3 tbc grange saint colmcille clg saint mochai s gac darragh cross 2026 ulster gaa football intermediate club league group e - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Naomh Peadar",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group D - Round 3",
+    "date": "2026-03-01",
+    "home": "Ballymaguigan",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-intermediate-club-league-group-d-round-3-ballymaguigan-naomh-peadar",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "ballymaguigan naomh peadar 2026 ulster gaa football intermediate club league group d - round 3 tbc ballymaguigan saint peadar 2026 ulster gaa football intermediate club league group d - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "TBC"
   },
   {
@@ -150,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Páirc Sheáin Mhic Dhiarmada"
   },
   {
@@ -164,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "TBC"
   },
   {
@@ -178,8 +234,92 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Pairc an Ghleanna"
+  },
+  {
+    "away": "CLG MacDaibhéid",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group D - Round 3",
+    "date": "2026-03-01",
+    "home": "Wolfe Tones GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-intermediate-club-league-group-d-round-3-wolfe-tones-gac-clg-macdaibheid",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "wolfe tones gac clg macdaibheid 2026 ulster gaa football intermediate club league group d - round 3 tbc wolfe tones gac clg macdaibheid 2026 ulster gaa football intermediate club league group d - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Ardara",
+    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 3",
+    "date": "2026-03-01",
+    "home": "Belnaleck Art MacMurroughs GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-3-belnaleck-art-ma-ardara",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "belnaleck art macmurroughs gac ardara 2026 ulster gaa football senior club league group c - round 3 tbc belnaleck art macmurroughs gac ardara 2026 ulster gaa football senior club league group c - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Ballyhegan",
+    "competition": "2026 Ulster GAA Football Junior Club League Group C - Round 3",
+    "date": "2026-03-01",
+    "home": "Moneymore GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-junior-club-league-group-c-round-3-moneymore-gac-ballyhegan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "moneymore gac ballyhegan 2026 ulster gaa football junior club league group c - round 3 tbc moneymore gac ballyhegan 2026 ulster gaa football junior club league group c - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Lacken GAA",
+    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 4",
+    "date": "2026-03-01",
+    "home": "Éire Óg GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-4-eire-og-gac-lacken-gaa",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "eire og gac lacken gaa 2026 ulster gaa football junior club league group b - round 4 tbc eire og gac lacken gaa 2026 ulster gaa football junior club league group b - round 4 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "An Eaglais, Naomh Pádraig",
+    "competition": "2026 Ulster GAA Football Senior Club League Group A - Round 3",
+    "date": "2026-03-01",
+    "home": "CLG Naomh Maolmhaodhóg Caisleán Uidhilín",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-senior-club-league-group-a-round-3-clg-naomh-maolmh-an-eaglais-naomh",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "clg naomh maolmhaodhog caislean uidhilin an eaglais naomh padraig 2026 ulster gaa football senior club league group a - round 3 tbc clg saint maolmhaodhog caislean uidhilin an eaglais saint padraig 2026 ulster gaa football senior club league group a - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Gaeil Triucha Clg",
+    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 3",
+    "date": "2026-03-01",
+    "home": "Tullysaran",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-3-tullysaran-gaeil-triucha-cl",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "tullysaran gaeil triucha clg 2026 ulster gaa football senior club league group c - round 3 tbc tullysaran gaeil triucha clg 2026 ulster gaa football senior club league group c - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
   },
   {
     "away": "Collegeland",
@@ -192,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Derrytresk"
   },
   {
@@ -206,8 +346,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "St. Patrick's Dromintee GAA"
+  },
+  {
+    "away": "Clones",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 3",
+    "date": "2026-03-01",
+    "home": "Denn",
+    "id": "prov-httpsulstergaaiefixtures-results-20260301-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-3-denn-clones",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "denn clones 2026 ulster gaa football intermediate club league group c - round 3 tbc denn clones 2026 ulster gaa football intermediate club league group c - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-02-25T19:06:28Z",
+    "venue": "TBC"
   },
   {
     "away": "Naomh Éanna CLG",
@@ -220,7 +374,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:45",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "St Mary's Magherafelt"
   },
   {
@@ -234,7 +388,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "TBC"
   },
   {
@@ -248,7 +402,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-02-25T07:02:42Z",
+    "updated_at": "2026-02-25T19:06:45Z",
     "venue": "Celtic Park"
   },
   {
@@ -262,7 +416,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-02-25T07:02:42Z",
+    "updated_at": "2026-02-25T19:06:45Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -276,7 +430,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2026-02-25T07:02:42Z",
+    "updated_at": "2026-02-25T19:06:45Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -290,7 +444,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "TBC"
   },
   {
@@ -304,7 +458,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-02-25T07:02:42Z",
+    "updated_at": "2026-02-25T19:06:45Z",
     "venue": "Clonmel"
   },
   {
@@ -318,7 +472,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Mayobridge"
   },
   {
@@ -332,7 +486,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Craigbane"
   },
   {
@@ -346,7 +500,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -360,7 +514,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "Wolfe Tones Derrymacash"
   },
   {
@@ -374,7 +528,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -388,7 +542,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-02-25T07:02:20Z",
+    "updated_at": "2026-02-25T19:06:28Z",
     "venue": "TBC"
   }
 ]
