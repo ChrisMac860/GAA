@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-03-02T06:58:42Z",
+    "updated_at": "2026-03-02T18:49:52Z",
     "venue": "Mayobridge"
   },
   {
@@ -24,8 +24,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-03-02T06:58:42Z",
+    "updated_at": "2026-03-02T18:49:52Z",
     "venue": "Craigbane"
+  },
+  {
+    "away": "Naomh Éanna CLG",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group E - Round 3",
+    "date": "2026-03-04",
+    "home": "Desertmartin",
+    "id": "prov-httpsulstergaaiefixtures-results-20260304-2000-2026-ulster-gaa-football-intermediate-club-league-group-e-round-3-desertmartin-naomh-eanna-clg",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "desertmartin naomh eanna clg 2026 ulster gaa football intermediate club league group e - round 3 desertmartin desertmartin saint eanna clg 2026 ulster gaa football intermediate club league group e - round 3 desertmartin",
+    "source": "scraper",
+    "status": "FT",
+    "time": "20:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "Desertmartin"
   },
   {
     "away": "Scotstown",
@@ -38,8 +52,50 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-03-02T06:58:42Z",
+    "updated_at": "2026-03-02T18:49:52Z",
     "venue": "Pairc Naomh Brid"
+  },
+  {
+    "away": "Ballyhegan",
+    "competition": "2026 Ulster GAA Football Junior Club League Group C - Round 3",
+    "date": "2026-03-07",
+    "home": "Moneymore GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260307-1500-2026-ulster-gaa-football-junior-club-league-group-c-round-3-moneymore-gac-ballyhegan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "moneymore gac ballyhegan 2026 ulster gaa football junior club league group c - round 3 tbc moneymore gac ballyhegan 2026 ulster gaa football junior club league group c - round 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "St Mochai's GAC Darragh Cross",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group E - Round 3",
+    "date": "2026-03-08",
+    "home": "Grange Naomh Colmcille CLG",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-e-round-3-grange-naomh-col-st-mochais-gac-d",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "grange naomh colmcille clg st mochai s gac darragh cross 2026 ulster gaa football intermediate club league group e - round 3 grange st colmcille s grange saint colmcille clg saint mochai s gac darragh cross 2026 ulster gaa football intermediate club league group e - round 3 grange saint colmcille s",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "Grange St Colmcille's"
+  },
+  {
+    "away": "Red Hughs",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group G - Round 5",
+    "date": "2026-03-08",
+    "home": "Málainn",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-g-round-5-malainn-red-hughs",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "malainn red hughs 2026 ulster gaa football intermediate club league group g - round 5 tbc malainn red hughs 2026 ulster gaa football intermediate club league group g - round 5 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
   },
   {
     "away": "Ballymaguigan",
@@ -52,8 +108,134 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-02T06:58:42Z",
+    "updated_at": "2026-03-02T18:49:52Z",
     "venue": "Wolfe Tones Derrymacash"
+  },
+  {
+    "away": "Drum",
+    "competition": "2026 Ulster GAA Football Junior Club League Group A - Round 5",
+    "date": "2026-03-08",
+    "home": "Breac an Bhile Eoghan Rua",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-junior-club-league-group-a-round-5-breac-an-bhile-e-drum",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "breac an bhile eoghan rua drum 2026 ulster gaa football junior club league group a - round 5 tbc breac an bhile eoghan rua drum 2026 ulster gaa football junior club league group a - round 5 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Drumhowan",
+    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 5",
+    "date": "2026-03-08",
+    "home": "Currin",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-5-currin-drumhowan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "currin drumhowan 2026 ulster gaa football junior club league group b - round 5 tbc currin drumhowan 2026 ulster gaa football junior club league group b - round 5 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Tullysaran",
+    "competition": "2026 Ulster GAA Football Senior Club League Group C - Round 2",
+    "date": "2026-03-08",
+    "home": "Belnaleck Art MacMurroughs GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-senior-club-league-group-c-round-2-belnaleck-art-ma-tullysaran",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "belnaleck art macmurroughs gac tullysaran 2026 ulster gaa football senior club league group c - round 2 belanaleck art mcmurroughs belnaleck art macmurroughs gac tullysaran 2026 ulster gaa football senior club league group c - round 2 belanaleck art mcmurroughs",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "Belanaleck Art McMurroughs"
+  },
+  {
+    "away": "Burren GAC",
+    "competition": "2026 Ulster GAA Football Senior Club Playoffs - Cup Division 1 - Semi Final",
+    "date": "2026-03-08",
+    "home": "Ardara",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-senior-club-playoffs-cup-division-1-semi-final-ardara-burren-gac",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "ardara burren gac 2026 ulster gaa football senior club playoffs - cup division 1 - semi final ardara ardara burren gac 2026 ulster gaa football senior club playoffs - cup division 1 - semi final ardara",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "Ardara"
+  },
+  {
+    "away": "Keady Michael Dwyers",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group A - Round 3",
+    "date": "2026-03-08",
+    "home": "Eire Óg",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-a-round-3-eire-og-keady-michael-dw",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "eire og keady michael dwyers 2026 ulster gaa football intermediate club league group a - round 3 eire og smithborough eire og keady michael dwyers 2026 ulster gaa football intermediate club league group a - round 3 eire og smithborough",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "Éire Óg, Smithborough"
+  },
+  {
+    "away": "Éire Óg GAC",
+    "competition": "2026 Ulster GAA Football Junior Club League Group B - Round 5",
+    "date": "2026-03-08",
+    "home": "Brocagh Emmetts GFC",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-junior-club-league-group-b-round-5-brocagh-emmetts--eire-og-gac",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "brocagh emmetts gfc eire og gac 2026 ulster gaa football junior club league group b - round 5 tbc brocagh emmetts gfc eire og gac 2026 ulster gaa football junior club league group b - round 5 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Derrytresk Fir an Chnoic",
+    "competition": "2026 Ulster GAA Football Junior League Playoffs - Cup Division 1 - Quarter Final",
+    "date": "2026-03-08",
+    "home": "Naomh Mhuire Conmhaigh",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-junior-league-playoffs-cup-division-1-quarter-final-naomh-mhuire-con-derrytresk-fir-a",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "naomh mhuire conmhaigh derrytresk fir an chnoic 2026 ulster gaa football junior league playoffs - cup division 1 - quarter final convoy saint mhuire conmhaigh derrytresk fir an chnoic 2026 ulster gaa football junior league playoffs - cup division 1 - quarter final convoy",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "Convoy"
+  },
+  {
+    "away": "Clan na Gael",
+    "competition": "2026 Ulster GAA Football Senior Club Playoffs - Cup Division 1 - Semi Final",
+    "date": "2026-03-08",
+    "home": "Mayobridge / Dromintee",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-senior-club-playoffs-cup-division-1-semi-final-mayobridge-dromi-clan-na-gael",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "mayobridge dromintee clan na gael 2026 ulster gaa football senior club playoffs - cup division 1 - semi final tbc mayobridge dromintee clan na gael 2026 ulster gaa football senior club playoffs - cup division 1 - semi final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Owen Roe O`Neill's GAC, Leckpatrick",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group G - Round 5",
+    "date": "2026-03-08",
+    "home": "Tir na nÓg",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-g-round-5-tir-na-nog-owen-roe-oneills",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "tir na nog owen roe o neill s gac leckpatrick 2026 ulster gaa football intermediate club league group g - round 5 tbc tir na nog owen roe o neill s gac leckpatrick 2026 ulster gaa football intermediate club league group g - round 5 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
   },
   {
     "away": "Pearse Og",
@@ -66,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-02T06:58:42Z",
+    "updated_at": "2026-03-02T18:49:52Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -80,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-02T06:58:42Z",
+    "updated_at": "2026-03-02T18:49:52Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +276,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2026-03-02T06:58:54Z",
+    "updated_at": "2026-03-02T18:50:10Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -108,8 +290,36 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-03-02T06:58:54Z",
+    "updated_at": "2026-03-02T18:50:10Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
+  },
+  {
+    "away": "Naomh Mhuire / Derrytresk",
+    "competition": "2026 Ulster GAA Football Junior League Playoffs - Cup Division 1 - Semi Final",
+    "date": "2026-03-15",
+    "home": "Stewartstown Harps",
+    "id": "prov-httpsulstergaaiefixtures-results-20260315-1200-2026-ulster-gaa-football-junior-league-playoffs-cup-division-1-semi-final-stewartstown-har-naomh-mhuire-der",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "stewartstown harps naomh mhuire derrytresk 2026 ulster gaa football junior league playoffs - cup division 1 - semi final mullaghmoyle park stewartstown stewartstown harps saint mhuire derrytresk 2026 ulster gaa football junior league playoffs - cup division 1 - semi final mullaghmoyle park stewartstown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "Mullaghmoyle Park, Stewartstown"
+  },
+  {
+    "away": "Drumhowan / Currin",
+    "competition": "2026 Ulster GAA Football Junior League Playoffs - Cup Division 1 - Semi Final",
+    "date": "2026-03-15",
+    "home": "Letterkenny Gaels",
+    "id": "prov-httpsulstergaaiefixtures-results-20260315-1200-2026-ulster-gaa-football-junior-league-playoffs-cup-division-1-semi-final-letterkenny-gael-drumhowan-currin",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "letterkenny gaels drumhowan currin 2026 ulster gaa football junior league playoffs - cup division 1 - semi final tbc letterkenny gaels drumhowan currin 2026 ulster gaa football junior league playoffs - cup division 1 - semi final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-02T18:49:52Z",
+    "venue": "TBC"
   },
   {
     "away": "Antrim",
@@ -122,7 +332,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-02T06:58:54Z",
+    "updated_at": "2026-03-02T18:50:10Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -136,7 +346,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-02T06:58:54Z",
+    "updated_at": "2026-03-02T18:50:10Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -150,7 +360,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-02T06:58:54Z",
+    "updated_at": "2026-03-02T18:50:10Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -164,7 +374,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-02T06:58:54Z",
+    "updated_at": "2026-03-02T18:50:10Z",
     "venue": "Echelon Park, Aughrim"
   }
 ]
