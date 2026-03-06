@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "TBC"
   },
   {
@@ -34,12 +34,12 @@
     "home": "Breac an Bhile Eoghan Rua",
     "id": "prov-httpsulstergaaiefixtures-results-20260308-1100-2026-ulster-gaa-football-junior-club-league-group-a-round-5-breac-an-bhile-e-drum",
     "score": "0-0 \u0013 0-0",
-    "search_index": "breac an bhile eoghan rua drum 2026 ulster gaa football junior club league group a - round 5 tbc breac an bhile eoghan rua drum 2026 ulster gaa football junior club league group a - round 5 tbc",
+    "search_index": "breac an bhile eoghan rua drum 2026 ulster gaa football junior club league group a - round 5 brackaville breac an bhile eoghan rua drum 2026 ulster gaa football junior club league group a - round 5 brackaville",
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-06T06:50:34Z",
-    "venue": "TBC"
+    "updated_at": "2026-03-06T18:45:45Z",
+    "venue": "Brackaville"
   },
   {
     "away": "St Mochai's GAC Darragh Cross",
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "Grange St Colmcille's"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "Wolfe Tones Derrymacash"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "Currin GAA"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,22 +108,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "Mayobridge"
-  },
-  {
-    "away": "Owen Roe O`Neill's GAC, Leckpatrick",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group G - Round 5",
-    "date": "2026-03-08",
-    "home": "Tir na nÓg",
-    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-g-round-5-tir-na-nog-owen-roe-oneills",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "tir na nog owen roe o neill s gac leckpatrick 2026 ulster gaa football intermediate club league group g - round 5 people s park tir na nog owen roe o neill s gac leckpatrick 2026 ulster gaa football intermediate club league group g - round 5 people s park",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
-    "venue": "People's Park"
   },
   {
     "away": "Naomh Peadar",
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "TBC"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2026-03-06T06:50:43Z",
+    "updated_at": "2026-03-06T18:45:54Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -164,7 +150,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-03-06T06:50:43Z",
+    "updated_at": "2026-03-06T18:45:54Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -178,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T06:50:34Z",
+    "updated_at": "2026-03-06T18:45:45Z",
     "venue": "TBC"
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-06T06:50:43Z",
+    "updated_at": "2026-03-06T18:45:54Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -220,7 +206,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-06T06:50:43Z",
+    "updated_at": "2026-03-06T18:45:54Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -234,7 +220,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-06T06:50:43Z",
+    "updated_at": "2026-03-06T18:45:54Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -248,7 +234,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-06T06:50:43Z",
+    "updated_at": "2026-03-06T18:45:54Z",
     "venue": "Echelon Park, Aughrim"
   }
 ]
