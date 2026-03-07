@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "Brackaville"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "Grange St Colmcille's"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "Wolfe Tones Derrymacash"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "Currin GAA"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,22 +108,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "Mayobridge"
-  },
-  {
-    "away": "Naomh Peadar",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group D - Round 2",
-    "date": "2026-03-08",
-    "home": "CLG MacDaibhéid",
-    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-d-round-2-clg-macdaibheid-naomh-peadar",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "clg macdaibheid naomh peadar 2026 ulster gaa football intermediate club league group d - round 2 tbc clg macdaibheid saint peadar 2026 ulster gaa football intermediate club league group d - round 2 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
-    "venue": "TBC"
   },
   {
     "away": "Mayo",
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2026-03-06T18:45:54Z",
+    "updated_at": "2026-03-07T06:41:03Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-03-06T18:45:54Z",
+    "updated_at": "2026-03-07T06:41:03Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -164,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -178,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-06T18:45:45Z",
+    "updated_at": "2026-03-07T06:40:53Z",
     "venue": "TBC"
   },
   {
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-06T18:45:54Z",
+    "updated_at": "2026-03-07T06:41:03Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-06T18:45:54Z",
+    "updated_at": "2026-03-07T06:41:03Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -220,7 +206,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-06T18:45:54Z",
+    "updated_at": "2026-03-07T06:41:03Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -234,7 +220,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-06T18:45:54Z",
+    "updated_at": "2026-03-07T06:41:03Z",
     "venue": "Echelon Park, Aughrim"
   }
 ]
