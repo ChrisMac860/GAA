@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-13T06:54:02Z",
+    "updated_at": "2026-03-13T18:42:31Z",
     "venue": "Desertmartin"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "Páirc Uí Rinn"
   },
   {
@@ -46,13 +46,13 @@
     "competition": "2026 Ulster GAA Football Junior League Playoffs - Cup Division 1 - Semi Final",
     "date": "2026-03-15",
     "home": "Stewartstown Harps",
-    "id": "prov-httpsulstergaaiefixtures-results-20260315-1200-2026-ulster-gaa-football-junior-league-playoffs-cup-division-1-semi-final-stewartstown-har-naomh-mhuire-con",
+    "id": "prov-httpsulstergaaiefixtures-results-20260315-1100-2026-ulster-gaa-football-junior-league-playoffs-cup-division-1-semi-final-stewartstown-har-naomh-mhuire-con",
     "score": "0-0 \u0013 0-0",
     "search_index": "stewartstown harps naomh mhuire conmhaigh 2026 ulster gaa football junior league playoffs - cup division 1 - semi final mullaghmoyle park stewartstown stewartstown harps saint mhuire conmhaigh 2026 ulster gaa football junior league playoffs - cup division 1 - semi final mullaghmoyle park stewartstown",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-13T06:54:02Z",
+    "time": "11:00",
+    "updated_at": "2026-03-13T18:42:31Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-13T06:54:02Z",
+    "updated_at": "2026-03-13T18:42:31Z",
     "venue": "Greenlough"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-13T06:54:02Z",
+    "updated_at": "2026-03-13T18:42:31Z",
     "venue": "Liatroim"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -136,8 +136,22 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "Echelon Park, Aughrim"
+  },
+  {
+    "away": "Burren GAC",
+    "competition": "2026 Ulster GAA Football Senior Club Playoffs - Cup Division 1 - Final",
+    "date": "2026-03-19",
+    "home": "Mayobridge",
+    "id": "prov-httpsulstergaaiefixtures-results-20260319-1930-2026-ulster-gaa-football-senior-club-playoffs-cup-division-1-final-mayobridge-burren-gac",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "mayobridge burren gac 2026 ulster gaa football senior club playoffs - cup division 1 - final mayobridge mayobridge burren gac 2026 ulster gaa football senior club playoffs - cup division 1 - final mayobridge",
+    "source": "scraper",
+    "status": "FT",
+    "time": "19:30",
+    "updated_at": "2026-03-13T18:42:31Z",
+    "venue": "Mayobridge"
   },
   {
     "away": "St Mochai's GAC Darragh Cross",
@@ -150,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-13T06:54:02Z",
+    "updated_at": "2026-03-13T18:42:31Z",
     "venue": "Grange St Colmcille's"
   },
   {
@@ -164,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-13T06:54:02Z",
+    "updated_at": "2026-03-13T18:42:31Z",
     "venue": "TBC"
   },
   {
@@ -178,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -192,7 +206,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -206,7 +220,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -220,7 +234,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -234,7 +248,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2026-03-13T06:54:14Z",
+    "updated_at": "2026-03-13T18:42:36Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
