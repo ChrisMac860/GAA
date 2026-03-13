@@ -1,19 +1,5 @@
 [
   {
-    "away": "Burren GAC",
-    "competition": "2026 Ulster GAA Football Senior Club Playoffs - Cup Division 1 - Final",
-    "date": "2026-03-12",
-    "home": "Mayobridge",
-    "id": "prov-httpsulstergaaiefixtures-results-20260312-1930-2026-ulster-gaa-football-senior-club-playoffs-cup-division-1-final-mayobridge-burren-gac",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "mayobridge burren gac 2026 ulster gaa football senior club playoffs - cup division 1 - final mayobridge mayobridge burren gac 2026 ulster gaa football senior club playoffs - cup division 1 - final mayobridge",
-    "source": "scraper",
-    "status": "FT",
-    "time": "19:30",
-    "updated_at": "2026-03-12T18:54:18Z",
-    "venue": "Mayobridge"
-  },
-  {
     "away": "Owen Roe O`Neill's GAC, Leckpatrick",
     "competition": "2026 Ulster GAA Football Intermediate Club League Playoffs - Cup Division 1 - Quarter Final",
     "date": "2026-03-13",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-12T18:54:18Z",
+    "updated_at": "2026-03-13T06:54:02Z",
     "venue": "Desertmartin"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "16:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "17:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "Páirc Uí Rinn"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-12T18:54:18Z",
+    "updated_at": "2026-03-13T06:54:02Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-12T18:54:18Z",
+    "updated_at": "2026-03-13T06:54:02Z",
     "venue": "Greenlough"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-12T18:54:18Z",
+    "updated_at": "2026-03-13T06:54:02Z",
     "venue": "Liatroim"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -122,7 +108,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -164,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-12T18:54:18Z",
+    "updated_at": "2026-03-13T06:54:02Z",
     "venue": "Grange St Colmcille's"
   },
   {
@@ -178,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-12T18:54:18Z",
+    "updated_at": "2026-03-13T06:54:02Z",
     "venue": "TBC"
   },
   {
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "13:15",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -220,7 +206,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -234,7 +220,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "14:00",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -248,7 +234,7 @@
     "source": "scraper",
     "status": "scheduled",
     "time": "15:30",
-    "updated_at": "2026-03-12T18:54:31Z",
+    "updated_at": "2026-03-13T06:54:14Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   }
 ]
