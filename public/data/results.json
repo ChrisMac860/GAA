@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Greenlough"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Clan na Gael"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Páirc Sheáin Mhic Dhiarmada"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Ballymaguigan"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Pairc an Ghleanna"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Éire Óg GAC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Tullysaran"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Derrytresk"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "St. Patrick's Dromintee GAA"
   },
   {
@@ -136,22 +136,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "TBC"
-  },
-  {
-    "away": "Waterford",
-    "competition": "Allianz Football League Roinn 4 Round 5",
-    "date": "2026-03-01",
-    "home": "London",
-    "id": "prov-httpsmunstergaaiefixtures-results-20260301-1300-allianz-football-league-roinn-4-round-5-london-waterford",
-    "score": "3-16 \u0013 2-12",
-    "search_index": "london waterford allianz football league roinn 4 round 5 mcgovern park ruislip london waterford allianz football league roinn 4 round 5 mcgovern park ruislip",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-03-15T06:57:23Z",
-    "venue": "McGovern Park, Ruislip"
   },
   {
     "away": "Cork",
@@ -164,8 +150,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-03-15T06:57:23Z",
+    "updated_at": "2026-03-15T18:39:12Z",
     "venue": "Celtic Park"
+  },
+  {
+    "away": "Waterford",
+    "competition": "Allianz Football League Roinn 4 Round 5",
+    "date": "2026-03-01",
+    "home": "London",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260301-1300-allianz-football-league-roinn-4-round-5-london-waterford",
+    "score": "3-16 \u0013 2-13",
+    "search_index": "london waterford allianz football league roinn 4 round 5 mcgovern park ruislip london waterford allianz football league roinn 4 round 5 mcgovern park ruislip",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-03-15T18:39:12Z",
+    "venue": "McGovern Park, Ruislip"
   },
   {
     "away": "Monaghan",
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2026-03-15T06:57:23Z",
+    "updated_at": "2026-03-15T18:39:12Z",
     "venue": "Fitzgerald Stadium"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "TBC"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-15T06:57:23Z",
+    "updated_at": "2026-03-15T18:39:12Z",
     "venue": "Clonmel"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Belanaleck Art McMurroughs"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Belanaleck Art McMurroughs"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Ardara"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Éire Óg, Smithborough"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "TBC"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:45",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Mayobridge"
   },
   {
@@ -304,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Convoy"
   },
   {
@@ -318,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Craigbane"
   },
   {
@@ -332,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Desertmartin"
   },
   {
@@ -346,7 +346,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "People's Park"
   },
   {
@@ -360,7 +360,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Davitt Park"
   },
   {
@@ -374,7 +374,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -388,7 +388,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "TBC"
   },
   {
@@ -402,7 +402,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Brackaville"
   },
   {
@@ -416,22 +416,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Wolfe Tones Derrymacash"
-  },
-  {
-    "away": "Clan na Gael",
-    "competition": "2026 Ulster GAA Football Senior Club Playoffs - Cup Division 1 - Semi Final",
-    "date": "2026-03-08",
-    "home": "Mayobridge",
-    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-senior-club-playoffs-cup-division-1-semi-final-mayobridge-clan-na-gael",
-    "score": "0-15 \u0013 0-14",
-    "search_index": "mayobridge clan na gael 2026 ulster gaa football senior club playoffs - cup division 1 - semi final mayobridge mayobridge clan na gael 2026 ulster gaa football senior club playoffs - cup division 1 - semi final mayobridge",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
-    "venue": "Mayobridge"
   },
   {
     "away": "Pearse Og",
@@ -444,8 +430,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Clan na Gael",
+    "competition": "2026 Ulster GAA Football Senior Club Playoffs - Cup Division 1 - Semi Final",
+    "date": "2026-03-08",
+    "home": "Mayobridge",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-senior-club-playoffs-cup-division-1-semi-final-mayobridge-clan-na-gael",
+    "score": "0-15 \u0013 0-14",
+    "search_index": "mayobridge clan na gael 2026 ulster gaa football senior club playoffs - cup division 1 - semi final mayobridge mayobridge clan na gael 2026 ulster gaa football senior club playoffs - cup division 1 - semi final mayobridge",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-15T18:39:04Z",
+    "venue": "Mayobridge"
   },
   {
     "away": "Drumhowan",
@@ -458,7 +458,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Letterkenny"
   },
   {
@@ -472,8 +472,36 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Desertmartin"
+  },
+  {
+    "away": "Mayo",
+    "competition": "Allianz Football League Roinn 1 Round 6",
+    "date": "2026-03-14",
+    "home": "Kerry",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260314-1600-allianz-football-league-roinn-1-round-6-kerry-mayo",
+    "score": "2-29 \u0013 0-19",
+    "search_index": "kerry mayo allianz football league roinn 1 round 6 austin stack park kerry mayo allianz football league roinn 1 round 6 austin stack park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2026-03-15T18:39:12Z",
+    "venue": "Austin Stack Park"
+  },
+  {
+    "away": "Kildare",
+    "competition": "Allianz Football League Roinn 2 Round 6",
+    "date": "2026-03-14",
+    "home": "Cork",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260314-1700-allianz-football-league-roinn-2-round-6-cork-kildare",
+    "score": "1-31 \u0013 2-19",
+    "search_index": "cork kildare allianz football league roinn 2 round 6 pairc ui rinn cork kildare allianz football league roinn 2 round 6 pairc ui rinn",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2026-03-15T18:39:12Z",
+    "venue": "Páirc Uí Rinn"
   },
   {
     "away": "Naomh Mhuire Conmhaigh",
@@ -481,12 +509,12 @@
     "date": "2026-03-15",
     "home": "Stewartstown Harps",
     "id": "prov-httpsulstergaaiefixtures-results-20260315-1100-2026-ulster-gaa-football-junior-league-playoffs-cup-division-1-semi-final-stewartstown-har-naomh-mhuire-con",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-16 \u0013 1-6",
     "search_index": "stewartstown harps naomh mhuire conmhaigh 2026 ulster gaa football junior league playoffs - cup division 1 - semi final mullaghmoyle park stewartstown stewartstown harps saint mhuire conmhaigh 2026 ulster gaa football junior league playoffs - cup division 1 - semi final mullaghmoyle park stewartstown",
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -495,12 +523,12 @@
     "date": "2026-03-15",
     "home": "St Oliver Plunkett's GAC, Greenlough",
     "id": "prov-httpsulstergaaiefixtures-results-20260315-1200-2026-ulster-gaa-football-intermediate-club-league-playoffs-cup-division-1-quarter-final-3-st-oliver-plunke-aughnamullen",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-5 \u0013 1-4",
     "search_index": "st oliver plunkett s gac greenlough aughnamullen 2026 ulster gaa football intermediate club league playoffs - cup division 1 - quarter final 3 greenlough saint oliver plunkett s gac greenlough aughnamullen 2026 ulster gaa football intermediate club league playoffs - cup division 1 - quarter final 3 greenlough",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Greenlough"
   },
   {
@@ -509,12 +537,68 @@
     "date": "2026-03-15",
     "home": "Liatroim",
     "id": "prov-httpsulstergaaiefixtures-results-20260315-1200-2026-ulster-gaa-football-intermediate-club-league-playoffs-cup-division-1-quarter-final-2-liatroim-killinkere-clg",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-8 \u0013 4-10",
     "search_index": "liatroim killinkere clg 2026 ulster gaa football intermediate club league playoffs - cup division 1 - quarter final 2 liatroim liatroim killinkere clg 2026 ulster gaa football intermediate club league playoffs - cup division 1 - quarter final 2 liatroim",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-15T06:57:06Z",
+    "updated_at": "2026-03-15T18:39:04Z",
     "venue": "Liatroim"
+  },
+  {
+    "away": "Wexford",
+    "competition": "Allianz Football League Roinn 3 Round 6",
+    "date": "2026-03-15",
+    "home": "Clare",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260315-1300-allianz-football-league-roinn-3-round-6-clare-wexford",
+    "score": "2-17 \u0013 1-23",
+    "search_index": "clare wexford allianz football league roinn 3 round 6 zimmer biomet pairc chiosog ennis clare wexford allianz football league roinn 3 round 6 zimmer biomet pairc chiosog ennis",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-03-15T18:39:12Z",
+    "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
+  },
+  {
+    "away": "Antrim",
+    "competition": "Allianz Football League Roinn 4 Round 6",
+    "date": "2026-03-15",
+    "home": "Waterford",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260315-1300-allianz-football-league-roinn-4-round-6-waterford-antrim",
+    "score": "0-11 \u0013 4-18",
+    "search_index": "waterford antrim allianz football league roinn 4 round 6 cappoquin logistics fraher field dungarvan waterford antrim allianz football league roinn 4 round 6 cappoquin logistics fraher field dungarvan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-03-15T18:39:12Z",
+    "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
+  },
+  {
+    "away": "Limerick",
+    "competition": "Allianz Football League Roinn 3 Round 6",
+    "date": "2026-03-15",
+    "home": "Westmeath",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260315-1400-allianz-football-league-roinn-3-round-6-westmeath-limerick",
+    "score": "4-21 \u0013 3-8",
+    "search_index": "westmeath limerick allianz football league roinn 3 round 6 teg cusack park mullingar westmeath limerick allianz football league roinn 3 round 6 teg cusack park mullingar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-03-15T18:39:12Z",
+    "venue": "TEG Cusack Park, Mullingar"
+  },
+  {
+    "away": "Tipperary",
+    "competition": "Allianz Football League Roinn 4 Round 6",
+    "date": "2026-03-15",
+    "home": "Wicklow",
+    "id": "prov-httpsmunstergaaiefixtures-results-20260315-1400-allianz-football-league-roinn-4-round-6-wicklow-tipperary",
+    "score": "3-19 \u0013 0-14",
+    "search_index": "wicklow tipperary allianz football league roinn 4 round 6 echelon park aughrim wicklow tipperary allianz football league roinn 4 round 6 echelon park aughrim",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-03-15T18:39:12Z",
+    "venue": "Echelon Park, Aughrim"
   }
 ]
