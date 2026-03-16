@@ -7,18 +7,18 @@
     "slug": "2026-ulster-gaa-football-intermediate-club-league-playoffs-cup-division-1-semi-final"
   },
   {
-    "first_kickoff": "2026-03-22T12:00:00Z",
-    "match_count": 1,
-    "name": "2026 Ulster GAA Football Intermediate Club League Group E - Round 3",
-    "popularity": 160,
-    "slug": "2026-ulster-gaa-football-intermediate-club-league-group-e-round-3"
-  },
-  {
     "first_kickoff": "2026-03-30T12:00:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Intermediate Club League Group G - Round 2",
     "popularity": 160,
     "slug": "2026-ulster-gaa-football-intermediate-club-league-group-g-round-2"
+  },
+  {
+    "first_kickoff": "2026-03-22T11:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Junior League Playoffs - Cup Division 1 - Final",
+    "popularity": 150,
+    "slug": "2026-ulster-gaa-football-junior-league-playoffs-cup-division-1-final"
   },
   {
     "first_kickoff": "2026-03-30T12:00:00Z",
