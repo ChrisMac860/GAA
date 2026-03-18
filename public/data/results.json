@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Convoy"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Craigbane"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Desertmartin"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "People's Park"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Davitt Park"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Brackaville"
   },
   {
@@ -122,22 +122,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Wolfe Tones Derrymacash"
-  },
-  {
-    "away": "Pearse Og",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
-    "date": "2026-03-08",
-    "home": "Clones",
-    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-clones-pearse-og",
-    "score": "2-12 \u0013 2-13",
-    "search_index": "clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 st tiernach s park clones clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-18T07:02:10Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Clan na Gael",
@@ -150,8 +136,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Mayobridge"
+  },
+  {
+    "away": "Pearse Og",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
+    "date": "2026-03-08",
+    "home": "Clones",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-clones-pearse-og",
+    "score": "2-12 \u0013 2-13",
+    "search_index": "clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 st tiernach s park clones clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-18T18:59:18Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Drumhowan",
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Letterkenny"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Desertmartin"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-03-18T07:02:14Z",
+    "updated_at": "2026-03-18T18:59:20Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-03-18T07:02:23Z",
+    "updated_at": "2026-03-18T18:59:25Z",
     "venue": "Páirc Uí Rinn"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Greenlough"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-18T07:02:10Z",
+    "updated_at": "2026-03-18T18:59:18Z",
     "venue": "Liatroim"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-03-18T07:02:23Z",
+    "updated_at": "2026-03-18T18:59:25Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-03-18T07:02:23Z",
+    "updated_at": "2026-03-18T18:59:25Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-03-18T07:02:14Z",
+    "updated_at": "2026-03-18T18:59:20Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -304,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-18T07:02:14Z",
+    "updated_at": "2026-03-18T18:59:20Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -318,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-18T07:02:14Z",
+    "updated_at": "2026-03-18T18:59:20Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -332,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-18T07:02:23Z",
+    "updated_at": "2026-03-18T18:59:25Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -346,7 +346,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-18T07:02:23Z",
+    "updated_at": "2026-03-18T18:59:25Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -360,7 +360,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:45",
-    "updated_at": "2026-03-18T07:02:14Z",
+    "updated_at": "2026-03-18T18:59:20Z",
     "venue": "Páirc Grattan, Inniskeen"
   }
 ]
