@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Davitt Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Pairc Naomh Brid"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Brackaville"
   },
   {
@@ -66,22 +66,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Wolfe Tones Derrymacash"
-  },
-  {
-    "away": "Pearse Og",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
-    "date": "2026-03-08",
-    "home": "Clones",
-    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-clones-pearse-og",
-    "score": "2-12 \u0013 2-13",
-    "search_index": "clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 st tiernach s park clones clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-20T06:55:52Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Clan na Gael",
@@ -94,8 +80,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Mayobridge"
+  },
+  {
+    "away": "Pearse Og",
+    "competition": "2026 Ulster GAA Football Intermediate Club League Group C - Round 2",
+    "date": "2026-03-08",
+    "home": "Clones",
+    "id": "prov-httpsulstergaaiefixtures-results-20260308-1200-2026-ulster-gaa-football-intermediate-club-league-group-c-round-2-clones-pearse-og",
+    "score": "2-12 \u0013 2-13",
+    "search_index": "clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 st tiernach s park clones clones pearse og 2026 ulster gaa football intermediate club league group c - round 2 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-20T18:51:00Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Drumhowan",
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Letterkenny"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Desertmartin"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-03-20T06:55:56Z",
+    "updated_at": "2026-03-20T18:51:02Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-03-20T06:56:00Z",
+    "updated_at": "2026-03-20T18:51:07Z",
     "venue": "Páirc Uí Rinn"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Greenlough"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Liatroim"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-03-20T06:56:00Z",
+    "updated_at": "2026-03-20T18:51:07Z",
     "venue": "Zimmer Biomet Páirc Chíosóg, Ennis"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-03-20T06:56:00Z",
+    "updated_at": "2026-03-20T18:51:07Z",
     "venue": "Cappoquin Logistics Fraher Field, Dungarvan"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-03-20T06:55:56Z",
+    "updated_at": "2026-03-20T18:51:02Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -243,12 +243,12 @@
     "date": "2026-03-15",
     "home": "Leitrim",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260315-1400-allianz-football-league-roinn-4-round-6-leitrim-longford",
-    "score": "3-19 \u0013 1-13",
+    "score": "3-19 \u0013 1-15",
     "search_index": "leitrim longford allianz football league roinn 4 - round 6 heartland credit union pairc sean macdiarmada leitrim longford allianz football league roinn 4 - round 6 heartland credit union pairc sean macdiarmada",
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-20T06:55:56Z",
+    "updated_at": "2026-03-20T18:51:02Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-20T06:55:56Z",
+    "updated_at": "2026-03-20T18:51:02Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-20T06:56:00Z",
+    "updated_at": "2026-03-20T18:51:07Z",
     "venue": "TEG Cusack Park, Mullingar"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-03-20T06:56:00Z",
+    "updated_at": "2026-03-20T18:51:07Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -304,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:45",
-    "updated_at": "2026-03-20T06:55:56Z",
+    "updated_at": "2026-03-20T18:51:02Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -318,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-03-20T06:55:52Z",
+    "updated_at": "2026-03-20T18:51:00Z",
     "venue": "Mayobridge"
   }
 ]
