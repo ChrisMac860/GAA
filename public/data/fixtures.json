@@ -4,28 +4,14 @@
     "competition": "2026 Ulster GAA Football Intermediate Club League Playoffs - Cup Division 1 - Final",
     "date": "2026-03-28",
     "home": "St Oliver Plunkett's GAC, Greenlough",
-    "id": "prov-httpsulstergaaiefixtures-results-20260328-1200-2026-ulster-gaa-football-intermediate-club-league-playoffs-cup-division-1-final-st-oliver-plunke-desertmartin",
+    "id": "prov-httpsulstergaaiefixtures-results-20260328-1630-2026-ulster-gaa-football-intermediate-club-league-playoffs-cup-division-1-final-st-oliver-plunke-desertmartin",
     "score": "0-0 \u0013 0-0",
-    "search_index": "st oliver plunkett s gac greenlough desertmartin 2026 ulster gaa football intermediate club league playoffs - cup division 1 - final tbc saint oliver plunkett s gac greenlough desertmartin 2026 ulster gaa football intermediate club league playoffs - cup division 1 - final tbc",
+    "search_index": "st oliver plunkett s gac greenlough desertmartin 2026 ulster gaa football intermediate club league playoffs - cup division 1 - final greenlough saint oliver plunkett s gac greenlough desertmartin 2026 ulster gaa football intermediate club league playoffs - cup division 1 - final greenlough",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-23T07:10:42Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "Ballyhegan",
-    "competition": "2026 Ulster GAA Football Junior Club League Group C - Round 3",
-    "date": "2026-03-30",
-    "home": "Moneymore GAC",
-    "id": "prov-httpsulstergaaiefixtures-results-20260330-1200-2026-ulster-gaa-football-junior-club-league-group-c-round-3-moneymore-gac-ballyhegan",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "moneymore gac ballyhegan 2026 ulster gaa football junior club league group c - round 3 tbc moneymore gac ballyhegan 2026 ulster gaa football junior club league group c - round 3 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-23T07:10:42Z",
-    "venue": "TBC"
+    "time": "16:30",
+    "updated_at": "2026-03-23T18:55:04Z",
+    "venue": "Greenlough"
   },
   {
     "away": "Craigbane",
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-23T07:10:42Z",
+    "updated_at": "2026-03-23T18:55:04Z",
     "venue": "People's Park"
   }
 ]
