@@ -12,5 +12,19 @@
     "name": "2026 Ulster GAA Football Intermediate Club League Group G - Round 2",
     "popularity": 160,
     "slug": "2026-ulster-gaa-football-intermediate-club-league-group-g-round-2"
+  },
+  {
+    "first_kickoff": "2026-04-04T12:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 9 - 1",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-9-1"
+  },
+  {
+    "first_kickoff": "2026-04-04T12:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 6 - 1",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-6-1"
   }
 ]

@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-03-24T07:04:18Z",
+    "updated_at": "2026-03-24T19:03:08Z",
     "venue": "Greenlough"
   },
   {
@@ -24,7 +24,35 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-24T07:04:18Z",
+    "updated_at": "2026-03-24T19:03:08Z",
     "venue": "People's Park"
+  },
+  {
+    "away": "Longford",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
+    "date": "2026-04-04",
+    "home": "Leitrim",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-9-1-leitrim-longford",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-24T19:03:11Z",
+    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
+  },
+  {
+    "away": "Mayo",
+    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 1",
+    "date": "2026-04-04",
+    "home": "An Dún",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-6-1-an-dun-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "an dun mayo electric ireland celtic challenge - league group 6 - 1 ngdc abbotstown an dun mayo electric ireland celtic challenge - league group 6 - 1 ngdc abbotstown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-03-24T19:03:11Z",
+    "venue": "NGDC Abbotstown"
   }
 ]
