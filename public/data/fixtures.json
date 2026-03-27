@@ -10,22 +10,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-03-27T07:07:33Z",
+    "updated_at": "2026-03-27T18:56:02Z",
     "venue": "Greenlough"
-  },
-  {
-    "away": "Craigbane",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Group G - Round 2",
-    "date": "2026-03-30",
-    "home": "Tir na nÓg",
-    "id": "prov-httpsulstergaaiefixtures-results-20260330-1200-2026-ulster-gaa-football-intermediate-club-league-group-g-round-2-tir-na-nog-craigbane",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "tir na nog craigbane 2026 ulster gaa football intermediate club league group g - round 2 people s park tir na nog craigbane 2026 ulster gaa football intermediate club league group g - round 2 people s park",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-03-27T07:07:33Z",
-    "venue": "People's Park"
   },
   {
     "away": "Longford",
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-27T07:07:38Z",
+    "updated_at": "2026-03-27T18:56:05Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-27T07:07:38Z",
+    "updated_at": "2026-03-27T18:56:05Z",
     "venue": "NGDC Abbotstown"
   }
 ]
