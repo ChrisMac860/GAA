@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-03-27T18:56:02Z",
+    "updated_at": "2026-03-28T06:58:54Z",
     "venue": "Greenlough"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-27T18:56:05Z",
+    "updated_at": "2026-03-28T06:58:57Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,7 +38,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-27T18:56:05Z",
+    "updated_at": "2026-03-28T06:58:57Z",
     "venue": "NGDC Abbotstown"
+  },
+  {
+    "away": "Mayo",
+    "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
+    "date": "2026-04-11",
+    "home": "London",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1430-connacht-gaa-football-senior-championship-quarter-final-london-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "london mayo connacht gaa football senior championship - quarter-final mcgovern park ruislip london mayo connacht gaa football senior championship - quarter-final mcgovern park ruislip",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:30",
+    "updated_at": "2026-03-28T06:58:57Z",
+    "venue": "McGovern Park, Ruislip"
   }
 ]
