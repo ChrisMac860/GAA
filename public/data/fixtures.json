@@ -1,19 +1,5 @@
 [
   {
-    "away": "Desertmartin",
-    "competition": "2026 Ulster GAA Football Intermediate Club League Playoffs - Cup Division 1 - Final",
-    "date": "2026-03-28",
-    "home": "St Oliver Plunkett's GAC, Greenlough",
-    "id": "prov-httpsulstergaaiefixtures-results-20260328-1630-2026-ulster-gaa-football-intermediate-club-league-playoffs-cup-division-1-final-st-oliver-plunke-desertmartin",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "st oliver plunkett s gac greenlough desertmartin 2026 ulster gaa football intermediate club league playoffs - cup division 1 - final greenlough saint oliver plunkett s gac greenlough desertmartin 2026 ulster gaa football intermediate club league playoffs - cup division 1 - final greenlough",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:30",
-    "updated_at": "2026-03-28T18:40:41Z",
-    "venue": "Greenlough"
-  },
-  {
     "away": "Longford",
     "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
     "date": "2026-04-04",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-28T18:40:46Z",
+    "updated_at": "2026-03-29T07:03:50Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-03-28T18:40:46Z",
+    "updated_at": "2026-03-29T07:03:50Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -52,7 +38,35 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-03-28T18:40:46Z",
+    "updated_at": "2026-03-29T07:03:50Z",
     "venue": "McGovern Park, Ruislip"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "Connacht GAA Football Senior Championship - Cup Division 1 - Quarter-Final",
+    "date": "2026-04-12",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260412-1500-connacht-gaa-football-senior-championship-cup-division-1-quarter-final-sligo-leitrim",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "sligo leitrim connacht gaa football senior championship - cup division 1 - quarter-final markievicz park sligo sligo leitrim connacht gaa football senior championship - cup division 1 - quarter-final markievicz park sligo",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-03-29T07:03:50Z",
+    "venue": "Markievicz Park, Sligo"
+  },
+  {
+    "away": "Roscommon",
+    "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
+    "date": "2026-04-12",
+    "home": "New York",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260412-2000-connacht-gaa-football-senior-championship-quarter-final-new-york-roscommon",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "new york roscommon connacht gaa football senior championship - quarter-final gaelic park new york new york roscommon connacht gaa football senior championship - quarter-final gaelic park new york",
+    "source": "scraper",
+    "status": "FT",
+    "time": "20:00",
+    "updated_at": "2026-03-29T07:03:50Z",
+    "venue": "Gaelic Park, New York"
   }
 ]
