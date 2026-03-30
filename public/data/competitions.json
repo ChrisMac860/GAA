@@ -26,5 +26,12 @@
     "name": "Electric Ireland Celtic Challenge - League Group 6 - 1",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-league-group-6-1"
+  },
+  {
+    "first_kickoff": "2026-04-04T18:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 2 - 1",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-2-1"
   }
 ]
