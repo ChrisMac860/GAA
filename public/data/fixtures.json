@@ -1,17 +1,17 @@
 [
   {
-    "away": "Meath Gold",
-    "competition": "Electric Ireland Celtic Challenge - League Group 8 - 1",
+    "away": "Westmeath",
+    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 1",
     "date": "2026-04-04",
-    "home": "Sligo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-8-1-sligo-meath-gold",
+    "home": "Roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-6-1-roscommon-westmeath",
     "score": "0-0 \u0013 0-0",
-    "search_index": "sligo meath gold electric ireland celtic challenge - league group 8 - 1 summerhill college astro pitch sligo meath gold electric ireland celtic challenge - league group 8 - 1 summerhill college astro pitch",
+    "search_index": "roscommon westmeath electric ireland celtic challenge - league group 6 - 1 king moffatt dr hyde park roscommon westmeath electric ireland celtic challenge - league group 6 - 1 king moffatt dr hyde park",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-01T07:20:54Z",
-    "venue": "Summerhill College Astro Pitch"
+    "updated_at": "2026-04-01T19:01:54Z",
+    "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
     "away": "Longford",
@@ -24,8 +24,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-01T07:20:54Z",
+    "updated_at": "2026-04-01T19:01:54Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
+  },
+  {
+    "away": "Meath Gold",
+    "competition": "Electric Ireland Celtic Challenge - League Group 8 - 1",
+    "date": "2026-04-04",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-8-1-sligo-meath-gold",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "sligo meath gold electric ireland celtic challenge - league group 8 - 1 summerhill college astro pitch sligo meath gold electric ireland celtic challenge - league group 8 - 1 summerhill college astro pitch",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-01T19:01:54Z",
+    "venue": "Summerhill College Astro Pitch"
   },
   {
     "away": "Mayo",
@@ -38,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-01T07:20:54Z",
+    "updated_at": "2026-04-01T19:01:54Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -52,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-04-01T07:20:54Z",
+    "updated_at": "2026-04-01T19:01:54Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -66,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-01T07:20:54Z",
+    "updated_at": "2026-04-01T19:01:54Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -80,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-01T07:20:54Z",
+    "updated_at": "2026-04-01T19:01:54Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -94,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-01T07:20:54Z",
+    "updated_at": "2026-04-01T19:01:54Z",
     "venue": "Gaelic Park, New York"
   }
 ]
