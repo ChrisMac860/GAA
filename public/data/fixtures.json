@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-02T07:13:12Z",
+    "updated_at": "2026-04-02T18:56:56Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-02T07:13:12Z",
+    "updated_at": "2026-04-02T18:56:56Z",
     "venue": "Summerhill College Astro Pitch"
   },
   {
@@ -34,12 +34,12 @@
     "home": "Leitrim",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-9-1-leitrim-longford",
     "score": "0-0 \u0013 0-0",
-    "search_index": "leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada",
+    "search_index": "leitrim longford electric ireland celtic challenge - league group 9 - 1 annaduff gaa club leitrim longford electric ireland celtic challenge - league group 9 - 1 annaduff gaa club",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-02T07:13:12Z",
-    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
+    "updated_at": "2026-04-02T18:56:56Z",
+    "venue": "Annaduff GAA Club"
   },
   {
     "away": "Mayo",
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-02T07:13:12Z",
+    "updated_at": "2026-04-02T18:56:56Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-04-02T07:13:12Z",
+    "updated_at": "2026-04-02T18:56:56Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -80,21 +80,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-02T07:13:12Z",
+    "updated_at": "2026-04-02T18:56:56Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
     "away": "Leitrim",
-    "competition": "Connacht GAA Football Senior Championship - Cup Division 1 - Quarter-Final",
+    "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
     "date": "2026-04-12",
     "home": "Sligo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260412-1500-connacht-gaa-football-senior-championship-cup-division-1-quarter-final-sligo-leitrim",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260412-1500-connacht-gaa-football-senior-championship-quarter-final-sligo-leitrim",
     "score": "0-0 \u0013 0-0",
-    "search_index": "sligo leitrim connacht gaa football senior championship - cup division 1 - quarter-final markievicz park sligo sligo leitrim connacht gaa football senior championship - cup division 1 - quarter-final markievicz park sligo",
+    "search_index": "sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo",
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-02T07:13:12Z",
+    "updated_at": "2026-04-02T18:56:56Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-02T07:13:12Z",
+    "updated_at": "2026-04-02T18:56:56Z",
     "venue": "Gaelic Park, New York"
   }
 ]
