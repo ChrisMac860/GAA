@@ -10,22 +10,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-01T19:01:54Z",
+    "updated_at": "2026-04-02T07:13:12Z",
     "venue": "King & Moffatt Dr. Hyde Park"
-  },
-  {
-    "away": "Longford",
-    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
-    "date": "2026-04-04",
-    "home": "Leitrim",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-9-1-leitrim-longford",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-01T19:01:54Z",
-    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
     "away": "Meath Gold",
@@ -38,8 +24,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-01T19:01:54Z",
+    "updated_at": "2026-04-02T07:13:12Z",
     "venue": "Summerhill College Astro Pitch"
+  },
+  {
+    "away": "Longford",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
+    "date": "2026-04-04",
+    "home": "Leitrim",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-9-1-leitrim-longford",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada leitrim longford electric ireland celtic challenge - league group 9 - 1 heartland credit union pairc sean macdiarmada",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-02T07:13:12Z",
+    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
     "away": "Mayo",
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-01T19:01:54Z",
+    "updated_at": "2026-04-02T07:13:12Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-04-01T19:01:54Z",
+    "updated_at": "2026-04-02T07:13:12Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-01T19:01:54Z",
+    "updated_at": "2026-04-02T07:13:12Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-01T19:01:54Z",
+    "updated_at": "2026-04-02T07:13:12Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-01T19:01:54Z",
+    "updated_at": "2026-04-02T07:13:12Z",
     "venue": "Gaelic Park, New York"
   }
 ]
