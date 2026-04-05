@@ -5,33 +5,5 @@
     "name": "Connacht GAA Football Senior Championship - Quarter-Final",
     "popularity": 140,
     "slug": "connacht-gaa-football-senior-championship-quarter-final"
-  },
-  {
-    "first_kickoff": "2026-04-04T12:00:00Z",
-    "match_count": 2,
-    "name": "Electric Ireland Celtic Challenge - League Group 6 - 1",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-6-1"
-  },
-  {
-    "first_kickoff": "2026-04-04T12:00:00Z",
-    "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 9 - 1",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-9-1"
-  },
-  {
-    "first_kickoff": "2026-04-04T12:00:00Z",
-    "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 8 - 1",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-8-1"
-  },
-  {
-    "first_kickoff": "2026-04-04T18:00:00Z",
-    "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 2 - 1",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-2-1"
   }
 ]

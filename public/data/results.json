@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-04T18:41:57Z",
+    "updated_at": "2026-04-05T07:06:26Z",
     "venue": "Desertmartin"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-04T18:41:57Z",
+    "updated_at": "2026-04-05T07:06:26Z",
     "venue": "Mullaghmoyle Park, Stewartstown"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-04T18:41:57Z",
+    "updated_at": "2026-04-05T07:06:26Z",
     "venue": "Killinkere"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "Netwatch Cullen Park"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-04T18:42:15Z",
+    "updated_at": "2026-04-05T07:06:33Z",
     "venue": "FBD Semple Stadium, Thurles"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:15",
-    "updated_at": "2026-04-04T18:42:15Z",
+    "updated_at": "2026-04-05T07:06:33Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-04-04T18:42:15Z",
+    "updated_at": "2026-04-05T07:06:33Z",
     "venue": "Mick Neville Park Rathkeale"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "Pearse Stadium"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-04T18:42:15Z",
+    "updated_at": "2026-04-05T07:06:33Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -164,22 +164,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-04-04T18:41:57Z",
+    "updated_at": "2026-04-05T07:06:26Z",
     "venue": "Greenlough"
-  },
-  {
-    "away": "Longford",
-    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
-    "date": "2026-04-04",
-    "home": "Leitrim",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1200-electric-ireland-celtic-challenge-league-group-9-1-leitrim-longford",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "leitrim longford electric ireland celtic challenge - league group 9 - 1 annaduff gaa club leitrim longford electric ireland celtic challenge - league group 9 - 1 annaduff gaa club",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-04T18:42:01Z",
-    "venue": "Annaduff GAA Club"
   },
   {
     "away": "Westmeath",
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "Summerhill College Astro Pitch"
   },
   {
@@ -220,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -229,12 +215,12 @@
     "date": "2026-04-04",
     "home": "Galway",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260404-1800-electric-ireland-celtic-challenge-league-group-2-1-galway-wexford",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-11 \u0013 1-7",
     "search_index": "galway wexford electric ireland celtic challenge - league group 2 - 1 portlaoise - loetb c of excel galway wexford electric ireland celtic challenge - league group 2 - 1 portlaoise - loetb c of excel",
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-04-04T18:42:01Z",
+    "updated_at": "2026-04-05T07:06:28Z",
     "venue": "Portlaoise - LOETB C of Excel"
   }
 ]
