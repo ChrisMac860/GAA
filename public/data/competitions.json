@@ -5,5 +5,68 @@
     "name": "Connacht GAA Football Senior Championship - Quarter-Final",
     "popularity": 140,
     "slug": "connacht-gaa-football-senior-championship-quarter-final"
+  },
+  {
+    "first_kickoff": "2026-04-12T16:15:00Z",
+    "match_count": 1,
+    "name": "Ulster GAA Football Senior Championship - Round 1",
+    "popularity": 140,
+    "slug": "ulster-gaa-football-senior-championship-round-1"
+  },
+  {
+    "first_kickoff": "2026-04-18T17:00:00Z",
+    "match_count": 1,
+    "name": "Ulster GAA Football Senior Championship - Quarter-Final",
+    "popularity": 140,
+    "slug": "ulster-gaa-football-senior-championship-quarter-final"
+  },
+  {
+    "first_kickoff": "2026-04-11T12:00:00Z",
+    "match_count": 2,
+    "name": "Electric Ireland Celtic Challenge - League Group 8 - 2",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-8-2"
+  },
+  {
+    "first_kickoff": "2026-04-11T12:00:00Z",
+    "match_count": 2,
+    "name": "Electric Ireland Celtic Challenge - League Group 6 - 2",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-6-2"
+  },
+  {
+    "first_kickoff": "2026-04-12T12:00:00Z",
+    "match_count": 2,
+    "name": "Electric Ireland Celtic Challenge - League Group 9 - 2",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-9-2"
+  },
+  {
+    "first_kickoff": "2026-04-09T20:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 9 - 1",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-9-1"
+  },
+  {
+    "first_kickoff": "2026-04-11T12:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 5 - 2",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-5-2"
+  },
+  {
+    "first_kickoff": "2026-04-11T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Hibernia 2 - League Group 2 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-hibernia-2-league-group-2-1"
+  },
+  {
+    "first_kickoff": "2026-04-11T12:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 2 - 2",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-2-2"
   }
 ]
