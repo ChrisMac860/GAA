@@ -10,22 +10,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "Kingspan Breffni 3G Pitch"
-  },
-  {
-    "away": "Meath Green",
-    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 2",
-    "date": "2026-04-11",
-    "home": "Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-5-2-armagh-meath-green",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-07T19:03:22Z",
-    "venue": "Middletown"
   },
   {
     "away": "Sligo",
@@ -38,8 +24,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "Garvaghey"
+  },
+  {
+    "away": "Meath Green",
+    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 2",
+    "date": "2026-04-11",
+    "home": "Armagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-5-2-armagh-meath-green",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-08T07:20:02Z",
+    "venue": "Middletown"
   },
   {
     "away": "Limerick 5",
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "Fr Reilly Memorial Park"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-07T19:03:26Z",
+    "updated_at": "2026-04-08T07:20:06Z",
     "venue": "Páirc na nGael"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "Meath GAA Centre of Excellence Dunganny"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-07T19:03:26Z",
+    "updated_at": "2026-04-08T07:20:06Z",
     "venue": "Ballyvary Hurling Club"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-07T19:03:26Z",
+    "updated_at": "2026-04-08T07:20:06Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "Kingspan Breffni 3G Pitch"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:15",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "Keenan Park"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-07T19:03:26Z",
+    "updated_at": "2026-04-08T07:20:06Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-07T19:03:26Z",
+    "updated_at": "2026-04-08T07:20:06Z",
     "venue": "Gaelic Park, New York"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-07T19:03:22Z",
+    "updated_at": "2026-04-08T07:20:02Z",
     "venue": "Find Insurance Celtic Park, Derry"
   }
 ]
