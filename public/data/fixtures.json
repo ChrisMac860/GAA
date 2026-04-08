@@ -10,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Kingspan Breffni 3G Pitch"
+  },
+  {
+    "away": "Derry",
+    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 2",
+    "date": "2026-04-11",
+    "home": "Kildare Cadets",
+    "id": "prov-httpsulstergaaiefixtures-results-20260411-1130-electric-ireland-celtic-challenge-league-group-5-2-kildare-cadets-derry",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kildare cadets derry electric ireland celtic challenge - league group 5 - 2 corra choill park kildare cadets derry electric ireland celtic challenge - league group 5 - 2 corra choill park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "11:30",
+    "updated_at": "2026-04-08T19:16:09Z",
+    "venue": "Corra Choill Park"
   },
   {
     "away": "Sligo",
@@ -24,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Garvaghey"
   },
   {
@@ -38,8 +52,36 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Middletown"
+  },
+  {
+    "away": "Monaghan",
+    "competition": "Musco Lighting Hibernia 2 - League Group 2 - 1",
+    "date": "2026-04-11",
+    "home": "Chill Mhantain",
+    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-musco-lighting-hibernia-2-league-group-2-1-chill-mhantain-monaghan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "chill mhantain monaghan musco lighting hibernia 2 - league group 2 - 1 echelon park aughrim chill mhantain monaghan musco lighting hibernia 2 - league group 2 - 1 echelon park aughrim",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-08T19:16:09Z",
+    "venue": "Echelon Park, Aughrim"
+  },
+  {
+    "away": "Offaly",
+    "competition": "Electric Ireland Celtic Challenge - League Group 4 - 2",
+    "date": "2026-04-11",
+    "home": "Antrim",
+    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-4-2-antrim-offaly",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "antrim offaly electric ireland celtic challenge - league group 4 - 2 antrim gaa centre of excellence dunsilly antrim offaly electric ireland celtic challenge - league group 4 - 2 antrim gaa centre of excellence dunsilly",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-08T19:16:09Z",
+    "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
     "away": "Limerick 5",
@@ -52,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -66,8 +108,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Fr Reilly Memorial Park"
+  },
+  {
+    "away": "Dublin 3",
+    "competition": "Musco Lighting Hibernia Cup 1 - League Group 3 - 1",
+    "date": "2026-04-11",
+    "home": "Antrim Casement",
+    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-musco-lighting-hibernia-cup-1-league-group-3-1-antrim-casement-dublin-3",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "antrim casement dublin 3 musco lighting hibernia cup 1 - league group 3 - 1 glen rovers gac armoy antrim casement dublin 3 musco lighting hibernia cup 1 - league group 3 - 1 glen rovers gac armoy",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-08T19:16:09Z",
+    "venue": "Glen Rovers GAC Armoy"
   },
   {
     "away": "Galway",
@@ -80,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T07:20:06Z",
+    "updated_at": "2026-04-08T19:16:12Z",
     "venue": "Páirc na nGael"
   },
   {
@@ -94,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Meath GAA Centre of Excellence Dunganny"
   },
   {
@@ -108,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-08T07:20:06Z",
+    "updated_at": "2026-04-08T19:16:12Z",
     "venue": "Ballyvary Hurling Club"
   },
   {
@@ -122,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-08T07:20:06Z",
+    "updated_at": "2026-04-08T19:16:12Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -136,8 +192,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Kingspan Breffni 3G Pitch"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 2",
+    "date": "2026-04-12",
+    "home": "Louth",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260412-1200-electric-ireland-celtic-challenge-league-group-9-2-louth-leitrim",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "louth leitrim electric ireland celtic challenge - league group 9 - 2 darver pitch 1 louth leitrim electric ireland celtic challenge - league group 9 - 2 darver pitch 1",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-08T19:16:12Z",
+    "venue": "Darver Pitch 1"
   },
   {
     "away": "Fermanagh",
@@ -150,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:15",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Keenan Park"
   },
   {
@@ -164,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-08T07:20:06Z",
+    "updated_at": "2026-04-08T19:16:12Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -178,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -192,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-08T07:20:06Z",
+    "updated_at": "2026-04-08T19:16:12Z",
     "venue": "Gaelic Park, New York"
   },
   {
@@ -206,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-08T07:20:02Z",
+    "updated_at": "2026-04-08T19:16:09Z",
     "venue": "Find Insurance Celtic Park, Derry"
   }
 ]
