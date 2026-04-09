@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:47Z",
     "venue": "Greenlough"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:47Z",
     "venue": "Páirc an Chrócaigh"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:47Z",
     "venue": "Páirc an Chrócaigh"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:46Z",
     "venue": "Clonduff GAC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:46Z",
     "venue": "Find Insurance Owenbeg"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:46Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T19:16:12Z",
+    "updated_at": "2026-04-09T07:22:51Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T19:16:12Z",
+    "updated_at": "2026-04-09T07:22:51Z",
     "venue": "Summerhill College Astro Pitch"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:46Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:46Z",
     "venue": "Carndonagh GAA Club"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-04-08T19:16:12Z",
+    "updated_at": "2026-04-09T07:22:51Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -164,7 +164,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-08T19:16:09Z",
+    "updated_at": "2026-04-09T07:22:46Z",
     "venue": "VBC Cloghan, Castleblayney"
+  },
+  {
+    "away": "Louth",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
+    "date": "2026-04-09",
+    "home": "Cavan",
+    "id": "prov-httpsulstergaaiefixtures-results-20260409-2000-electric-ireland-celtic-challenge-league-group-9-1-cavan-louth",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cavan louth electric ireland celtic challenge - league group 9 - 1 kingspan breffni 3g pitch cavan louth electric ireland celtic challenge - league group 9 - 1 kingspan breffni 3g pitch",
+    "source": "scraper",
+    "status": "FT",
+    "time": "20:00",
+    "updated_at": "2026-04-09T07:22:46Z",
+    "venue": "Kingspan Breffni 3G Pitch"
   }
 ]
