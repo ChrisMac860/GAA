@@ -51,6 +51,13 @@
   {
     "first_kickoff": "2026-04-11T12:00:00Z",
     "match_count": 2,
+    "name": "Musco Lighting Hibernia Cup 1 - League Group 3 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-hibernia-cup-1-league-group-3-1"
+  },
+  {
+    "first_kickoff": "2026-04-11T12:00:00Z",
+    "match_count": 2,
     "name": "Electric Ireland Celtic Challenge - League Group 6 - 2",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-league-group-6-2"
@@ -61,13 +68,6 @@
     "name": "Electric Ireland Celtic Challenge - League Group 4 - 2",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-league-group-4-2"
-  },
-  {
-    "first_kickoff": "2026-04-11T12:00:00Z",
-    "match_count": 1,
-    "name": "Musco Lighting Hibernia Cup 1 - League Group 3 - 1",
-    "popularity": 30,
-    "slug": "musco-lighting-hibernia-cup-1-league-group-3-1"
   },
   {
     "first_kickoff": "2026-04-11T12:00:00Z",
