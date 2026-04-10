@@ -1,19 +1,5 @@
 [
   {
-    "away": "Louth",
-    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
-    "date": "2026-04-09",
-    "home": "Cavan",
-    "id": "prov-httpsulstergaaiefixtures-results-20260409-2000-electric-ireland-celtic-challenge-league-group-9-1-cavan-louth",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "cavan louth electric ireland celtic challenge - league group 9 - 1 kingspan breffni 3g pitch cavan louth electric ireland celtic challenge - league group 9 - 1 kingspan breffni 3g pitch",
-    "source": "scraper",
-    "status": "FT",
-    "time": "20:00",
-    "updated_at": "2026-04-09T19:06:48Z",
-    "venue": "Kingspan Breffni 3G Pitch"
-  },
-  {
     "away": "Sligo",
     "competition": "Electric Ireland Celtic Challenge - League Group 8 - 2",
     "date": "2026-04-11",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Garvaghey"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Middletown"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Fr Reilly Memorial Park"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Glen Rovers GAC Armoy"
   },
   {
@@ -122,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "Newcastle-West GAA Club"
   },
   {
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "Oran GAA Club"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "Páirc na nGael"
   },
   {
@@ -164,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Meath GAA Centre of Excellence Dunganny"
   },
   {
@@ -178,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Sallins"
   },
   {
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "Ballyvary Hurling Club"
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -220,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Kingspan Breffni 3G Pitch"
   },
   {
@@ -234,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "Darver Pitch 1"
   },
   {
@@ -248,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:15",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Keenan Park"
   },
   {
@@ -262,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -276,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -290,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-09T19:06:52Z",
+    "updated_at": "2026-04-10T07:28:04Z",
     "venue": "Gaelic Park, New York"
   },
   {
@@ -304,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-09T19:06:48Z",
+    "updated_at": "2026-04-10T07:28:01Z",
     "venue": "Find Insurance Celtic Park, Derry"
   }
 ]
