@@ -21,6 +21,13 @@
     "slug": "ulster-gaa-football-senior-championship-quarter-final"
   },
   {
+    "first_kickoff": "2026-04-25T15:30:00Z",
+    "match_count": 1,
+    "name": "Connacht GAA Football Senior Championship - Semi-Final",
+    "popularity": 140,
+    "slug": "connacht-gaa-football-senior-championship-semi-final"
+  },
+  {
     "first_kickoff": "2026-04-12T12:00:00Z",
     "match_count": 3,
     "name": "Electric Ireland Celtic Challenge - League Group 9 - 2",
@@ -63,18 +70,18 @@
     "slug": "electric-ireland-celtic-challenge-league-group-6-2"
   },
   {
+    "first_kickoff": "2026-04-25T12:00:00Z",
+    "match_count": 2,
+    "name": "Electric Ireland Celtic Challenge - League Group 6 - 3",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-6-3"
+  },
+  {
     "first_kickoff": "2026-04-11T12:00:00Z",
     "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - League Group 4 - 2",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-league-group-4-2"
-  },
-  {
-    "first_kickoff": "2026-04-11T12:00:00Z",
-    "match_count": 1,
-    "name": "Musco Lighting Hibernia Cup 1 - League Group 2 - 1",
-    "popularity": 30,
-    "slug": "musco-lighting-hibernia-cup-1-league-group-2-1"
   },
   {
     "first_kickoff": "2026-04-11T12:00:00Z",
@@ -86,8 +93,22 @@
   {
     "first_kickoff": "2026-04-11T12:00:00Z",
     "match_count": 1,
+    "name": "Musco Lighting Hibernia Cup 1 - League Group 2 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-hibernia-cup-1-league-group-2-1"
+  },
+  {
+    "first_kickoff": "2026-04-11T12:00:00Z",
+    "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - League Group 2 - 2",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-league-group-2-2"
+  },
+  {
+    "first_kickoff": "2026-04-25T12:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 8 - 3",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-8-3"
   }
 ]
