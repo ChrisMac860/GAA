@@ -1,5 +1,159 @@
 [
   {
+    "away": "Monaghan",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 2",
+    "date": "2026-03-29",
+    "home": "Cavan",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-9-2-cavan-monaghan",
+    "score": "4-5 – 7-20",
+    "search_index": "cavan monaghan electric ireland celtic challenge - league group 9 - 2 kingspan breffni 3g pitch cavan monaghan electric ireland celtic challenge - league group 9 - 2 kingspan breffni 3g pitch",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Kingspan Breffni 3G Pitch"
+  },
+  {
+    "away": "An Dún",
+    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 2",
+    "date": "2026-03-29",
+    "home": "Westmeath",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-6-2-westmeath-an-dun",
+    "score": "1-11 – 2-8",
+    "search_index": "westmeath an dun electric ireland celtic challenge - league group 6 - 2 fr reilly memorial park westmeath an dun electric ireland celtic challenge - league group 6 - 2 fr reilly memorial park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Fr Reilly Memorial Park"
+  },
+  {
+    "away": "Meath Green",
+    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 2",
+    "date": "2026-03-29",
+    "home": "Armagh",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-5-2-armagh-meath-green",
+    "score": "0-17 – 1-15",
+    "search_index": "armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Middletown"
+  },
+  {
+    "away": "Sligo",
+    "competition": "Electric Ireland Celtic Challenge - League Group 8 - 2",
+    "date": "2026-03-29",
+    "home": "Tyrone",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-8-2-tyrone-sligo",
+    "score": "1-12 – 1-4",
+    "search_index": "tyrone sligo electric ireland celtic challenge - league group 8 - 2 garvaghey tyrone sligo electric ireland celtic challenge - league group 8 - 2 garvaghey",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Garvaghey"
+  },
+  {
+    "away": "Fermanagh",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
+    "date": "2026-03-29",
+    "home": "Monaghan",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-9-1-monaghan-fermanagh",
+    "score": "2-6 – 2-11",
+    "search_index": "monaghan fermanagh electric ireland celtic challenge - league group 9 - 1 vbc cloghan castleblayney monaghan fermanagh electric ireland celtic challenge - league group 9 - 1 vbc cloghan castleblayney",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "VBC Cloghan, Castleblayney"
+  },
+  {
+    "away": "Wicklow",
+    "competition": "Electric Ireland Celtic Challenge - League Group 7 - 1",
+    "date": "2026-03-29",
+    "home": "Down",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-7-1-down-wicklow",
+    "score": "1-8 – 3-4",
+    "search_index": "down wicklow electric ireland celtic challenge - league group 7 - 1 clonduff gac down wicklow electric ireland celtic challenge - league group 7 - 1 clonduff gac",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Clonduff GAC"
+  },
+  {
+    "away": "Armagh",
+    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 1",
+    "date": "2026-03-29",
+    "home": "Derry",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-5-1-derry-armagh",
+    "score": "1-10 – 0-4",
+    "search_index": "derry armagh electric ireland celtic challenge - league group 5 - 1 find insurance owenbeg derry armagh electric ireland celtic challenge - league group 5 - 1 find insurance owenbeg",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Find Insurance Owenbeg"
+  },
+  {
+    "away": "Mayo",
+    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 1",
+    "date": "2026-03-29",
+    "home": "An Dún",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1200-electric-ireland-celtic-challenge-league-group-6-1-an-dun-mayo",
+    "score": "3-12 – 2-10",
+    "search_index": "an dun mayo electric ireland celtic challenge - league group 6 - 1 ngdc abbotstown an dun mayo electric ireland celtic challenge - league group 6 - 1 ngdc abbotstown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "NGDC Abbotstown"
+  },
+  {
+    "away": "Fermanagh",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 2",
+    "date": "2026-03-29",
+    "home": "Longford",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1215-electric-ireland-celtic-challenge-league-group-9-2-longford-fermanagh",
+    "score": "3-11 – 3-10",
+    "search_index": "longford fermanagh electric ireland celtic challenge - league group 9 - 2 keenan park longford fermanagh electric ireland celtic challenge - league group 9 - 2 keenan park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:15",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Keenan Park"
+  },
+  {
+    "away": "Antrim",
+    "competition": "Electric Ireland Celtic Challenge - League Group 4 - 1",
+    "date": "2026-03-29",
+    "home": "Kerry",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1400-electric-ireland-celtic-challenge-league-group-4-1-kerry-antrim",
+    "score": "1-6 – 5-21",
+    "search_index": "kerry antrim electric ireland celtic challenge - league group 4 - 1 ngdc abbotstown kerry antrim electric ireland celtic challenge - league group 4 - 1 ngdc abbotstown",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "NGDC Abbotstown"
+  },
+  {
+    "away": "Tyrone",
+    "competition": "Electric Ireland Celtic Challenge - League Group 8 - 1",
+    "date": "2026-03-29",
+    "home": "Donegal",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-1430-electric-ireland-celtic-challenge-league-group-8-1-donegal-tyrone",
+    "score": "1-12 – 1-6",
+    "search_index": "donegal tyrone electric ireland celtic challenge - league group 8 - 1 carndonagh gaa club donegal tyrone electric ireland celtic challenge - league group 8 - 1 carndonagh gaa club",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:30",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Carndonagh GAA Club"
+  },
+  {
     "away": "Donegal",
     "competition": "Allianz Football League Roinn 1 - Final",
     "date": "2026-03-29",
@@ -10,8 +164,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Páirc an Chrócaigh"
+  },
+  {
+    "away": "Louth",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
+    "date": "2026-03-29",
+    "home": "Cavan",
+    "id": "provres-httpsulstergaaiefixtures-results-20260329-2000-electric-ireland-celtic-challenge-league-group-9-1-cavan-louth",
+    "score": "4-6 – 1-5",
+    "search_index": "cavan louth electric ireland celtic challenge - league group 9 - 1 kingspan breffni 3g pitch cavan louth electric ireland celtic challenge - league group 9 - 1 kingspan breffni 3g pitch",
+    "source": "scraper",
+    "status": "FT",
+    "time": "20:00",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "Kingspan Breffni 3G Pitch"
   },
   {
     "away": "Wicklow",
@@ -24,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Clonduff GAC"
   },
   {
@@ -38,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Find Insurance Owenbeg"
   },
   {
@@ -52,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -66,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -80,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Summerhill College Astro Pitch"
   },
   {
@@ -94,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -108,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Carndonagh GAA Club"
   },
   {
@@ -122,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -136,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "VBC Cloghan, Castleblayney"
   },
   {
@@ -150,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Kingspan Breffni 3G Pitch"
   },
   {
@@ -164,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Fr Reilly Memorial Park"
   },
   {
@@ -178,7 +346,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Middletown"
   },
   {
@@ -192,7 +360,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Garvaghey"
   },
   {
@@ -206,7 +374,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -215,12 +383,12 @@
     "date": "2026-04-12",
     "home": "Cavan",
     "id": "prov-httpsulstergaaiefixtures-results-20260412-1200-electric-ireland-celtic-challenge-league-group-9-2-cavan-monaghan",
-    "score": "0-0 \u0013 0-0",
+    "score": "4-5 \u0013 7-20",
     "search_index": "cavan monaghan electric ireland celtic challenge - league group 9 - 2 kingspan breffni 3g pitch cavan monaghan electric ireland celtic challenge - league group 9 - 2 kingspan breffni 3g pitch",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Kingspan Breffni 3G Pitch"
   },
   {
@@ -234,7 +402,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Protection & Prosperity Louth GAA Training Centre, Darver"
   },
   {
@@ -243,12 +411,12 @@
     "date": "2026-04-12",
     "home": "Longford",
     "id": "prov-httpsulstergaaiefixtures-results-20260412-1215-electric-ireland-celtic-challenge-league-group-9-2-longford-fermanagh",
-    "score": "0-0 \u0013 0-0",
+    "score": "3-11 \u0013 3-10",
     "search_index": "longford fermanagh electric ireland celtic challenge - league group 9 - 2 keenan park longford fermanagh electric ireland celtic challenge - league group 9 - 2 keenan park",
     "source": "scraper",
     "status": "FT",
     "time": "12:15",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Keenan Park"
   },
   {
@@ -257,12 +425,12 @@
     "date": "2026-04-12",
     "home": "Sligo",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260412-1500-connacht-gaa-football-senior-championship-quarter-final-sligo-leitrim",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-20 \u0013 3-15",
     "search_index": "sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo",
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -276,7 +444,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -290,7 +458,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Gaelic Park, New York"
   }
 ]

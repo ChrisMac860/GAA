@@ -5,12 +5,12 @@
     "date": "2026-04-12",
     "home": "Cavan",
     "id": "prov-httpsulstergaaiefixtures-results-20260412-1200-electric-ireland-celtic-challenge-league-group-9-2-cavan-monaghan",
-    "score": "0-0 \u0013 0-0",
+    "score": "4-5 \u0013 7-20",
     "search_index": "cavan monaghan electric ireland celtic challenge - league group 9 - 2 kingspan breffni 3g pitch cavan monaghan electric ireland celtic challenge - league group 9 - 2 kingspan breffni 3g pitch",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Kingspan Breffni 3G Pitch"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Protection & Prosperity Louth GAA Training Centre, Darver"
   },
   {
@@ -33,12 +33,12 @@
     "date": "2026-04-12",
     "home": "Longford",
     "id": "prov-httpsulstergaaiefixtures-results-20260412-1215-electric-ireland-celtic-challenge-league-group-9-2-longford-fermanagh",
-    "score": "0-0 \u0013 0-0",
+    "score": "3-11 \u0013 3-10",
     "search_index": "longford fermanagh electric ireland celtic challenge - league group 9 - 2 keenan park longford fermanagh electric ireland celtic challenge - league group 9 - 2 keenan park",
     "source": "scraper",
     "status": "FT",
     "time": "12:15",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Keenan Park"
   },
   {
@@ -47,12 +47,12 @@
     "date": "2026-04-12",
     "home": "Sligo",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260412-1500-connacht-gaa-football-senior-championship-quarter-final-sligo-leitrim",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-20 \u0013 3-15",
     "search_index": "sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo",
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "Gaelic Park, New York"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "TBC"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "TBC"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "TBC"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "TBC"
   },
   {
@@ -178,21 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "Down",
-    "competition": "Electric Ireland Celtic Challenge - League Group 7 - 3",
-    "date": "2026-04-25",
-    "home": "Kildare Lillywhites",
-    "id": "prov-httpsulstergaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-7-3-kildare-lillywhi-down",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "kildare lillywhites down electric ireland celtic challenge - league group 7 - 3 tbc kildare lillywhites down electric ireland celtic challenge - league group 7 - 3 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "TBC"
   },
   {
@@ -206,7 +192,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:21Z",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Down",
+    "competition": "Electric Ireland Celtic Challenge - League Group 7 - 3",
+    "date": "2026-04-25",
+    "home": "Kildare Lillywhites",
+    "id": "prov-httpsulstergaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-7-3-kildare-lillywhi-down",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kildare lillywhites down electric ireland celtic challenge - league group 7 - 3 tbc kildare lillywhites down electric ireland celtic challenge - league group 7 - 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "TBC"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "TBC"
   },
   {
@@ -234,7 +234,35 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Armagh / Tyrone",
+    "competition": "Ulster GAA Football Senior Championship - Quarter-Final",
+    "date": "2026-04-25",
+    "home": "Fermanagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20260425-1730-ulster-gaa-football-senior-championship-quarter-final-fermanagh-armagh-tyrone",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fermanagh armagh tyrone ulster gaa football senior championship - quarter-final tbc fermanagh armagh tyrone ulster gaa football senior championship - quarter-final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:30",
+    "updated_at": "2026-04-12T18:50:49Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Cavan",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 3",
+    "date": "2026-04-26",
+    "home": "Longford",
+    "id": "prov-httpsulstergaaiefixtures-results-20260426-1200-electric-ireland-celtic-challenge-league-group-9-3-longford-cavan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "longford cavan electric ireland celtic challenge - league group 9 - 3 tbc longford cavan electric ireland celtic challenge - league group 9 - 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T18:50:49Z",
     "venue": "TBC"
   },
   {
@@ -248,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-12T07:14:25Z",
+    "updated_at": "2026-04-12T18:50:52Z",
     "venue": "TBC"
   }
 ]
