@@ -1,216 +1,6 @@
 [
   {
     "away": "Monaghan",
-    "competition": "Musco Lighting Hibernia 2 - League Group 2 - 1",
-    "date": "2026-04-11",
-    "home": "Chill Mhantain",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-musco-lighting-hibernia-2-league-group-2-1-chill-mhantain-monaghan",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "chill mhantain monaghan musco lighting hibernia 2 - league group 2 - 1 echelon park aughrim chill mhantain monaghan musco lighting hibernia 2 - league group 2 - 1 echelon park aughrim",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Echelon Park, Aughrim"
-  },
-  {
-    "away": "Offaly",
-    "competition": "Electric Ireland Celtic Challenge - League Group 4 - 2",
-    "date": "2026-04-11",
-    "home": "Antrim",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-4-2-antrim-offaly",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "antrim offaly electric ireland celtic challenge - league group 4 - 2 antrim gaa centre of excellence dunsilly antrim offaly electric ireland celtic challenge - league group 4 - 2 antrim gaa centre of excellence dunsilly",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Antrim GAA Centre of Excellence, Dunsilly"
-  },
-  {
-    "away": "Derry",
-    "competition": "Musco Lighting Hibernia Cup 1 - League Group 3 - 1",
-    "date": "2026-04-11",
-    "home": "Donegal",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-musco-lighting-hibernia-cup-1-league-group-3-1-donegal-derry",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "donegal derry musco lighting hibernia cup 1 - league group 3 - 1 donegal gaa centre of excellence convoy donegal derry musco lighting hibernia cup 1 - league group 3 - 1 donegal gaa centre of excellence convoy",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Donegal GAA centre of Excellence Convoy"
-  },
-  {
-    "away": "Limerick 5",
-    "competition": "Musco Lighting Hibernia 2 - League Group 2 - 1",
-    "date": "2026-04-11",
-    "home": "Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-musco-lighting-hibernia-2-league-group-2-1-armagh-limerick-5",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "armagh limerick 5 musco lighting hibernia 2 - league group 2 - 1 ngdc abbotstown armagh limerick 5 musco lighting hibernia 2 - league group 2 - 1 ngdc abbotstown",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "NGDC Abbotstown"
-  },
-  {
-    "away": "Dublin 3",
-    "competition": "Musco Lighting Hibernia Cup 1 - League Group 3 - 1",
-    "date": "2026-04-11",
-    "home": "Antrim Casement",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-musco-lighting-hibernia-cup-1-league-group-3-1-antrim-casement-dublin-3",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "antrim casement dublin 3 musco lighting hibernia cup 1 - league group 3 - 1 glen rovers gac armoy antrim casement dublin 3 musco lighting hibernia cup 1 - league group 3 - 1 glen rovers gac armoy",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Glen Rovers GAC Armoy"
-  },
-  {
-    "away": "An Dún",
-    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 2",
-    "date": "2026-04-11",
-    "home": "Westmeath",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-6-2-westmeath-an-dun",
-    "score": "1-11 \u0013 2-8",
-    "search_index": "westmeath an dun electric ireland celtic challenge - league group 6 - 2 fr reilly memorial park westmeath an dun electric ireland celtic challenge - league group 6 - 2 fr reilly memorial park",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Fr Reilly Memorial Park"
-  },
-  {
-    "away": "Meath Green",
-    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 2",
-    "date": "2026-04-11",
-    "home": "Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-5-2-armagh-meath-green",
-    "score": "0-17 \u0013 1-15",
-    "search_index": "armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown armagh meath green electric ireland celtic challenge - league group 5 - 2 middletown",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Middletown"
-  },
-  {
-    "away": "Sligo",
-    "competition": "Electric Ireland Celtic Challenge - League Group 8 - 2",
-    "date": "2026-04-11",
-    "home": "Tyrone",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-8-2-tyrone-sligo",
-    "score": "1-12 \u0013 1-4",
-    "search_index": "tyrone sligo electric ireland celtic challenge - league group 8 - 2 garvaghey tyrone sligo electric ireland celtic challenge - league group 8 - 2 garvaghey",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Garvaghey"
-  },
-  {
-    "away": "Sligo",
-    "competition": "Musco Lighting Hibernia 2 - League Group 1 - 1",
-    "date": "2026-04-11",
-    "home": "Roscommon",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1200-musco-lighting-hibernia-2-league-group-1-1-roscommon-sligo",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "roscommon sligo musco lighting hibernia 2 - league group 1 - 1 oran gaa club roscommon sligo musco lighting hibernia 2 - league group 1 - 1 oran gaa club",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:34Z",
-    "venue": "Oran GAA Club"
-  },
-  {
-    "away": "Mayo Red",
-    "competition": "Musco Lighting Hibernia Cup 1 - League Group 2 - 1",
-    "date": "2026-04-11",
-    "home": "Limerick 4",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1200-musco-lighting-hibernia-cup-1-league-group-2-1-limerick-4-mayo-red",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "limerick 4 mayo red musco lighting hibernia cup 1 - league group 2 - 1 newcastle-west gaa club limerick 4 mayo red musco lighting hibernia cup 1 - league group 2 - 1 newcastle-west gaa club",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:34Z",
-    "venue": "Newcastle-West GAA Club"
-  },
-  {
-    "away": "Galway",
-    "competition": "Electric Ireland Celtic Challenge - League Group 2 - 2",
-    "date": "2026-04-11",
-    "home": "Limerick",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-2-2-limerick-galway",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "limerick galway electric ireland celtic challenge - league group 2 - 2 pairc na ngael limerick galway electric ireland celtic challenge - league group 2 - 2 pairc na ngael",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:34Z",
-    "venue": "Páirc na nGael"
-  },
-  {
-    "away": "Derry",
-    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 2",
-    "date": "2026-04-11",
-    "home": "Kildare Cadets",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1300-electric-ireland-celtic-challenge-league-group-5-2-kildare-cadets-derry",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "kildare cadets derry electric ireland celtic challenge - league group 5 - 2 sallins kildare cadets derry electric ireland celtic challenge - league group 5 - 2 sallins",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Sallins"
-  },
-  {
-    "away": "Donegal",
-    "competition": "Electric Ireland Celtic Challenge - League Group 8 - 2",
-    "date": "2026-04-11",
-    "home": "Meath Gold",
-    "id": "prov-httpsulstergaaiefixtures-results-20260411-1300-electric-ireland-celtic-challenge-league-group-8-2-meath-gold-donegal",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "meath gold donegal electric ireland celtic challenge - league group 8 - 2 meath gaa centre of excellence dunganny meath gold donegal electric ireland celtic challenge - league group 8 - 2 meath gaa centre of excellence dunganny",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-04-11T18:44:31Z",
-    "venue": "Meath GAA Centre of Excellence Dunganny"
-  },
-  {
-    "away": "Roscommon",
-    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 2",
-    "date": "2026-04-11",
-    "home": "Mayo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1300-electric-ireland-celtic-challenge-league-group-6-2-mayo-roscommon",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "mayo roscommon electric ireland celtic challenge - league group 6 - 2 ballyvary hurling club mayo roscommon electric ireland celtic challenge - league group 6 - 2 ballyvary hurling club",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:00",
-    "updated_at": "2026-04-11T18:44:34Z",
-    "venue": "Ballyvary Hurling Club"
-  },
-  {
-    "away": "Mayo",
-    "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
-    "date": "2026-04-11",
-    "home": "London",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1430-connacht-gaa-football-senior-championship-quarter-final-london-mayo",
-    "score": "1-15 \u0013 0-31",
-    "search_index": "london mayo connacht gaa football senior championship - quarter-final mcgovern park ruislip london mayo connacht gaa football senior championship - quarter-final mcgovern park ruislip",
-    "source": "scraper",
-    "status": "FT",
-    "time": "14:30",
-    "updated_at": "2026-04-11T18:44:34Z",
-    "venue": "McGovern Park, Ruislip"
-  },
-  {
-    "away": "Monaghan",
     "competition": "Electric Ireland Celtic Challenge - League Group 9 - 2",
     "date": "2026-04-12",
     "home": "Cavan",
@@ -220,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "Kingspan Breffni 3G Pitch"
   },
   {
@@ -234,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-11T18:44:34Z",
+    "updated_at": "2026-04-12T07:14:25Z",
     "venue": "Protection & Prosperity Louth GAA Training Centre, Darver"
   },
   {
@@ -248,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:15",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "Keenan Park"
   },
   {
@@ -262,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-11T18:44:34Z",
+    "updated_at": "2026-04-12T07:14:25Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -276,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -290,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-11T18:44:34Z",
+    "updated_at": "2026-04-12T07:14:25Z",
     "venue": "Gaelic Park, New York"
   },
   {
@@ -304,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -318,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -332,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "TBC"
   },
   {
@@ -346,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "TBC"
   },
   {
@@ -360,7 +150,63 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-11T18:44:31Z",
+    "updated_at": "2026-04-12T07:14:21Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Roscommon",
+    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 3",
+    "date": "2026-04-25",
+    "home": "An Dún",
+    "id": "prov-httpsulstergaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-6-3-an-dun-roscommon",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "an dun roscommon electric ireland celtic challenge - league group 6 - 3 tbc an dun roscommon electric ireland celtic challenge - league group 6 - 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T07:14:21Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Meath Green",
+    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 3",
+    "date": "2026-04-25",
+    "home": "Derry",
+    "id": "prov-httpsulstergaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-5-3-derry-meath-green",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "derry meath green electric ireland celtic challenge - league group 5 - 3 tbc derry meath green electric ireland celtic challenge - league group 5 - 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T07:14:21Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Down",
+    "competition": "Electric Ireland Celtic Challenge - League Group 7 - 3",
+    "date": "2026-04-25",
+    "home": "Kildare Lillywhites",
+    "id": "prov-httpsulstergaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-7-3-kildare-lillywhi-down",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kildare lillywhites down electric ireland celtic challenge - league group 7 - 3 tbc kildare lillywhites down electric ireland celtic challenge - league group 7 - 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T07:14:21Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Kildare Cadets",
+    "competition": "Electric Ireland Celtic Challenge - League Group 5 - 3",
+    "date": "2026-04-25",
+    "home": "Armagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-5-3-armagh-kildare-cadets",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "armagh kildare cadets electric ireland celtic challenge - league group 5 - 3 tbc armagh kildare cadets electric ireland celtic challenge - league group 5 - 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T07:14:21Z",
     "venue": "TBC"
   },
   {
@@ -374,21 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-11T18:44:34Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "Roscommon",
-    "competition": "Electric Ireland Celtic Challenge - League Group 6 - 3",
-    "date": "2026-04-25",
-    "home": "An Dún",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-6-3-an-dun-roscommon",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "an dun roscommon electric ireland celtic challenge - league group 6 - 3 tbc an dun roscommon electric ireland celtic challenge - league group 6 - 3 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-11T18:44:34Z",
+    "updated_at": "2026-04-12T07:14:25Z",
     "venue": "TBC"
   },
   {
@@ -402,7 +234,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-11T18:44:34Z",
+    "updated_at": "2026-04-12T07:14:25Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 3",
+    "date": "2026-04-26",
+    "home": "Fermanagh",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260426-1200-electric-ireland-celtic-challenge-league-group-9-3-fermanagh-leitrim",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 tbc fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-12T07:14:25Z",
     "venue": "TBC"
   }
 ]
