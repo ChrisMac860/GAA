@@ -1,7 +1,7 @@
 [
   {
     "first_kickoff": "2026-04-18T17:00:00Z",
-    "match_count": 3,
+    "match_count": 4,
     "name": "Ulster GAA Football Senior Championship - Quarter-Final",
     "popularity": 140,
     "slug": "ulster-gaa-football-senior-championship-quarter-final"
@@ -14,27 +14,6 @@
     "slug": "connacht-gaa-football-senior-championship-semi-final"
   },
   {
-    "first_kickoff": "2026-04-26T12:00:00Z",
-    "match_count": 3,
-    "name": "Electric Ireland Celtic Challenge - League Group 9 - 3",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-9-3"
-  },
-  {
-    "first_kickoff": "2026-04-25T12:00:00Z",
-    "match_count": 2,
-    "name": "Electric Ireland Celtic Challenge - League Group 8 - 3",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-8-3"
-  },
-  {
-    "first_kickoff": "2026-04-25T12:00:00Z",
-    "match_count": 2,
-    "name": "Electric Ireland Celtic Challenge - League Group 5 - 3",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-5-3"
-  },
-  {
     "first_kickoff": "2026-04-25T12:00:00Z",
     "match_count": 2,
     "name": "Electric Ireland Celtic Challenge - League Group 6 - 3",
@@ -44,22 +23,50 @@
   {
     "first_kickoff": "2026-04-18T12:00:00Z",
     "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 4 - 2",
+    "name": "Musco Lighting Fr Manning Cup - League Group 1 - 1",
     "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-4-2"
+    "slug": "musco-lighting-fr-manning-cup-league-group-1-1"
+  },
+  {
+    "first_kickoff": "2026-04-18T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Tedd Webb Cup - League Group 1 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-tedd-webb-cup-league-group-1-1"
+  },
+  {
+    "first_kickoff": "2026-04-18T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Fr Manning Cup - League Group 2 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-fr-manning-cup-league-group-2-1"
+  },
+  {
+    "first_kickoff": "2026-04-18T12:30:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Adam Mangan Kilclonfert Cup - League Group 2 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-adam-mangan-kilclonfert-cup-league-group-2-1"
+  },
+  {
+    "first_kickoff": "2026-04-18T12:30:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Tedd Webb Cup - League Group 2 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-tedd-webb-cup-league-group-2-1"
   },
   {
     "first_kickoff": "2026-04-25T12:00:00Z",
     "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 4 - 3",
+    "name": "Electric Ireland Celtic Challenge - League Group 8 - 3",
     "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-4-3"
+    "slug": "electric-ireland-celtic-challenge-league-group-8-3"
   },
   {
-    "first_kickoff": "2026-04-25T12:00:00Z",
+    "first_kickoff": "2026-04-26T12:00:00Z",
     "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 7 - 3",
+    "name": "Electric Ireland Celtic Challenge - League Group 9 - 3",
     "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-7-3"
+    "slug": "electric-ireland-celtic-challenge-league-group-9-3"
   }
 ]
