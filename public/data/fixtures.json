@@ -1,17 +1,17 @@
 [
   {
-    "away": "Laois",
+    "away": "Galway",
     "competition": "Musco Lighting Tedd Webb Cup - League Group 1 - 1",
     "date": "2026-04-18",
-    "home": "Galway",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1200-musco-lighting-tedd-webb-cup-league-group-1-1-galway-laois",
+    "home": "Laois",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1030-musco-lighting-tedd-webb-cup-league-group-1-1-laois-galway",
     "score": "0-0 \u0013 0-0",
-    "search_index": "galway laois musco lighting tedd webb cup - league group 1 - 1 loughgeorge galway laois musco lighting tedd webb cup - league group 1 - 1 loughgeorge",
+    "search_index": "laois galway musco lighting tedd webb cup - league group 1 - 1 portlaoise - loetb c of excel laois galway musco lighting tedd webb cup - league group 1 - 1 portlaoise - loetb c of excel",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-15T07:46:02Z",
-    "venue": "Loughgeorge"
+    "time": "10:30",
+    "updated_at": "2026-04-15T19:17:59Z",
+    "venue": "Portlaoise - LOETB C of Excel"
   },
   {
     "away": "Cork Red",
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "Clann Na NGael GAA Club"
   },
   {
@@ -38,8 +38,50 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "St Marys GAA Cloone"
+  },
+  {
+    "away": "Cork White",
+    "competition": "Musco Lighting Tedd Webb Cup - League Group 2 - 1",
+    "date": "2026-04-18",
+    "home": "Mayo Red",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1200-musco-lighting-tedd-webb-cup-league-group-2-1-mayo-red-cork-white",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "mayo red cork white musco lighting tedd webb cup - league group 2 - 1 athlone gaa mayo red cork white musco lighting tedd webb cup - league group 2 - 1 athlone gaa",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-15T19:17:59Z",
+    "venue": "Athlone GAA"
+  },
+  {
+    "away": "Mayo Green",
+    "competition": "Musco Lighting Buncrana Cup - League Group 1 - 1",
+    "date": "2026-04-18",
+    "home": "Donegal",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1230-musco-lighting-buncrana-cup-league-group-1-1-donegal-mayo-green",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "donegal mayo green musco lighting buncrana cup - league group 1 - 1 father tierney park ballyshannon donegal mayo green musco lighting buncrana cup - league group 1 - 1 father tierney park ballyshannon",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:30",
+    "updated_at": "2026-04-15T19:17:59Z",
+    "venue": "Father Tierney Park, Ballyshannon"
+  },
+  {
+    "away": "Mayo Red",
+    "competition": "Musco Lighting Adam Mangan (Offaly) Cup - League Group 2 - 1",
+    "date": "2026-04-18",
+    "home": "Cork White",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1230-musco-lighting-adam-mangan-offaly-cup-league-group-2-1-cork-white-mayo-red",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cork white mayo red musco lighting adam mangan offaly cup - league group 2 - 1 university of limerick north campus cork white mayo red musco lighting adam mangan offaly cup - league group 2 - 1 university of limerick north campus",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:30",
+    "updated_at": "2026-04-15T19:17:59Z",
+    "venue": "University of Limerick, North Campus"
   },
   {
     "away": "Mayo Green",
@@ -52,21 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-15T07:46:02Z",
-    "venue": "University of Limerick, North Campus"
-  },
-  {
-    "away": "Cork White",
-    "competition": "Musco Lighting Tedd Webb Cup - League Group 2 - 1",
-    "date": "2026-04-18",
-    "home": "Mayo Red",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1230-musco-lighting-tedd-webb-cup-league-group-2-1-mayo-red-cork-white",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "mayo red cork white musco lighting tedd webb cup - league group 2 - 1 university of limerick north campus mayo red cork white musco lighting tedd webb cup - league group 2 - 1 university of limerick north campus",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:30",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "University of Limerick, North Campus"
   },
   {
@@ -80,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-15T07:45:59Z",
+    "updated_at": "2026-04-15T19:17:57Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -94,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-15T07:45:59Z",
+    "updated_at": "2026-04-15T19:17:57Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "TBC"
   },
   {
@@ -122,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "TBC"
   },
   {
@@ -136,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "TBC"
   },
   {
@@ -150,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -164,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-04-15T07:45:59Z",
+    "updated_at": "2026-04-15T19:17:57Z",
     "venue": "Brewster Park"
   },
   {
@@ -178,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "TBC"
   },
   {
@@ -192,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-15T07:45:59Z",
+    "updated_at": "2026-04-15T19:17:57Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -206,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-15T07:46:02Z",
+    "updated_at": "2026-04-15T19:17:59Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   }
 ]
