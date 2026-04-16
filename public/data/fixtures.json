@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:30",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "Clann Na NGael GAA Club"
   },
   {
@@ -38,8 +38,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "St Marys GAA Cloone"
+  },
+  {
+    "away": "South Kerry",
+    "competition": "Musco Lighting Fr Manning Cup - League Group 1 - 1",
+    "date": "2026-04-18",
+    "home": "Galliamh",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1200-musco-lighting-fr-manning-cup-league-group-1-1-galliamh-south-kerry",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galliamh south kerry musco lighting fr manning cup - league group 1 - 1 tuam stadium galliamh south kerry musco lighting fr manning cup - league group 1 - 1 tuam stadium",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-16T07:46:33Z",
+    "venue": "Tuam Stadium"
   },
   {
     "away": "Cork White",
@@ -52,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "Athlone GAA"
   },
   {
@@ -66,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "Father Tierney Park, Ballyshannon"
   },
   {
@@ -80,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "University of Limerick, North Campus"
   },
   {
@@ -94,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "University of Limerick, North Campus"
   },
   {
@@ -108,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-15T19:17:57Z",
+    "updated_at": "2026-04-16T07:46:29Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -122,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-15T19:17:57Z",
+    "updated_at": "2026-04-16T07:46:29Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -136,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "TBC"
   },
   {
@@ -150,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "TBC"
   },
   {
@@ -164,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "TBC"
   },
   {
@@ -178,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -192,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-04-15T19:17:57Z",
+    "updated_at": "2026-04-16T07:46:29Z",
     "venue": "Brewster Park"
   },
   {
@@ -206,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "TBC"
   },
   {
@@ -220,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-15T19:17:57Z",
+    "updated_at": "2026-04-16T07:46:29Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -234,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-15T19:17:59Z",
+    "updated_at": "2026-04-16T07:46:33Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   }
 ]
