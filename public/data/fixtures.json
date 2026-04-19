@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "away": "Cavan",
+    "competition": "Ulster GAA Football Senior Championship - Quarter-Final",
+    "date": "2026-04-19",
+    "home": "Monaghan",
+    "id": "prov-httpsulstergaaiefixtures-results-20260419-1500-ulster-gaa-football-senior-championship-quarter-final-monaghan-cavan",
+    "score": "0-27 \u0013 2-14",
+    "search_index": "monaghan cavan ulster gaa football senior championship - quarter-final st tiernach s park clones monaghan cavan ulster gaa football senior championship - quarter-final saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-04-19T18:52:07Z",
+    "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Armagh",
+    "competition": "Ulster GAA Football Senior Championship - Quarter-Final",
+    "date": "2026-04-25",
+    "home": "Fermanagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20260425-1730-ulster-gaa-football-senior-championship-quarter-final-fermanagh-armagh",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fermanagh armagh ulster gaa football senior championship - quarter-final brewster park fermanagh armagh ulster gaa football senior championship - quarter-final brewster park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:30",
+    "updated_at": "2026-04-19T18:52:07Z",
+    "venue": "Brewster Park"
+  },
+  {
+    "away": "Down",
+    "competition": "Ulster GAA Football Senior Championship - Quarter-Final",
+    "date": "2026-04-26",
+    "home": "Donegal",
+    "id": "prov-httpsulstergaaiefixtures-results-20260426-1500-ulster-gaa-football-senior-championship-quarter-final-donegal-down",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "donegal down ulster gaa football senior championship - quarter-final o donnell park letterkenny donegal down ulster gaa football senior championship - quarter-final o donnell park letterkenny",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-04-19T18:52:07Z",
+    "venue": "O'Donnell Park, Letterkenny"
+  },
+  {
+    "away": "Monaghan",
+    "competition": "Ulster GAA Football Senior Championship - Semi-Final",
+    "date": "2026-05-02",
+    "home": "Derry",
+    "id": "prov-httpsulstergaaiefixtures-results-20260502-1700-ulster-gaa-football-senior-championship-semi-final-derry-monaghan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "derry monaghan ulster gaa football senior championship - semi-final tbc derry monaghan ulster gaa football senior championship - semi-final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2026-04-19T18:52:07Z",
+    "venue": "TBC"
+  }
+]
