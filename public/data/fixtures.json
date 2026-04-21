@@ -4,14 +4,14 @@
     "competition": "Electric Ireland Celtic Challenge - League Group 6 - 3",
     "date": "2026-04-25",
     "home": "Mayo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-6-3-mayo-westmeath",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1130-electric-ireland-celtic-challenge-league-group-6-3-mayo-westmeath",
     "score": "0-0 \u0013 0-0",
-    "search_index": "mayo westmeath electric ireland celtic challenge - league group 6 - 3 tbc mayo westmeath electric ireland celtic challenge - league group 6 - 3 tbc",
+    "search_index": "mayo westmeath electric ireland celtic challenge - league group 6 - 3 tooreen adrian freeman park mayo westmeath electric ireland celtic challenge - league group 6 - 3 tooreen adrian freeman park",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-21T07:50:15Z",
-    "venue": "TBC"
+    "time": "11:30",
+    "updated_at": "2026-04-21T19:12:03Z",
+    "venue": "Tooreen (Adrian Freeman Park)"
   },
   {
     "away": "Sligo",
@@ -24,22 +24,50 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-21T07:50:15Z",
+    "updated_at": "2026-04-21T19:12:03Z",
     "venue": "TBC"
+  },
+  {
+    "away": "Mayo Red",
+    "competition": "Musco Lighting Hibernia Cup 1 - League Group 2 - 2",
+    "date": "2026-04-25",
+    "home": "Cill Dara",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1200-musco-lighting-hibernia-cup-1-league-group-2-2-cill-dara-mayo-red",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cill dara mayo red musco lighting hibernia cup 1 - league group 2 - 2 kilcock gaa kil dara mayo red musco lighting hibernia cup 1 - league group 2 - 2 kilcock gaa",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-21T19:12:03Z",
+    "venue": "Kilcock GAA"
+  },
+  {
+    "away": "Galway",
+    "competition": "Electric Ireland Celtic Challenge - League Group 2 - 3",
+    "date": "2026-04-25",
+    "home": "Waterford",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-2-3-waterford-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "waterford galway electric ireland celtic challenge - league group 2 - 3 setu arena waterford galway electric ireland celtic challenge - league group 2 - 3 setu arena",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-21T19:12:03Z",
+    "venue": "SETU Arena"
   },
   {
     "away": "Roscommon",
     "competition": "Electric Ireland Celtic Challenge - League Group 6 - 3",
     "date": "2026-04-25",
     "home": "An Dún",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-6-3-an-dun-roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1400-electric-ireland-celtic-challenge-league-group-6-3-an-dun-roscommon",
     "score": "0-0 \u0013 0-0",
-    "search_index": "an dun roscommon electric ireland celtic challenge - league group 6 - 3 tbc an dun roscommon electric ireland celtic challenge - league group 6 - 3 tbc",
+    "search_index": "an dun roscommon electric ireland celtic challenge - league group 6 - 3 castlewellan gac - bann road playing fields an dun roscommon electric ireland celtic challenge - league group 6 - 3 castlewellan gac - bann road playing fields",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-21T07:50:15Z",
-    "venue": "TBC"
+    "time": "14:00",
+    "updated_at": "2026-04-21T19:12:03Z",
+    "venue": "Castlewellan GAC - Bann Road Playing Fields"
   },
   {
     "away": "Galway",
@@ -52,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-21T07:50:15Z",
+    "updated_at": "2026-04-21T19:12:03Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -66,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-04-21T07:50:11Z",
+    "updated_at": "2026-04-21T19:11:59Z",
     "venue": "Brewster Park"
   },
   {
@@ -74,14 +102,14 @@
     "competition": "Electric Ireland Celtic Challenge - League Group 9 - 3",
     "date": "2026-04-26",
     "home": "Fermanagh",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260426-1200-electric-ireland-celtic-challenge-league-group-9-3-fermanagh-leitrim",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260426-1100-electric-ireland-celtic-challenge-league-group-9-3-fermanagh-leitrim",
     "score": "0-0 \u0013 0-0",
-    "search_index": "fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 tbc fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 tbc",
+    "search_index": "fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 macnean park fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 macnean park",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-21T07:50:15Z",
-    "venue": "TBC"
+    "time": "11:00",
+    "updated_at": "2026-04-21T19:12:03Z",
+    "venue": "MacNean Park"
   },
   {
     "away": "Down",
@@ -94,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-21T07:50:11Z",
+    "updated_at": "2026-04-21T19:11:59Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -108,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-21T07:50:15Z",
+    "updated_at": "2026-04-21T19:12:03Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -122,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-21T07:50:15Z",
+    "updated_at": "2026-04-21T19:12:03Z",
     "venue": "TBC"
   },
   {
@@ -136,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-21T07:50:15Z",
+    "updated_at": "2026-04-21T19:12:03Z",
     "venue": "TBC"
   },
   {
@@ -150,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-21T07:50:15Z",
+    "updated_at": "2026-04-21T19:12:03Z",
     "venue": "Ballyvary Hurling Club"
   },
   {
@@ -164,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-21T07:50:11Z",
+    "updated_at": "2026-04-21T19:11:59Z",
     "venue": "TBC"
   }
 ]
