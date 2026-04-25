@@ -15,7 +15,7 @@
   },
   {
     "first_kickoff": "2026-05-02T17:00:00Z",
-    "match_count": 1,
+    "match_count": 2,
     "name": "Ulster GAA Football Senior Championship - Semi-Final",
     "popularity": 140,
     "slug": "ulster-gaa-football-senior-championship-semi-final"
@@ -30,9 +30,9 @@
   {
     "first_kickoff": "2026-04-25T12:00:00Z",
     "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 8 - 3",
+    "name": "Electric Ireland Celtic Challenge - League Group 2 - 3",
     "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-8-3"
+    "slug": "electric-ireland-celtic-challenge-league-group-2-3"
   },
   {
     "first_kickoff": "2026-04-25T12:00:00Z",
@@ -44,9 +44,16 @@
   {
     "first_kickoff": "2026-04-25T12:00:00Z",
     "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - League Group 2 - 3",
+    "name": "Musco Lighting Hibernia 2 - League Group 1 - 2",
     "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-league-group-2-3"
+    "slug": "musco-lighting-hibernia-2-league-group-1-2"
+  },
+  {
+    "first_kickoff": "2026-04-25T12:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 8 - 3",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-8-3"
   },
   {
     "first_kickoff": "2026-04-26T11:00:00Z",
