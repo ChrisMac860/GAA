@@ -1,47 +1,5 @@
 [
   {
-    "away": "Sligo",
-    "competition": "Musco Lighting Hibernia 2 - League Group 1 - 1",
-    "date": "2026-04-11",
-    "home": "Roscommon",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1200-musco-lighting-hibernia-2-league-group-1-1-roscommon-sligo",
-    "score": "2-11 \u0013 3-7",
-    "search_index": "roscommon sligo musco lighting hibernia 2 - league group 1 - 1 oran gaa club roscommon sligo musco lighting hibernia 2 - league group 1 - 1 oran gaa club",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
-    "venue": "Oran GAA Club"
-  },
-  {
-    "away": "Sligo",
-    "competition": "Electric Ireland Celtic Challenge - League Group 8 - 2",
-    "date": "2026-04-11",
-    "home": "Tyrone",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1200-electric-ireland-celtic-challenge-league-group-8-2-tyrone-sligo",
-    "score": "1-12 \u0013 1-4",
-    "search_index": "tyrone sligo electric ireland celtic challenge - league group 8 - 2 garvaghey tyrone sligo electric ireland celtic challenge - league group 8 - 2 garvaghey",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
-    "venue": "Garvaghey"
-  },
-  {
-    "away": "Mayo",
-    "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
-    "date": "2026-04-11",
-    "home": "London",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260411-1430-connacht-gaa-football-senior-championship-quarter-final-london-mayo",
-    "score": "1-15 \u0013 0-31",
-    "search_index": "london mayo connacht gaa football senior championship - quarter-final mcgovern park ruislip london mayo connacht gaa football senior championship - quarter-final mcgovern park ruislip",
-    "source": "scraper",
-    "status": "FT",
-    "time": "14:30",
-    "updated_at": "2026-04-25T18:53:42Z",
-    "venue": "McGovern Park, Ruislip"
-  },
-  {
     "away": "Leitrim",
     "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
     "date": "2026-04-12",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-25T18:53:39Z",
+    "updated_at": "2026-04-26T07:39:57Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "20:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Gaelic Park, New York"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:30",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "University of Limerick"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "St Marys GAA Cloone"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -150,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -164,22 +122,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Father Tierney Park, Ballyshannon"
-  },
-  {
-    "away": "Mayo Green",
-    "competition": "Musco Lighting Adam Mangan Kilclonfert Cup - League Group 2 - 1",
-    "date": "2026-04-18",
-    "home": "Cork Red",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1230-musco-lighting-adam-mangan-kilclonfert-cup-league-group-2-1-cork-red-mayo-green",
-    "score": "10-7 \u0013 2-10",
-    "search_index": "cork red mayo green musco lighting adam mangan kilclonfert cup - league group 2 - 1 university of limerick cork red mayo green musco lighting adam mangan kilclonfert cup - league group 2 - 1 university of limerick",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:30",
-    "updated_at": "2026-04-25T18:53:42Z",
-    "venue": "University of Limerick"
   },
   {
     "away": "Mayo Red",
@@ -192,7 +136,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
+    "venue": "University of Limerick"
+  },
+  {
+    "away": "Mayo Green",
+    "competition": "Musco Lighting Adam Mangan Kilclonfert Cup - League Group 2 - 1",
+    "date": "2026-04-18",
+    "home": "Cork Red",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260418-1230-musco-lighting-adam-mangan-kilclonfert-cup-league-group-2-1-cork-red-mayo-green",
+    "score": "10-7 \u0013 2-10",
+    "search_index": "cork red mayo green musco lighting adam mangan kilclonfert cup - league group 2 - 1 university of limerick cork red mayo green musco lighting adam mangan kilclonfert cup - league group 2 - 1 university of limerick",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:30",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "University of Limerick"
   },
   {
@@ -206,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Padraig Pearses"
   },
   {
@@ -220,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Athlone GAA"
   },
   {
@@ -234,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-25T18:53:39Z",
+    "updated_at": "2026-04-26T07:39:57Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -248,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-25T18:53:39Z",
+    "updated_at": "2026-04-26T07:39:57Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -262,22 +220,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Tooreen (Adrian Freeman Park)"
-  },
-  {
-    "away": "Galway",
-    "competition": "Electric Ireland Celtic Challenge - League Group 2 - 3",
-    "date": "2026-04-25",
-    "home": "Waterford",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-2-3-waterford-galway",
-    "score": "0-8 \u0013 1-30",
-    "search_index": "waterford galway electric ireland celtic challenge - league group 2 - 3 setu arena waterford galway electric ireland celtic challenge - league group 2 - 3 setu arena",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
-    "venue": "SETU Arena"
   },
   {
     "away": "Mayo Red",
@@ -290,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Kilcock GAA"
   },
   {
@@ -304,8 +248,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "TBC"
+  },
+  {
+    "away": "Galway",
+    "competition": "Electric Ireland Celtic Challenge - League Group 2 - 3",
+    "date": "2026-04-25",
+    "home": "Waterford",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260425-1200-electric-ireland-celtic-challenge-league-group-2-3-waterford-galway",
+    "score": "0-12 \u0013 1-30",
+    "search_index": "waterford galway electric ireland celtic challenge - league group 2 - 3 setu arena waterford galway electric ireland celtic challenge - league group 2 - 3 setu arena",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-26T07:40:00Z",
+    "venue": "SETU Arena"
   },
   {
     "away": "Sligo",
@@ -318,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Donegal GAA centre of Excellence Convoy"
   },
   {
@@ -332,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Castlewellan GAC - Bann Road Playing Fields"
   },
   {
@@ -346,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-25T18:53:42Z",
+    "updated_at": "2026-04-26T07:40:00Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -355,12 +313,54 @@
     "date": "2026-04-25",
     "home": "Fermanagh",
     "id": "prov-httpsulstergaaiefixtures-results-20260425-1730-ulster-gaa-football-senior-championship-quarter-final-fermanagh-armagh",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-24 \u0013 2-32",
     "search_index": "fermanagh armagh ulster gaa football senior championship - quarter-final brewster park fermanagh armagh ulster gaa football senior championship - quarter-final brewster park",
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-04-25T18:53:39Z",
+    "updated_at": "2026-04-26T07:39:57Z",
     "venue": "Brewster Park"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 3",
+    "date": "2026-04-26",
+    "home": "Fermanagh",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260426-1100-electric-ireland-celtic-challenge-league-group-9-3-fermanagh-leitrim",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 macnean park fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 macnean park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "11:00",
+    "updated_at": "2026-04-26T07:40:00Z",
+    "venue": "MacNean Park"
+  },
+  {
+    "away": "Down",
+    "competition": "Ulster GAA Football Senior Championship - Quarter-Final",
+    "date": "2026-04-26",
+    "home": "Donegal",
+    "id": "prov-httpsulstergaaiefixtures-results-20260426-1500-ulster-gaa-football-senior-championship-quarter-final-donegal-down",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "donegal down ulster gaa football senior championship - quarter-final o donnell park letterkenny donegal down ulster gaa football senior championship - quarter-final o donnell park letterkenny",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-04-26T07:39:57Z",
+    "venue": "O'Donnell Park, Letterkenny"
+  },
+  {
+    "away": "Roscommon",
+    "competition": "Connacht GAA Football Senior Championship - Semi-Final",
+    "date": "2026-04-26",
+    "home": "Mayo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260426-1600-connacht-gaa-football-senior-championship-semi-final-mayo-roscommon",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "mayo roscommon connacht gaa football senior championship - semi-final hastings insurance machale park castlebar mayo roscommon connacht gaa football senior championship - semi-final hastings insurance machale park castlebar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2026-04-26T07:40:00Z",
+    "venue": "Hastings Insurance MacHale Park, Castlebar"
   }
 ]
