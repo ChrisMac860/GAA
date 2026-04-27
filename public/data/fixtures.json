@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-27T08:25:10Z",
+    "updated_at": "2026-04-27T19:21:39Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-27T08:25:10Z",
+    "updated_at": "2026-04-27T19:21:39Z",
     "venue": "TBC"
   },
   {
@@ -38,8 +38,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-27T08:25:10Z",
+    "updated_at": "2026-04-27T19:21:39Z",
     "venue": "Ballyvary Hurling Club"
+  },
+  {
+    "away": "Mayo Red",
+    "competition": "Musco Lighting Hibernia Cup 1 - League Group 2 - 1",
+    "date": "2026-05-02",
+    "home": "Limerick 4",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260502-1200-musco-lighting-hibernia-cup-1-league-group-2-1-limerick-4-mayo-red",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "limerick 4 mayo red musco lighting hibernia cup 1 - league group 2 - 1 tbc limerick 4 mayo red musco lighting hibernia cup 1 - league group 2 - 1 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-04-27T19:21:39Z",
+    "venue": "TBC"
   },
   {
     "away": "Monaghan",
@@ -52,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-27T08:25:06Z",
+    "updated_at": "2026-04-27T19:21:36Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -66,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-27T08:25:06Z",
+    "updated_at": "2026-04-27T19:21:36Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -80,21 +94,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-27T08:25:10Z",
+    "updated_at": "2026-04-27T19:21:39Z",
     "venue": "TBC"
   },
   {
-    "away": "Roscommon",
+    "away": "Galway",
     "competition": "Connacht GAA Football Senior Championship - Final",
     "date": "2026-05-10",
-    "home": "Galway",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1615-connacht-gaa-football-senior-championship-final-galway-roscommon",
+    "home": "Roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1615-connacht-gaa-football-senior-championship-final-roscommon-galway",
     "score": "0-0 \u0013 0-0",
-    "search_index": "galway roscommon connacht gaa football senior championship - final tbc galway roscommon connacht gaa football senior championship - final tbc",
+    "search_index": "roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park",
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-27T08:25:10Z",
-    "venue": "TBC"
+    "updated_at": "2026-04-27T19:21:39Z",
+    "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
