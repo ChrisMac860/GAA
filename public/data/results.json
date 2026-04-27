@@ -1,47 +1,5 @@
 [
   {
-    "away": "Leitrim",
-    "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
-    "date": "2026-04-12",
-    "home": "Sligo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260412-1500-connacht-gaa-football-senior-championship-quarter-final-sligo-leitrim",
-    "score": "1-20 \u0013 3-15",
-    "search_index": "sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo sligo leitrim connacht gaa football senior championship - quarter-final markievicz park sligo",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:00",
-    "updated_at": "2026-04-26T18:54:56Z",
-    "venue": "Markievicz Park, Sligo"
-  },
-  {
-    "away": "Tyrone",
-    "competition": "Ulster GAA Football Senior Championship - Round 1",
-    "date": "2026-04-12",
-    "home": "Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20260412-1615-ulster-gaa-football-senior-championship-round-1-armagh-tyrone",
-    "score": "1-17 \u0013 1-16",
-    "search_index": "armagh tyrone ulster gaa football senior championship - round 1 box-it athletic grounds armagh armagh tyrone ulster gaa football senior championship - round 1 box-it athletic grounds armagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:15",
-    "updated_at": "2026-04-26T18:54:53Z",
-    "venue": "BOX-IT Athletic Grounds, Armagh"
-  },
-  {
-    "away": "Roscommon",
-    "competition": "Connacht GAA Football Senior Championship - Quarter-Final",
-    "date": "2026-04-12",
-    "home": "New York",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260412-2000-connacht-gaa-football-senior-championship-quarter-final-new-york-roscommon",
-    "score": "1-10 \u0013 5-22",
-    "search_index": "new york roscommon connacht gaa football senior championship - quarter-final gaelic park new york new york roscommon connacht gaa football senior championship - quarter-final gaelic park new york",
-    "source": "scraper",
-    "status": "FT",
-    "time": "20:00",
-    "updated_at": "2026-04-26T18:54:56Z",
-    "venue": "Gaelic Park, New York"
-  },
-  {
     "away": "Galway",
     "competition": "Musco Lighting Tedd Webb Cup - League Group 1 - 1",
     "date": "2026-04-18",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "10:30",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Portlaoise - LOETB C of Excel"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "University of Limerick"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "St Marys GAA Cloone"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Father Tierney Park, Ballyshannon"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "University of Limerick"
   },
   {
@@ -150,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "University of Limerick"
   },
   {
@@ -164,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Padraig Pearses"
   },
   {
@@ -178,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Athlone GAA"
   },
   {
@@ -192,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-26T18:54:53Z",
+    "updated_at": "2026-04-27T08:25:06Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -206,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-26T18:54:53Z",
+    "updated_at": "2026-04-27T08:25:06Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -220,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Tooreen (Adrian Freeman Park)"
   },
   {
@@ -234,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Kilcock GAA"
   },
   {
@@ -248,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "TBC"
   },
   {
@@ -262,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "SETU Arena"
   },
   {
@@ -276,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Donegal GAA centre of Excellence Convoy"
   },
   {
@@ -290,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Castlewellan GAC - Bann Road Playing Fields"
   },
   {
@@ -304,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -318,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-04-26T18:54:53Z",
+    "updated_at": "2026-04-27T08:25:06Z",
     "venue": "Brewster Park"
   },
   {
@@ -332,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "MacNean Park"
   },
   {
@@ -346,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-04-26T18:54:53Z",
+    "updated_at": "2026-04-27T08:25:06Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -360,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   }
 ]

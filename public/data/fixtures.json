@@ -1,47 +1,5 @@
 [
   {
-    "away": "Leitrim",
-    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 3",
-    "date": "2026-04-26",
-    "home": "Fermanagh",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260426-1100-electric-ireland-celtic-challenge-league-group-9-3-fermanagh-leitrim",
-    "score": "3-18 \u0013 0-1",
-    "search_index": "fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 macnean park fermanagh leitrim electric ireland celtic challenge - league group 9 - 3 macnean park",
-    "source": "scraper",
-    "status": "FT",
-    "time": "11:00",
-    "updated_at": "2026-04-26T18:54:56Z",
-    "venue": "MacNean Park"
-  },
-  {
-    "away": "Down",
-    "competition": "Ulster GAA Football Senior Championship - Quarter-Final",
-    "date": "2026-04-26",
-    "home": "Donegal",
-    "id": "prov-httpsulstergaaiefixtures-results-20260426-1500-ulster-gaa-football-senior-championship-quarter-final-donegal-down",
-    "score": "1-21 \u0013 3-21",
-    "search_index": "donegal down ulster gaa football senior championship - quarter-final o donnell park letterkenny donegal down ulster gaa football senior championship - quarter-final o donnell park letterkenny",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:00",
-    "updated_at": "2026-04-26T18:54:53Z",
-    "venue": "O'Donnell Park, Letterkenny"
-  },
-  {
-    "away": "Roscommon",
-    "competition": "Connacht GAA Football Senior Championship - Semi-Final",
-    "date": "2026-04-26",
-    "home": "Mayo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260426-1600-connacht-gaa-football-senior-championship-semi-final-mayo-roscommon",
-    "score": "1-18 \u0013 2-25",
-    "search_index": "mayo roscommon connacht gaa football senior championship - semi-final hastings insurance machale park castlebar mayo roscommon connacht gaa football senior championship - semi-final hastings insurance machale park castlebar",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:00",
-    "updated_at": "2026-04-26T18:54:56Z",
-    "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
     "away": "Longford",
     "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
     "date": "2026-05-01",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "Ballyvary Hurling Club"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-04-26T18:54:53Z",
+    "updated_at": "2026-04-27T08:25:06Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-04-26T18:54:53Z",
+    "updated_at": "2026-04-27T08:25:06Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "TBC"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-04-26T18:54:56Z",
+    "updated_at": "2026-04-27T08:25:10Z",
     "venue": "TBC"
   }
 ]
