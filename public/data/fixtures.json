@@ -1,19 +1,5 @@
 [
   {
-    "away": "Longford",
-    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 1",
-    "date": "2026-05-01",
-    "home": "Leitrim",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260501-1830-electric-ireland-celtic-challenge-league-group-9-1-leitrim-longford",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "leitrim longford electric ireland celtic challenge - league group 9 - 1 allen park clonguish gaa leitrim longford electric ireland celtic challenge - league group 9 - 1 allen park clonguish gaa",
-    "source": "scraper",
-    "status": "FT",
-    "time": "18:30",
-    "updated_at": "2026-05-01T19:12:11Z",
-    "venue": "Allen Park, Clonguish GAA"
-  },
-  {
     "away": "Galway 2",
     "competition": "Musco Lighting John Doyle Cup - League Group 2 - 1",
     "date": "2026-05-02",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-01T19:12:11Z",
+    "updated_at": "2026-05-02T07:43:58Z",
     "venue": "Faithful Fields, Offaly GAA Centre of Excellence"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-01T19:12:11Z",
+    "updated_at": "2026-05-02T07:43:58Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-01T19:12:11Z",
+    "updated_at": "2026-05-02T07:43:58Z",
     "venue": "Granagh Ballingarry GAA Club"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-05-01T19:12:08Z",
+    "updated_at": "2026-05-02T07:43:55Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-01T19:12:08Z",
+    "updated_at": "2026-05-02T07:43:55Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-01T19:12:11Z",
+    "updated_at": "2026-05-02T07:43:58Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-01T19:12:11Z",
+    "updated_at": "2026-05-02T07:43:58Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
