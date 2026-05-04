@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "away": "Cavan",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 4",
+    "date": "2026-05-10",
+    "home": "Leitrim",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1200-electric-ireland-celtic-challenge-league-group-9-4-leitrim-cavan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "leitrim cavan electric ireland celtic challenge - league group 9 - 4 tbc leitrim cavan electric ireland celtic challenge - league group 9 - 4 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-04T19:28:13Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Galway",
+    "competition": "Connacht GAA Football Senior Championship - Final",
+    "date": "2026-05-10",
+    "home": "Roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1615-connacht-gaa-football-senior-championship-final-roscommon-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:15",
+    "updated_at": "2026-05-04T19:28:13Z",
+    "venue": "King & Moffatt Dr. Hyde Park"
+  },
+  {
+    "away": "Monaghan",
+    "competition": "Ulster GAA Football Senior Championship - Final",
+    "date": "2026-05-17",
+    "home": "Armagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20260517-1615-ulster-gaa-football-senior-championship-final-armagh-monaghan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "armagh monaghan ulster gaa football senior championship - final tbc armagh monaghan ulster gaa football senior championship - final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:15",
+    "updated_at": "2026-05-04T19:28:10Z",
+    "venue": "TBC"
+  }
+]
