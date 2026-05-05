@@ -1,5 +1,33 @@
 [
   {
+    "away": "Roscommon",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Wicklow",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-wicklow-roscommon",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "wicklow roscommon electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final echelon park aughrim wicklow roscommon electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final echelon park aughrim",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-05T08:09:17Z",
+    "venue": "Echelon Park, Aughrim"
+  },
+  {
+    "away": "Mayo",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 3 Corn William Robinson - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Donegal",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-3-corn-william-robinson-quarter-final-donegal-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final maccumhaill park ballybofey donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final maccumhaill park ballybofey",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-05T08:09:17Z",
+    "venue": "MacCumhaill Park, Ballybofey"
+  },
+  {
     "away": "Cavan",
     "competition": "Electric Ireland Celtic Challenge - League Group 9 - 4",
     "date": "2026-05-10",
@@ -10,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-04T19:28:13Z",
+    "updated_at": "2026-05-05T08:09:17Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-04T19:28:13Z",
+    "updated_at": "2026-05-05T08:09:17Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -38,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-04T19:28:10Z",
+    "updated_at": "2026-05-05T08:09:12Z",
     "venue": "TBC"
   }
 ]
