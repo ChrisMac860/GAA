@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Tooreen (Adrian Freeman Park)"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Donegal GAA centre of Excellence Convoy"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Kilcock GAA"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "SETU Arena"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "O'Neill Park, Dungannon"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Castlewellan GAC - Bann Road Playing Fields"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-05-05T08:09:12Z",
+    "updated_at": "2026-05-05T19:19:37Z",
     "venue": "Brewster Park"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "MacNean Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-05-05T08:09:12Z",
+    "updated_at": "2026-05-05T19:19:37Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Allen Park, Clonguish GAA"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Faithful Fields, Offaly GAA Centre of Excellence"
   },
   {
@@ -206,8 +206,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T08:09:17Z",
+    "updated_at": "2026-05-05T19:19:41Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
+  },
+  {
+    "away": "Mayo Red",
+    "competition": "Musco Lighting Hibernia Cup 1 - League Group 2 - 1",
+    "date": "2026-05-02",
+    "home": "Limerick 4",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260502-1200-musco-lighting-hibernia-cup-1-league-group-2-1-limerick-4-mayo-red",
+    "score": "6-24 \u0013 0-9",
+    "search_index": "limerick 4 mayo red musco lighting hibernia cup 1 - league group 2 - 1 granagh ballingarry gaa club limerick 4 mayo red musco lighting hibernia cup 1 - league group 2 - 1 granagh ballingarry gaa club",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-05T19:19:41Z",
+    "venue": "Granagh Ballingarry GAA Club"
   },
   {
     "away": "Monaghan",
@@ -220,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-05-05T08:09:12Z",
+    "updated_at": "2026-05-05T19:19:37Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -234,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-05T08:09:12Z",
+    "updated_at": "2026-05-05T19:19:37Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]

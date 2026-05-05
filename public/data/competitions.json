@@ -16,12 +16,19 @@
   {
     "first_kickoff": "2026-05-09T12:00:00Z",
     "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-quarter-final"
+  },
+  {
+    "first_kickoff": "2026-05-09T13:00:00Z",
+    "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final"
   },
   {
-    "first_kickoff": "2026-05-09T12:00:00Z",
+    "first_kickoff": "2026-05-09T13:00:00Z",
     "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - Cup Division 3 Corn William Robinson - Quarter-Final",
     "popularity": 30,
@@ -33,5 +40,12 @@
     "name": "Electric Ireland Celtic Challenge - League Group 9 - 4",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-league-group-9-4"
+  },
+  {
+    "first_kickoff": "2026-05-10T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Hibernia Cup 1 - League Group 2 - 3",
+    "popularity": 30,
+    "slug": "musco-lighting-hibernia-cup-1-league-group-2-3"
   }
 ]
