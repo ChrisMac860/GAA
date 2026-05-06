@@ -15,17 +15,17 @@
   },
   {
     "first_kickoff": "2026-05-09T12:00:00Z",
+    "match_count": 2,
+    "name": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final"
+  },
+  {
+    "first_kickoff": "2026-05-09T12:00:00Z",
     "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-quarter-final"
-  },
-  {
-    "first_kickoff": "2026-05-09T13:00:00Z",
-    "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final"
   },
   {
     "first_kickoff": "2026-05-09T13:00:00Z",

@@ -10,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T19:19:41Z",
+    "updated_at": "2026-05-06T08:26:27Z",
     "venue": "Kilbeacanty"
+  },
+  {
+    "away": "Kildare Cadets",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final tbc sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-06T08:26:27Z",
+    "venue": "TBC"
   },
   {
     "away": "Roscommon",
@@ -24,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-05T19:19:41Z",
+    "updated_at": "2026-05-06T08:26:27Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -38,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-05T19:19:41Z",
+    "updated_at": "2026-05-06T08:26:27Z",
     "venue": "Donegal GAA centre of Excellence Convoy"
   },
   {
@@ -52,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T19:19:41Z",
+    "updated_at": "2026-05-06T08:26:27Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -66,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-05T19:19:41Z",
+    "updated_at": "2026-05-06T08:26:27Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -80,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-05T19:19:41Z",
+    "updated_at": "2026-05-06T08:26:27Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -94,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-05T19:19:37Z",
+    "updated_at": "2026-05-06T08:26:24Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
