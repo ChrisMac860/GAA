@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-06T08:26:27Z",
+    "updated_at": "2026-05-06T19:45:41Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -20,12 +20,12 @@
     "home": "Sligo",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
     "score": "0-0 \u0013 0-0",
-    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final tbc sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final tbc",
+    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-06T08:26:27Z",
-    "venue": "TBC"
+    "updated_at": "2026-05-06T19:45:41Z",
+    "venue": "Sligo COE Scarden"
   },
   {
     "away": "Roscommon",
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-06T08:26:27Z",
+    "updated_at": "2026-05-06T19:45:41Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -48,12 +48,12 @@
     "home": "Donegal",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1300-electric-ireland-celtic-challenge-cup-division-3-corn-william-robinson-quarter-final-donegal-mayo",
     "score": "0-0 \u0013 0-0",
-    "search_index": "donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final donegal gaa centre of excellence convoy donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final donegal gaa centre of excellence convoy",
+    "search_index": "donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final o donnell park letterkenny donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final o donnell park letterkenny",
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-06T08:26:27Z",
-    "venue": "Donegal GAA centre of Excellence Convoy"
+    "updated_at": "2026-05-06T19:45:41Z",
+    "venue": "O'Donnell Park, Letterkenny"
   },
   {
     "away": "Cavan",
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-06T08:26:27Z",
+    "updated_at": "2026-05-06T19:45:41Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-06T08:26:27Z",
+    "updated_at": "2026-05-06T19:45:41Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-06T08:26:27Z",
+    "updated_at": "2026-05-06T19:45:41Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-06T08:26:24Z",
+    "updated_at": "2026-05-06T19:45:39Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
