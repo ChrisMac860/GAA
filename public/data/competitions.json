@@ -1,5 +1,12 @@
 [
   {
+    "first_kickoff": "2026-05-23T19:30:00Z",
+    "match_count": 1,
+    "name": "GAA Football All-Ireland Senior Championship - Round 1",
+    "popularity": 160,
+    "slug": "gaa-football-all-ireland-senior-championship-round-1"
+  },
+  {
     "first_kickoff": "2026-05-10T16:15:00Z",
     "match_count": 1,
     "name": "Connacht GAA Football Senior Championship - Final",
@@ -47,5 +54,19 @@
     "name": "Musco Lighting Hibernia Cup 1 - League Group 2 - 3",
     "popularity": 30,
     "slug": "musco-lighting-hibernia-cup-1-league-group-2-3"
+  },
+  {
+    "first_kickoff": "2026-05-23T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Adam Mangan (Offaly) Cup - League Group 1 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-adam-mangan-offaly-cup-league-group-1-1"
+  },
+  {
+    "first_kickoff": "2026-05-23T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Adam Mangan (Kilclonfert) Cup - League Group 1 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-1"
   }
 ]

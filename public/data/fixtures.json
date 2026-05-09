@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Sligo COE Scarden"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -108,7 +108,49 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-08T19:17:27Z",
+    "updated_at": "2026-05-09T07:56:17Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Galway White",
+    "competition": "Musco Lighting Adam Mangan (Offaly) Cup - League Group 1 - 1",
+    "date": "2026-05-23",
+    "home": "Kerry South",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-adam-mangan-offaly-cup-league-group-1-1-kerry-south-galway-white",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 austin stack park kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 austin stack park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-09T07:56:20Z",
+    "venue": "Austin Stack Park"
+  },
+  {
+    "away": "Galway Maroon",
+    "competition": "Musco Lighting Adam Mangan (Kilclonfert) Cup - League Group 1 - 1",
+    "date": "2026-05-23",
+    "home": "Kerry North",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-1-kerry-north-galway-maroon",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-09T07:56:20Z",
+    "venue": "Austin Stack Park"
+  },
+  {
+    "away": "Kildare",
+    "competition": "GAA Football All-Ireland Senior Championship - Round 1",
+    "date": "2026-05-23",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1930-gaa-football-all-ireland-senior-championship-round-1-galway-kildare",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galway kildare gaa football all-ireland senior championship - round 1 pearse stadium salthill galway kildare gaa football all-ireland senior championship - round 1 pearse stadium salthill",
+    "source": "scraper",
+    "status": "FT",
+    "time": "19:30",
+    "updated_at": "2026-05-09T07:56:20Z",
+    "venue": "Pearse Stadium, Salthill"
   }
 ]

@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Tooreen (Adrian Freeman Park)"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Donegal GAA centre of Excellence Convoy"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Kilcock GAA"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "SETU Arena"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "O'Neill Park, Dungannon"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Castlewellan GAC - Bann Road Playing Fields"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-05-08T19:17:27Z",
+    "updated_at": "2026-05-09T07:56:17Z",
     "venue": "Brewster Park"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "MacNean Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-05-08T19:17:27Z",
+    "updated_at": "2026-05-09T07:56:17Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Allen Park, Clonguish GAA"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Faithful Fields, Offaly GAA Centre of Excellence"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-08T19:17:32Z",
+    "updated_at": "2026-05-09T07:56:20Z",
     "venue": "Granagh Ballingarry GAA Club"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-05-08T19:17:27Z",
+    "updated_at": "2026-05-09T07:56:17Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -248,7 +248,63 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-08T19:17:27Z",
+    "updated_at": "2026-05-09T07:56:17Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Cork Red",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-quarter-final-galway-cork-red",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-09T07:56:20Z",
+    "venue": "Kilbeacanty"
+  },
+  {
+    "away": "Kildare Cadets",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-09T07:56:20Z",
+    "venue": "Sligo COE Scarden"
+  },
+  {
+    "away": "Roscommon",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Wicklow",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1300-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-wicklow-roscommon",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "wicklow roscommon electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final echelon park aughrim wicklow roscommon electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final echelon park aughrim",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-05-09T07:56:20Z",
+    "venue": "Echelon Park, Aughrim"
+  },
+  {
+    "away": "Mayo",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 3 Corn William Robinson - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Donegal",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1300-electric-ireland-celtic-challenge-cup-division-3-corn-william-robinson-quarter-final-donegal-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final o donnell park letterkenny donegal mayo electric ireland celtic challenge - cup division 3 corn william robinson - quarter-final o donnell park letterkenny",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-05-09T07:56:20Z",
+    "venue": "O'Donnell Park, Letterkenny"
   }
 ]
