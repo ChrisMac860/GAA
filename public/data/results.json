@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "MacNean Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-05-10T08:07:17Z",
+    "updated_at": "2026-05-10T19:03:42Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Allen Park, Clonguish GAA"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Faithful Fields, Offaly GAA Centre of Excellence"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Granagh Ballingarry GAA Club"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-05-10T08:07:17Z",
+    "updated_at": "2026-05-10T19:03:42Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -122,22 +122,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-10T08:07:17Z",
+    "updated_at": "2026-05-10T19:03:42Z",
     "venue": "St. Tiernach's Park, Clones"
-  },
-  {
-    "away": "Kildare Cadets",
-    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
-    "date": "2026-05-09",
-    "home": "Sligo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
-    "score": "1-16 \u0013 4-11",
-    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-10T08:07:22Z",
-    "venue": "Sligo COE Scarden"
   },
   {
     "away": "Cork Red",
@@ -150,8 +136,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Kilbeacanty"
+  },
+  {
+    "away": "Kildare Cadets",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
+    "score": "1-16 \u0013 4-11",
+    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-10T19:03:46Z",
+    "venue": "Sligo COE Scarden"
   },
   {
     "away": "Roscommon",
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -187,12 +187,12 @@
     "date": "2026-05-10",
     "home": "Leitrim",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1200-electric-ireland-celtic-challenge-league-group-9-4-leitrim-cavan",
-    "score": "0-0 \u0013 0-0",
+    "score": "5-4 \u0013 3-9",
     "search_index": "leitrim cavan electric ireland celtic challenge - league group 9 - 4 heartland credit union pairc sean macdiarmada leitrim cavan electric ireland celtic challenge - league group 9 - 4 heartland credit union pairc sean macdiarmada",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -201,12 +201,12 @@
     "date": "2026-05-10",
     "home": "Mayo Red",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1230-musco-lighting-hibernia-cup-1-league-group-2-3-mayo-red-meath-gold",
-    "score": "0-0 \u0013 0-0",
+    "score": "5-9 \u0013 1-13",
     "search_index": "mayo red meath gold musco lighting hibernia cup 1 - league group 2 - 3 hastings insurance machale park castlebar mayo red meath gold musco lighting hibernia cup 1 - league group 2 - 3 hastings insurance machale park castlebar",
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -215,12 +215,12 @@
     "date": "2026-05-10",
     "home": "Roscommon",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1615-connacht-gaa-football-senior-championship-final-roscommon-galway",
-    "score": "0-0 \u0013 0-0",
+    "score": "3-21 \u0013 2-22",
     "search_index": "roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park",
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-10T08:07:22Z",
+    "updated_at": "2026-05-10T19:03:46Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
