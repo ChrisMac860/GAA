@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Allen Park, Clonguish GAA"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Faithful Fields, Offaly GAA Centre of Excellence"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Granagh Ballingarry GAA Club"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-05-11T19:46:37Z",
+    "updated_at": "2026-05-12T08:39:30Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,22 +80,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-11T19:46:37Z",
+    "updated_at": "2026-05-12T08:39:30Z",
     "venue": "St. Tiernach's Park, Clones"
-  },
-  {
-    "away": "Kildare Cadets",
-    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
-    "date": "2026-05-09",
-    "home": "Sligo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
-    "score": "1-16 \u0013 4-11",
-    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-11T19:46:41Z",
-    "venue": "Sligo COE Scarden"
   },
   {
     "away": "Cork Red",
@@ -108,8 +94,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Kilbeacanty"
+  },
+  {
+    "away": "Kildare Cadets",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
+    "score": "1-16 \u0013 4-11",
+    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-12T08:39:33Z",
+    "venue": "Sligo COE Scarden"
   },
   {
     "away": "Tyrone",
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-11T19:46:41Z",
+    "updated_at": "2026-05-12T08:39:33Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
