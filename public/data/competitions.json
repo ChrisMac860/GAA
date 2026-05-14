@@ -15,10 +15,52 @@
   },
   {
     "first_kickoff": "2026-05-16T12:00:00Z",
-    "match_count": 1,
+    "match_count": 2,
     "name": "Musco Lighting Fr Manning Cup - League Group 1 - 2",
     "popularity": 30,
     "slug": "musco-lighting-fr-manning-cup-league-group-1-2"
+  },
+  {
+    "first_kickoff": "2026-05-16T11:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Fr Manning Cup - League Group 2 - 2",
+    "popularity": 30,
+    "slug": "musco-lighting-fr-manning-cup-league-group-2-2"
+  },
+  {
+    "first_kickoff": "2026-05-16T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Adam Mangan (Offaly) Cup - League Group 1 - 2",
+    "popularity": 30,
+    "slug": "musco-lighting-adam-mangan-offaly-cup-league-group-1-2"
+  },
+  {
+    "first_kickoff": "2026-05-16T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Buncrana Cup - League Group 1 - 2",
+    "popularity": 30,
+    "slug": "musco-lighting-buncrana-cup-league-group-1-2"
+  },
+  {
+    "first_kickoff": "2026-05-16T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Adam Mangan Kilclonfert Cup - League Group 2 - 2",
+    "popularity": 30,
+    "slug": "musco-lighting-adam-mangan-kilclonfert-cup-league-group-2-2"
+  },
+  {
+    "first_kickoff": "2026-05-16T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Tedd Webb Cup - League Group 1 - 2",
+    "popularity": 30,
+    "slug": "musco-lighting-tedd-webb-cup-league-group-1-2"
+  },
+  {
+    "first_kickoff": "2026-05-16T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Adam Mangan (Kilclonfert) Cup - League Group 1 - 2",
+    "popularity": 30,
+    "slug": "musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-2"
   },
   {
     "first_kickoff": "2026-05-23T12:00:00Z",
@@ -56,10 +98,24 @@
     "slug": "electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final"
   },
   {
+    "first_kickoff": "2026-05-23T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Arrabawn Cup - League Section 1 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-arrabawn-cup-league-section-1-1"
+  },
+  {
     "first_kickoff": "2026-05-24T12:00:00Z",
     "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - League Group 9 - 5",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-league-group-9-5"
+  },
+  {
+    "first_kickoff": "2026-05-24T12:00:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - League Group 9 - 2",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-league-group-9-2"
   }
 ]

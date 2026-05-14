@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:30",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Allen Park, Clonguish GAA"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Faithful Fields, Offaly GAA Centre of Excellence"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Granagh Ballingarry GAA Club"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-05-14T08:36:54Z",
+    "updated_at": "2026-05-14T19:45:07Z",
     "venue": "BOX-IT Athletic Grounds, Armagh"
   },
   {
@@ -80,22 +80,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-14T08:36:54Z",
+    "updated_at": "2026-05-14T19:45:07Z",
     "venue": "St. Tiernach's Park, Clones"
-  },
-  {
-    "away": "Cork Red",
-    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
-    "date": "2026-05-09",
-    "home": "Galway",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-quarter-final-galway-cork-red",
-    "score": "1-22 \u0013 2-11",
-    "search_index": "galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
-    "venue": "Kilbeacanty"
   },
   {
     "away": "Kildare Cadets",
@@ -108,8 +94,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Sligo COE Scarden"
+  },
+  {
+    "away": "Cork Red",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-quarter-final-galway-cork-red",
+    "score": "1-22 \u0013 2-11",
+    "search_index": "galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Kilbeacanty"
   },
   {
     "away": "Tyrone",
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]

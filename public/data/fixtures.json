@@ -1,5 +1,19 @@
 [
   {
+    "away": "Leitrim",
+    "competition": "Musco Lighting Fr Manning Cup - League Group 2 - 2",
+    "date": "2026-05-16",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1100-musco-lighting-fr-manning-cup-league-group-2-2-sligo-leitrim",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "sligo leitrim musco lighting fr manning cup - league group 2 - 2 eastern harps gaa club sligo leitrim musco lighting fr manning cup - league group 2 - 2 eastern harps gaa club",
+    "source": "scraper",
+    "status": "FT",
+    "time": "11:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Eastern Harps GAA Club"
+  },
+  {
     "away": "Roscommon",
     "competition": "Musco Lighting Fr Manning Cup - League Group 1 - 2",
     "date": "2026-05-16",
@@ -10,8 +24,92 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
+  },
+  {
+    "away": "Meath Gold",
+    "competition": "Musco Lighting Adam Mangan (Offaly) Cup - League Group 1 - 2",
+    "date": "2026-05-16",
+    "home": "Galway White",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-adam-mangan-offaly-cup-league-group-1-2-galway-white-meath-gold",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galway white meath gold musco lighting adam mangan offaly cup - league group 1 - 2 loughgeorge galway white meath gold musco lighting adam mangan offaly cup - league group 1 - 2 loughgeorge",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Loughgeorge"
+  },
+  {
+    "away": "Galliamh",
+    "competition": "Musco Lighting Fr Manning Cup - League Group 1 - 2",
+    "date": "2026-05-16",
+    "home": "Cork Red",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-fr-manning-cup-league-group-1-2-cork-red-galliamh",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cork red galliamh musco lighting fr manning cup - league group 1 - 2 macroom gaa club cork red galliamh musco lighting fr manning cup - league group 1 - 2 macroom gaa club",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Macroom GAA Club"
+  },
+  {
+    "away": "Tyrone 1",
+    "competition": "Musco Lighting Buncrana Cup - League Group 1 - 2",
+    "date": "2026-05-16",
+    "home": "Mayo Green",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-buncrana-cup-league-group-1-2-mayo-green-tyrone-1",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "mayo green tyrone 1 musco lighting buncrana cup - league group 1 - 2 hastings insurance machale park castlebar mayo green tyrone 1 musco lighting buncrana cup - league group 1 - 2 hastings insurance machale park castlebar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Hastings Insurance MacHale Park, Castlebar"
+  },
+  {
+    "away": "Louth",
+    "competition": "Musco Lighting Adam Mangan Kilclonfert Cup - League Group 2 - 2",
+    "date": "2026-05-16",
+    "home": "Mayo Green",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-adam-mangan-kilclonfert-cup-league-group-2-2-mayo-green-louth",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "mayo green louth musco lighting adam mangan kilclonfert cup - league group 2 - 2 gilmartin park kiltimagh mayo green louth musco lighting adam mangan kilclonfert cup - league group 2 - 2 gilmartin park kiltimagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Gilmartin Park Kiltimagh"
+  },
+  {
+    "away": "Galway",
+    "competition": "Musco Lighting Tedd Webb Cup - League Group 1 - 2",
+    "date": "2026-05-16",
+    "home": "An Mhí",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-tedd-webb-cup-league-group-1-2-an-mhi-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Gaeil Colmcille GFC (Grangegodden)"
+  },
+  {
+    "away": "Meath Green",
+    "competition": "Musco Lighting Adam Mangan (Kilclonfert) Cup - League Group 1 - 2",
+    "date": "2026-05-16",
+    "home": "Galway Maroon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-2-galway-maroon-meath-green",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galway maroon meath green musco lighting adam mangan kilclonfert cup - league group 1 - 2 loughgeorge galway maroon meath green musco lighting adam mangan kilclonfert cup - league group 1 - 2 loughgeorge",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Loughgeorge"
   },
   {
     "away": "Armagh",
@@ -24,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-14T08:36:54Z",
+    "updated_at": "2026-05-14T19:45:07Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -38,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -52,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -80,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +192,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Galway",
+    "competition": "Musco Lighting Arrabawn Cup - League Section 1 - 1",
+    "date": "2026-05-23",
+    "home": "Cork Red",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-arrabawn-cup-league-section-1-1-cork-red-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -122,8 +234,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "TBC"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 2",
+    "date": "2026-05-24",
+    "home": "Louth",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260524-1200-electric-ireland-celtic-challenge-league-group-9-2-louth-leitrim",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "louth leitrim electric ireland celtic challenge - league group 9 - 2 cullen auto parts louth gaa training centre darver louth leitrim electric ireland celtic challenge - league group 9 - 2 cullen auto parts louth gaa training centre darver",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-14T19:45:12Z",
+    "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
     "away": "Tyrone",
@@ -136,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-14T08:36:58Z",
+    "updated_at": "2026-05-14T19:45:12Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
