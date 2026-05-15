@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Eastern Harps GAA Club"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Loughgeorge"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Macroom GAA Club"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Gilmartin Park Kiltimagh"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Loughgeorge"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-15T08:48:35Z",
+    "updated_at": "2026-05-15T19:38:27Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "TBC"
   },
   {
@@ -164,8 +164,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Austin Stack Park"
+  },
+  {
+    "away": "Galway",
+    "competition": "Musco Lighting Arrabawn Cup - League Section 1 - 1",
+    "date": "2026-05-23",
+    "home": "Cork Red",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-arrabawn-cup-league-section-1-1-cork-red-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-15T19:38:30Z",
+    "venue": "TBC"
   },
   {
     "away": "Kilkenny",
@@ -178,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "TBC"
   },
   {
@@ -192,21 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "Galway",
-    "competition": "Musco Lighting Arrabawn Cup - League Section 1 - 1",
-    "date": "2026-05-23",
-    "home": "Cork Red",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-arrabawn-cup-league-section-1-1-cork-red-galway",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "TBC"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "TBC"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-15T08:48:36Z",
+    "updated_at": "2026-05-15T19:38:30Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
