@@ -86,13 +86,6 @@
   {
     "first_kickoff": "2026-05-23T12:00:00Z",
     "match_count": 1,
-    "name": "Musco Lighting Arrabawn Cup - League Section 1 - 1",
-    "popularity": 30,
-    "slug": "musco-lighting-arrabawn-cup-league-section-1-1"
-  },
-  {
-    "first_kickoff": "2026-05-23T12:00:00Z",
-    "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Semi Final",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-semi-final"
@@ -103,6 +96,13 @@
     "name": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Semi Final",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final"
+  },
+  {
+    "first_kickoff": "2026-05-23T12:00:00Z",
+    "match_count": 1,
+    "name": "Musco Lighting Arrabawn Cup - League Section 1 - 1",
+    "popularity": 30,
+    "slug": "musco-lighting-arrabawn-cup-league-section-1-1"
   },
   {
     "first_kickoff": "2026-05-24T12:00:00Z",
