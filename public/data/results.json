@@ -1,17 +1,17 @@
 [
   {
-    "away": "Down",
-    "competition": "Ulster GAA Football Senior Championship - Semi-Final",
-    "date": "2026-05-03",
-    "home": "Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20260503-1600-ulster-gaa-football-senior-championship-semi-final-armagh-down",
-    "score": "3-33 \u0013 0-14",
-    "search_index": "armagh down ulster gaa football senior championship - semi-final st tiernach s park clones armagh down ulster gaa football senior championship - semi-final saint tiernach s park clones",
+    "away": "Cork Red",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-quarter-final-galway-cork-red",
+    "score": "1-22 \u0013 2-11",
+    "search_index": "galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty",
     "source": "scraper",
     "status": "FT",
-    "time": "16:00",
-    "updated_at": "2026-05-17T19:09:03Z",
-    "venue": "St. Tiernach's Park, Clones"
+    "time": "12:00",
+    "updated_at": "2026-05-18T10:03:10Z",
+    "venue": "Kilbeacanty"
   },
   {
     "away": "Kildare Cadets",
@@ -24,22 +24,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Sligo COE Scarden"
-  },
-  {
-    "away": "Cork Red",
-    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
-    "date": "2026-05-09",
-    "home": "Galway",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-quarter-final-galway-cork-red",
-    "score": "1-22 \u0013 2-11",
-    "search_index": "galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty galway cork red electric ireland celtic challenge - cup division 1 - corn michael hogan - quarter-final kilbeacanty",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-17T19:09:07Z",
-    "venue": "Kilbeacanty"
   },
   {
     "away": "Tyrone",
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -122,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Eastern Harps GAA Club"
   },
   {
@@ -164,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
   },
   {
@@ -178,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-17T19:09:07Z",
+    "updated_at": "2026-05-18T10:03:10Z",
     "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
@@ -187,12 +173,12 @@
     "date": "2026-05-17",
     "home": "Monaghan",
     "id": "prov-httpsulstergaaiefixtures-results-20260517-1615-ulster-gaa-football-senior-championship-final-monaghan-armagh",
-    "score": "0-0 \u0013 0-0",
+    "score": "0-25 \u0013 2-28",
     "search_index": "monaghan armagh ulster gaa football senior championship - final st tiernach s park clones monaghan armagh ulster gaa football senior championship - final saint tiernach s park clones",
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-17T19:09:03Z",
+    "updated_at": "2026-05-18T10:03:05Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
