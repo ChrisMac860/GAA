@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "TBC"
   },
   {
@@ -38,22 +38,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "Austin Stack Park"
-  },
-  {
-    "away": "Kilkenny",
-    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Semi Final",
-    "date": "2026-05-23",
-    "home": "Galway",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-semi-final-galway-kilkenny",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final tbc galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
-    "venue": "TBC"
   },
   {
     "away": "Armagh",
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "TBC"
   },
   {
@@ -80,8 +66,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "TBC"
+  },
+  {
+    "away": "Kilkenny",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Semi Final",
+    "date": "2026-05-23",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-semi-final-galway-kilkenny",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final kilbeacanty galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final kilbeacanty",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-18T19:44:09Z",
+    "venue": "Kilbeacanty"
   },
   {
     "away": "Kildare",
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "TBC"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -136,7 +136,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-18T10:03:10Z",
+    "updated_at": "2026-05-18T19:44:09Z",
     "venue": "King & Moffatt Dr. Hyde Park"
+  },
+  {
+    "away": "Mayo",
+    "competition": "GAA Football All-Ireland Senior Championship - Round 1",
+    "date": "2026-05-31",
+    "home": "Monaghan",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260531-1600-gaa-football-all-ireland-senior-championship-round-1-monaghan-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "monaghan mayo gaa football all-ireland senior championship - round 1 st tiernach s park clones monaghan mayo gaa football all-ireland senior championship - round 1 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2026-05-18T19:44:09Z",
+    "venue": "St. Tiernach's Park, Clones"
   }
 ]
