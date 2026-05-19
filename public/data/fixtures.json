@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "St Loman's Park, Trim"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -104,12 +104,12 @@
     "home": "Monaghan",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260524-1200-electric-ireland-celtic-challenge-league-group-9-5-monaghan-leitrim",
     "score": "0-0 \u0013 0-0",
-    "search_index": "monaghan leitrim electric ireland celtic challenge - league group 9 - 5 tbc monaghan leitrim electric ireland celtic challenge - league group 9 - 5 tbc",
+    "search_index": "monaghan leitrim electric ireland celtic challenge - league group 9 - 5 st tiernach s park clones monaghan leitrim electric ireland celtic challenge - league group 9 - 5 saint tiernach s park clones",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
-    "venue": "TBC"
+    "updated_at": "2026-05-19T19:51:23Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Leitrim",
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]

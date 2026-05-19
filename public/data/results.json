@@ -1,19 +1,5 @@
 [
   {
-    "away": "Kildare Cadets",
-    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
-    "date": "2026-05-09",
-    "home": "Sligo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
-    "score": "1-16 \u0013 4-11",
-    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
-    "venue": "Sligo COE Scarden"
-  },
-  {
     "away": "Cork Red",
     "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Quarter-Final",
     "date": "2026-05-09",
@@ -24,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Kilbeacanty"
+  },
+  {
+    "away": "Kildare Cadets",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Quarter-Final",
+    "date": "2026-05-09",
+    "home": "Sligo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260509-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-quarter-final-sligo-kildare-cadets",
+    "score": "1-16 \u0013 4-11",
+    "search_index": "sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden sligo kildare cadets electric ireland celtic challenge - cup division 4 corn jerome o leary - quarter-final sligo coe scarden",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-19T19:51:23Z",
+    "venue": "Sligo COE Scarden"
   },
   {
     "away": "Tyrone",
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Eastern Harps GAA Club"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Loughgeorge"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -192,22 +192,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
-    "away": "Galway",
-    "competition": "Musco Lighting Tedd Webb Cup - League Group 1 - 2",
-    "date": "2026-05-16",
-    "home": "An Mhí",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-tedd-webb-cup-league-group-1-2-an-mhi-galway",
-    "score": "3-19 \u0013 1-5",
-    "search_index": "an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
-    "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
     "away": "Meath Green",
@@ -220,8 +206,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Loughgeorge"
+  },
+  {
+    "away": "Galway",
+    "competition": "Musco Lighting Tedd Webb Cup - League Group 1 - 2",
+    "date": "2026-05-16",
+    "home": "An Mhí",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-tedd-webb-cup-league-group-1-2-an-mhi-galway",
+    "score": "3-19 \u0013 1-5",
+    "search_index": "an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-19T19:51:23Z",
+    "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
     "away": "Louth",
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T09:41:52Z",
+    "updated_at": "2026-05-19T19:51:23Z",
     "venue": "Gilmartin Park Kiltimagh"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-19T09:41:46Z",
+    "updated_at": "2026-05-19T19:51:19Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
