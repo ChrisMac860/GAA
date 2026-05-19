@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Sligo COE Scarden"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Eastern Harps GAA Club"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Loughgeorge"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -206,22 +206,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Gaeil Colmcille GFC (Grangegodden)"
-  },
-  {
-    "away": "Louth",
-    "competition": "Musco Lighting Adam Mangan Kilclonfert Cup - League Group 2 - 2",
-    "date": "2026-05-16",
-    "home": "Mayo Green",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-adam-mangan-kilclonfert-cup-league-group-2-2-mayo-green-louth",
-    "score": "4-9 \u0013 0-7",
-    "search_index": "mayo green louth musco lighting adam mangan kilclonfert cup - league group 2 - 2 gilmartin park kiltimagh mayo green louth musco lighting adam mangan kilclonfert cup - league group 2 - 2 gilmartin park kiltimagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
-    "venue": "Gilmartin Park Kiltimagh"
   },
   {
     "away": "Meath Green",
@@ -234,8 +220,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-18T19:44:09Z",
+    "updated_at": "2026-05-19T09:41:52Z",
     "venue": "Loughgeorge"
+  },
+  {
+    "away": "Louth",
+    "competition": "Musco Lighting Adam Mangan Kilclonfert Cup - League Group 2 - 2",
+    "date": "2026-05-16",
+    "home": "Mayo Green",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-adam-mangan-kilclonfert-cup-league-group-2-2-mayo-green-louth",
+    "score": "4-9 \u0013 0-7",
+    "search_index": "mayo green louth musco lighting adam mangan kilclonfert cup - league group 2 - 2 gilmartin park kiltimagh mayo green louth musco lighting adam mangan kilclonfert cup - league group 2 - 2 gilmartin park kiltimagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-19T09:41:52Z",
+    "venue": "Gilmartin Park Kiltimagh"
   },
   {
     "away": "Armagh",
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-18T19:44:05Z",
+    "updated_at": "2026-05-19T09:41:46Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
