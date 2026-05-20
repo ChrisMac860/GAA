@@ -35,18 +35,18 @@
     "slug": "electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-semi-final"
   },
   {
-    "first_kickoff": "2026-05-23T12:00:00Z",
-    "match_count": 1,
-    "name": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Semi Final",
-    "popularity": 30,
-    "slug": "electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final"
-  },
-  {
     "first_kickoff": "2026-05-23T13:00:00Z",
     "match_count": 1,
     "name": "Electric Ireland Celtic Challenge - Cup Division 3 Corn William Robinson - Semi Final",
     "popularity": 30,
     "slug": "electric-ireland-celtic-challenge-cup-division-3-corn-william-robinson-semi-final"
+  },
+  {
+    "first_kickoff": "2026-05-23T13:30:00Z",
+    "match_count": 1,
+    "name": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Semi Final",
+    "popularity": 30,
+    "slug": "electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final"
   },
   {
     "first_kickoff": "2026-05-24T12:00:00Z",

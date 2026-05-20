@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "Austin Stack Park"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "TBC"
   },
   {
@@ -52,22 +52,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "Kilbeacanty"
-  },
-  {
-    "away": "Armagh",
-    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Semi Final",
-    "date": "2026-05-23",
-    "home": "Roscommon",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final-roscommon-armagh",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final king moffatt dr hyde park roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final king moffatt dr hyde park",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-19T19:51:23Z",
-    "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
     "away": "Mayo",
@@ -80,8 +66,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "St Loman's Park, Trim"
+  },
+  {
+    "away": "Armagh",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Semi Final",
+    "date": "2026-05-23",
+    "home": "Roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1330-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final-roscommon-armagh",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final roscommon gaels club lisnamult roscommon roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final roscommon gaels club lisnamult roscommon",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-05-20T09:32:52Z",
+    "venue": "Roscommon Gaels Club, Lisnamult, Roscommon"
   },
   {
     "away": "Kildare",
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-19T19:51:23Z",
+    "updated_at": "2026-05-20T09:32:52Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
