@@ -4,28 +4,28 @@
     "competition": "Musco Lighting Adam Mangan (Offaly) Cup - League Group 1 - 1",
     "date": "2026-05-23",
     "home": "Kerry South",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-adam-mangan-offaly-cup-league-group-1-1-kerry-south-galway-white",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1130-musco-lighting-adam-mangan-offaly-cup-league-group-1-1-kerry-south-galway-white",
     "score": "0-0 \u0013 0-0",
-    "search_index": "kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 austin stack park kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 austin stack park",
+    "search_index": "kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 john mitchell s gaa club kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 john mitchell s gaa club",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-22T09:22:25Z",
-    "venue": "Austin Stack Park"
+    "time": "11:30",
+    "updated_at": "2026-05-22T19:44:18Z",
+    "venue": "John Mitchell's GAA Club"
   },
   {
     "away": "Galway Maroon",
     "competition": "Musco Lighting Adam Mangan (Kilclonfert) Cup - League Group 1 - 1",
     "date": "2026-05-23",
     "home": "Kerry North",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-1-kerry-north-galway-maroon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1130-musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-1-kerry-north-galway-maroon",
     "score": "0-0 \u0013 0-0",
-    "search_index": "kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park",
+    "search_index": "kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park tralee kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park tralee",
     "source": "scraper",
     "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-22T09:22:25Z",
-    "venue": "Austin Stack Park"
+    "time": "11:30",
+    "updated_at": "2026-05-22T19:44:18Z",
+    "venue": "Austin Stack Park, Tralee"
   },
   {
     "away": "Galway",
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "St Loman's Park, Trim"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "Roscommon Gaels Club, Lisnamult, Roscommon"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-22T09:22:25Z",
+    "updated_at": "2026-05-22T19:44:18Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
