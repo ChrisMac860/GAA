@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Sligo COE Scarden"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Echelon Park, Aughrim"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "O'Donnell Park, Letterkenny"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:30",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Eastern Harps GAA Club"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Loughgeorge"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Macroom GAA Club"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Loughgeorge"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-22T19:44:18Z",
+    "updated_at": "2026-05-23T08:19:52Z",
     "venue": "Gilmartin Park Kiltimagh"
   },
   {
@@ -262,7 +262,105 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-22T19:44:15Z",
+    "updated_at": "2026-05-23T08:19:47Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Galway White",
+    "competition": "Musco Lighting Adam Mangan (Offaly) Cup - League Group 1 - 1",
+    "date": "2026-05-23",
+    "home": "Kerry South",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1130-musco-lighting-adam-mangan-offaly-cup-league-group-1-1-kerry-south-galway-white",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 john mitchell s gaa club kerry south galway white musco lighting adam mangan offaly cup - league group 1 - 1 john mitchell s gaa club",
+    "source": "scraper",
+    "status": "FT",
+    "time": "11:30",
+    "updated_at": "2026-05-23T08:19:52Z",
+    "venue": "John Mitchell's GAA Club"
+  },
+  {
+    "away": "Galway Maroon",
+    "competition": "Musco Lighting Adam Mangan (Kilclonfert) Cup - League Group 1 - 1",
+    "date": "2026-05-23",
+    "home": "Kerry North",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1130-musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-1-kerry-north-galway-maroon",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park tralee kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park tralee",
+    "source": "scraper",
+    "status": "FT",
+    "time": "11:30",
+    "updated_at": "2026-05-23T08:19:52Z",
+    "venue": "Austin Stack Park, Tralee"
+  },
+  {
+    "away": "Galway",
+    "competition": "Musco Lighting Arrabawn Cup - League Section 1 - 1",
+    "date": "2026-05-23",
+    "home": "Cork Red",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-musco-lighting-arrabawn-cup-league-section-1-1-cork-red-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc cork red galway musco lighting arrabawn cup - league section 1 - 1 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-23T08:19:52Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Kilkenny",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 1 - Corn Michael Hogan - Semi Final",
+    "date": "2026-05-23",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-semi-final-galway-kilkenny",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final kilbeacanty galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final kilbeacanty",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-23T08:19:52Z",
+    "venue": "Kilbeacanty"
+  },
+  {
+    "away": "Mayo",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 3 Corn William Robinson - Semi Final",
+    "date": "2026-05-23",
+    "home": "Meath Green",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1300-electric-ireland-celtic-challenge-cup-division-3-corn-william-robinson-semi-final-meath-green-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "meath green mayo electric ireland celtic challenge - cup division 3 corn william robinson - semi final st loman s park trim meath green mayo electric ireland celtic challenge - cup division 3 corn william robinson - semi final saint loman s park trim",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-05-23T08:19:52Z",
+    "venue": "St Loman's Park, Trim"
+  },
+  {
+    "away": "Armagh",
+    "competition": "Electric Ireland Celtic Challenge - Cup Division 4 Corn Jerome O'Leary - Semi Final",
+    "date": "2026-05-23",
+    "home": "Roscommon",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1330-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final-roscommon-armagh",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final roscommon gaels club lisnamult roscommon roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final roscommon gaels club lisnamult roscommon",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-05-23T08:19:52Z",
+    "venue": "Roscommon Gaels Club, Lisnamult, Roscommon"
+  },
+  {
+    "away": "Kildare",
+    "competition": "GAA Football All-Ireland Senior Championship - Round 1",
+    "date": "2026-05-23",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1930-gaa-football-all-ireland-senior-championship-round-1-galway-kildare",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "galway kildare gaa football all-ireland senior championship - round 1 pearse stadium salthill galway kildare gaa football all-ireland senior championship - round 1 pearse stadium salthill",
+    "source": "scraper",
+    "status": "FT",
+    "time": "19:30",
+    "updated_at": "2026-05-23T08:19:52Z",
+    "venue": "Pearse Stadium, Salthill"
   }
 ]
