@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "John Mitchell's GAA Club"
   },
   {
@@ -19,12 +19,12 @@
     "date": "2026-05-23",
     "home": "Kerry North",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1130-musco-lighting-adam-mangan-kilclonfert-cup-league-group-1-1-kerry-north-galway-maroon",
-    "score": "0-0 \u0013 0-0",
+    "score": "3-19 \u0013 1-6",
     "search_index": "kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park tralee kerry north galway maroon musco lighting adam mangan kilclonfert cup - league group 1 - 1 austin stack park tralee",
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "Austin Stack Park, Tralee"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "TBC"
   },
   {
@@ -47,12 +47,12 @@
     "date": "2026-05-23",
     "home": "Galway",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1200-electric-ireland-celtic-challenge-cup-division-1-corn-michael-hogan-semi-final-galway-kilkenny",
-    "score": "0-0 \u0013 0-0",
+    "score": "3-14 \u0013 1-22",
     "search_index": "galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final kilbeacanty galway kilkenny electric ireland celtic challenge - cup division 1 - corn michael hogan - semi final kilbeacanty",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -61,12 +61,12 @@
     "date": "2026-05-23",
     "home": "Meath Green",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1300-electric-ireland-celtic-challenge-cup-division-3-corn-william-robinson-semi-final-meath-green-mayo",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-15 \u0013 2-17",
     "search_index": "meath green mayo electric ireland celtic challenge - cup division 3 corn william robinson - semi final st loman s park trim meath green mayo electric ireland celtic challenge - cup division 3 corn william robinson - semi final saint loman s park trim",
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "St Loman's Park, Trim"
   },
   {
@@ -75,12 +75,12 @@
     "date": "2026-05-23",
     "home": "Roscommon",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260523-1330-electric-ireland-celtic-challenge-cup-division-4-corn-jerome-oleary-semi-final-roscommon-armagh",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-14 \u0013 2-16",
     "search_index": "roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final roscommon gaels club lisnamult roscommon roscommon armagh electric ireland celtic challenge - cup division 4 corn jerome o leary - semi final roscommon gaels club lisnamult roscommon",
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "Roscommon Gaels Club, Lisnamult, Roscommon"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-23T08:19:52Z",
+    "updated_at": "2026-05-23T19:09:29Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
