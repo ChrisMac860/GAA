@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T08:28:36Z",
+    "updated_at": "2026-05-24T19:16:34Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -19,12 +19,12 @@
     "date": "2026-05-24",
     "home": "Louth",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260524-1200-electric-ireland-celtic-challenge-league-group-9-2-louth-leitrim",
-    "score": "0-0 \u0013 0-0",
+    "score": "0-6 \u0013 5-7",
     "search_index": "louth leitrim electric ireland celtic challenge - league group 9 - 2 cullen auto parts louth gaa training centre darver louth leitrim electric ireland celtic challenge - league group 9 - 2 cullen auto parts louth gaa training centre darver",
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T08:28:36Z",
+    "updated_at": "2026-05-24T19:16:34Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -33,12 +33,12 @@
     "date": "2026-05-24",
     "home": "Roscommon",
     "id": "prov-httpsconnachtgaaiefixtures-results-20260524-1400-gaa-football-all-ireland-senior-championship-round-1-roscommon-tyrone",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-18 \u0013 3-16",
     "search_index": "roscommon tyrone gaa football all-ireland senior championship - round 1 king moffatt dr hyde park roscommon tyrone gaa football all-ireland senior championship - round 1 king moffatt dr hyde park",
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-24T08:28:36Z",
+    "updated_at": "2026-05-24T19:16:34Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-05-24T08:28:36Z",
+    "updated_at": "2026-05-24T19:16:34Z",
     "venue": "St. Tiernach's Park, Clones"
   }
 ]
