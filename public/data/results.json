@@ -1,47 +1,5 @@
 [
   {
-    "away": "Cavan",
-    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 4",
-    "date": "2026-05-10",
-    "home": "Leitrim",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1200-electric-ireland-celtic-challenge-league-group-9-4-leitrim-cavan",
-    "score": "5-4 \u0013 3-9",
-    "search_index": "leitrim cavan electric ireland celtic challenge - league group 9 - 4 heartland credit union pairc sean macdiarmada leitrim cavan electric ireland celtic challenge - league group 9 - 4 heartland credit union pairc sean macdiarmada",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
-    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
-  },
-  {
-    "away": "Meath Gold",
-    "competition": "Musco Lighting Hibernia Cup 1 - League Group 2 - 3",
-    "date": "2026-05-10",
-    "home": "Mayo Red",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1230-musco-lighting-hibernia-cup-1-league-group-2-3-mayo-red-meath-gold",
-    "score": "5-9 \u0013 1-13",
-    "search_index": "mayo red meath gold musco lighting hibernia cup 1 - league group 2 - 3 hastings insurance machale park castlebar mayo red meath gold musco lighting hibernia cup 1 - league group 2 - 3 hastings insurance machale park castlebar",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:30",
-    "updated_at": "2026-05-24T19:16:34Z",
-    "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
-    "away": "Galway",
-    "competition": "Connacht GAA Football Senior Championship - Final",
-    "date": "2026-05-10",
-    "home": "Roscommon",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260510-1615-connacht-gaa-football-senior-championship-final-roscommon-galway",
-    "score": "3-21 \u0013 2-22",
-    "search_index": "roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park roscommon galway connacht gaa football senior championship - final king moffatt dr hyde park",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:15",
-    "updated_at": "2026-05-24T19:16:34Z",
-    "venue": "King & Moffatt Dr. Hyde Park"
-  },
-  {
     "away": "Leitrim",
     "competition": "Musco Lighting Fr Manning Cup - League Group 2 - 2",
     "date": "2026-05-16",
@@ -52,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Eastern Harps GAA Club"
   },
   {
@@ -66,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
   },
   {
@@ -80,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Loughgeorge"
   },
   {
@@ -94,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -108,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Macroom GAA Club"
   },
   {
@@ -122,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -136,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Loughgeorge"
   },
   {
@@ -150,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
@@ -164,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Gilmartin Park Kiltimagh"
   },
   {
@@ -178,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-24T19:16:31Z",
+    "updated_at": "2026-05-25T10:05:32Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -192,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Austin Stack Park, Tralee"
   },
   {
@@ -206,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -220,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "St Loman's Park, Trim"
   },
   {
@@ -234,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Roscommon Gaels Club, Lisnamult, Roscommon"
   },
   {
@@ -248,22 +206,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Pearse Stadium, Salthill"
-  },
-  {
-    "away": "Leitrim",
-    "competition": "Electric Ireland Celtic Challenge - League Group 9 - 5",
-    "date": "2026-05-24",
-    "home": "Monaghan",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260524-1200-electric-ireland-celtic-challenge-league-group-9-5-monaghan-leitrim",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "monaghan leitrim electric ireland celtic challenge - league group 9 - 5 st tiernach s park clones monaghan leitrim electric ireland celtic challenge - league group 9 - 5 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Leitrim",
@@ -276,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -290,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-24T19:16:34Z",
+    "updated_at": "2026-05-25T10:05:35Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
