@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Eastern Harps GAA Club"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "University of Limerick, Maguires 4G Pitch"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Loughgeorge"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Laois Hire O'Moore Park, Portlaoise"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Macroom GAA Club"
   },
   {
@@ -80,22 +80,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
-    "away": "Galway",
-    "competition": "Musco Lighting Tedd Webb Cup - League Group 1 - 2",
-    "date": "2026-05-16",
-    "home": "An Mhí",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-tedd-webb-cup-league-group-1-2-an-mhi-galway",
-    "score": "3-19 \u0013 1-5",
-    "search_index": "an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
-    "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
     "away": "Meath Green",
@@ -108,8 +94,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Loughgeorge"
+  },
+  {
+    "away": "Galway",
+    "competition": "Musco Lighting Tedd Webb Cup - League Group 1 - 2",
+    "date": "2026-05-16",
+    "home": "An Mhí",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260516-1200-musco-lighting-tedd-webb-cup-league-group-1-2-an-mhi-galway",
+    "score": "3-19 \u0013 1-5",
+    "search_index": "an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden an mhi galway musco lighting tedd webb cup - league group 1 - 2 gaeil colmcille gfc grangegodden",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-05-28T10:00:13Z",
+    "venue": "Gaeil Colmcille GFC (Grangegodden)"
   },
   {
     "away": "Louth",
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Gilmartin Park Kiltimagh"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:15",
-    "updated_at": "2026-05-27T20:16:29Z",
+    "updated_at": "2026-05-28T10:00:09Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Austin Stack Park, Tralee"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "SuperValu Páirc Uí Chaoimh, Cork"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "St Loman's Park, Trim"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Roscommon Gaels Club, Lisnamult, Roscommon"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:30",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "Cullen Auto Parts Louth GAA Training Centre, Darver"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-05-27T20:16:32Z",
+    "updated_at": "2026-05-28T10:00:13Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   }
 ]
