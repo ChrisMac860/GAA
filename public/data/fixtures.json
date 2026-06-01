@@ -1,20 +1,6 @@
 [
   {
     "away": "Mayo",
-    "competition": "GAA Football All-Ireland Senior Championship - Round 1",
-    "date": "2026-05-31",
-    "home": "Monaghan",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260531-1600-gaa-football-all-ireland-senior-championship-round-1-monaghan-mayo",
-    "score": "2-20 \u0013 1-24",
-    "search_index": "monaghan mayo gaa football all-ireland senior championship - round 1 st tiernach s park clones monaghan mayo gaa football all-ireland senior championship - round 1 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "16:00",
-    "updated_at": "2026-05-31T19:16:56Z",
-    "venue": "St. Tiernach's Park, Clones"
-  },
-  {
-    "away": "Mayo",
     "competition": "Electric Ireland Celtic Challenge - Cup Division 3 Corn William Robinson - Final",
     "date": "2026-06-06",
     "home": "Derry",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-05-31T19:16:56Z",
+    "updated_at": "2026-06-01T11:32:54Z",
     "venue": "NGDC Abbotstown"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-05-31T19:16:56Z",
+    "updated_at": "2026-06-01T11:32:54Z",
     "venue": "NGDC Abbotstown"
   }
 ]
