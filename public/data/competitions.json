@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "first_kickoff": "2026-06-14T14:00:00Z",
+    "match_count": 2,
+    "name": "GAA Football All-Ireland Senior Championship - Round 2A",
+    "popularity": 160,
+    "slug": "gaa-football-all-ireland-senior-championship-round-2a"
+  },
+  {
+    "first_kickoff": "2026-06-13T16:30:00Z",
+    "match_count": 1,
+    "name": "GAA Football All-Ireland Senior Championship - Round 2B",
+    "popularity": 160,
+    "slug": "gaa-football-all-ireland-senior-championship-round-2b"
+  }
+]
