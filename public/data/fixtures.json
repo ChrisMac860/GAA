@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "away": "Mayo",
+    "competition": "GAA Football All-Ireland Senior Championship - Quarter-Final",
+    "date": "2026-06-27",
+    "home": "Cork",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260627-1600-gaa-football-all-ireland-senior-championship-quarter-final-cork-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "cork mayo gaa football all-ireland senior championship - quarter-final pairc an chrocaigh cork mayo gaa football all-ireland senior championship - quarter-final pairc an chrocaigh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2026-06-23T09:38:17Z",
+    "venue": "Páirc an Chrócaigh"
+  },
+  {
+    "away": "Galway",
+    "competition": "GAA Football All-Ireland Senior Championship - Quarter-Final",
+    "date": "2026-06-28",
+    "home": "Dublin",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260628-1600-gaa-football-all-ireland-senior-championship-quarter-final-dublin-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "dublin galway gaa football all-ireland senior championship - quarter-final pairc an chrocaigh dublin galway gaa football all-ireland senior championship - quarter-final pairc an chrocaigh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2026-06-23T09:38:17Z",
+    "venue": "Páirc an Chrócaigh"
+  }
+]
