@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:30",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Loughgeorge"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Tuam Stadium"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Loughgeorge"
   },
   {
@@ -66,22 +66,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "University of Limerick, North Campus"
-  },
-  {
-    "away": "Leitrim",
-    "competition": "Musco Lighting Fr Manning Cup - League Group 2 - 3",
-    "date": "2026-06-13",
-    "home": "Kildare",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260613-1200-musco-lighting-fr-manning-cup-league-group-2-3-kildare-leitrim",
-    "score": "3-21 \u0013 2-9",
-    "search_index": "kildare leitrim musco lighting fr manning cup - league group 2 - 3 manguard plus kildare gaa centre of excellence kildare leitrim musco lighting fr manning cup - league group 2 - 3 manguard plus kildare gaa centre of excellence",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-06-24T19:44:59Z",
-    "venue": "Manguard Plus Kildare GAA Centre of Excellence"
   },
   {
     "away": "Galliamh",
@@ -94,8 +80,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Michael Glaveys GAA Club"
+  },
+  {
+    "away": "Leitrim",
+    "competition": "Musco Lighting Fr Manning Cup - League Group 2 - 3",
+    "date": "2026-06-13",
+    "home": "Kildare",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260613-1200-musco-lighting-fr-manning-cup-league-group-2-3-kildare-leitrim",
+    "score": "3-21 \u0013 2-9",
+    "search_index": "kildare leitrim musco lighting fr manning cup - league group 2 - 3 manguard plus kildare gaa centre of excellence kildare leitrim musco lighting fr manning cup - league group 2 - 3 manguard plus kildare gaa centre of excellence",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-06-25T09:20:42Z",
+    "venue": "Manguard Plus Kildare GAA Centre of Excellence"
   },
   {
     "away": "Mayo Green",
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Faithful Fields, Offaly GAA Centre of Excellence"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "St. Oliver Plunkett Park, Crossmaglen"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Glennon Brother's Pearse Park"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:30",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:00",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-06-24T19:44:59Z",
+    "updated_at": "2026-06-25T09:20:42Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   }
 ]
