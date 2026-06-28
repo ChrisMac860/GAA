@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "away": "Westmeath",
+    "competition": "GAA Football All-Ireland Senior Championship - Round 2A",
+    "date": "2026-06-14",
+    "home": "Galway",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260614-1400-gaa-football-all-ireland-senior-championship-round-2a-galway-westmeath",
+    "score": "3-21 \u0013 2-21",
+    "search_index": "galway westmeath gaa football all-ireland senior championship - round 2a pearse stadium salthill galway westmeath gaa football all-ireland senior championship - round 2a pearse stadium salthill",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:00",
+    "updated_at": "2026-06-28T08:50:54Z",
+    "venue": "Pearse Stadium, Salthill"
+  },
+  {
+    "away": "Mayo",
+    "competition": "GAA Football All-Ireland Senior Championship - Round 2A",
+    "date": "2026-06-14",
+    "home": "Tyrone",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260614-1530-gaa-football-all-ireland-senior-championship-round-2a-tyrone-mayo",
+    "score": "0-22 \u0013 1-18",
+    "search_index": "tyrone mayo gaa football all-ireland senior championship - round 2a o neills healy park omagh tyrone mayo gaa football all-ireland senior championship - round 2a o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-06-28T08:50:54Z",
+    "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Meath",
+    "competition": "GAA Football All-Ireland Senior Championship - Round 3",
+    "date": "2026-06-20",
+    "home": "Mayo",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260620-1815-gaa-football-all-ireland-senior-championship-round-3-mayo-meath",
+    "score": "0-22 \u0013 2-13",
+    "search_index": "mayo meath gaa football all-ireland senior championship - round 3 hastings insurance machale park castlebar mayo meath gaa football all-ireland senior championship - round 3 hastings insurance machale park castlebar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:15",
+    "updated_at": "2026-06-28T08:50:54Z",
+    "venue": "Hastings Insurance MacHale Park, Castlebar"
+  },
+  {
+    "away": "Mayo",
+    "competition": "GAA Football All-Ireland Senior Championship - Quarter-Final",
+    "date": "2026-06-27",
+    "home": "Cork",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260627-1600-gaa-football-all-ireland-senior-championship-quarter-final-cork-mayo",
+    "score": "0-18 \u0013 0-23",
+    "search_index": "cork mayo gaa football all-ireland senior championship - quarter-final pairc an chrocaigh cork mayo gaa football all-ireland senior championship - quarter-final pairc an chrocaigh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2026-06-28T08:50:54Z",
+    "venue": "Páirc an Chrócaigh"
+  },
+  {
+    "away": "Galway",
+    "competition": "GAA Football All-Ireland Senior Championship - Quarter-Final",
+    "date": "2026-06-28",
+    "home": "Dublin",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260628-1600-gaa-football-all-ireland-senior-championship-quarter-final-dublin-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "dublin galway gaa football all-ireland senior championship - quarter-final pairc an chrocaigh dublin galway gaa football all-ireland senior championship - quarter-final pairc an chrocaigh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "16:00",
+    "updated_at": "2026-06-28T08:50:54Z",
+    "venue": "Páirc an Chrócaigh"
+  }
+]
