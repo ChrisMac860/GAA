@@ -1,19 +1,5 @@
 [
   {
-    "away": "Meath",
-    "competition": "GAA Football All-Ireland Senior Championship - Round 3",
-    "date": "2026-06-20",
-    "home": "Mayo",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20260620-1815-gaa-football-all-ireland-senior-championship-round-3-mayo-meath",
-    "score": "0-22 \u0013 2-13",
-    "search_index": "mayo meath gaa football all-ireland senior championship - round 3 hastings insurance machale park castlebar mayo meath gaa football all-ireland senior championship - round 3 hastings insurance machale park castlebar",
-    "source": "scraper",
-    "status": "FT",
-    "time": "18:15",
-    "updated_at": "2026-07-04T19:12:14Z",
-    "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
     "away": "Clare Saffron",
     "competition": "Musco Lighting Arrabawn Cup - League Section 1 - 3",
     "date": "2026-06-27",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-07-04T19:12:14Z",
+    "updated_at": "2026-07-05T08:51:48Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-07-04T19:12:14Z",
+    "updated_at": "2026-07-05T08:51:48Z",
     "venue": "Páirc an Chrócaigh"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-07-04T19:12:14Z",
+    "updated_at": "2026-07-05T08:51:48Z",
     "venue": "Páirc an Chrócaigh"
   }
 ]
