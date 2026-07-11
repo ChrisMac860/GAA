@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "11:00",
-    "updated_at": "2026-07-10T19:26:14Z",
+    "updated_at": "2026-07-11T07:54:54Z",
     "venue": "Kilbeacanty"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-07-10T19:26:14Z",
+    "updated_at": "2026-07-11T07:54:54Z",
     "venue": "Páirc an Chrócaigh"
   },
   {
@@ -38,7 +38,35 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-07-10T19:26:14Z",
+    "updated_at": "2026-07-11T07:54:54Z",
+    "venue": "Páirc an Chrócaigh"
+  },
+  {
+    "away": "Galway 2",
+    "competition": "Musco Lighting John Doyle Cup - League Group 2 - 3",
+    "date": "2026-07-11",
+    "home": "Kilkenny 2",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260711-1200-musco-lighting-john-doyle-cup-league-group-2-3-kilkenny-2-galway-2",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kilkenny 2 galway 2 musco lighting john doyle cup - league group 2 - 3 mw hire training centre dunmore kilkenny 2 galway 2 musco lighting john doyle cup - league group 2 - 3 mw hire training centre dunmore",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-07-11T07:54:54Z",
+    "venue": "MW Hire Training Centre, Dunmore"
+  },
+  {
+    "away": "Mayo",
+    "competition": "GAA Football All-Ireland Senior Championship - Semi-Final",
+    "date": "2026-07-11",
+    "home": "Louth",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20260711-1800-gaa-football-all-ireland-senior-championship-semi-final-louth-mayo",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "louth mayo gaa football all-ireland senior championship - semi-final pairc an chrocaigh louth mayo gaa football all-ireland senior championship - semi-final pairc an chrocaigh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "18:00",
+    "updated_at": "2026-07-11T07:54:54Z",
     "venue": "Páirc an Chrócaigh"
   }
 ]
