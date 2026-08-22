@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "TBC"
   },
   {
@@ -24,21 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "Monaghan / Derry",
-    "competition": "2026 Ulster GAA Football Senior Club Championship - Semi Final 1",
-    "date": "2026-11-22",
-    "home": "Fermanagh / Donegal",
-    "id": "prov-httpsulstergaaiefixtures-results-20261122-1330-2026-ulster-gaa-football-senior-club-championship-semi-final-1-fermanagh-donega-monaghan-derry",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "fermanagh donegal monaghan derry 2026 ulster gaa football senior club championship - semi final 1 tbc fermanagh donegal monaghan derry 2026 ulster gaa football senior club championship - semi final 1 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +38,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Monaghan / Derry",
+    "competition": "2026 Ulster GAA Football Senior Club Championship - Semi Final 1",
+    "date": "2026-11-22",
+    "home": "Fermanagh / Donegal",
+    "id": "prov-httpsulstergaaiefixtures-results-20261122-1330-2026-ulster-gaa-football-senior-club-championship-semi-final-1-fermanagh-donega-monaghan-derry",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fermanagh donegal monaghan derry 2026 ulster gaa football senior club championship - semi final 1 tbc fermanagh donegal monaghan derry 2026 ulster gaa football senior club championship - semi final 1 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "TBC"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-08-22T06:37:53Z",
+    "updated_at": "2026-08-22T18:28:47Z",
     "venue": "Find Insurance Owenbeg"
   }
 ]
