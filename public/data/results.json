@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -206,22 +206,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Páirc Esler, Newry"
-  },
-  {
-    "away": "Antrim",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "date": "2026-11-01",
-    "home": "Monaghan",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-monaghan-antrim",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "monaghan antrim 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones monaghan antrim 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Donegal",
@@ -234,8 +220,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Antrim",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Monaghan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-monaghan-antrim",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "monaghan antrim 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones monaghan antrim 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-09-04T20:19:45Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Fermanagh",
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "TBC"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-09-04T10:40:48Z",
+    "updated_at": "2026-09-04T20:19:45Z",
     "venue": "Find Insurance Owenbeg"
   }
 ]
