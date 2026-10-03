@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "TBC"
   },
   {
@@ -80,22 +80,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "TBC"
-  },
-  {
-    "away": "Derry",
-    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 2",
-    "date": "2026-11-08",
-    "home": "Monaghan",
-    "id": "prov-httpsulstergaaiefixtures-results-20261108-1330-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2-monaghan-derry",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 st tiernach s park clones monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Armagh",
@@ -108,8 +94,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Kingspan Breffni, Cavan"
+  },
+  {
+    "away": "Derry",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 2",
+    "date": "2026-11-08",
+    "home": "Monaghan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1330-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2-monaghan-derry",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 st tiernach s park clones monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-03T20:38:28Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Down / Tyrone",
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "TBC"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-03T11:10:22Z",
+    "updated_at": "2026-10-03T20:38:28Z",
     "venue": "Find Insurance Owenbeg"
   }
 ]
