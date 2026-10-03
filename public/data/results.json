@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,22 +108,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Kingspan Breffni, Cavan"
-  },
-  {
-    "away": "Down / Tyrone",
-    "competition": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 4",
-    "date": "2026-11-08",
-    "home": "Antrim",
-    "id": "prov-httpsulstergaaiefixtures-results-20261108-1330-2026-ulster-gaa-football-senior-club-championship-quarter-final-4-antrim-down-tyrone",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "antrim down tyrone 2026 ulster gaa football senior club championship - quarter final 4 antrim gaa centre of excellence dunsilly antrim down tyrone 2026 ulster gaa football senior club championship - quarter final 4 antrim gaa centre of excellence dunsilly",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
-    "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
     "away": "Down / Tyrone",
@@ -136,7 +122,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
+    "venue": "Antrim GAA Centre of Excellence, Dunsilly"
+  },
+  {
+    "away": "Down / Tyrone",
+    "competition": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 4",
+    "date": "2026-11-08",
+    "home": "Antrim",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1330-2026-ulster-gaa-football-senior-club-championship-quarter-final-4-antrim-down-tyrone",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "antrim down tyrone 2026 ulster gaa football senior club championship - quarter final 4 antrim gaa centre of excellence dunsilly antrim down tyrone 2026 ulster gaa football senior club championship - quarter final 4 antrim gaa centre of excellence dunsilly",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Antrim GAA Centre of Excellence, Dunsilly"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -192,21 +192,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
-    "away": "Fermanagh",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "away": "Tyrone",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
     "date": "2026-11-01",
     "home": "Down",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-down-fermanagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-intermediate-club-championship-round-1-down-tyrone",
     "score": "0-0 \u0013 0-0",
-    "search_index": "down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry",
+    "search_index": "down tyrone 2026 ulster gaa football intermediate club championship - round 1 pairc esler newry down tyrone 2026 ulster gaa football intermediate club championship - round 1 pairc esler newry",
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -220,21 +220,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
-    "away": "Tyrone",
-    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
+    "away": "Fermanagh",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
     "date": "2026-11-01",
     "home": "Down",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-intermediate-club-championship-round-1-down-tyrone",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-down-fermanagh",
     "score": "0-0 \u0013 0-0",
-    "search_index": "down tyrone 2026 ulster gaa football intermediate club championship - round 1 pairc esler newry down tyrone 2026 ulster gaa football intermediate club championship - round 1 pairc esler newry",
+    "search_index": "down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry",
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "TBC"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-02T21:51:58Z",
+    "updated_at": "2026-10-03T11:10:22Z",
     "venue": "Find Insurance Owenbeg"
   }
 ]
