@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-10-13T13:38:44Z",
+    "updated_at": "2026-10-13T22:19:15Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-13T13:38:40Z",
+    "updated_at": "2026-10-13T22:19:10Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -38,21 +38,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-13T13:38:40Z",
+    "updated_at": "2026-10-13T22:19:10Z",
     "venue": "Burren"
   },
   {
-    "away": "Cavan",
+    "away": "Lacken GAA",
     "competition": "2026 Ulster GAA Football Junior Club Championship  - Round 1",
     "date": "2026-10-24",
-    "home": "Derry",
-    "id": "prov-httpsulstergaaiefixtures-results-20261024-1600-2026-ulster-gaa-football-junior-club-championship-round-1-derry-cavan",
+    "home": "Na Piarsaigh Doire Trasna C.LG",
+    "id": "prov-httpsulstergaaiefixtures-results-20261024-1600-2026-ulster-gaa-football-junior-club-championship-round-1-na-piarsaigh-doi-lacken-gaa",
     "score": "0-0 \u0013 0-0",
-    "search_index": "derry cavan 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry derry cavan 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry",
+    "search_index": "na piarsaigh doire trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry na piarsaigh derry trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry",
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-10-13T13:38:40Z",
+    "updated_at": "2026-10-13T22:19:10Z",
     "venue": "Find Insurance Celtic Park, Derry"
   }
 ]
