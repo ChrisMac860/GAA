@@ -1,17 +1,45 @@
 [
   {
+    "away": "Galway",
+    "competition": "Intermediate Football Championship - Play Off",
+    "date": "2026-11-01",
+    "home": "Corofin",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261101-1200-intermediate-football-championship-play-off-corofin-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "corofin galway intermediate football championship - play off tbc corofin galway intermediate football championship - play off tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-10-13T13:38:44Z",
+    "venue": "TBC"
+  },
+  {
     "away": "Tyrone",
     "competition": "2026 Ulster GAA Football Senior Club Championship - Round 1",
     "date": "2026-10-31",
-    "home": "Down",
-    "id": "prov-httpsulstergaaiefixtures-results-20261031-1815-2026-ulster-gaa-football-senior-club-championship-round-1-down-tyrone",
+    "home": "Clonduff GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20261031-1815-2026-ulster-gaa-football-senior-club-championship-round-1-clonduff-gac-tyrone",
     "score": "0-0 \u0013 0-0",
-    "search_index": "down tyrone 2026 ulster gaa football senior club championship - round 1 pairc esler newry down tyrone 2026 ulster gaa football senior club championship - round 1 pairc esler newry",
+    "search_index": "clonduff gac tyrone 2026 ulster gaa football senior club championship - round 1 pairc esler newry clonduff gac tyrone 2026 ulster gaa football senior club championship - round 1 pairc esler newry",
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-13T00:11:41Z",
+    "updated_at": "2026-10-13T13:38:40Z",
     "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "Tyrone",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
+    "date": "2026-10-31",
+    "home": "Rostrevor",
+    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-intermediate-club-championship-round-1-rostrevor-tyrone",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "rostrevor tyrone 2026 ulster gaa football intermediate club championship - round 1 burren rostrevor tyrone 2026 ulster gaa football intermediate club championship - round 1 burren",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-10-13T13:38:40Z",
+    "venue": "Burren"
   },
   {
     "away": "Cavan",
@@ -24,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-10-13T00:11:41Z",
+    "updated_at": "2026-10-13T13:38:40Z",
     "venue": "Find Insurance Celtic Park, Derry"
   }
 ]
