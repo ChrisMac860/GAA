@@ -1,9 +1,23 @@
 [
   {
+    "first_kickoff": "2026-10-31T15:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
+    "popularity": 130,
+    "slug": "2026-ulster-gaa-football-intermediate-club-championship-round-1"
+  },
+  {
     "first_kickoff": "2026-10-24T15:00:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Junior Club Championship  - Round 1",
     "popularity": 120,
     "slug": "2026-ulster-gaa-football-junior-club-championship-round-1"
+  },
+  {
+    "first_kickoff": "2026-10-31T18:15:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Senior Club Championship - Round 1",
+    "popularity": 80,
+    "slug": "2026-ulster-gaa-football-senior-club-championship-round-1"
   }
 ]
