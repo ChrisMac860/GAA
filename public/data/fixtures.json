@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-17T20:11:29Z",
+    "updated_at": "2026-10-18T10:27:52Z",
     "venue": "Find Insurance Owenbeg"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-17T20:11:29Z",
+    "updated_at": "2026-10-18T10:27:52Z",
     "venue": "Burren"
   },
   {
@@ -38,7 +38,77 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-17T20:11:29Z",
+    "updated_at": "2026-10-18T10:27:52Z",
     "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "Galway",
+    "competition": "Intermediate Football Championship - Play Off",
+    "date": "2026-11-01",
+    "home": "Corofin",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261101-1200-intermediate-football-championship-play-off-corofin-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "corofin galway intermediate football championship - play off tbc corofin galway intermediate football championship - play off tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-10-18T10:27:56Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Donegal",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
+    "date": "2026-11-01",
+    "home": "Tyrone",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-tyrone-donegal",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "tyrone donegal 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh tyrone donegal 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-18T10:27:52Z",
+    "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Fermanagh",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Down",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-down-fermanagh",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-18T10:27:52Z",
+    "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "St Mary's Rasharkin",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Monaghan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-monaghan-st-marys-rashark",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "monaghan st mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones monaghan saint mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-18T10:27:52Z",
+    "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Derry / Cavan",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 4",
+    "date": "2026-11-01",
+    "home": "Armagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1530-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-armagh-derry-cavan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "armagh derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc armagh derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-10-18T10:27:52Z",
+    "venue": "TBC"
   }
 ]
