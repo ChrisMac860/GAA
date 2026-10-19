@@ -10,21 +10,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-18T20:09:35Z",
+    "updated_at": "2026-10-19T12:15:21Z",
     "venue": "Find Insurance Owenbeg"
   },
   {
-    "away": "Tyrone",
+    "away": "Rock St Patrick's",
     "competition": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
     "date": "2026-10-31",
     "home": "Rostrevor",
-    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-intermediate-club-championship-round-1-rostrevor-tyrone",
+    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-intermediate-club-championship-round-1-rostrevor-rock-st-patricks",
     "score": "0-0 \u0013 0-0",
-    "search_index": "rostrevor tyrone 2026 ulster gaa football intermediate club championship - round 1 burren rostrevor tyrone 2026 ulster gaa football intermediate club championship - round 1 burren",
+    "search_index": "rostrevor rock st patrick s 2026 ulster gaa football intermediate club championship - round 1 burren rostrevor rock saint patrick s 2026 ulster gaa football intermediate club championship - round 1 burren",
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-18T20:09:35Z",
+    "updated_at": "2026-10-19T12:15:21Z",
     "venue": "Burren"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-18T20:09:35Z",
+    "updated_at": "2026-10-19T12:15:21Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -52,36 +52,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-10-18T20:09:39Z",
+    "updated_at": "2026-10-19T12:15:25Z",
     "venue": "TBC"
-  },
-  {
-    "away": "Donegal",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
-    "date": "2026-11-01",
-    "home": "Tyrone",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-tyrone-donegal",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "tyrone donegal 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh tyrone donegal 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-18T20:09:35Z",
-    "venue": "O'Neills Healy Park, Omagh"
-  },
-  {
-    "away": "Fermanagh",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "date": "2026-11-01",
-    "home": "Down",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-down-fermanagh",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry down fermanagh 2026 ulster gaa football junior club championship - quarter final 1 pairc esler newry",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-18T20:09:35Z",
-    "venue": "Páirc Esler, Newry"
   },
   {
     "away": "St Mary's Rasharkin",
@@ -94,21 +66,49 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-18T20:09:35Z",
+    "updated_at": "2026-10-19T12:15:21Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Newtownbutler First Fermanaghs",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Kilclief Ben Dearg GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-19T12:15:21Z",
+    "venue": "Downpatrick"
+  },
+  {
+    "away": "Urris",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
+    "date": "2026-11-01",
+    "home": "Fionntamhnach Na Piarsaigh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-fionntamhnach-na-urris",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-19T12:15:21Z",
+    "venue": "O'Neills Healy Park, Omagh"
   },
   {
     "away": "Derry / Cavan",
     "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 4",
     "date": "2026-11-01",
-    "home": "Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1530-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-armagh-derry-cavan",
+    "home": "Ballyhegan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1530-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-ballyhegan-derry-cavan",
     "score": "0-0 \u0013 0-0",
-    "search_index": "armagh derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc armagh derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc",
+    "search_index": "ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc",
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-18T20:09:35Z",
+    "updated_at": "2026-10-19T12:15:21Z",
     "venue": "TBC"
   }
 ]
