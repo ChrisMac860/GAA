@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-19T12:15:21Z",
+    "updated_at": "2026-10-19T22:01:39Z",
     "venue": "Find Insurance Owenbeg"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-19T12:15:21Z",
+    "updated_at": "2026-10-19T22:01:39Z",
     "venue": "Burren"
   },
   {
@@ -38,22 +38,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-19T12:15:21Z",
+    "updated_at": "2026-10-19T22:01:39Z",
     "venue": "Páirc Esler, Newry"
-  },
-  {
-    "away": "Galway",
-    "competition": "Intermediate Football Championship - Play Off",
-    "date": "2026-11-01",
-    "home": "Corofin",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20261101-1200-intermediate-football-championship-play-off-corofin-galway",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "corofin galway intermediate football championship - play off tbc corofin galway intermediate football championship - play off tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-10-19T12:15:25Z",
-    "venue": "TBC"
   },
   {
     "away": "St Mary's Rasharkin",
@@ -66,22 +52,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-19T12:15:21Z",
+    "updated_at": "2026-10-19T22:01:39Z",
     "venue": "St. Tiernach's Park, Clones"
-  },
-  {
-    "away": "Newtownbutler First Fermanaghs",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "date": "2026-11-01",
-    "home": "Kilclief Ben Dearg GAC",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-19T12:15:21Z",
-    "venue": "Downpatrick"
   },
   {
     "away": "Urris",
@@ -94,8 +66,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-19T12:15:21Z",
+    "updated_at": "2026-10-19T22:01:39Z",
     "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Newtownbutler First Fermanaghs",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Kilclief Ben Dearg GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-19T22:01:39Z",
+    "venue": "Downpatrick"
   },
   {
     "away": "Derry / Cavan",
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-19T12:15:21Z",
+    "updated_at": "2026-10-19T22:01:39Z",
     "venue": "TBC"
   }
 ]
