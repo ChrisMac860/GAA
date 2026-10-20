@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -172,14 +172,14 @@
     "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 2",
     "date": "2026-11-07",
     "home": "Monaghan",
-    "id": "prov-httpsulstergaaiefixtures-results-20261107-1330-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2-monaghan-derry",
+    "id": "prov-httpsulstergaaiefixtures-results-20261107-1530-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2-monaghan-derry",
     "score": "0-0 \u0013 0-0",
-    "search_index": "monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 tbc monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 tbc",
+    "search_index": "monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 pairc grattan inniskeen monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 pairc grattan inniskeen",
     "source": "scraper",
     "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
-    "venue": "TBC"
+    "time": "15:30",
+    "updated_at": "2026-10-20T21:17:32Z",
+    "venue": "Páirc Grattan, Inniskeen"
   },
   {
     "away": "Down / Tyrone",
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "TBC"
   },
   {
@@ -206,36 +206,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-10-20T10:58:26Z",
+    "updated_at": "2026-10-20T21:17:36Z",
     "venue": "TBC"
-  },
-  {
-    "away": "Derry / Cavan",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 4",
-    "date": "2026-11-01",
-    "home": "Ballyhegan",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1530-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-ballyhegan-derry-cavan",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:30",
-    "updated_at": "2026-10-20T10:58:22Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "St Mary's Rasharkin",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "date": "2026-11-01",
-    "home": "Monaghan",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-monaghan-st-marys-rashark",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "monaghan st mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones monaghan saint mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Urris",
@@ -248,8 +220,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "St Mary's Rasharkin",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Monaghan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-monaghan-st-marys-rashark",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "monaghan st mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones monaghan saint mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-20T21:17:32Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Newtownbutler First Fermanaghs",
@@ -262,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Downpatrick"
   },
   {
@@ -276,8 +262,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "Derry / Cavan",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 4",
+    "date": "2026-10-31",
+    "home": "Ballyhegan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261031-1530-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-ballyhegan-derry-cavan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-10-20T21:17:32Z",
+    "venue": "TBC"
   },
   {
     "away": "Rock St Patrick's",
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Burren"
   },
   {
@@ -304,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-20T10:58:22Z",
+    "updated_at": "2026-10-20T21:17:32Z",
     "venue": "Find Insurance Owenbeg"
   }
 ]
