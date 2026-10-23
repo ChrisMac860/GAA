@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -206,22 +206,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-10-23T11:05:03Z",
+    "updated_at": "2026-10-23T21:02:29Z",
     "venue": "TBC"
-  },
-  {
-    "away": "Newtownbutler First Fermanaghs",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "date": "2026-11-01",
-    "home": "Kilclief Ben Dearg GAC",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
-    "venue": "Downpatrick"
   },
   {
     "away": "St Mary's Rasharkin",
@@ -234,8 +220,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Newtownbutler First Fermanaghs",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Kilclief Ben Dearg GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-23T21:02:25Z",
+    "venue": "Downpatrick"
   },
   {
     "away": "Urris",
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -262,7 +262,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -276,7 +276,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "TBC"
   },
   {
@@ -290,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Burren"
   },
   {
@@ -304,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-23T11:04:59Z",
+    "updated_at": "2026-10-23T21:02:25Z",
     "venue": "Find Insurance Owenbeg"
   }
 ]
