@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-23T21:02:25Z",
+    "updated_at": "2026-10-24T10:21:24Z",
     "venue": "Find Insurance Owenbeg"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-23T21:02:25Z",
+    "updated_at": "2026-10-24T10:21:24Z",
     "venue": "Burren"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-23T21:02:25Z",
+    "updated_at": "2026-10-24T10:21:24Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-23T21:02:25Z",
+    "updated_at": "2026-10-24T10:21:24Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T21:02:25Z",
+    "updated_at": "2026-10-24T10:21:24Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T21:02:25Z",
+    "updated_at": "2026-10-24T10:21:24Z",
     "venue": "Downpatrick"
   },
   {
@@ -94,7 +94,91 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-23T21:02:25Z",
+    "updated_at": "2026-10-24T10:21:24Z",
     "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Galway",
+    "competition": "Intermediate Football Championship - Play Off",
+    "date": "2026-11-07",
+    "home": "Corofin",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261107-1200-intermediate-football-championship-play-off-corofin-galway",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "corofin galway intermediate football championship - play off tbc corofin galway intermediate football championship - play off tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "12:00",
+    "updated_at": "2026-10-24T10:21:28Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Down / Tyrone",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 4",
+    "date": "2026-11-07",
+    "home": "Naomh Éanna CLG",
+    "id": "prov-httpsulstergaaiefixtures-results-20261107-1330-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-4-naomh-eanna-clg-down-tyrone",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "naomh eanna clg down tyrone 2026 ulster gaa football intermediate club championship - quarter final 4 tbc saint eanna clg down tyrone 2026 ulster gaa football intermediate club championship - quarter final 4 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-24T10:21:24Z",
+    "venue": "TBC"
+  },
+  {
+    "away": "Derry",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 2",
+    "date": "2026-11-07",
+    "home": "Monaghan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261107-1530-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2-monaghan-derry",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 pairc grattan inniskeen monaghan derry 2026 ulster gaa football intermediate club championship - quarter final 2 pairc grattan inniskeen",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-10-24T10:21:24Z",
+    "venue": "Páirc Grattan, Inniskeen"
+  },
+  {
+    "away": "Naomh Peadar",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 3",
+    "date": "2026-11-07",
+    "home": "Butlersbridge G.A.A",
+    "id": "prov-httpsulstergaaiefixtures-results-20261107-1700-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-3-butlersbridge-ga-naomh-peadar",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "butlersbridge g a a naomh peadar 2026 ulster gaa football intermediate club championship - quarter final 3 kingspan breffni cavan butlersbridge g a a saint peadar 2026 ulster gaa football intermediate club championship - quarter final 3 kingspan breffni cavan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2026-10-24T10:21:24Z",
+    "venue": "Kingspan Breffni, Cavan"
+  },
+  {
+    "away": "Naomh Adhamhnáin/St Eunan's",
+    "competition": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 1",
+    "date": "2026-11-07",
+    "home": "Fermanagh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261107-1700-2026-ulster-gaa-football-senior-club-championship-quarter-final-1-fermanagh-naomh-adhamhnain",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fermanagh naomh adhamhnain st eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen fermanagh saint adhamhnain saint eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2026-10-24T10:21:24Z",
+    "venue": "Brewster Park, Enniskillen"
+  },
+  {
+    "away": "Crossmaglen Rangers",
+    "competition": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 3",
+    "date": "2026-11-07",
+    "home": "Gowna",
+    "id": "prov-httpsulstergaaiefixtures-results-20261107-1915-2026-ulster-gaa-football-senior-club-championship-quarter-final-3-gowna-crossmaglen-rang",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "gowna crossmaglen rangers 2026 ulster gaa football senior club championship - quarter final 3 kingspan breffni cavan gowna crossmaglen rangers 2026 ulster gaa football senior club championship - quarter final 3 kingspan breffni cavan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "19:15",
+    "updated_at": "2026-10-24T10:21:24Z",
+    "venue": "Kingspan Breffni, Cavan"
   }
 ]

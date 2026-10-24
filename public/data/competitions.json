@@ -7,6 +7,27 @@
     "slug": "2026-ulster-gaa-football-intermediate-club-championship-round-1"
   },
   {
+    "first_kickoff": "2026-11-07T13:30:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 4",
+    "popularity": 130,
+    "slug": "2026-ulster-gaa-football-intermediate-club-championship-quarter-final-4"
+  },
+  {
+    "first_kickoff": "2026-11-07T15:30:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 2",
+    "popularity": 130,
+    "slug": "2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2"
+  },
+  {
+    "first_kickoff": "2026-11-07T17:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 3",
+    "popularity": 130,
+    "slug": "2026-ulster-gaa-football-intermediate-club-championship-quarter-final-3"
+  },
+  {
     "first_kickoff": "2026-11-01T13:30:00Z",
     "match_count": 2,
     "name": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
@@ -40,5 +61,26 @@
     "name": "2026 Ulster GAA Football Senior Club Championship - Round 1",
     "popularity": 80,
     "slug": "2026-ulster-gaa-football-senior-club-championship-round-1"
+  },
+  {
+    "first_kickoff": "2026-11-07T17:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 1",
+    "popularity": 80,
+    "slug": "2026-ulster-gaa-football-senior-club-championship-quarter-final-1"
+  },
+  {
+    "first_kickoff": "2026-11-07T19:15:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 3",
+    "popularity": 80,
+    "slug": "2026-ulster-gaa-football-senior-club-championship-quarter-final-3"
+  },
+  {
+    "first_kickoff": "2026-11-07T12:00:00Z",
+    "match_count": 1,
+    "name": "Intermediate Football Championship - Play Off",
+    "popularity": 50,
+    "slug": "intermediate-football-championship-play-off"
   }
 ]
