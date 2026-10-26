@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
   },
   {
@@ -80,8 +80,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
+  },
+  {
+    "away": "Castlebar Mitchels",
+    "competition": "Connacht GAA Club Senior Football Championship - Semi Final 2",
+    "date": "2026-11-14",
+    "home": "Fulham Irish",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261114-1300-connacht-gaa-club-senior-football-championship-semi-final-2-fulham-irish-castlebar-mitche",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fulham irish castlebar mitchels connacht gaa club senior football championship - semi final 2 mcgovern park ruislip fulham irish castlebar mitchels connacht gaa club senior football championship - semi final 2 mcgovern park ruislip",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-10-26T22:20:09Z",
+    "venue": "McGovern Park, Ruislip"
   },
   {
     "away": "Down / Tyrone",
@@ -94,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -122,8 +136,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "Brewster Park, Enniskillen"
+  },
+  {
+    "away": "Seán Ó hEislin-Béal an Átha Móir/Ballinamore-Sean O'Heslin's",
+    "competition": "Connacht GAA Club Senior Football Championship - Quarter Final 2",
+    "date": "2026-11-08",
+    "home": "Salthill-Knocknacarra",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261108-1330-connacht-gaa-club-senior-football-championship-quarter-final-2-salthill-knockna-sean-o-heislin-b",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "salthill-knocknacarra sean o heislin-beal an atha moir ballinamore-sean o heslin s connacht gaa club senior football championship - quarter final 2 heartland credit union pairc sean macdiarmada salthill-knocknacarra sean o heislin-beal an atha moir ballinamore-sean o heslin s connacht gaa club senior football championship - quarter final 2 heartland credit union pairc sean macdiarmada",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-26T22:20:09Z",
+    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
     "away": "Crossmaglen Rangers",
@@ -136,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -150,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -164,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -178,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -192,8 +220,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
+  },
+  {
+    "away": "St Mary's",
+    "competition": "Connacht GAA Club Senior Football Championship - Quarter Final 1",
+    "date": "2026-11-07",
+    "home": "St Brigids",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261107-1330-connacht-gaa-club-senior-football-championship-quarter-final-1-st-brigids-st-marys",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "st brigids st mary s connacht gaa club senior football championship - quarter final 1 king moffatt dr hyde park saint brigids saint mary s connacht gaa club senior football championship - quarter final 1 king moffatt dr hyde park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-26T22:20:09Z",
+    "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
     "away": "Galway",
@@ -206,36 +248,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-10-26T12:19:52Z",
+    "updated_at": "2026-10-26T22:20:09Z",
     "venue": "TBC"
-  },
-  {
-    "away": "Newtownbutler First Fermanaghs",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "date": "2026-11-01",
-    "home": "Kilclief Ben Dearg GAC",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
-    "venue": "Downpatrick"
-  },
-  {
-    "away": "Urris",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
-    "date": "2026-11-01",
-    "home": "Fionntamhnach Na Piarsaigh",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-fionntamhnach-na-urris",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
-    "venue": "O'Neills Healy Park, Omagh"
   },
   {
     "away": "St Mary's Rasharkin",
@@ -248,8 +262,36 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Urris",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
+    "date": "2026-11-01",
+    "home": "Fionntamhnach Na Piarsaigh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-fionntamhnach-na-urris",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-26T22:20:04Z",
+    "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Newtownbutler First Fermanaghs",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Kilclief Ben Dearg GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-26T22:20:04Z",
+    "venue": "Downpatrick"
   },
   {
     "away": "Edendork St Malachy's",
@@ -262,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -276,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "TBC"
   },
   {
@@ -290,7 +332,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-26T12:19:48Z",
+    "updated_at": "2026-10-26T22:20:04Z",
     "venue": "Burren"
+  },
+  {
+    "away": "Lacken GAA",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Round 1",
+    "date": "2026-10-31",
+    "home": "Na Piarsaigh Doire Trasna C.LG",
+    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-junior-club-championship-round-1-na-piarsaigh-doi-lacken-gaa",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "na piarsaigh doire trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry na piarsaigh derry trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-10-26T22:20:04Z",
+    "venue": "Find Insurance Celtic Park, Derry"
   }
 ]
