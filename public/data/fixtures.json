@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Burren"
   },
   {
@@ -24,22 +24,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Find Insurance Celtic Park, Derry"
-  },
-  {
-    "away": "Derry / Cavan",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 4",
-    "date": "2026-10-31",
-    "home": "Ballyhegan",
-    "id": "prov-httpsulstergaaiefixtures-results-20261031-1530-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-ballyhegan-derry-cavan",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:30",
-    "updated_at": "2026-10-26T22:20:04Z",
-    "venue": "TBC"
   },
   {
     "away": "Edendork St Malachy's",
@@ -52,22 +38,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Páirc Esler, Newry"
-  },
-  {
-    "away": "St Mary's Rasharkin",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "date": "2026-11-01",
-    "home": "Drumhowan",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-drumhowan-st-marys-rashark",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "drumhowan st mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones drumhowan saint mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-26T22:20:04Z",
-    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Urris",
@@ -80,8 +52,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "St Mary's Rasharkin",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Drumhowan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-drumhowan-st-marys-rashark",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "drumhowan st mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones drumhowan saint mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-27T11:39:29Z",
+    "venue": "St. Tiernach's Park, Clones"
   },
   {
     "away": "Newtownbutler First Fermanaghs",
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Downpatrick"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-10-26T22:20:09Z",
+    "updated_at": "2026-10-27T11:39:31Z",
     "venue": "TBC"
   },
   {
@@ -122,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "TBC"
   },
   {
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:09Z",
+    "updated_at": "2026-10-27T11:39:31Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -164,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -178,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -192,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -206,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "TBC"
   },
   {
@@ -220,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -234,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:04Z",
+    "updated_at": "2026-10-27T11:39:29Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -248,7 +234,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-26T22:20:09Z",
+    "updated_at": "2026-10-27T11:39:31Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
+  },
+  {
+    "away": "Derry / Cavan",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 4",
+    "date": "2026-11-08",
+    "home": "Ballyhegan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1530-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-ballyhegan-derry-cavan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc ballyhegan derry cavan 2026 ulster gaa football junior club championship - quarter final 4 tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-10-27T11:39:29Z",
+    "venue": "TBC"
   }
 ]
