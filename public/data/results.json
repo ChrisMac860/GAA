@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-10-27T11:39:31Z",
+    "updated_at": "2026-10-27T21:51:07Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:31Z",
+    "updated_at": "2026-10-27T21:51:07Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -192,21 +192,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
     "away": "Naomh Adhamhnáin/St Eunan's",
     "competition": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 1",
     "date": "2026-11-07",
-    "home": "Fermanagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20261107-1700-2026-ulster-gaa-football-senior-club-championship-quarter-final-1-fermanagh-naomh-adhamhnain",
+    "home": "Erne Gaels Belleek",
+    "id": "prov-httpsulstergaaiefixtures-results-20261107-1700-2026-ulster-gaa-football-senior-club-championship-quarter-final-1-erne-gaels-belle-naomh-adhamhnain",
     "score": "0-0 \u0013 0-0",
-    "search_index": "fermanagh naomh adhamhnain st eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen fermanagh saint adhamhnain saint eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen",
+    "search_index": "erne gaels belleek naomh adhamhnain st eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen erne gaels belleek saint adhamhnain saint eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen",
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "TBC"
   },
   {
@@ -248,36 +248,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:31Z",
+    "updated_at": "2026-10-27T21:51:07Z",
     "venue": "King & Moffatt Dr. Hyde Park"
-  },
-  {
-    "away": "Galway",
-    "competition": "Intermediate Football Championship - Play Off",
-    "date": "2026-11-07",
-    "home": "Corofin",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20261107-1200-intermediate-football-championship-play-off-corofin-galway",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "corofin galway intermediate football championship - play off tbc corofin galway intermediate football championship - play off tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-10-27T11:39:31Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "Urris",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
-    "date": "2026-11-01",
-    "home": "Fionntamhnach Na Piarsaigh",
-    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-fionntamhnach-na-urris",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
-    "venue": "O'Neills Healy Park, Omagh"
   },
   {
     "away": "St Mary's Rasharkin",
@@ -290,8 +262,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Urris",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
+    "date": "2026-11-01",
+    "home": "Fionntamhnach Na Piarsaigh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-fionntamhnach-na-urris",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-10-27T21:51:04Z",
+    "venue": "O'Neills Healy Park, Omagh"
   },
   {
     "away": "Newtownbutler First Fermanaghs",
@@ -304,7 +290,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Downpatrick"
   },
   {
@@ -318,7 +304,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -332,7 +318,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Burren"
   },
   {
@@ -346,7 +332,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-27T11:39:29Z",
+    "updated_at": "2026-10-27T21:51:04Z",
     "venue": "Find Insurance Celtic Park, Derry"
   }
 ]
