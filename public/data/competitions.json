@@ -7,18 +7,18 @@
     "slug": "2026-ulster-gaa-football-intermediate-club-championship-round-1"
   },
   {
-    "first_kickoff": "2026-11-07T13:30:00Z",
-    "match_count": 1,
-    "name": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 4",
-    "popularity": 130,
-    "slug": "2026-ulster-gaa-football-intermediate-club-championship-quarter-final-4"
-  },
-  {
-    "first_kickoff": "2026-11-07T15:30:00Z",
+    "first_kickoff": "2026-11-07T12:00:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 2",
     "popularity": 130,
     "slug": "2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2"
+  },
+  {
+    "first_kickoff": "2026-11-07T12:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 4",
+    "popularity": 130,
+    "slug": "2026-ulster-gaa-football-intermediate-club-championship-quarter-final-4"
   },
   {
     "first_kickoff": "2026-11-07T17:00:00Z",
@@ -98,7 +98,7 @@
     "slug": "2026-ulster-gaa-football-senior-club-championship-quarter-final-3"
   },
   {
-    "first_kickoff": "2026-11-08T13:30:00Z",
+    "first_kickoff": "2026-11-08T12:00:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 4",
     "popularity": 80,
