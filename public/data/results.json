@@ -1,19 +1,5 @@
 [
   {
-    "away": "Rock St Patrick's",
-    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
-    "date": "2026-10-31",
-    "home": "Rostrevor",
-    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-intermediate-club-championship-round-1-rostrevor-rock-st-patricks",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "rostrevor rock st patrick s 2026 ulster gaa football intermediate club championship - round 1 burren rostrevor rock saint patrick s 2026 ulster gaa football intermediate club championship - round 1 burren",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:00",
-    "updated_at": "2026-10-31T11:44:38Z",
-    "venue": "Burren"
-  },
-  {
     "away": "Lacken GAA",
     "competition": "2026 Ulster GAA Football Junior Club Championship  - Round 1",
     "date": "2026-10-31",
@@ -24,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-31T11:44:38Z",
+    "updated_at": "2026-10-31T21:01:36Z",
     "venue": "Find Insurance Celtic Park, Derry"
+  },
+  {
+    "away": "Rock St Patrick's",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
+    "date": "2026-10-31",
+    "home": "Rostrevor",
+    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-intermediate-club-championship-round-1-rostrevor-rock-st-patricks",
+    "score": "3-12 \u0013 3-15",
+    "search_index": "rostrevor rock st patrick s 2026 ulster gaa football intermediate club championship - round 1 burren rostrevor rock saint patrick s 2026 ulster gaa football intermediate club championship - round 1 burren",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-10-31T21:01:37Z",
+    "venue": "Burren"
   },
   {
     "away": "Edendork St Malachy's",
@@ -33,12 +33,12 @@
     "date": "2026-10-31",
     "home": "Clonduff GAC",
     "id": "prov-httpsulstergaaiefixtures-results-20261031-1815-2026-ulster-gaa-football-senior-club-championship-round-1-clonduff-gac-edendork-st-mala",
-    "score": "0-0 \u0013 0-0",
+    "score": "0-12 \u0013 0-17",
     "search_index": "clonduff gac edendork st malachy s 2026 ulster gaa football senior club championship - round 1 pairc esler newry clonduff gac edendork saint malachy s 2026 ulster gaa football senior club championship - round 1 pairc esler newry",
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-31T11:44:38Z",
+    "updated_at": "2026-10-31T21:01:37Z",
     "venue": "Páirc Esler, Newry"
   }
 ]
