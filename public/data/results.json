@@ -1,19 +1,5 @@
 [
   {
-    "away": "Lacken GAA",
-    "competition": "2026 Ulster GAA Football Junior Club Championship  - Round 1",
-    "date": "2026-10-31",
-    "home": "Na Piarsaigh Doire Trasna C.LG",
-    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-junior-club-championship-round-1-na-piarsaigh-doi-lacken-gaa",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "na piarsaigh doire trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry na piarsaigh derry trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:00",
-    "updated_at": "2026-10-31T21:01:36Z",
-    "venue": "Find Insurance Celtic Park, Derry"
-  },
-  {
     "away": "Rock St Patrick's",
     "competition": "2026 Ulster GAA Football Intermediate Club Championship - Round 1",
     "date": "2026-10-31",
@@ -24,8 +10,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-10-31T21:01:37Z",
+    "updated_at": "2026-11-01T12:44:07Z",
     "venue": "Burren"
+  },
+  {
+    "away": "Lacken GAA",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Round 1",
+    "date": "2026-10-31",
+    "home": "Na Piarsaigh Doire Trasna C.LG",
+    "id": "prov-httpsulstergaaiefixtures-results-20261031-1500-2026-ulster-gaa-football-junior-club-championship-round-1-na-piarsaigh-doi-lacken-gaa",
+    "score": "1-5 \u0013 2-14",
+    "search_index": "na piarsaigh doire trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry na piarsaigh derry trasna c lg lacken gaa 2026 ulster gaa football junior club championship - round 1 find insurance celtic park derry",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:00",
+    "updated_at": "2026-11-01T12:44:07Z",
+    "venue": "Find Insurance Celtic Park, Derry"
   },
   {
     "away": "Edendork St Malachy's",
@@ -38,7 +38,49 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-10-31T21:01:37Z",
+    "updated_at": "2026-11-01T12:44:07Z",
     "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "St Mary's Rasharkin",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Drumhowan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-drumhowan-st-marys-rashark",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "drumhowan st mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 st tiernach s park clones drumhowan saint mary s rasharkin 2026 ulster gaa football junior club championship - quarter final 1 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-01T12:44:07Z",
+    "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Urris",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
+    "date": "2026-11-01",
+    "home": "Fionntamhnach Na Piarsaigh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1330-2026-ulster-gaa-football-junior-club-championship-quarter-final-3-fionntamhnach-na-urris",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh fionntamhnach na piarsaigh urris 2026 ulster gaa football junior club championship - quarter final 3 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-01T12:44:07Z",
+    "venue": "O'Neills Healy Park, Omagh"
+  },
+  {
+    "away": "Newtownbutler First Fermanaghs",
+    "competition": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
+    "date": "2026-11-01",
+    "home": "Kilclief Ben Dearg GAC",
+    "id": "prov-httpsulstergaaiefixtures-results-20261101-1430-2026-ulster-gaa-football-junior-club-championship-quarter-final-1-kilclief-ben-dea-newtownbutler-fi",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick kilclief ben dearg gac newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - quarter final 1 downpatrick",
+    "source": "scraper",
+    "status": "FT",
+    "time": "14:30",
+    "updated_at": "2026-11-01T12:44:07Z",
+    "venue": "Downpatrick"
   }
 ]
