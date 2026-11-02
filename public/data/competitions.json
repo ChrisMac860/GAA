@@ -35,20 +35,6 @@
     "slug": "connacht-gaa-club-intermediate-football-championship-quarter-final"
   },
   {
-    "first_kickoff": "2026-11-01T13:30:00Z",
-    "match_count": 2,
-    "name": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 1",
-    "popularity": 120,
-    "slug": "2026-ulster-gaa-football-junior-club-championship-quarter-final-1"
-  },
-  {
-    "first_kickoff": "2026-11-01T13:30:00Z",
-    "match_count": 1,
-    "name": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 3",
-    "popularity": 120,
-    "slug": "2026-ulster-gaa-football-junior-club-championship-quarter-final-3"
-  },
-  {
     "first_kickoff": "2026-11-07T13:30:00Z",
     "match_count": 1,
     "name": "Connacht GAA Club Junior Football Championship - Quarter-Final",
@@ -56,23 +42,23 @@
     "slug": "connacht-gaa-club-junior-football-championship-quarter-final"
   },
   {
-    "first_kickoff": "2026-11-08T12:00:00Z",
+    "first_kickoff": "2026-11-08T17:00:00Z",
     "match_count": 1,
-    "name": "2026 Ulster GAA Football Junior Club Championship  - Quarter Final 4",
+    "name": "2026 Ulster GAA Football Junior Club Championship - Quarter Final 4",
     "popularity": 120,
     "slug": "2026-ulster-gaa-football-junior-club-championship-quarter-final-4"
   },
   {
     "first_kickoff": "2026-11-15T13:30:00Z",
     "match_count": 1,
-    "name": "2026 Ulster GAA Football Junior Club Championship  - Semi Final 1",
+    "name": "2026 Ulster GAA Football Junior Club Championship - Semi Final 1",
     "popularity": 120,
     "slug": "2026-ulster-gaa-football-junior-club-championship-semi-final-1"
   },
   {
     "first_kickoff": "2026-11-15T13:30:00Z",
     "match_count": 1,
-    "name": "2026 Ulster GAA Football Junior Club Championship  - Semi Final 2",
+    "name": "2026 Ulster GAA Football Junior Club Championship - Semi Final 2",
     "popularity": 120,
     "slug": "2026-ulster-gaa-football-junior-club-championship-semi-final-2"
   },
