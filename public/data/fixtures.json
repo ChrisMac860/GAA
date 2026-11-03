@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-03T13:41:34Z",
+    "updated_at": "2026-11-03T22:56:28Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-03T13:41:34Z",
+    "updated_at": "2026-11-03T22:56:28Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-03T13:41:34Z",
+    "updated_at": "2026-11-03T22:56:28Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "O'Neill Park, Dungannon"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-03T13:41:34Z",
+    "updated_at": "2026-11-03T22:56:28Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "O'Neill Park, Dungannon"
   },
   {
@@ -192,35 +192,35 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-03T13:41:34Z",
+    "updated_at": "2026-11-03T22:56:28Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
-    "away": "Monaghan / Antrim",
+    "away": "Newtownbutler First Fermanaghs",
     "competition": "2026 Ulster GAA Football Junior Club Championship - Semi Final 1",
     "date": "2026-11-15",
-    "home": "Down / Fermanagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20261115-1330-2026-ulster-gaa-football-junior-club-championship-semi-final-1-down-fermanagh-monaghan-antrim",
+    "home": "Drumhowan",
+    "id": "prov-httpsulstergaaiefixtures-results-20261115-1330-2026-ulster-gaa-football-junior-club-championship-semi-final-1-drumhowan-newtownbutler-fi",
     "score": "0-0 \u0013 0-0",
-    "search_index": "down fermanagh monaghan antrim 2026 ulster gaa football junior club championship - semi final 1 tbc down fermanagh monaghan antrim 2026 ulster gaa football junior club championship - semi final 1 tbc",
+    "search_index": "drumhowan newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - semi final 1 tbc drumhowan newtownbutler first fermanaghs 2026 ulster gaa football junior club championship - semi final 1 tbc",
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "TBC"
   },
   {
-    "away": "Armagh / Derry / Cavan",
+    "away": "Lacken / Ballyhegan",
     "competition": "2026 Ulster GAA Football Junior Club Championship - Semi Final 2",
     "date": "2026-11-15",
-    "home": "Tyrone / Donegal",
-    "id": "prov-httpsulstergaaiefixtures-results-20261115-1330-2026-ulster-gaa-football-junior-club-championship-semi-final-2-tyrone-donegal-armagh-derry-cav",
+    "home": "Fionntamhnach Na Piarsaigh",
+    "id": "prov-httpsulstergaaiefixtures-results-20261115-1330-2026-ulster-gaa-football-junior-club-championship-semi-final-2-fionntamhnach-na-lacken-ballyhega",
     "score": "0-0 \u0013 0-0",
-    "search_index": "tyrone donegal armagh derry cavan 2026 ulster gaa football junior club championship - semi final 2 tbc tyrone donegal armagh derry cavan 2026 ulster gaa football junior club championship - semi final 2 tbc",
+    "search_index": "fionntamhnach na piarsaigh lacken ballyhegan 2026 ulster gaa football junior club championship - semi final 2 tbc fionntamhnach na piarsaigh lacken ballyhegan 2026 ulster gaa football junior club championship - semi final 2 tbc",
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-03T13:41:30Z",
+    "updated_at": "2026-11-03T22:56:24Z",
     "venue": "TBC"
   }
 ]
