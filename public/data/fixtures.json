@@ -1,31 +1,31 @@
 [
   {
-    "away": "St Aidan's",
-    "competition": "Connacht GAA Club Junior Football Championship - Quarter-Final",
-    "date": "2026-11-07",
-    "home": "Ardagh",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20261107-1330-connacht-gaa-club-junior-football-championship-quarter-final-ardagh-st-aidans",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "ardagh st aidan s connacht gaa club junior football championship - quarter-final hastings insurance machale park castlebar ardagh saint aidan s connacht gaa club junior football championship - quarter-final hastings insurance machale park castlebar",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-11-07T12:31:29Z",
-    "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
     "away": "St Mary's",
     "competition": "Connacht GAA Club Senior Football Championship - Quarter Final 1",
     "date": "2026-11-07",
     "home": "St Brigids",
     "id": "prov-httpsconnachtgaaiefixtures-results-20261107-1330-connacht-gaa-club-senior-football-championship-quarter-final-1-st-brigids-st-marys",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-24 \u0013 0-9",
     "search_index": "st brigids st mary s connacht gaa club senior football championship - quarter final 1 king moffatt dr hyde park saint brigids saint mary s connacht gaa club senior football championship - quarter final 1 king moffatt dr hyde park",
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T12:31:29Z",
+    "updated_at": "2026-11-07T21:29:28Z",
     "venue": "King & Moffatt Dr. Hyde Park"
+  },
+  {
+    "away": "St Aidan's",
+    "competition": "Connacht GAA Club Junior Football Championship - Quarter-Final",
+    "date": "2026-11-07",
+    "home": "Ardagh",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261107-1330-connacht-gaa-club-junior-football-championship-quarter-final-ardagh-st-aidans",
+    "score": "2-10 \u0013 0-10",
+    "search_index": "ardagh st aidan s connacht gaa club junior football championship - quarter-final hastings insurance machale park castlebar ardagh saint aidan s connacht gaa club junior football championship - quarter-final hastings insurance machale park castlebar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-07T21:29:28Z",
+    "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
     "away": "Desertmartin",
@@ -33,12 +33,12 @@
     "date": "2026-11-07",
     "home": "Donaghmoyne",
     "id": "prov-httpsulstergaaiefixtures-results-20261107-1530-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-2-donaghmoyne-desertmartin",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-10 \u0013 2-17",
     "search_index": "donaghmoyne desertmartin 2026 ulster gaa football intermediate club championship - quarter final 2 pairc grattan inniskeen donaghmoyne desertmartin 2026 ulster gaa football intermediate club championship - quarter final 2 pairc grattan inniskeen",
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -47,12 +47,12 @@
     "date": "2026-11-07",
     "home": "Butlersbridge G.A.A",
     "id": "prov-httpsulstergaaiefixtures-results-20261107-1700-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-3-butlersbridge-ga-naomh-peadar",
-    "score": "0-0 \u0013 0-0",
+    "score": "3-5 \u0013 2-10",
     "search_index": "butlersbridge g a a naomh peadar 2026 ulster gaa football intermediate club championship - quarter final 3 kingspan breffni cavan butlersbridge g a a saint peadar 2026 ulster gaa football intermediate club championship - quarter final 3 kingspan breffni cavan",
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -61,12 +61,12 @@
     "date": "2026-11-07",
     "home": "Erne Gaels Belleek",
     "id": "prov-httpsulstergaaiefixtures-results-20261107-1700-2026-ulster-gaa-football-senior-club-championship-quarter-final-1-erne-gaels-belle-naomh-adhamhnain",
-    "score": "0-0 \u0013 0-0",
+    "score": "0-10 \u0013 1-14",
     "search_index": "erne gaels belleek naomh adhamhnain st eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen erne gaels belleek saint adhamhnain saint eunan s 2026 ulster gaa football senior club championship - quarter final 1 brewster park enniskillen",
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T12:31:29Z",
+    "updated_at": "2026-11-07T21:29:28Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "O'Neill Park, Dungannon"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-07T12:31:29Z",
+    "updated_at": "2026-11-07T21:29:28Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "O'Neill Park, Dungannon"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-07T12:31:29Z",
+    "updated_at": "2026-11-07T21:29:28Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -220,7 +220,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-07T12:31:29Z",
+    "updated_at": "2026-11-07T21:29:28Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-07T12:31:03Z",
+    "updated_at": "2026-11-07T21:29:02Z",
     "venue": "TBC"
   }
 ]
