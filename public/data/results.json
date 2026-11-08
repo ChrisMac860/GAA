@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Burren"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Downpatrick"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T21:29:28Z",
+    "updated_at": "2026-11-08T12:49:55Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-07T21:29:28Z",
+    "updated_at": "2026-11-08T12:49:55Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -145,12 +145,110 @@
     "date": "2026-11-07",
     "home": "Gowna",
     "id": "prov-httpsulstergaaiefixtures-results-20261107-1915-2026-ulster-gaa-football-senior-club-championship-quarter-final-3-gowna-crossmaglen-rang",
-    "score": "0-0 \u0013 0-0",
+    "score": "2-18 \u0013 1-22",
     "search_index": "gowna crossmaglen rangers 2026 ulster gaa football senior club championship - quarter final 3 kingspan breffni cavan gowna crossmaglen rangers 2026 ulster gaa football senior club championship - quarter final 3 kingspan breffni cavan",
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-07T21:29:02Z",
+    "updated_at": "2026-11-08T12:49:28Z",
     "venue": "Kingspan Breffni, Cavan"
+  },
+  {
+    "away": "O'Donovan Rossa GAC",
+    "competition": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 2",
+    "date": "2026-11-08",
+    "home": "Scotstown",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1330-2026-ulster-gaa-football-senior-club-championship-quarter-final-2-scotstown-odonovan-rossa-g",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "scotstown o donovan rossa gac 2026 ulster gaa football senior club championship - quarter final 2 st tiernach s park clones scotstown o donovan rossa gac 2026 ulster gaa football senior club championship - quarter final 2 saint tiernach s park clones",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-08T12:49:28Z",
+    "venue": "St. Tiernach's Park, Clones"
+  },
+  {
+    "away": "Naomh Pádraig Uisce Chaoin",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 1",
+    "date": "2026-11-08",
+    "home": "Kinawley Brian Borus",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1330-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-1-kinawley-brian-b-naomh-padraig-ui",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "kinawley brian borus naomh padraig uisce chaoin 2026 ulster gaa football intermediate club championship - quarter final 1 brewster park enniskillen kinawley brian borus saint padraig uisce chaoin 2026 ulster gaa football intermediate club championship - quarter final 1 brewster park enniskillen",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-08T12:49:28Z",
+    "venue": "Brewster Park, Enniskillen"
+  },
+  {
+    "away": "Seán Ó hEislin-Béal an Átha Móir/Ballinamore-Sean O'Heslin's",
+    "competition": "Connacht GAA Club Senior Football Championship - Quarter Final 2",
+    "date": "2026-11-08",
+    "home": "Salthill-Knocknacarra",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261108-1330-connacht-gaa-club-senior-football-championship-quarter-final-2-salthill-knockna-sean-o-heislin-b",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "salthill-knocknacarra sean o heislin-beal an atha moir ballinamore-sean o heslin s connacht gaa club senior football championship - quarter final 2 heartland credit union pairc sean macdiarmada salthill-knocknacarra sean o heislin-beal an atha moir ballinamore-sean o heslin s connacht gaa club senior football championship - quarter final 2 heartland credit union pairc sean macdiarmada",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-08T12:49:55Z",
+    "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
+  },
+  {
+    "away": "Naomh Éanna CLG",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Quarter Final 4",
+    "date": "2026-11-08",
+    "home": "Rock St Patrick's",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1530-2026-ulster-gaa-football-intermediate-club-championship-quarter-final-4-rock-st-patricks-naomh-eanna-clg",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "rock st patrick s naomh eanna clg 2026 ulster gaa football intermediate club championship - quarter final 4 o neill park dungannon rock saint patrick s saint eanna clg 2026 ulster gaa football intermediate club championship - quarter final 4 o neill park dungannon",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-11-08T12:49:28Z",
+    "venue": "O'Neill Park, Dungannon"
+  },
+  {
+    "away": "Caherlistrane",
+    "competition": "Connacht GAA Club Intermediate Football Championship - Quarter Final",
+    "date": "2026-11-08",
+    "home": "Davitts GAA Club",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261108-1530-connacht-gaa-club-intermediate-football-championship-quarter-final-davitts-gaa-club-caherlistrane",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "davitts gaa club caherlistrane connacht gaa club intermediate football championship - quarter final hastings insurance machale park castlebar davitts gaa club caherlistrane connacht gaa club intermediate football championship - quarter final hastings insurance machale park castlebar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-11-08T12:49:55Z",
+    "venue": "Hastings Insurance MacHale Park, Castlebar"
+  },
+  {
+    "away": "Ballyhegan",
+    "competition": "2026 Ulster GAA Football Junior Club Championship - Quarter Final 4",
+    "date": "2026-11-08",
+    "home": "Lacken GAA",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1700-2026-ulster-gaa-football-junior-club-championship-quarter-final-4-lacken-gaa-ballyhegan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "lacken gaa ballyhegan 2026 ulster gaa football junior club championship - quarter final 4 kingspan breffni cavan lacken gaa ballyhegan 2026 ulster gaa football junior club championship - quarter final 4 kingspan breffni cavan",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2026-11-08T12:49:28Z",
+    "venue": "Kingspan Breffni, Cavan"
+  },
+  {
+    "away": "Naomh Bríd",
+    "competition": "2026 Ulster GAA Football Senior Club Championship - Quarter Final 4",
+    "date": "2026-11-08",
+    "home": "Edendork St Malachy's",
+    "id": "prov-httpsulstergaaiefixtures-results-20261108-1730-2026-ulster-gaa-football-senior-club-championship-quarter-final-4-edendork-st-mala-naomh-brid",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "edendork st malachy s naomh brid 2026 ulster gaa football senior club championship - quarter final 4 o neill park dungannon edendork saint malachy s saint brid 2026 ulster gaa football senior club championship - quarter final 4 o neill park dungannon",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:30",
+    "updated_at": "2026-11-08T12:49:28Z",
+    "venue": "O'Neill Park, Dungannon"
   }
 ]
