@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Burren"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:00",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Find Insurance Celtic Park, Derry"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "18:15",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "14:30",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Downpatrick"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-08T21:43:30Z",
+    "updated_at": "2026-11-09T15:19:01Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-08T21:43:30Z",
+    "updated_at": "2026-11-09T15:19:01Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Páirc Grattan, Inniskeen"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -136,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -150,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -164,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "St. Tiernach's Park, Clones"
   },
   {
@@ -178,7 +178,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -192,7 +192,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-08T21:43:30Z",
+    "updated_at": "2026-11-09T15:19:01Z",
     "venue": "Heartland Credit Union Páirc Seán MacDiarmada"
   },
   {
@@ -206,7 +206,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "O'Neill Park, Dungannon"
   },
   {
@@ -215,12 +215,12 @@
     "date": "2026-11-08",
     "home": "Davitts GAA Club",
     "id": "prov-httpsconnachtgaaiefixtures-results-20261108-1530-connacht-gaa-club-intermediate-football-championship-quarter-final-davitts-gaa-club-caherlistrane",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-11 \u0013 2-18",
     "search_index": "davitts gaa club caherlistrane connacht gaa club intermediate football championship - quarter final hastings insurance machale park castlebar davitts gaa club caherlistrane connacht gaa club intermediate football championship - quarter final hastings insurance machale park castlebar",
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-08T21:43:30Z",
+    "updated_at": "2026-11-09T15:19:01Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -234,7 +234,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:00",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -248,7 +248,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "17:30",
-    "updated_at": "2026-11-08T21:43:03Z",
+    "updated_at": "2026-11-09T15:18:34Z",
     "venue": "O'Neill Park, Dungannon"
   }
 ]
