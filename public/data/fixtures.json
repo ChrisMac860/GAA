@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-09T15:19:01Z",
+    "updated_at": "2026-11-10T01:13:20Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-09T15:18:34Z",
+    "updated_at": "2026-11-10T01:12:54Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-11-09T15:18:34Z",
+    "updated_at": "2026-11-10T01:12:54Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-11-09T15:19:01Z",
+    "updated_at": "2026-11-10T01:13:20Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -66,21 +66,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-09T15:19:01Z",
+    "updated_at": "2026-11-10T01:13:20Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
-    "away": "Monaghan / Derry",
+    "away": "Scotstown",
     "competition": "2026 Ulster GAA Football Senior Club Championship - Semi Final 1",
     "date": "2026-11-21",
-    "home": "Fermanagh / Donegal",
-    "id": "prov-httpsulstergaaiefixtures-results-20261121-1915-2026-ulster-gaa-football-senior-club-championship-semi-final-1-fermanagh-donega-monaghan-derry",
+    "home": "Naomh Adhamhnáin/St Eunan's",
+    "id": "prov-httpsulstergaaiefixtures-results-20261121-1915-2026-ulster-gaa-football-senior-club-championship-semi-final-1-naomh-adhamhnain-scotstown",
     "score": "0-0 \u0013 0-0",
-    "search_index": "fermanagh donegal monaghan derry 2026 ulster gaa football senior club championship - semi final 1 tbc fermanagh donegal monaghan derry 2026 ulster gaa football senior club championship - semi final 1 tbc",
+    "search_index": "naomh adhamhnain st eunan s scotstown 2026 ulster gaa football senior club championship - semi final 1 tbc saint adhamhnain saint eunan s scotstown 2026 ulster gaa football senior club championship - semi final 1 tbc",
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-09T15:18:34Z",
+    "updated_at": "2026-11-10T01:12:54Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-09T15:18:34Z",
+    "updated_at": "2026-11-10T01:12:54Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-09T15:18:34Z",
+    "updated_at": "2026-11-10T01:12:54Z",
     "venue": "TBC"
   },
   {
@@ -122,21 +122,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-09T15:19:01Z",
+    "updated_at": "2026-11-10T01:13:20Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
-    "away": "Antrim / Down / Tyrone",
+    "away": "Edendork St Malachy's",
     "competition": "2026 Ulster GAA Football Senior Club Championship - Semi Final 2",
     "date": "2026-11-22",
-    "home": "Cavan / Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20261122-1515-2026-ulster-gaa-football-senior-club-championship-semi-final-2-cavan-armagh-antrim-down-tyro",
+    "home": "Crossmaglen Rangers",
+    "id": "prov-httpsulstergaaiefixtures-results-20261122-1515-2026-ulster-gaa-football-senior-club-championship-semi-final-2-crossmaglen-rang-edendork-st-mala",
     "score": "0-0 \u0013 0-0",
-    "search_index": "cavan armagh antrim down tyrone 2026 ulster gaa football senior club championship - semi final 2 tbc cavan armagh antrim down tyrone 2026 ulster gaa football senior club championship - semi final 2 tbc",
+    "search_index": "crossmaglen rangers edendork st malachy s 2026 ulster gaa football senior club championship - semi final 2 tbc crossmaglen rangers edendork saint malachy s 2026 ulster gaa football senior club championship - semi final 2 tbc",
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-11-09T15:18:34Z",
+    "updated_at": "2026-11-10T01:12:54Z",
     "venue": "TBC"
   }
 ]
