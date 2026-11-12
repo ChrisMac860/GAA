@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-11T13:38:47Z",
+    "updated_at": "2026-11-12T00:06:02Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-11T13:38:20Z",
+    "updated_at": "2026-11-12T00:05:35Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-11-11T13:38:20Z",
+    "updated_at": "2026-11-12T00:05:35Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-11-11T13:38:47Z",
+    "updated_at": "2026-11-12T00:06:02Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -66,8 +66,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-11T13:38:47Z",
+    "updated_at": "2026-11-12T00:06:02Z",
     "venue": "Markievicz Park, Sligo"
+  },
+  {
+    "away": "Ardagh",
+    "competition": "Connacht GAA Club Junior Football Championship - Semi-Final 1",
+    "date": "2026-11-21",
+    "home": "Achadh na Sileann/Aughnasheelin",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261121-1330-connacht-gaa-club-junior-football-championship-semi-final-1-achadh-na-silean-ardagh",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "achadh na sileann aughnasheelin ardagh connacht gaa club junior football championship - semi-final 1 hastings insurance machale park castlebar achadh na sileann aughnasheelin ardagh connacht gaa club junior football championship - semi-final 1 hastings insurance machale park castlebar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-12T00:06:02Z",
+    "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
     "away": "Scotstown",
@@ -80,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-11T13:38:20Z",
+    "updated_at": "2026-11-12T00:05:35Z",
     "venue": "TBC"
   },
   {
@@ -94,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-11T13:38:20Z",
+    "updated_at": "2026-11-12T00:05:35Z",
     "venue": "TBC"
   },
   {
@@ -108,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-11T13:38:20Z",
+    "updated_at": "2026-11-12T00:05:35Z",
     "venue": "TBC"
   },
   {
@@ -122,8 +136,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-11T13:38:47Z",
+    "updated_at": "2026-11-12T00:06:02Z",
     "venue": "Markievicz Park, Sligo"
+  },
+  {
+    "away": "Éire Óg",
+    "competition": "Connacht GAA Club Intermediate Football Championship - Semi-Final 2",
+    "date": "2026-11-22",
+    "home": "Caherlistrane",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261122-1330-connacht-gaa-club-intermediate-football-championship-semi-final-2-caherlistrane-eire-og",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "caherlistrane eire og connacht gaa club intermediate football championship - semi-final 2 king moffatt dr hyde park caherlistrane eire og connacht gaa club intermediate football championship - semi-final 2 king moffatt dr hyde park",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-12T00:06:02Z",
+    "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
     "away": "Edendork St Malachy's",
@@ -136,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-11-11T13:38:20Z",
+    "updated_at": "2026-11-12T00:05:35Z",
     "venue": "TBC"
   }
 ]
