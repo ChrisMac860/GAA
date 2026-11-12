@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-12T00:06:02Z",
+    "updated_at": "2026-11-12T14:42:26Z",
     "venue": "McGovern Park, Ruislip"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-12T00:05:35Z",
+    "updated_at": "2026-11-12T14:42:00Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "16:00",
-    "updated_at": "2026-11-12T00:05:35Z",
+    "updated_at": "2026-11-12T14:42:00Z",
     "venue": "Kingspan Breffni, Cavan"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-11-12T00:06:02Z",
+    "updated_at": "2026-11-12T14:42:26Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -66,8 +66,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-12T00:06:02Z",
+    "updated_at": "2026-11-12T14:42:26Z",
     "venue": "Markievicz Park, Sligo"
+  },
+  {
+    "away": "Fintona / Lacken",
+    "competition": "2026 Ulster GAA Football Junior Club Championship - Final",
+    "date": "2026-11-21",
+    "home": "Drumhowan / Newtownbutler",
+    "id": "prov-httpsulstergaaiefixtures-results-20261121-1330-2026-ulster-gaa-football-junior-club-championship-final-drumhowan-newtow-fintona-lacken",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "drumhowan newtownbutler fintona lacken 2026 ulster gaa football junior club championship - final tbc drumhowan newtownbutler fintona lacken 2026 ulster gaa football junior club championship - final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:30",
+    "updated_at": "2026-11-12T14:42:00Z",
+    "venue": "TBC"
   },
   {
     "away": "Ardagh",
@@ -80,8 +94,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-12T00:06:02Z",
+    "updated_at": "2026-11-12T14:42:26Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
+  },
+  {
+    "away": "Naomh Pádraig Uisce Chaoin",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Semi Final 1",
+    "date": "2026-11-21",
+    "home": "Desertmartin",
+    "id": "prov-httpsulstergaaiefixtures-results-20261121-1530-2026-ulster-gaa-football-intermediate-club-championship-semi-final-1-desertmartin-naomh-padraig-ui",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "desertmartin naomh padraig uisce chaoin 2026 ulster gaa football intermediate club championship - semi final 1 o neills healy park omagh desertmartin saint padraig uisce chaoin 2026 ulster gaa football intermediate club championship - semi final 1 o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "15:30",
+    "updated_at": "2026-11-12T14:42:00Z",
+    "venue": "O'Neills Healy Park, Omagh"
   },
   {
     "away": "Scotstown",
@@ -90,40 +118,26 @@
     "home": "Naomh Adhamhnáin/St Eunan's",
     "id": "prov-httpsulstergaaiefixtures-results-20261121-1915-2026-ulster-gaa-football-senior-club-championship-semi-final-1-naomh-adhamhnain-scotstown",
     "score": "0-0 \u0013 0-0",
-    "search_index": "naomh adhamhnain st eunan s scotstown 2026 ulster gaa football senior club championship - semi final 1 tbc saint adhamhnain saint eunan s scotstown 2026 ulster gaa football senior club championship - semi final 1 tbc",
+    "search_index": "naomh adhamhnain st eunan s scotstown 2026 ulster gaa football senior club championship - semi final 1 brewster park enniskillen saint adhamhnain saint eunan s scotstown 2026 ulster gaa football senior club championship - semi final 1 brewster park enniskillen",
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-12T00:05:35Z",
-    "venue": "TBC"
+    "updated_at": "2026-11-12T14:42:00Z",
+    "venue": "Brewster Park, Enniskillen"
   },
   {
-    "away": "Antrim / Down / Tyrone",
+    "away": "Naomh Peadar",
     "competition": "2026 Ulster GAA Football Intermediate Club Championship - Semi Final 2",
     "date": "2026-11-22",
-    "home": "Cavan / Armagh",
-    "id": "prov-httpsulstergaaiefixtures-results-20261122-1330-2026-ulster-gaa-football-intermediate-club-championship-semi-final-2-cavan-armagh-antrim-down-tyro",
+    "home": "Rock St Patrick's",
+    "id": "prov-httpsulstergaaiefixtures-results-20261122-1300-2026-ulster-gaa-football-intermediate-club-championship-semi-final-2-rock-st-patricks-naomh-peadar",
     "score": "0-0 \u0013 0-0",
-    "search_index": "cavan armagh antrim down tyrone 2026 ulster gaa football intermediate club championship - semi final 2 tbc cavan armagh antrim down tyrone 2026 ulster gaa football intermediate club championship - semi final 2 tbc",
+    "search_index": "rock st patrick s naomh peadar 2026 ulster gaa football intermediate club championship - semi final 2 burren rock saint patrick s saint peadar 2026 ulster gaa football intermediate club championship - semi final 2 burren",
     "source": "scraper",
     "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-11-12T00:05:35Z",
-    "venue": "TBC"
-  },
-  {
-    "away": "Monaghan / Derry",
-    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Semi Final 1",
-    "date": "2026-11-22",
-    "home": "Fermanagh / Donegal",
-    "id": "prov-httpsulstergaaiefixtures-results-20261122-1330-2026-ulster-gaa-football-intermediate-club-championship-semi-final-1-fermanagh-donega-monaghan-derry",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "fermanagh donegal monaghan derry 2026 ulster gaa football intermediate club championship - semi final 1 tbc fermanagh donegal monaghan derry 2026 ulster gaa football intermediate club championship - semi final 1 tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "13:30",
-    "updated_at": "2026-11-12T00:05:35Z",
-    "venue": "TBC"
+    "time": "13:00",
+    "updated_at": "2026-11-12T14:42:00Z",
+    "venue": "Burren"
   },
   {
     "away": "Curry/Curraigh",
@@ -136,7 +150,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-12T00:06:02Z",
+    "updated_at": "2026-11-12T14:42:26Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -150,7 +164,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-12T00:06:02Z",
+    "updated_at": "2026-11-12T14:42:26Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -158,13 +172,13 @@
     "competition": "2026 Ulster GAA Football Senior Club Championship - Semi Final 2",
     "date": "2026-11-22",
     "home": "Crossmaglen Rangers",
-    "id": "prov-httpsulstergaaiefixtures-results-20261122-1515-2026-ulster-gaa-football-senior-club-championship-semi-final-2-crossmaglen-rang-edendork-st-mala",
+    "id": "prov-httpsulstergaaiefixtures-results-20261122-1530-2026-ulster-gaa-football-senior-club-championship-semi-final-2-crossmaglen-rang-edendork-st-mala",
     "score": "0-0 \u0013 0-0",
-    "search_index": "crossmaglen rangers edendork st malachy s 2026 ulster gaa football senior club championship - semi final 2 tbc crossmaglen rangers edendork saint malachy s 2026 ulster gaa football senior club championship - semi final 2 tbc",
+    "search_index": "crossmaglen rangers edendork st malachy s 2026 ulster gaa football senior club championship - semi final 2 pairc esler newry crossmaglen rangers edendork saint malachy s 2026 ulster gaa football senior club championship - semi final 2 pairc esler newry",
     "source": "scraper",
     "status": "FT",
-    "time": "15:15",
-    "updated_at": "2026-11-12T00:05:35Z",
-    "venue": "TBC"
+    "time": "15:30",
+    "updated_at": "2026-11-12T14:42:00Z",
+    "venue": "Páirc Esler, Newry"
   }
 ]
