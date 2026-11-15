@@ -5,12 +5,12 @@
     "date": "2026-11-15",
     "home": "St Brigids",
     "id": "prov-httpsconnachtgaaiefixtures-results-20261115-1515-connacht-gaa-club-senior-football-championship-semi-final-1-st-brigids-salthill-knockna",
-    "score": "0-0 \u0013 0-0",
+    "score": "1-10 \u0013 0-14",
     "search_index": "st brigids salthill-knocknacarra connacht gaa club senior football championship - semi final 1 pearse stadium salthill saint brigids salthill-knocknacarra connacht gaa club senior football championship - semi final 1 pearse stadium salthill",
     "source": "scraper",
     "status": "FT",
     "time": "15:15",
-    "updated_at": "2026-11-15T13:29:30Z",
+    "updated_at": "2026-11-15T22:30:50Z",
     "venue": "Pearse Stadium, Salthill"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-15T13:29:30Z",
+    "updated_at": "2026-11-15T22:30:50Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T13:29:04Z",
+    "updated_at": "2026-11-15T22:30:24Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -52,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T13:29:30Z",
+    "updated_at": "2026-11-15T22:30:50Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-15T13:29:04Z",
+    "updated_at": "2026-11-15T22:30:24Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -80,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-15T13:29:04Z",
+    "updated_at": "2026-11-15T22:30:24Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -94,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-15T13:29:04Z",
+    "updated_at": "2026-11-15T22:30:24Z",
     "venue": "Burren"
   },
   {
@@ -108,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T13:29:30Z",
+    "updated_at": "2026-11-15T22:30:50Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -122,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T13:29:30Z",
+    "updated_at": "2026-11-15T22:30:50Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -136,7 +136,21 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-15T13:29:04Z",
+    "updated_at": "2026-11-15T22:30:24Z",
     "venue": "Páirc Esler, Newry"
+  },
+  {
+    "away": "Salthill-Knocknacarra",
+    "competition": "Connacht GAA Club Senior Football Championship - Final",
+    "date": "2026-11-29",
+    "home": "Castlebar Mitchels",
+    "id": "prov-httpsconnachtgaaiefixtures-results-20261129-1300-connacht-gaa-club-senior-football-championship-final-castlebar-mitche-salthill-knockna",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "castlebar mitchels salthill-knocknacarra connacht gaa club senior football championship - final hastings insurance machale park castlebar castlebar mitchels salthill-knocknacarra connacht gaa club senior football championship - final hastings insurance machale park castlebar",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-11-15T22:30:50Z",
+    "venue": "Hastings Insurance MacHale Park, Castlebar"
   }
 ]

@@ -68,5 +68,12 @@
     "name": "2026 Ulster GAA Football Senior Club Championship - Semi Final 2",
     "popularity": 80,
     "slug": "2026-ulster-gaa-football-senior-club-championship-semi-final-2"
+  },
+  {
+    "first_kickoff": "2026-11-29T13:00:00Z",
+    "match_count": 1,
+    "name": "Connacht GAA Club Senior Football Championship - Final",
+    "popularity": 80,
+    "slug": "connacht-gaa-club-senior-football-championship-final"
   }
 ]
