@@ -1,19 +1,5 @@
 [
   {
-    "away": "Salthill-Knocknacarra",
-    "competition": "Connacht GAA Club Senior Football Championship - Semi Final 1",
-    "date": "2026-11-15",
-    "home": "St Brigids",
-    "id": "prov-httpsconnachtgaaiefixtures-results-20261115-1515-connacht-gaa-club-senior-football-championship-semi-final-1-st-brigids-salthill-knockna",
-    "score": "1-10 \u0013 0-14",
-    "search_index": "st brigids salthill-knocknacarra connacht gaa club senior football championship - semi final 1 pearse stadium salthill saint brigids salthill-knocknacarra connacht gaa club senior football championship - semi final 1 pearse stadium salthill",
-    "source": "scraper",
-    "status": "FT",
-    "time": "15:15",
-    "updated_at": "2026-11-15T22:30:50Z",
-    "venue": "Pearse Stadium, Salthill"
-  },
-  {
     "away": "Owenmore Gaels",
     "competition": "Connacht GAA Club Junior Football Championship - Semi-Final 2",
     "date": "2026-11-21",
@@ -24,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-15T22:30:50Z",
+    "updated_at": "2026-11-16T14:54:10Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -38,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T22:30:24Z",
+    "updated_at": "2026-11-16T14:53:44Z",
     "venue": "Shamrock Park, Roslea"
   },
   {
@@ -52,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T22:30:50Z",
+    "updated_at": "2026-11-16T14:54:10Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -66,7 +52,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-15T22:30:24Z",
+    "updated_at": "2026-11-16T14:53:44Z",
     "venue": "O'Neills Healy Park, Omagh"
   },
   {
@@ -80,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "19:15",
-    "updated_at": "2026-11-15T22:30:24Z",
+    "updated_at": "2026-11-16T14:53:44Z",
     "venue": "Brewster Park, Enniskillen"
   },
   {
@@ -94,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-15T22:30:24Z",
+    "updated_at": "2026-11-16T14:53:44Z",
     "venue": "Burren"
   },
   {
@@ -108,7 +94,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T22:30:50Z",
+    "updated_at": "2026-11-16T14:54:10Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -122,7 +108,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:30",
-    "updated_at": "2026-11-15T22:30:50Z",
+    "updated_at": "2026-11-16T14:54:10Z",
     "venue": "King & Moffatt Dr. Hyde Park"
   },
   {
@@ -136,7 +122,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-15T22:30:24Z",
+    "updated_at": "2026-11-16T14:53:44Z",
     "venue": "Páirc Esler, Newry"
   },
   {
@@ -150,7 +136,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-15T22:30:50Z",
+    "updated_at": "2026-11-16T14:54:10Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   }
 ]
