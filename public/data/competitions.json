@@ -21,6 +21,13 @@
     "slug": "connacht-gaa-club-intermediate-football-championship-semi-final-2"
   },
   {
+    "first_kickoff": "2026-11-28T13:00:00Z",
+    "match_count": 1,
+    "name": "Connacht GAA Club Intermediate Football Championship - Final",
+    "popularity": 130,
+    "slug": "connacht-gaa-club-intermediate-football-championship-final"
+  },
+  {
     "first_kickoff": "2026-11-22T15:30:00Z",
     "match_count": 1,
     "name": "2026 Ulster GAA Football Senior Club Championship - Semi Final 2",
