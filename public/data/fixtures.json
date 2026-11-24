@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-24T03:51:11Z",
+    "updated_at": "2026-11-24T17:00:51Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -24,7 +24,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-24T03:51:11Z",
+    "updated_at": "2026-11-24T17:00:51Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
   },
   {
@@ -38,7 +38,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "12:00",
-    "updated_at": "2026-11-24T03:50:44Z",
+    "updated_at": "2026-11-24T17:00:25Z",
     "venue": "TBC"
   },
   {
@@ -52,8 +52,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-24T03:51:11Z",
+    "updated_at": "2026-11-24T17:00:51Z",
     "venue": "Fr. O'Hara Park, Charlestown"
+  },
+  {
+    "away": "Drumhowan",
+    "competition": "2026 Ulster GAA Football Junior Club Championship - Twinning Football Final",
+    "date": "2026-12-06",
+    "home": "Sean McDermotts",
+    "id": "prov-httpsulstergaaiefixtures-results-20261206-1300-2026-ulster-gaa-football-junior-club-championship-twinning-football-final-sean-mcdermotts-drumhowan",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "sean mcdermotts drumhowan 2026 ulster gaa football junior club championship - twinning football final tbc sean mcdermotts drumhowan 2026 ulster gaa football junior club championship - twinning football final tbc",
+    "source": "scraper",
+    "status": "FT",
+    "time": "13:00",
+    "updated_at": "2026-11-24T17:00:25Z",
+    "venue": "TBC"
   },
   {
     "away": "Scotstown",
@@ -66,7 +80,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-24T03:50:44Z",
+    "updated_at": "2026-11-24T17:00:25Z",
     "venue": "TBC"
   }
 ]
