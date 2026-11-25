@@ -10,7 +10,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-24T17:00:51Z",
+    "updated_at": "2026-11-25T01:56:45Z",
     "venue": "Markievicz Park, Sligo"
   },
   {
@@ -24,22 +24,8 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-24T17:00:51Z",
+    "updated_at": "2026-11-25T01:56:45Z",
     "venue": "Hastings Insurance MacHale Park, Castlebar"
-  },
-  {
-    "away": "Naomh Peadar",
-    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Final",
-    "date": "2026-12-05",
-    "home": "Naomh Pádraig Uisce Chaoin",
-    "id": "prov-httpsulstergaaiefixtures-results-20261205-1200-2026-ulster-gaa-football-intermediate-club-championship-final-naomh-padraig-ui-naomh-peadar",
-    "score": "0-0 \u0013 0-0",
-    "search_index": "naomh padraig uisce chaoin naomh peadar 2026 ulster gaa football intermediate club championship - final tbc saint padraig uisce chaoin saint peadar 2026 ulster gaa football intermediate club championship - final tbc",
-    "source": "scraper",
-    "status": "FT",
-    "time": "12:00",
-    "updated_at": "2026-11-24T17:00:25Z",
-    "venue": "TBC"
   },
   {
     "away": "Headford",
@@ -52,8 +38,22 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-24T17:00:51Z",
+    "updated_at": "2026-11-25T01:56:45Z",
     "venue": "Fr. O'Hara Park, Charlestown"
+  },
+  {
+    "away": "Naomh Peadar",
+    "competition": "2026 Ulster GAA Football Intermediate Club Championship - Final",
+    "date": "2026-12-05",
+    "home": "Naomh Pádraig Uisce Chaoin",
+    "id": "prov-httpsulstergaaiefixtures-results-20261205-1700-2026-ulster-gaa-football-intermediate-club-championship-final-naomh-padraig-ui-naomh-peadar",
+    "score": "0-0 \u0013 0-0",
+    "search_index": "naomh padraig uisce chaoin naomh peadar 2026 ulster gaa football intermediate club championship - final o neills healy park omagh saint padraig uisce chaoin saint peadar 2026 ulster gaa football intermediate club championship - final o neills healy park omagh",
+    "source": "scraper",
+    "status": "FT",
+    "time": "17:00",
+    "updated_at": "2026-11-25T01:56:18Z",
+    "venue": "O'Neills Healy Park, Omagh"
   },
   {
     "away": "Drumhowan",
@@ -66,7 +66,7 @@
     "source": "scraper",
     "status": "FT",
     "time": "13:00",
-    "updated_at": "2026-11-24T17:00:25Z",
+    "updated_at": "2026-11-25T01:56:18Z",
     "venue": "TBC"
   },
   {
@@ -76,11 +76,11 @@
     "home": "Crossmaglen Rangers",
     "id": "prov-httpsulstergaaiefixtures-results-20261206-1530-2026-ulster-gaa-football-senior-club-championship-final-crossmaglen-rang-scotstown",
     "score": "0-0 \u0013 0-0",
-    "search_index": "crossmaglen rangers scotstown 2026 ulster gaa football senior club championship - final tbc crossmaglen rangers scotstown 2026 ulster gaa football senior club championship - final tbc",
+    "search_index": "crossmaglen rangers scotstown 2026 ulster gaa football senior club championship - final kingspan breffni cavan crossmaglen rangers scotstown 2026 ulster gaa football senior club championship - final kingspan breffni cavan",
     "source": "scraper",
     "status": "FT",
     "time": "15:30",
-    "updated_at": "2026-11-24T17:00:25Z",
-    "venue": "TBC"
+    "updated_at": "2026-11-25T01:56:18Z",
+    "venue": "Kingspan Breffni, Cavan"
   }
 ]
