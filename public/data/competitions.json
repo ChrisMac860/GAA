@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "first_kickoff": "2026-11-28T13:00:00Z",
+    "match_count": 1,
+    "name": "Connacht GAA Club Intermediate Football Championship - Final",
+    "popularity": 130,
+    "slug": "connacht-gaa-club-intermediate-football-championship-final"
+  },
+  {
+    "first_kickoff": "2026-12-05T17:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Intermediate Club Championship - Final",
+    "popularity": 130,
+    "slug": "2026-ulster-gaa-football-intermediate-club-championship-final"
+  },
+  {
+    "first_kickoff": "2026-12-05T13:00:00Z",
+    "match_count": 1,
+    "name": "Connacht GAA Club Junior Football Championship - Final",
+    "popularity": 120,
+    "slug": "connacht-gaa-club-junior-football-championship-final"
+  },
+  {
+    "first_kickoff": "2026-12-06T13:00:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Junior Club Championship - Twinning Football Final",
+    "popularity": 120,
+    "slug": "2026-ulster-gaa-football-junior-club-championship-twinning-football-final"
+  },
+  {
+    "first_kickoff": "2026-11-29T13:00:00Z",
+    "match_count": 1,
+    "name": "Connacht GAA Club Senior Football Championship - Final",
+    "popularity": 80,
+    "slug": "connacht-gaa-club-senior-football-championship-final"
+  },
+  {
+    "first_kickoff": "2026-12-06T15:30:00Z",
+    "match_count": 1,
+    "name": "2026 Ulster GAA Football Senior Club Championship - Final",
+    "popularity": 80,
+    "slug": "2026-ulster-gaa-football-senior-club-championship-final"
+  }
+]
